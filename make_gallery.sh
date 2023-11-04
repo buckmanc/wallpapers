@@ -60,11 +60,24 @@ echo "$imgFiles" | while read -r src; do
 	mkdir -p "$target_dir"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
-		# results in thumbnails of varying aspect ratio
-		# convert -thumbnail 200x112 "$src" "$target"
+		if [[ "$src" == *"/mobile/"* ]]; then
+		targetWidth=97
+		aspectRatio="9/20"
+	else
+		targetWidth=200
+		aspectRatio="16/9"
+		fi
+
+		targetHeight=$(echo "$targetWidth/($aspectRatio)" | bc -l)
+		targetHeight=$(echo ${targetHeight%%.*})
+		targetDimensions="${targetWidth}x${targetHeight}"
+
+		# echo
+		# echo "aspectRatio: $aspectRatio"
+		# echo "targetDimensions: $targetDimensions"
+
 		# resize images, then crop to the desired resolution
-		# TODO what about mobile/portrait wallpapers?
-		convert -thumbnail 200x112^ -gravity Center -extent 200x112 +repage "$src" "$target"
+		convert -thumbnail $targetDimensions^ -gravity Center -extent $targetDimensions +repage "$src" "$target"
 		echo "converted!"
 	else
 		mv "$thumbnail_old" "$target"
@@ -82,7 +95,8 @@ echo "$imgFiles" | while read -r src; do
 
 	if [ -n "$attrib" ]
 	then
-		alt_text="$attrib"
+		# strip markdown links out of the alt text
+		alt_text=$(echo "$attrib" | sed 's/([^)]*)//g' | sed 's/[][]//g')
 	else
 		alt_text="$filename"
 	fi
