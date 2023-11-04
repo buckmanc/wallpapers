@@ -119,7 +119,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![james-wheeler-Okdcjy0mf7Y-unsplash.jpg](thumbnails/desktop/space/james-wheeler-Okdcjy0mf7Y-unsplash.jpg "james-wheeler-Okdcjy0mf7Y-unsplash.jpg")](desktop/space/james-wheeler-Okdcjy0mf7Y-unsplash.jpg)
 [![jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg](thumbnails/desktop/space/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg "jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg")](desktop/space/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg)
 [![jongsun-lee-F-pSZO_jeE8-unsplash.jpg](thumbnails/desktop/space/jongsun-lee-F-pSZO_jeE8-unsplash.jpg "jongsun-lee-F-pSZO_jeE8-unsplash.jpg")](desktop/space/jongsun-lee-F-pSZO_jeE8-unsplash.jpg)
-[![such-and-such by so-and-so](thumbnails/desktop/space/ldn1622LeonardoJulio-ap.jpg "such-and-such by so-and-so")](desktop/space/ldn1622LeonardoJulio-ap.jpg)
+[![ldn1622LeonardoJulio-ap.jpg](thumbnails/desktop/space/ldn1622LeonardoJulio-ap.jpg "ldn1622LeonardoJulio-ap.jpg")](desktop/space/ldn1622LeonardoJulio-ap.jpg)
 [![M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg](thumbnails/desktop/space/M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg "M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg")](desktop/space/M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg)
 [![max-mckinnon-c9OCWLka764-unsplash.jpg](thumbnails/desktop/space/max-mckinnon-c9OCWLka764-unsplash.jpg "max-mckinnon-c9OCWLka764-unsplash.jpg")](desktop/space/max-mckinnon-c9OCWLka764-unsplash.jpg)
 [![MoonMarsGoat_Brustel_3258.jpg](thumbnails/desktop/space/MoonMarsGoat_Brustel_3258.jpg "MoonMarsGoat_Brustel_3258.jpg")](desktop/space/MoonMarsGoat_Brustel_3258.jpg)

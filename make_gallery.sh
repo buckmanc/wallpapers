@@ -89,15 +89,6 @@ echo "$imgFiles" | while read -r src; do
 
 	if [ ! -f "$dirReadmePath" ]
 	then
-		echo "
-<style>
-img {
-	max-width: 100%;
-	height: auto;
-}
-</style>
-	    " >> "$dirReadmePath"
-
 	    echo "## [$folderName]($dirReadme_url)" >> "$thumbnailMD"
 	fi
 
@@ -133,6 +124,7 @@ then
 		htmlText=$(echo "${htmlText//.MD/.html}")
 		echo "$htmlText" > "$htmlPath"
 
+		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
 	
 	done
 fi

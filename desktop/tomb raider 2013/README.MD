@@ -1,11 +1,3 @@
-
-<style>
-img {
-	max-width: 100%;
-	height: auto;
-}
-</style>
-	    
 [![basecamp.jpg](basecamp.jpg "basecamp.jpg")](basecamp.jpg)
 
 [![campsite.jpg](campsite.jpg "campsite.jpg")](campsite.jpg)

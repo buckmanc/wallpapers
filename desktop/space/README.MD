@@ -1,11 +1,3 @@
-
-<style>
-img {
-	max-width: 100%;
-	height: auto;
-}
-</style>
-	    
 [![adrian-swancar-pIr-PH5IXF8-unsplash.jpg](adrian-swancar-pIr-PH5IXF8-unsplash.jpg "adrian-swancar-pIr-PH5IXF8-unsplash.jpg")](adrian-swancar-pIr-PH5IXF8-unsplash.jpg)
 
 [![aldebaran-s-g9Ek7TzdMVc-unsplash.jpg](aldebaran-s-g9Ek7TzdMVc-unsplash.jpg "aldebaran-s-g9Ek7TzdMVc-unsplash.jpg")](aldebaran-s-g9Ek7TzdMVc-unsplash.jpg)
@@ -50,8 +42,7 @@ img {
 
 [![jongsun-lee-F-pSZO_jeE8-unsplash.jpg](jongsun-lee-F-pSZO_jeE8-unsplash.jpg "jongsun-lee-F-pSZO_jeE8-unsplash.jpg")](jongsun-lee-F-pSZO_jeE8-unsplash.jpg)
 
-[![such-and-such by so-and-so](ldn1622LeonardoJulio-ap.jpg "such-and-such by so-and-so")](ldn1622LeonardoJulio-ap.jpg)
-such-and-such by so-and-so
+[![ldn1622LeonardoJulio-ap.jpg](ldn1622LeonardoJulio-ap.jpg "ldn1622LeonardoJulio-ap.jpg")](ldn1622LeonardoJulio-ap.jpg)
 
 [![M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg](M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg "M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg")](M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg)
 

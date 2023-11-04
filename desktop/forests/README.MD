@@ -1,11 +1,3 @@
-
-<style>
-img {
-	max-width: 100%;
-	height: auto;
-}
-</style>
-	    
 [![0uanaa3l93931.jpg](0uanaa3l93931.jpg "0uanaa3l93931.jpg")](0uanaa3l93931.jpg)
 
 [![1094574-1321433670.jpg](1094574-1321433670.jpg "1094574-1321433670.jpg")](1094574-1321433670.jpg)
