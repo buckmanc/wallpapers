@@ -46,7 +46,7 @@ echo "$1" | while read -r src; do
 	newname="$(echo "${attrib,,}" | sed 's/([^)]*)//g' | sed 's/[][]//g' | inline-detox).${src_ext,,}"
 
 	mainReadmePath="$(git rev-parse --show-toplevel)/README.MD"
-	thumb_dir="$(git rev-parse --show-toplevel)/thumbnails"
+	thumb_dir="$(git rev-parse --show-toplevel)/.internals/thumbnails"
 	thumbnail_old="$(find "$thumb_dir" -type f -name "$filename" | head -n 1)"
 	thumbnail_new="$(dirname "$thumbnail_old")/${newname}"
 	src_new="${src_dir}/${newname}"

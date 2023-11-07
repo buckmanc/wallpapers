@@ -17,11 +17,15 @@ quoteRe() {
 
 path_root="." # TODO make this the script dir
 
-mkdir -p thumbnails
-mv thumbnails thumbnails_old
-mkdir thumbnails
+thumbnailMD="${path_root}/.internals/thumbnails.md"
+thumbnails_dir="${path_root}/.internals/thumbnails"
+thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
+readmeTemplatePath="${path_root}/.internals/README_template.md"
 
-thumbnailMD="thumbnails.md"
+mkdir -p "$thumbnails_dir"
+mv "$thumbnails_dir" "$thumbnails_old_dir"
+mkdir -p "$thumbnails_dir"
+
 if [ -f "$thumbnailMD" ]
 then
 	rm "$thumbnailMD"
@@ -53,19 +57,19 @@ echo "$imgFiles" | while read -r src; do
 		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" || true
 	fi
 
-	target="${path_root}/thumbnails/${src#"$path_root/"}"
-	thumbnail_old="${path_root}/thumbnails_old/${src#"$path_root/"}"
+	target="${thumbnails_dir}/${src#"$path_root/"}"
+	thumbnail_old="${thumbnails_old_dir}/${src#"$path_root/"}"
 
 	target_dir="$(dirname "$target")"
 	mkdir -p "$target_dir"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
 		if [[ "$src" == *"/mobile/"* ]]; then
-		targetWidth=97
-		aspectRatio="9/20"
-	else
-		targetWidth=200
-		aspectRatio="16/9"
+			targetWidth=97
+			aspectRatio="9/20"
+		else
+			targetWidth=200
+			aspectRatio="16/9"
 		fi
 
 		targetHeight=$(echo "$targetWidth/($aspectRatio)" | bc -l)
@@ -86,8 +90,9 @@ echo "$imgFiles" | while read -r src; do
 
 	src_escaped="${src// /%20}"
 	filename_escaped="${filename// /%20}"
+	target_escaped="${target// /%20}"
 	dirReadmePath_escaped="${dirReadmePath// /%20}"
-	thumb_url="thumbnails/${src_escaped#"$path_root/"}"
+	thumb_url="${target_escaped#"$path_root/"}"
 	pape_url="${src_escaped#"$path_root/"}"
 	dirReadme_url="${dirReadmePath_escaped#"$path_root/"}"
 
@@ -115,12 +120,12 @@ echo "$imgFiles" | while read -r src; do
 	echo >> "$dirReadmePath"
 done
 
-readmeTemplate="$(cat markdown_templates/README.MD)"
+readmeTemplate="$(cat "$readmeTemplatePath")"
 thumbnailText="$(cat "$thumbnailMD")"
 echo "${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" > README.MD
 
 rm "$thumbnailMD"
-rm -rf thumbnails_old
+rm -rf "$thumbnails_old_dir"
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
