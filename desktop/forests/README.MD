@@ -104,7 +104,8 @@
 
 [![P86dMbt.jpg](P86dMbt.jpg "P86dMbt.jpg")](P86dMbt.jpg)
 
-[![quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png](quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png "quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png")](quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png)
+[![Quoth The Raven Noir Style Wallpaper By Charlie Henson](quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png "Quoth The Raven Noir Style Wallpaper By Charlie Henson")](quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png)
+Quoth The Raven Noir Style Wallpaper By Charlie Henson
 
 [![r8hnG2g.jpg](r8hnG2g.jpg "r8hnG2g.jpg")](r8hnG2g.jpg)
 

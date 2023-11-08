@@ -55,6 +55,17 @@ echo "$imgFiles" | while read -r src; do
 	if [ -f "$dirAttribPath" ]
 	then
 		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" || true
+	else
+		attrib=''
+	fi
+
+	# attempted to pull attribution from metadata using imagemagick but did not succeed
+
+	# allow for initial load of attribution from the filename
+	if [[ -z "$attrib" && "$filename" == *"_by_"* ]]
+	then
+		attrib="$(echo "${filename%%.*}" | sed 's/_/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' )"
+		echo "$filename $attrib" >> "$dirAttribPath"
 	fi
 
 	target="${thumbnails_dir}/${src#"$path_root/"}"

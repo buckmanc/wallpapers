@@ -44,6 +44,9 @@
 
 [![ldn1622LeonardoJulio-ap.jpg](ldn1622LeonardoJulio-ap.jpg "ldn1622LeonardoJulio-ap.jpg")](ldn1622LeonardoJulio-ap.jpg)
 
+[![LDN42 - The Cosmic Bat Nebula by Mark Hanson and Mike Selby](LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg "LDN42 - The Cosmic Bat Nebula by Mark Hanson and Mike Selby")](LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg)
+LDN42 - The Cosmic Bat Nebula by Mark Hanson and Mike Selby
+
 [![M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg](M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg "M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg")](M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg)
 
 [![max-mckinnon-c9OCWLka764-unsplash.jpg](max-mckinnon-c9OCWLka764-unsplash.jpg "max-mckinnon-c9OCWLka764-unsplash.jpg")](max-mckinnon-c9OCWLka764-unsplash.jpg)
