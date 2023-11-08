@@ -1,72 +1,72 @@
-[![Artifabrian by Ari Ibarra](artifabrian_by_ari_ibarra.jpg "Artifabrian by Ari Ibarra")](artifabrian_by_ari_ibarra.jpg)
-Artifabrian by Ari Ibarra
-
-[![Chanarach by Karla Ortiz](chanarach_by_karla_ortiz.png "Chanarach by Karla Ortiz")](chanarach_by_karla_ortiz.png)
-Chanarach by Karla Ortiz
-
-[![Cultivation and the Nightwatcher by Ari Ibarra](cultivation_and_the_nightwatcher_by_ari_ibarra.jpg "Cultivation and the Nightwatcher by Ari Ibarra")](cultivation_and_the_nightwatcher_by_ari_ibarra.jpg)
-Cultivation and the Nightwatcher by Ari Ibarra
-
-[![Dalinar by Petar Penev](dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](dalinar_by_petar_penev.jpg)
+[![Dalinar by Petar Penev](00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](00_dalinar_by_petar_penev.jpg)
 Dalinar by Petar Penev
 
-[![Dalinar by Randy Vargas](dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](dalinar_by_randy_vargas.jpg)
+[![Dalinar by Randy Vargas](01_dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](01_dalinar_by_randy_vargas.jpg)
 Dalinar by Randy Vargas
+
+[![Artifabrian by Ari Ibarra](02_artifabrian_by_ari_ibarra.jpg "Artifabrian by Ari Ibarra")](02_artifabrian_by_ari_ibarra.jpg)
+Artifabrian by Ari Ibarra
 
 [![Eshonai by Antti Hakosaari](eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](eshonai_by_antti_hakosaari.jpg)
 Eshonai by Antti Hakosaari
 
-[![Herald of Justice by Petar Penev](herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](herald_of_justice_by_petar_penev.jpg)
-Herald of Justice by Petar Penev
-
-[![Ishar by Dan dos Santos](ishar_by_dan_dos_santos.png "Ishar by Dan dos Santos")](ishar_by_dan_dos_santos.png)
-Ishar by Dan dos Santos
-
-[![Jezrien by Howard Lyon](jezrien_by_howard_lyon.jpg "Jezrien by Howard Lyon")](jezrien_by_howard_lyon.jpg)
-Jezrien by Howard Lyon
-
 [![Kaladin by Antti Hakosaari](kaladin_by_antti_hakosaari.jpg "Kaladin by Antti Hakosaari")](kaladin_by_antti_hakosaari.jpg)
 Kaladin by Antti Hakosaari
 
-[![Kalak by Magali Villeneuve](kalak_by_magali_villeneuve.jpg "Kalak by Magali Villeneuve")](kalak_by_magali_villeneuve.jpg)
-Kalak by Magali Villeneuve
+[![Stormblessed by Air Ibarra](kaladin_stormblessed_by_air_ibarra.jpg "Stormblessed by Air Ibarra")](kaladin_stormblessed_by_air_ibarra.jpg)
+Stormblessed by Air Ibarra
 
 [![Kal and Syl by Ina Wong](kal_and_syl_by_ina_wong.jpg "Kal and Syl by Ina Wong")](kal_and_syl_by_ina_wong.jpg)
 [Kal and Syl](https://www.deviantart.com/inawong/art/Kal-and-Syl-699058325) by Ina Wong
 
-[![Mastermind by Ari Ibarra](mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](mastermind_by_ari_ibarra.jpg)
-Mastermind by Ari Ibarra
+[![Herald of Justice by Petar Penev](nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](nale_herald_of_justice_by_petar_penev.jpg)
+Herald of Justice by Petar Penev
 
-[![Nale by Karla Ortiz](nale_by_karla_ortiz.png "Nale by Karla Ortiz")](nale_by_karla_ortiz.png)
-Nale by Karla Ortiz
+[![Visions of the Future by Ari Ibarra](renarin_visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](renarin_visions_of_the_future_by_ari_ibarra.jpg)
+Visions of the Future by Ari Ibarra
 
-[![Odium Reigns by Ari Ibarra](odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](odium_reigns_by_ari_ibarra.jpg)
-Odium Reigns by Ari Ibarra
-
-[![Pailiah by Magali Villeneuve](pailiah_by_magali_villeneuve.jpg "Pailiah by Magali Villeneuve")](pailiah_by_magali_villeneuve.jpg)
-Pailiah by Magali Villeneuve
-
-[![Radiant by Jemma Young](radiant_by_jemma_young.jpg "Radiant by Jemma Young")](radiant_by_jemma_young.jpg)
+[![Radiant by Jemma Young](shallan_radiant_by_jemma_young.jpg "Radiant by Jemma Young")](shallan_radiant_by_jemma_young.jpg)
 Radiant by Jemma Young
 
-[![Rider of Storms by Connor Chamberlain](rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](rider_of_storms_by_connor_chamberlain.jpg)
+[![Rider of Storms by Connor Chamberlain](stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](stormfather_rider_of_storms_by_connor_chamberlain.jpg)
 Rider of Storms by Connor Chamberlain
 
-[![Shalash by Dan dos Santos](shalash_by_dan_dos_santos.png "Shalash by Dan dos Santos")](shalash_by_dan_dos_santos.png)
-Shalash by Dan dos Santos
+[![Mastermind by Ari Ibarra](taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](taravangian_mastermind_by_ari_ibarra.jpg)
+Mastermind by Ari Ibarra
 
-[![Stormblessed by Air Ibarra](stormblessed_by_air_ibarra.jpg "Stormblessed by Air Ibarra")](stormblessed_by_air_ibarra.jpg)
-Stormblessed by Air Ibarra
+[![Jezrien by Howard Lyon](zh01_jezrien_by_howard_lyon.jpg "Jezrien by Howard Lyon")](zh01_jezrien_by_howard_lyon.jpg)
+Jezrien by Howard Lyon
 
-[![Taln by Donato Giancola](taln_by_donato_giancola.jpg "Taln by Donato Giancola")](taln_by_donato_giancola.jpg)
-Taln by Donato Giancola
+[![Nale by Karla Ortiz](zh02_nale_by_karla_ortiz.png "Nale by Karla Ortiz")](zh02_nale_by_karla_ortiz.png)
+Nale by Karla Ortiz
 
-[![Tanavast by Ari Ibarra](tanavast_by_ari_ibarra.jpg "Tanavast by Ari Ibarra")](tanavast_by_ari_ibarra.jpg)
-Tanavast by Ari Ibarra
+[![Chanarach by Karla Ortiz](zh03_chanarach_by_karla_ortiz.png "Chanarach by Karla Ortiz")](zh03_chanarach_by_karla_ortiz.png)
+Chanarach by Karla Ortiz
 
-[![Vev by Howard Lyon](vev_by_howard_lyon.jpg "Vev by Howard Lyon")](vev_by_howard_lyon.jpg)
+[![Vev by Howard Lyon](zh04_vev_by_howard_lyon.jpg "Vev by Howard Lyon")](zh04_vev_by_howard_lyon.jpg)
 Vev by Howard Lyon
 
-[![Visions of the Future by Ari Ibarra](visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](visions_of_the_future_by_ari_ibarra.jpg)
-Visions of the Future by Ari Ibarra
+[![Pailiah by Magali Villeneuve](zh05_pailiah_by_magali_villeneuve.jpg "Pailiah by Magali Villeneuve")](zh05_pailiah_by_magali_villeneuve.jpg)
+Pailiah by Magali Villeneuve
+
+[![Shalash by Dan dos Santos](zh06_shalash_by_dan_dos_santos.png "Shalash by Dan dos Santos")](zh06_shalash_by_dan_dos_santos.png)
+Shalash by Dan dos Santos
+
+[![Kalak by Magali Villeneuve](zh08_kalak_by_magali_villeneuve.jpg "Kalak by Magali Villeneuve")](zh08_kalak_by_magali_villeneuve.jpg)
+Kalak by Magali Villeneuve
+
+[![Taln by Donato Giancola](zh09_taln_by_donato_giancola.jpg "Taln by Donato Giancola")](zh09_taln_by_donato_giancola.jpg)
+Taln by Donato Giancola
+
+[![Ishar by Dan dos Santos](zh10_ishar_by_dan_dos_santos.png "Ishar by Dan dos Santos")](zh10_ishar_by_dan_dos_santos.png)
+Ishar by Dan dos Santos
+
+[![Tanavast by Ari Ibarra](zz07_tanavast_by_ari_ibarra.jpg "Tanavast by Ari Ibarra")](zz07_tanavast_by_ari_ibarra.jpg)
+Tanavast by Ari Ibarra
+
+[![Cultivation and the Nightwatcher by Ari Ibarra](zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg "Cultivation and the Nightwatcher by Ari Ibarra")](zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg)
+Cultivation and the Nightwatcher by Ari Ibarra
+
+[![Odium Reigns by Ari Ibarra](zz09_odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](zz09_odium_reigns_by_ari_ibarra.jpg)
+Odium Reigns by Ari Ibarra
 
