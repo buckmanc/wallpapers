@@ -16,6 +16,8 @@ quoteRe() {
 }
 
 path_root="." # TODO make this the script dir
+# or is the git root better?
+# gitroot=$(git rev-parse --show-toplevel)
 
 thumbnailMD="${path_root}/.internals/thumbnails.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
