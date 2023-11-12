@@ -10,6 +10,18 @@ Artifabrian by Ari Ibarra
 [![Eshonai by Antti Hakosaari](eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](eshonai_by_antti_hakosaari.jpg)
 Eshonai by Antti Hakosaari
 
+[![Jasnah by Mycks Art Studio](jasnah_by_mycks_art_studio.jpg "Jasnah by Mycks Art Studio")](jasnah_by_mycks_art_studio.jpg)
+Jasnah by Mycks Art Studio
+
+[![Jasnah Kholin by Pb Doodles](jasnah_kholin_by_pb_doodles.webp "Jasnah Kholin by Pb Doodles")](jasnah_kholin_by_pb_doodles.webp)
+Jasnah Kholin by Pb Doodles
+
+[![The Lesson by Bea Jackson](jasnah_the_lesson_by_bea_jackson.jpg "The Lesson by Bea Jackson")](jasnah_the_lesson_by_bea_jackson.jpg)
+The Lesson by Bea Jackson
+
+[![Kaladin and Syl by Mycks Art Studio](kaladin_and_syl_by_mycks_art_studio.jpg "Kaladin and Syl by Mycks Art Studio")](kaladin_and_syl_by_mycks_art_studio.jpg)
+Kaladin and Syl by Mycks Art Studio
+
 [![Kaladin by Antti Hakosaari](kaladin_by_antti_hakosaari.jpg "Kaladin by Antti Hakosaari")](kaladin_by_antti_hakosaari.jpg)
 Kaladin by Antti Hakosaari
 
@@ -22,8 +34,23 @@ Stormblessed by Air Ibarra
 [![Herald of Justice by Petar Penev](nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](nale_herald_of_justice_by_petar_penev.jpg)
 Herald of Justice by Petar Penev
 
+[![Rayse/Odium by Lamaery In The Cosmere](odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](odium_rayse_by_lamaery_in_the_cosmere.jpg)
+Rayse/Odium by Lamaery In The Cosmere
+
+[![Odium XV The Devil Tarot by Tara Spruit](odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](odium_xv_the_devil_tarot_by_tara_spruit.jpg)
+Odium XV The Devil Tarot by Tara Spruit
+
 [![Visions of the Future by Ari Ibarra](renarin_visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](renarin_visions_of_the_future_by_ari_ibarra.jpg)
 Visions of the Future by Ari Ibarra
+
+[![Rysn and Larkin by Botanicaxu](rysn_and_larkin_by_botanicaxu.jpg "Rysn and Larkin by Botanicaxu")](rysn_and_larkin_by_botanicaxu.jpg)
+Rysn and Larkin by Botanicaxu
+
+[![Shallan and The Santhid by Ashley Coad](shallan_and_the_santhid_by_ashley_coad.png "Shallan and The Santhid by Ashley Coad")](shallan_and_the_santhid_by_ashley_coad.png)
+Shallan and The Santhid by Ashley Coad
+
+[![Shallan by Michael Whalen](shallan_by_michael_whalen.png "Shallan by Michael Whalen")](shallan_by_michael_whalen.png)
+Shallan by Michael Whalen
 
 [![Radiant by Jemma Young](shallan_radiant_by_jemma_young.jpg "Radiant by Jemma Young")](shallan_radiant_by_jemma_young.jpg)
 Radiant by Jemma Young
@@ -33,6 +60,9 @@ Rider of Storms by Connor Chamberlain
 
 [![Mastermind by Ari Ibarra](taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](taravangian_mastermind_by_ari_ibarra.jpg)
 Mastermind by Ari Ibarra
+
+[![The Stick Of Resolve by Ari Ibarra](The_Stick_of_Resolve_by_Ari_Ibarra.jpg "The Stick Of Resolve by Ari Ibarra")](The_Stick_of_Resolve_by_Ari_Ibarra.jpg)
+The Stick Of Resolve by Ari Ibarra
 
 [![Jezrien by Howard Lyon](zh01_jezrien_by_howard_lyon.jpg "Jezrien by Howard Lyon")](zh01_jezrien_by_howard_lyon.jpg)
 Jezrien by Howard Lyon

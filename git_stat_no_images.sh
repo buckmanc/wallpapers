@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-git status --short | grep -ivP '(\.jpe?g|\.png)"?$'
+git status --short | grep -ivP '(\.jpe?g|\.png|\.webp)"?$'

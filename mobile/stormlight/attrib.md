@@ -22,3 +22,14 @@ ZH10_ishar_by_dan_dos_santos.png Ishar by Dan dos Santos
 ZZ07_tanavast_by_ari_ibarra.jpg Tanavast by Ari Ibarra
 ZZ08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg Cultivation and the Nightwatcher by Ari Ibarra
 ZZ09_odium_reigns_by_ari_ibarra.jpg Odium Reigns by Ari Ibarra
+jasnah_by_mycks_art_studio.jpg Jasnah by Mycks Art Studio
+jasnah_kholin_by_pb_doodles.webp Jasnah Kholin by Pb Doodles
+jasnah_the_lesson_by_bea_jackson.jpg The Lesson by Bea Jackson
+kaladin_and_syl_by_mycks_art_studio.webp Kaladin and Syl by Mycks Art Studio
+odium_rayse_by_lamaery_in_the_cosmere.jpg Rayse/Odium by Lamaery In The Cosmere
+rysn_and_larkin_by_botanicaxu.jpg Rysn and Larkin by Botanicaxu
+shallan_by_michael_whalen.png Shallan by Michael Whalen
+kaladin_and_syl_by_mycks_art_studio.jpg Kaladin and Syl by Mycks Art Studio
+The_Stick_of_Resolve_by_Ari_Ibarra.jpg The Stick Of Resolve by Ari Ibarra
+odium_xv_the_devil_tarot_by_tara_spruit.jpg Odium XV The Devil Tarot by Tara Spruit
+shallan_and_the_santhid_by_ashley_coad.png Shallan and The Santhid by Ashley Coad
