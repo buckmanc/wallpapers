@@ -17,7 +17,8 @@ quoteRe() {
 
 path_root="." # TODO make this the script dir
 # or is the git root better?
-# gitroot=$(git rev-parse --show-toplevel)
+# git_root=$(git rev-parse --show-toplevel)
+raw_root="https://raw.githubusercontent.com/buckmanc/Wallpapers/main"
 
 thumbnailMD="${path_root}/.internals/thumbnails.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
@@ -106,7 +107,7 @@ echo "$imgFiles" | while read -r src; do
 	target_escaped="${target// /%20}"
 	dirReadmePath_escaped="${dirReadmePath// /%20}"
 	thumb_url="${target_escaped#"$path_root/"}"
-	pape_url="${src_escaped#"$path_root/"}"
+	pape_url="$raw_root/${src_escaped#"$path_root/"}"
 	dirReadme_url="${dirReadmePath_escaped#"$path_root/"}"
 
 	folderName="$(basename "$(dirname "$src")")"
@@ -125,7 +126,7 @@ echo "$imgFiles" | while read -r src; do
 	fi
 
 	echo "[![$alt_text]($thumb_url \""$alt_text"\")]($pape_url)" >> "$thumbnailMD" 
-	echo "[![$alt_text]($filename_escaped \""$alt_text"\")]($filename_escaped)" >> "$dirReadmePath"
+	echo "[![$alt_text]($filename_escaped \""$alt_text"\")]($pape_url)" >> "$dirReadmePath"
 	if [ -n "$attrib" ]
 	then
 		echo "$attrib" >> "$dirReadmePath"
@@ -154,6 +155,7 @@ then
 		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
 		htmlText=$(echo "${htmlText//.md/.html}")
 		htmlText=$(echo "${htmlText//.MD/.html}")
+		htmlText=$(echo "${htmlText//"$raw_root"/}")
 		echo "$htmlText" > "$htmlPath"
 
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
