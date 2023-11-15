@@ -39,7 +39,8 @@ imgFiles=$(
 	find "$path_root" -maxdepth 5 -mindepth 3 -type f -not -path '*/thumbnails*' |
 	file --mime-type -f - |
 	grep -F image/ |
-	rev | cut -d : -f 2- | rev | sort
+	rev | cut -d : -f 2- | rev |
+	sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7
 )
 
 # delete the folder readme files

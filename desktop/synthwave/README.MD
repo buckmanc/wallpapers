@@ -1,5 +1,7 @@
 [![1188016.jpg](1188016.jpg "1188016.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/1188016.jpg)
 
+[![17740155_159Z_2107.w026.n002.628B.p1.628.jpg](17740155_159Z_2107.w026.n002.628B.p1.628.jpg "17740155_159Z_2107.w026.n002.628B.p1.628.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg)
+
 [![5236169.jpg](5236169.jpg "5236169.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/5236169.jpg)
 
 [![car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg](car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg "car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg)
@@ -9,6 +11,8 @@
 [![moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg](moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg "moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg)
 
 [![palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg](palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg "palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg)
+
+[![peakpx (7).jpg](peakpx%20(7).jpg "peakpx (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/peakpx%20(7).jpg)
 
 [![RDT_20231106_004554839560427587957369.jpg](RDT_20231106_004554839560427587957369.jpg "RDT_20231106_004554839560427587957369.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/RDT_20231106_004554839560427587957369.jpg)
 
