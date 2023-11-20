@@ -1,5 +1,5 @@
-[![Elantris by Peter Kovacs](elantris_by_peter_kovacs.jpg "Elantris by Peter Kovacs")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/elantris_by_peter_kovacs.jpg)\
-Elantris by Peter Kovacs
+[![Elantris by Péter Kovács](elantris_by_peter_kovacs.jpg "Elantris by Péter Kovács")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/elantris_by_peter_kovacs.jpg)\
+Elantris by Péter Kovács
 
 [![Shadows For Silence in the Forests of Hell cover by Miranda Meeks](Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg "Shadows For Silence in the Forests of Hell cover by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)\
 Shadows For Silence in the Forests of Hell cover by Miranda Meeks

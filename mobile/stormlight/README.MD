@@ -49,11 +49,17 @@ Kaladin by Antti Hakosaari
 [![Stormblessed by Air Ibarra](kaladin_stormblessed_by_air_ibarra.jpg "Stormblessed by Air Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kaladin_stormblessed_by_air_ibarra.jpg)\
 Stormblessed by Air Ibarra
 
+[![Kaladin Stormblessed by Tyler Vail](kaladin-stormblessed-by-tyler-vail.jpg "Kaladin Stormblessed by Tyler Vail")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kaladin-stormblessed-by-tyler-vail.jpg)\
+Kaladin Stormblessed by Tyler Vail
+
 [![Kal and Syl by Ina Wong](kal_and_syl_by_ina_wong.jpg "Kal and Syl by Ina Wong")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kal_and_syl_by_ina_wong.jpg)\
 [Kal and Syl](https://www.deviantart.com/inawong/art/Kal-and-Syl-699058325) by Ina Wong
 
 [![Kal and Szeth by Jessi Chen Liu](kal_and_szeth_by_jessi_chen_liu.png "Kal and Szeth by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kal_and_szeth_by_jessi_chen_liu.png)\
 Kal and Szeth by Jessi Chen Liu
+
+[![Knights Radiant by Antti Hakosaari](knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/knights_radiant_by_antti_hakosaari.jpg)\
+Knights Radiant by Antti Hakosaari
 
 [![Lyn by Jessi Chen Liu](lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/lyn_by_jessi_chen_liu.jpg)\
 Lyn by Jessi Chen Liu
@@ -93,9 +99,6 @@ Shallan by Dominik Broniek
 
 [![Shallan by Michael Whalen](shallan_by_michael_whalen.png "Shallan by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_by_michael_whalen.png)\
 Shallan by Michael Whalen
-
-[![Shallan In The Palanaeum by Alex Allen](shallan_in_the_palanaeum_by_alex_allen.jpg "Shallan In The Palanaeum by Alex Allen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_in_the_palanaeum_by_alex_allen.jpg)\
-Shallan In The Palanaeum by Alex Allen
 
 [![Radiant by Jemma Young](shallan_radiant_by_jemma_young.jpg "Radiant by Jemma Young")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_radiant_by_jemma_young.jpg)\
 Radiant by Jemma Young

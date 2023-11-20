@@ -1,53 +1,62 @@
 [![The Final Empire cover by Chris McGrath](00_cover_00_mistborn_01_by_chris_mcgrath.jpg "The Final Empire cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)\
 The Final Empire cover by Chris McGrath
 
+[![The Hero of Ages by Chris Mcgrath](00_cover_00_mistborn_03_by_chris_mcgrath.jpg "The Hero of Ages by Chris Mcgrath")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_00_mistborn_03_by_chris_mcgrath.jpg)\
+The Hero of Ages by Chris Mcgrath
+
 [![The Alloy of Law cover by Chris McGrath](00_cover_00_mistborn_04_by_chris_mcgrath.jpg "The Alloy of Law cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_00_mistborn_04_by_chris_mcgrath.jpg)\
 The Alloy of Law cover by Chris McGrath
+
+[![Shadows of Self by Chris Mcgrath](00_cover_00_mistborn_05_by_chris_mcgrath.jpg "Shadows of Self by Chris Mcgrath")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_00_mistborn_05_by_chris_mcgrath.jpg)\
+Shadows of Self by Chris Mcgrath
 
 [![The Bands of Mourning cover by Chris McGrath](00_cover_00_mistborn_06_by_chris_mcgrath.jpg "The Bands of Mourning cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_00_mistborn_06_by_chris_mcgrath.jpg)\
 The Bands of Mourning cover by Chris McGrath
 
-[![The Alloy of Law Cover by Alex Allen](00_cover_aa_mistborn_04_by_alex_allen.jpg "The Alloy of Law Cover by Alex Allen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_aa_mistborn_04_by_alex_allen.jpg)\
-The Alloy of Law Cover by Alex Allen
+[![The Alloy of Law cover by Alex Allen](00_cover_aa_mistborn_04_by_alex_allen.jpg "The Alloy of Law cover by Alex Allen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_aa_mistborn_04_by_alex_allen.jpg)\
+The Alloy of Law cover by Alex Allen
 
-[![Shadows of Self Cover by Alex Allen](00_cover_aa_mistborn_05_by_alex_allen.jpg "Shadows of Self Cover by Alex Allen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_aa_mistborn_05_by_alex_allen.jpg)\
-Shadows of Self Cover by Alex Allen
+[![Shadows of Self cover by Alex Allen](00_cover_aa_mistborn_05_by_alex_allen.jpg "Shadows of Self cover by Alex Allen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_aa_mistborn_05_by_alex_allen.jpg)\
+Shadows of Self cover by Alex Allen
 
-[![The Final Empire Cover by Dominik Broniek](00_cover_db_mistborn_01_by_dominik_broniek.jpg "The Final Empire Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_01_by_dominik_broniek.jpg)\
-The Final Empire Cover by Dominik Broniek
+[![The Final Empire cover by Dominik Broniek](00_cover_db_mistborn_01_by_dominik_broniek.jpg "The Final Empire cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_01_by_dominik_broniek.jpg)\
+The Final Empire cover by Dominik Broniek
 
-[![The Lost Metal Cover by Dominik Broniek](00_cover_db_mistborn_07_by_dominik_broniek.jpg "The Lost Metal Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)\
-The Lost Metal Cover by Dominik Broniek
+[![The Lost Metal cover by Dominik Broniek](00_cover_db_mistborn_07_by_dominik_broniek.jpg "The Lost Metal cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)\
+The Lost Metal cover by Dominik Broniek
 
-[![The Lost Metal Cover by Todor Hristov](00_cover_db_mistborn_07_by_todor_hristov.png "The Lost Metal Cover by Todor Hristov")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_07_by_todor_hristov.png)\
-The Lost Metal Cover by Todor Hristov
+[![The Lost Metal cover by Todor Hristov](00_cover_db_mistborn_07_by_todor_hristov.png "The Lost Metal cover by Todor Hristov")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_db_mistborn_07_by_todor_hristov.png)\
+The Lost Metal cover by Todor Hristov
 
-[![The Final Empire Cover by Danny-schlitz](00_cover_ds_mistborn_01_by_danny-schlitz.png "The Final Empire Cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_01_by_danny-schlitz.png)\
-The Final Empire Cover by Danny-schlitz
+[![The Final Empire cover by Danny-schlitz](00_cover_ds_mistborn_01_by_danny-schlitz.png "The Final Empire cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_01_by_danny-schlitz.png)\
+The Final Empire cover by Danny-schlitz
 
-[![The Well of Ascension Cover by Danny-schlitz](00_cover_ds_mistborn_02_by_danny-schlitz.jpg "The Well of Ascension Cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_02_by_danny-schlitz.jpg)\
-The Well of Ascension Cover by Danny-schlitz
+[![The Well of Ascension cover by Danny-schlitz](00_cover_ds_mistborn_02_by_danny-schlitz.jpg "The Well of Ascension cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_02_by_danny-schlitz.jpg)\
+The Well of Ascension cover by Danny-schlitz
 
-[![The Hero of Ages Cover by Danny-schlitz](00_cover_ds_mistborn_03_by_danny-schlitz.jpg "The Hero of Ages Cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_03_by_danny-schlitz.jpg)\
-The Hero of Ages Cover by Danny-schlitz
+[![The Hero of Ages cover by Danny-schlitz](00_cover_ds_mistborn_03_by_danny-schlitz.jpg "The Hero of Ages cover by Danny-schlitz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ds_mistborn_03_by_danny-schlitz.jpg)\
+The Hero of Ages cover by Danny-schlitz
 
-[![The Alloy of Law Cover by Marc Simonetti](00_cover_ms_mistborn_04_by_marc_simonetti.jpg "The Alloy of Law Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg)\
-The Alloy of Law Cover by Marc Simonetti
+[![The Alloy of Law cover by Marc Simonetti](00_cover_ms_mistborn_04_by_marc_simonetti.jpg "The Alloy of Law cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg)\
+The Alloy of Law cover by Marc Simonetti
 
-[![Shadows of Self Cover by Marc Simonetti](00_cover_ms_mistborn_05_by_marc_simonetti.jpg "Shadows of Self Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_05_by_marc_simonetti.jpg)\
-Shadows of Self Cover by Marc Simonetti
+[![Shadows of Self cover by Marc Simonetti](00_cover_ms_mistborn_05_by_marc_simonetti.jpg "Shadows of Self cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_05_by_marc_simonetti.jpg)\
+Shadows of Self cover by Marc Simonetti
 
-[![The Bands of Mourning Cover by Marc Simonetti](00_cover_ms_mistborn_06_by_marc_simonetti.jpg "The Bands of Mourning Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_06_by_marc_simonetti.jpg)\
-The Bands of Mourning Cover by Marc Simonetti
+[![The Bands of Mourning cover by Marc Simonetti](00_cover_ms_mistborn_06_by_marc_simonetti.jpg "The Bands of Mourning cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_06_by_marc_simonetti.jpg)\
+The Bands of Mourning cover by Marc Simonetti
 
-[![The Lost Metal Cover by Marc Simonetti](00_cover_ms_mistborn_07_by_marc_simonetti.jpg "The Lost Metal Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg)\
-The Lost Metal Cover by Marc Simonetti
+[![The Lost Metal cover by Marc Simonetti](00_cover_ms_mistborn_07_by_marc_simonetti.jpg "The Lost Metal cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg)\
+The Lost Metal cover by Marc Simonetti
 
 [![Bleeder by Miranda Meeks](Bleeder-by-Miranda-Meeks.jpg "Bleeder by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Bleeder-by-Miranda-Meeks.jpg)\
 Bleeder by Miranda Meeks
 
 [![Death by Ari Ibarra](death_by_ari_ibarra.webp "Death by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/death_by_ari_ibarra.webp)\
 Death by Ari Ibarra
+
+[![Inquisitor by Ricky Ho](inquisitor-by-ricky-ho.jpg "Inquisitor by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/inquisitor-by-ricky-ho.jpg)\
+Inquisitor by Ricky Ho
 
 [![Kelsier by Gerva Perez](Kelsier_by_Gerva_Perez.jpg "Kelsier by Gerva Perez")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Kelsier_by_Gerva_Perez.jpg)\
 Kelsier by Gerva Perez
@@ -73,7 +82,13 @@ Vin and Elend by Ari Ibarra
 [![Bond by Randy Vargas](Vin_Bond_by_Randy_Vargas.jpg "Bond by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Vin_Bond_by_Randy_Vargas.jpg)\
 Bond by Randy Vargas
 
+[![Vin by Dingzhong Hu](vin-by-dingzhong-hu.jpg "Vin by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/vin-by-dingzhong-hu.jpg)\
+Vin by Dingzhong Hu
+
 [![vin.jpg](vin.jpg "vin.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/vin.jpg)
+
+[![Storms That Shatter by Alec Acevedo](vin-storms-that-shatter-by-alec-acevedo.jpg "Storms That Shatter by Alec Acevedo")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/vin-storms-that-shatter-by-alec-acevedo.jpg)\
+Storms That Shatter by Alec Acevedo
 
 [![The Ascendant Warrior by Miranda Meeks](Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg "The Ascendant Warrior by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg)\
 The Ascendant Warrior by Miranda Meeks

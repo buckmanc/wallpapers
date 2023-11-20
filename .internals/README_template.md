@@ -17,7 +17,7 @@ git clone --depth 1 https://github.com/buckmanc/wallpapers
 
 # Shoutouts
 
-Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](https://github.com/makccr/wallpapers), and [dharmx](https://github.com/dharmx/walls) for excellent examples of wallpaper repos.
+Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](https://github.com/makccr/wallpapers), and [dharmx](https://github.com/dharmx/walls) for excellent examples of wallpaper repos. And you as Mega Man X!
 
 ---
 {thumbnails}

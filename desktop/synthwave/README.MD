@@ -6,6 +6,8 @@
 
 [![car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg](car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg "car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/car-neon-lights-vaporwave-retrowave-digital-art-uhdpaper.com-4K-6.1046.jpg)
 
+[![cyberpunk_car.png](cyberpunk_car.png "cyberpunk_car.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/cyberpunk_car.png)
+
 [![digital-art-retrowave-spaceship-sci-fi-uhdpaper.com-4K-80.jpg](digital-art-retrowave-spaceship-sci-fi-uhdpaper.com-4K-80.jpg "digital-art-retrowave-spaceship-sci-fi-uhdpaper.com-4K-80.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/digital-art-retrowave-spaceship-sci-fi-uhdpaper.com-4K-80.jpg)
 
 [![moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg](moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg "moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg)

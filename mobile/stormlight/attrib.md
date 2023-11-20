@@ -17,8 +17,10 @@ kaladin_and_syl_by_mycks_art_studio.jpg Kaladin and Syl by Mycks Art Studio
 kaladin_and_syl_by_mycks_art_studio.webp Kaladin and Syl by Mycks Art Studio
 kaladin_by_antti_hakosaari.jpg Kaladin by Antti Hakosaari
 kaladin_stormblessed_by_air_ibarra.jpg Stormblessed by Air Ibarra
+kaladin-stormblessed-by-tyler-vail.jpg Kaladin Stormblessed by Tyler Vail
 kal_and_syl_by_ina_wong.jpg [Kal and Syl](https://www.deviantart.com/inawong/art/Kal-and-Syl-699058325) by Ina Wong
 kal_and_szeth_by_jessi_chen_liu.png Kal and Szeth by Jessi Chen Liu
+knights_radiant_by_antti_hakosaari.jpg Knights Radiant by Antti Hakosaari
 lyn_by_jessi_chen_liu.jpg Lyn by Jessi Chen Liu
 nale_herald_of_justice_by_petar_penev.jpg Herald of Justice by Petar Penev
 oathgate_spren_by_ben_mcsweeny.jpg Oathgate Spren by Ben McSweeny
@@ -32,7 +34,6 @@ rysn_by_dominik_broniek.jpg Rysn by Dominik Broniek
 shallan_and_the_santhid_by_ashley_coad.png Shallan and The Santhid by Ashley Coad
 shallan_by_dominik_broniek.jpg Shallan by Dominik Broniek
 shallan_by_michael_whalen.png Shallan by Michael Whalen
-shallan_in_the_palanaeum_by_alex_allen.jpg Shallan In The Palanaeum by Alex Allen
 shallan_radiant_by_jemma_young.jpg Radiant by Jemma Young
 shallan_sailing_into_kharbranth_by_jessi_chen_liu.jpg Shallan Sailing Into Kharbranth by Jessi Chen Liu
 sketch_axehound_by_ben_mcsweeny.jpeg Sketch Axehound by Ben McSweeny

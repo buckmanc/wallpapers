@@ -7,3 +7,6 @@ The Alloy of Law Cover by Marc Simonetti
 [![Era 2 Triptych by Marc Simonetti](00_cover_zz_era_2_by_marc_simonetti.jpg "Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg)\
 Era 2 Triptych by Marc Simonetti
 
+[![Cognitive Realm by Ricky Ho](cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/mistborn/cognitive-realm-by-ricky-ho.jpg)\
+Cognitive Realm by Ricky Ho
+

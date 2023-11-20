@@ -70,7 +70,7 @@ echo "$imgFiles" | while read -r src; do
 	# attempted to pull attribution from metadata using imagemagick but did not succeed
 
 	# allow for initial load of attribution from the filename
-	if [[ -z "$attrib" ]] && echo "$filename" | grep -qiP "[-_]by[-_]"
+	if [[ -z "$attrib" ]] && echo "$filename" | grep -qiP "[-_ ]by[-_ ]"
 	then
 		attrib="$(echo "${filename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' )"
 		echo "$filename $attrib" >> "$dirAttribPath"
