@@ -8,6 +8,8 @@
 
 [![bici.jpg](bici.jpg "bici.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/bici.jpg)
 
+[![castlevania_lords_of_shadows.jpg](castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/castlevania_lords_of_shadows.jpg)
+
 [![cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg](cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg "cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg)
 
 [![colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg](colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg "colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg)
@@ -68,6 +70,8 @@ Johan Christian Dahl - View Of Dresden By Moonlight
 [![shiny-colors.png](shiny-colors.png "shiny-colors.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/shiny-colors.png)
 
 [![towashi.jpg](towashi.jpg "towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/towashi.jpg)
+
+[![wallhaven-zyxvqy.jpg](wallhaven-zyxvqy.jpg "wallhaven-zyxvqy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/wallhaven-zyxvqy.jpg)
 
 [![win-11.png](win-11.png "win-11.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/win-11.png)
 
