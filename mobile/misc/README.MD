@@ -12,7 +12,7 @@
 
 [![Magic Sunset.jpg](Magic%20Sunset.jpg "Magic Sunset.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Magic%20Sunset.jpg)
 
-[![Mega Sharjk Attack by By Dominik Broniek](mega_sharjk_attack_by_by_dominik_broniek.jpg "Mega Sharjk Attack by By Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/mega_sharjk_attack_by_by_dominik_broniek.jpg)
+[![Mega Sharjk Attack by By Dominik Broniek](mega_sharjk_attack_by_by_dominik_broniek.jpg "Mega Sharjk Attack by By Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/mega_sharjk_attack_by_by_dominik_broniek.jpg)\
 Mega Sharjk Attack by By Dominik Broniek
 
 [![Moon.jpg](Moon.jpg "Moon.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Moon.jpg)
@@ -25,6 +25,6 @@ Mega Sharjk Attack by By Dominik Broniek
 
 [![Pagan 01.jpg](Pagan%2001.jpg "Pagan 01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Pagan%2001.jpg)
 
-[![The Moon by Ari Ibarra](the_moon_by_ari_ibarra.jpg "The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/the_moon_by_ari_ibarra.jpg)
+[![The Moon by Ari Ibarra](the_moon_by_ari_ibarra.jpg "The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/the_moon_by_ari_ibarra.jpg)\
 The Moon by Ari Ibarra
 

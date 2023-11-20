@@ -12,27 +12,27 @@
 
 [![TT-Mighty-Warrior_4200x4200_SEPS.jpg](TT-Mighty-Warrior_4200x4200_SEPS.jpg "TT-Mighty-Warrior_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Mighty-Warrior_4200x4200_SEPS.jpg)
 
-[![TT-Mushroom-Forest_4200x4200_SEPS.jpg](TT-Mushroom-Forest_4200x4200_SEPS.jpg "TT-Mushroom-Forest_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Mushroom-Forest_4200x4200_SEPS.jpg)
-
 [![TT-Seasonal-Tree_4200x4200_SEPS-1.jpg](TT-Seasonal-Tree_4200x4200_SEPS-1.jpg "TT-Seasonal-Tree_4200x4200_SEPS-1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Seasonal-Tree_4200x4200_SEPS-1.jpg)
-
-[![TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg](TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg "TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg)
 
 [![TT-Skulls-and-Soundwaves-Glow_4200x4200_SEPS.jpg](TT-Skulls-and-Soundwaves-Glow_4200x4200_SEPS.jpg "TT-Skulls-and-Soundwaves-Glow_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Skulls-and-Soundwaves-Glow_4200x4200_SEPS.jpg)
 
 [![TT-Skulls-and-Soundwaves-Glow-GLOW-ONLY_4200x4200_SEPS.jpg](TT-Skulls-and-Soundwaves-Glow-GLOW-ONLY_4200x4200_SEPS.jpg "TT-Skulls-and-Soundwaves-Glow-GLOW-ONLY_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Skulls-and-Soundwaves-Glow-GLOW-ONLY_4200x4200_SEPS.jpg)
 
-[![TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg](TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg "TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg)
+[![zz01-mushfrog-TT-Mushroom-Forest_4200x4200_SEPS.jpg](zz01-mushfrog-TT-Mushroom-Forest_4200x4200_SEPS.jpg "zz01-mushfrog-TT-Mushroom-Forest_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz01-mushfrog-TT-Mushroom-Forest_4200x4200_SEPS.jpg)
 
-[![TT-Spellbinding-Stories_4200x4200_SEPS.jpg](TT-Spellbinding-Stories_4200x4200_SEPS.jpg "TT-Spellbinding-Stories_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Spellbinding-Stories_4200x4200_SEPS.jpg)
+[![zz01-mushfrog-TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg](zz01-mushfrog-TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg "zz01-mushfrog-TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz01-mushfrog-TT-So-Mushroom-in-Space_4200x4200_SEPS.jpg)
 
-[![TT-Tale-of-Adventure_800x800_SEPS.jpg](TT-Tale-of-Adventure_800x800_SEPS.jpg "TT-Tale-of-Adventure_800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Tale-of-Adventure_800x800_SEPS.jpg)
+[![zz01-mushfrog-TT-Twilight-Toadstool_4200x4200_SEPS.jpg](zz01-mushfrog-TT-Twilight-Toadstool_4200x4200_SEPS.jpg "zz01-mushfrog-TT-Twilight-Toadstool_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz01-mushfrog-TT-Twilight-Toadstool_4200x4200_SEPS.jpg)
 
-[![TT-Tale-of-Scales_4200x4200_SEPS.jpg](TT-Tale-of-Scales_4200x4200_SEPS.jpg "TT-Tale-of-Scales_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Tale-of-Scales_4200x4200_SEPS.jpg)
+[![zz02-reading01-TT-Spellbinding-Stories_4200x4200_SEPS.jpg](zz02-reading01-TT-Spellbinding-Stories_4200x4200_SEPS.jpg "zz02-reading01-TT-Spellbinding-Stories_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading01-TT-Spellbinding-Stories_4200x4200_SEPS.jpg)
 
-[![TT-Tale-of-Tails_800x800_SEPS.jpg](TT-Tale-of-Tails_800x800_SEPS.jpg "TT-Tale-of-Tails_800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Tale-of-Tails_800x800_SEPS.jpg)
+[![zz02-reading02-TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg](zz02-reading02-TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg "zz02-reading02-TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror_4200x4200_SEPS.jpg)
 
-[![TT-Tales-of-Magic_4200x4200_SEPS.jpg](TT-Tales-of-Magic_4200x4200_SEPS.jpg "TT-Tales-of-Magic_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Tales-of-Magic_4200x4200_SEPS.jpg)
+[![zz02-reading99-TT-Tale-of-Adventure_800x800_SEPS.jpg](zz02-reading99-TT-Tale-of-Adventure_800x800_SEPS.jpg "zz02-reading99-TT-Tale-of-Adventure_800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading99-TT-Tale-of-Adventure_800x800_SEPS.jpg)
 
-[![TT-Twilight-Toadstool_4200x4200_SEPS.jpg](TT-Twilight-Toadstool_4200x4200_SEPS.jpg "TT-Twilight-Toadstool_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Twilight-Toadstool_4200x4200_SEPS.jpg)
+[![zz02-reading99-TT-Tale-of-Scales_4200x4200_SEPS.jpg](zz02-reading99-TT-Tale-of-Scales_4200x4200_SEPS.jpg "zz02-reading99-TT-Tale-of-Scales_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading99-TT-Tale-of-Scales_4200x4200_SEPS.jpg)
+
+[![zz02-reading99-TT-Tale-of-Tails_800x800_SEPS.jpg](zz02-reading99-TT-Tale-of-Tails_800x800_SEPS.jpg "zz02-reading99-TT-Tale-of-Tails_800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading99-TT-Tale-of-Tails_800x800_SEPS.jpg)
+
+[![zz02-reading99-TT-Tales-of-Magic_4200x4200_SEPS.jpg](zz02-reading99-TT-Tales-of-Magic_4200x4200_SEPS.jpg "zz02-reading99-TT-Tales-of-Magic_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading99-TT-Tales-of-Magic_4200x4200_SEPS.jpg)
 

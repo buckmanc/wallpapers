@@ -1,4 +1,3 @@
-LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg LDN42 - The Cosmic Bat Nebula by Mark Hanson and Mike Selby
 A_Cosmic_Tarantula_2_by_JWST.png A Cosmic Tarantula 2 by JWST
 A_Cosmic_Tarantula_by_JWST.png A Cosmic Tarantula by JWST
 an_Ethereal_View_of_NGC_346_MIRI_by_JWST.png An Ethereal View Of NGC 346 MIRI by JWST
@@ -28,6 +27,7 @@ Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_2_by_JWST.png Intricate Ne
 Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_by_JWST.png Intricate Networks Of Gas and Dust In Nearby Galaxies by JWST
 Jupiter_Images_Showcase_Auroras,_Hazes_2_by_JWST.png Jupiter Images Showcase Auroras, Hazes 2 by JWST
 Jupiter_Images_Showcase_Auroras,_Hazes_by_JWST.png Jupiter Images Showcase Auroras, Hazes by JWST
+LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg LDN42 - The Cosmic Bat Nebula by Mark Hanson and Mike Selby
 Long-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.png Long-wavelength NIRCam Orion Mosaic In ESASky by JWST
 M92_Webb_Close-up_NIRCam_Image_by_JWST.png M92 Webb Close-up NIRCam Image by JWST
 Nearby_Planetary_System_Seen_in_Breathtaking_Detail,_Fomalhaut_Dusty_Debris_Disk_MIRI_Image_by_JWST.png Nearby Planetary System Seen In Breathtaking Detail, Fomalhaut Dusty Debris Disk MIRI Image by JWST
@@ -37,6 +37,7 @@ Rarely_Seen_Prelude_to_Supernova_NIRCam_and_MIRI_Image_by_JWST.png Rarely Seen P
 Rare_View_of_Neptune_s_Rings_by_JWST.png Rare View Of Neptune S Rings by JWST
 Saturn_s_Rings_Shine_in_Webb_s_Observations_of_Ringed_Planet_Unlabeled_by_JWST.png Saturn S Rings Shine In Webb S Observations Of Ringed Planet Unlabeled by JWST
 Short-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.jpg Short-wavelength NIRCam Orion Mosaic In ESASky by JWST
+shot-by-cerqueira-0o_GEzyargo-unsplash.jpg shot by Cerqueira
 Sunrise_Arc_NIRCam_Image_by_JWST.png Sunrise Arc NIRCam Image by JWST
 Supersonic_Outflow_of_Young_Star_by_JWST.png Supersonic Outflow Of Young Star by JWST
 The_Crab_Nebula_Seen_in_New_Light_NIRCam_and_MIRI_by_JWST.png The Crab Nebula Seen In New Light NIRCam and MIRI by JWST

@@ -55,9 +55,13 @@ echo "$imgFiles" | while read -r src; do
 	printf '%4d/%d: %s... ' "$i" "$total" "$filename"
 
 	dirReadmePath="$(dirname "$src")/README.MD"
+
 	dirAttribPath="$(dirname "$src")/attrib.md"
 	if [ -f "$dirAttribPath" ]
 	then
+		# sort the attrib files
+		sort -u -o "$dirAttribPath" "$dirAttribPath"
+
 		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" || true
 	else
 		attrib=''
@@ -66,9 +70,9 @@ echo "$imgFiles" | while read -r src; do
 	# attempted to pull attribution from metadata using imagemagick but did not succeed
 
 	# allow for initial load of attribution from the filename
-	if [[ -z "$attrib" && "$filename" == *"_by_"* ]]
+	if [[ -z "$attrib" ]] && echo "$filename" | grep -qiP "[-_]by[-_]"
 	then
-		attrib="$(echo "${filename%%.*}" | sed 's/_/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' )"
+		attrib="$(echo "${filename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' )"
 		echo "$filename $attrib" >> "$dirAttribPath"
 	fi
 
@@ -126,11 +130,16 @@ echo "$imgFiles" | while read -r src; do
 	    echo "## [$folderName]($dirReadme_url)" >> "$thumbnailMD"
 	fi
 
-	echo "[![$alt_text]($thumb_url \""$alt_text"\")]($pape_url)" >> "$thumbnailMD" 
-	echo "[![$alt_text]($filename_escaped \""$alt_text"\")]($pape_url)" >> "$dirReadmePath"
+	echo    "[![$alt_text]($thumb_url \""$alt_text"\")]($pape_url)" >> "$thumbnailMD" 
+	echo -n "[![$alt_text]($filename_escaped \""$alt_text"\")]($pape_url)" >> "$dirReadmePath"
+
+	# have to do a bunch of shenanigans to get the attribution immediately below the picture
 	if [ -n "$attrib" ]
 	then
+		echo "\\" >> "$dirReadmePath"
 		echo "$attrib" >> "$dirReadmePath"
+	else
+		echo >> "$dirReadmePath"
 	fi
 	echo >> "$dirReadmePath"
 done
