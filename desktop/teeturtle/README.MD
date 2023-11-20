@@ -1,3 +1,5 @@
+[![Celastial-Spirits_800x800_SEPS.jpg](Celastial-Spirits_800x800_SEPS.jpg "Celastial-Spirits_800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Celastial-Spirits_800x800_SEPS.jpg)
+
 [![Celestial Current](F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg "Celestial Current")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg)\
 Celestial Current
 
@@ -13,8 +15,12 @@ Bats and Baubles
 [![Celestial Cat](TT-Celestial-Cat4200x4200_SEPS.jpg "Celestial Cat")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Celestial-Cat4200x4200_SEPS.jpg)\
 Celestial Cat
 
+[![TT-Celestial-D20_4200x4200_SEPS.jpg](TT-Celestial-D20_4200x4200_SEPS.jpg "TT-Celestial-D20_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Celestial-D20_4200x4200_SEPS.jpg)
+
 [![D20 Cthulhu](TT-D20-Cthulhu_4200x4200_SEPS.jpg "D20 Cthulhu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-D20-Cthulhu_4200x4200_SEPS.jpg)\
 D20 Cthulhu
+
+[![TT-Lupine-Constellations_4200x4200_SEPS.jpg](TT-Lupine-Constellations_4200x4200_SEPS.jpg "TT-Lupine-Constellations_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Lupine-Constellations_4200x4200_SEPS.jpg)
 
 [![Mighty Warrior](TT-Mighty-Warrior_4200x4200_SEPS.jpg "Mighty Warrior")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/TT-Mighty-Warrior_4200x4200_SEPS.jpg)\
 Mighty Warrior

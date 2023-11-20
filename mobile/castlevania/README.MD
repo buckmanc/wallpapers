@@ -36,6 +36,8 @@ CastleVania Symphony of the Night by Ayami Kojima
 
 [![2 - WSt1iQK.png](2%20-%20WSt1iQK.png "2 - WSt1iQK.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/2%20-%20WSt1iQK.png)
 
+[![3024642.jpg](3024642.jpg "3024642.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/3024642.jpg)
+
 [![CastleVania Aria of Sorrow by Ayami Kojima](4%20-%20GNlBXuj.png "CastleVania Aria of Sorrow by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/4%20-%20GNlBXuj.png)\
 CastleVania Aria of Sorrow by Ayami Kojima
 
@@ -54,6 +56,8 @@ CastleVania Curse of Darkness by Ayami Kojima
 [![CastleVania Curse of Darkness by Ayami Kojima](9%20-%20Cs6igFl.png "CastleVania Curse of Darkness by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/9%20-%20Cs6igFl.png)\
 CastleVania Curse of Darkness by Ayami Kojima
 
+[![a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp](a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp "a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp)
+
 [![Alucard by 天由 ](alucard_by_天由_(tenyo0819).jpg "Alucard by 天由 ")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard_by_天由_(tenyo0819).jpg)\
 Alucard by 天由 (tenyo0819)
 
@@ -61,4 +65,6 @@ Alucard by 天由 (tenyo0819)
 CastleVania Harmony of Dissonance by Ayami Kojima
 
 [![castlevania-symphony-of-the-night.jpg](castlevania-symphony-of-the-night.jpg "castlevania-symphony-of-the-night.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania-symphony-of-the-night.jpg)
+
+[![DPFKc8hXkAAPpO6.jpeg](DPFKc8hXkAAPpO6.jpeg "DPFKc8hXkAAPpO6.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/DPFKc8hXkAAPpO6.jpeg)
 
