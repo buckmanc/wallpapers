@@ -23,13 +23,37 @@ ZZ07_tanavast_by_ari_ibarra.jpg Tanavast by Ari Ibarra
 ZZ08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg Cultivation and the Nightwatcher by Ari Ibarra
 ZZ09_odium_reigns_by_ari_ibarra.jpg Odium Reigns by Ari Ibarra
 jasnah_by_mycks_art_studio.jpg Jasnah by Mycks Art Studio
-jasnah_kholin_by_pb_doodles.webp Jasnah Kholin by Pb Doodles
+jasnah_kholin_by_pb_doodles.webp Jasnah Kholin by PB Doodles
 jasnah_the_lesson_by_bea_jackson.jpg The Lesson by Bea Jackson
 kaladin_and_syl_by_mycks_art_studio.webp Kaladin and Syl by Mycks Art Studio
 odium_rayse_by_lamaery_in_the_cosmere.jpg Rayse/Odium by Lamaery In The Cosmere
-rysn_and_larkin_by_botanicaxu.jpg Rysn and Larkin by Botanicaxu
+rysn_and_larkin_by_botanicaxu.jpg Rysn and Larkin by BotanicaXu
 shallan_by_michael_whalen.png Shallan by Michael Whalen
 kaladin_and_syl_by_mycks_art_studio.jpg Kaladin and Syl by Mycks Art Studio
 The_Stick_of_Resolve_by_Ari_Ibarra.jpg The Stick Of Resolve by Ari Ibarra
 odium_xv_the_devil_tarot_by_tara_spruit.jpg Odium XV The Devil Tarot by Tara Spruit
 shallan_and_the_santhid_by_ashley_coad.png Shallan and The Santhid by Ashley Coad
+02_navani_burning_a_glyphward_by_grant_hansen.webp Navani Burning A Glyphward by Grant Hansen
+chasm_fiend_hunt_by_randy_vargas.jpg Chasm Fiend Hunt by Randy Vargas
+jasnah_kholin_by_jessi_chen_liu.jpg Jasnah Kholin by Jessi Chen Liu
+jasnah_kholin_by_jessi_chen_liu.png Jasnah Kholin by Jessi Chen Liu
+kal_and_szeth_by_jessi_chen_liu.png Kal and Szeth by Jessi Chen Liu
+lyn_by_jessi_chen_liu.jpg Lyn by Jessi Chen Liu
+oathgate_spren_by_ben_mcsweeny.jpg Oathgate Spren by Ben McSweeny
+parshendi_male_by_dan_dos_santos.jpg Parshendi Male by Dan Dos Santos
+shallan_sailing_into_kharbranth_by_jessi_chen_liu.jpg Shallan Sailing Into Kharbranth by Jessi Chen Liu
+sketch_axehound_by_ben_mcsweeny.jpeg Sketch Axehound by Ben McSweeny
+sketch_chull_by_ben_mcsweeny.jpeg Sketch Chull by Ben McSweeny
+sketch_santhid_by_ben_mcsweeny.jpeg Sketch Santhid by Ben McSweeny
+syl_meets_a_dandelion_puff_by_jessi_chen_liu.png Syl Meets A Dandelion Puff by Jessi Chen Liu
+wit_will_wilt_by_jessi_chen_liu.jpg Wit Will Wilt by Jessi Chen Liu
+zu_and_ua_pam_by_jessi_chen_liu.jpg Zu and Ua'pam by Jessi Chen Liu
+abandoning_the_oathpact_by_micah_epstein.jpg Abandoning The Oathpact by Micah Epstein
+evi_young_dalinar_and_evi_by_botanicaxu.jpg Young Dalinar and Evi by BotanicaXu
+02_navani_the_mother_of_machines_by_zireael.jpg Navani The Mother Of Machines by Zireael
+01_dalinar_by_dominik_broniek.jpg 01 Dalinar by Dominik Broniek
+02_navani_kholin_by_dominik_broniek.jpg 02 Navani Kholin by Dominik Broniek
+rysn_by_dominik_broniek.jpg Rysn by Dominik Broniek
+shallan_by_dominik_broniek.jpg Shallan by Dominik Broniek
+vasher_and_nightblood_by_dominik_broniek.jpg Vasher and Nightblood by Dominik Broniek
+shallan_in_the_palanaeum_by_alex_allen.jpg Shallan In The Palanaeum by Alex Allen
