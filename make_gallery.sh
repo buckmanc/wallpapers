@@ -92,7 +92,7 @@ echo "$imgFiles" | while read -r src; do
 		fi
 
 		targetHeight=$(echo "$targetWidth/($aspectRatio)" | bc -l)
-		targetHeight=$(echo ${targetHeight%%.*})
+		targetHeight="${targetHeight%%.*}"
 		targetDimensions="${targetWidth}x${targetHeight}"
 
 		# echo
@@ -100,7 +100,7 @@ echo "$imgFiles" | while read -r src; do
 		# echo "targetDimensions: $targetDimensions"
 
 		# resize images, then crop to the desired resolution
-		convert -thumbnail $targetDimensions^ -gravity Center -extent $targetDimensions +repage "$src" "$target"
+		convert -thumbnail "$targetDimensions^" -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
 		echo "converted!"
 	else
 		mv "$thumbnail_old" "$target"
@@ -116,6 +116,9 @@ echo "$imgFiles" | while read -r src; do
 	dirReadme_url="${dirReadmePath_escaped#"$path_root/"}"
 
 	folderName="$(basename "$(dirname "$src")")"
+	parentFolderName="$(basename "$(dirname "$(dirname "$src")")")"
+	folderPath="$(dirname "$src")"
+	parentFolderPath="$(dirname "$(dirname "$src")")"
 
 	if [ -n "$attrib" ]
 	then
@@ -125,13 +128,25 @@ echo "$imgFiles" | while read -r src; do
 		alt_text="$filename"
 	fi
 
-	if [ ! -f "$dirReadmePath" ]
+	folderPathReggie="$(quoteRe "${folderPath}/")"
+	parentFolderPathReggie="$(quoteRe "${parentFolderPath}/")"
+	parentFolderHeader="# $parentFolderName - $(echo "$imgFiles" | grep -iPc "$parentFolderPathReggie")"
+	folderHeader="## [$folderName]($dirReadme_url) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
+
+	# echo "${thumbnailMD}"
+	# echo  "^$(quoteRe "${parentFolderHeader}")$"
+
+	if ! grep -qP "^$(quoteRe "${parentFolderHeader}")$" "$thumbnailMD"
+ 	then
+		echo "${parentFolderHeader}" >> "$thumbnailMD"
+	fi
+	if ! grep -qP "^$(quoteRe "${folderHeader}")\$" "$thumbnailMD"
 	then
-	    echo "## [$folderName]($dirReadme_url)" >> "$thumbnailMD"
+	    echo "${folderHeader}" >> "$thumbnailMD"
 	fi
 
-	echo    "[![$alt_text]($thumb_url \""$alt_text"\")]($pape_url)" >> "$thumbnailMD" 
-	echo -n "[![$alt_text]($filename_escaped \""$alt_text"\")]($pape_url)" >> "$dirReadmePath"
+	echo    "[![$alt_text]($thumb_url \"$alt_text\")]($pape_url)" >> "$thumbnailMD" 
+	echo -n "[![$alt_text]($filename_escaped \"$alt_text\")]($pape_url)" >> "$dirReadmePath"
 
 	# have to do a bunch of shenanigans to get the attribution immediately below the picture
 	if [ -n "$attrib" ]
@@ -163,9 +178,9 @@ then
 
 		# pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src" -o "$htmlPath"
 		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
-		htmlText=$(echo "${htmlText//.md/.html}")
-		htmlText=$(echo "${htmlText//.MD/.html}")
-		htmlText=$(echo "${htmlText//"$raw_root"/}")
+		htmlText="${htmlText//.md/.html}"
+		htmlText="${htmlText//.MD/.html}"
+		htmlText="${htmlText//"$raw_root"/}"
 		echo "$htmlText" > "$htmlPath"
 
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
