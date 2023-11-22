@@ -100,7 +100,7 @@ echo "$imgFiles" | while read -r src; do
 		# echo "targetDimensions: $targetDimensions"
 
 		# resize images, then crop to the desired resolution
-		convert -thumbnail "$targetDimensions^" -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
+		convert -thumbnail "$targetDimensions^" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
 		echo "converted!"
 	else
 		mv "$thumbnail_old" "$target"
