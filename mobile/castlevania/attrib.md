@@ -18,5 +18,10 @@
 7 - S3MlVy9.png CastleVania Lament of Innocence by Ayami Kojima
 8 - hcr2yAU.jpg CastleVania Curse of Darkness by Ayami Kojima
 9 - Cs6igFl.png CastleVania Curse of Darkness by Ayami Kojima
+alucard by fishyu7.jpg Alucard by Fishyu7
 alucard_by_天由_(tenyo0819).jpg Alucard by 天由 (tenyo0819)
+artbook21.jpg from Santa Lilio Sangre by Ayami Kojima
+artbook26.jpg from Santa Lilio Sangre by Ayami Kojima
 castlevania-harmony-of-dissonance.jpg CastleVania Harmony of Dissonance by Ayami Kojima
+postcard01.jpg postcard by Ayami Kojima
+postcard02.jpg postcard by Ayami Kojima

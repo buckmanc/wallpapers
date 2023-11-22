@@ -24,15 +24,15 @@ thumbnailMD="${path_root}/.internals/thumbnails.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
+fileListFile="${path_root}/.internals/filelist.md"
 
 mkdir -p "$thumbnails_dir"
 mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
-if [ -f "$thumbnailMD" ]
-then
-	rm "$thumbnailMD"
-fi
+rm "$thumbnailMD" > /dev/null || true
+rm "$fileListFile" > /dev/null || true
+
 
 # stackoverflow.com/a/60559975/1995812
 imgFiles=$(
@@ -145,6 +145,7 @@ echo "$imgFiles" | while read -r src; do
 	    echo "${folderHeader}" >> "$thumbnailMD"
 	fi
 
+	echo    "$src" >> "$fileListFile"
 	echo    "[![$alt_text]($thumb_url \"$alt_text\")]($pape_url)" >> "$thumbnailMD" 
 	echo -n "[![$alt_text]($filename_escaped \"$alt_text\")]($pape_url)" >> "$dirReadmePath"
 
