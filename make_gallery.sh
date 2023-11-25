@@ -30,8 +30,8 @@ mkdir -p "$thumbnails_dir"
 mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
-rm "$thumbnailMD" > /dev/null || true
-rm "$fileListFile" > /dev/null || true
+rm "$thumbnailMD" > /dev/null 2>&1 || true
+rm "$fileListFile" > /dev/null 2>&1 || true
 
 
 # stackoverflow.com/a/60559975/1995812
@@ -100,7 +100,7 @@ echo "$imgFiles" | while read -r src; do
 		# echo "targetDimensions: $targetDimensions"
 
 		# resize images, then crop to the desired resolution
-		convert -thumbnail "$targetDimensions^" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
+		convert -background none -thumbnail "$targetDimensions^" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
 		echo "converted!"
 	else
 		mv "$thumbnail_old" "$target"

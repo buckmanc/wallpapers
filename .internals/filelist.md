@@ -360,10 +360,12 @@
 ./mobile/castlevania/20231121_015748.jpg
 ./mobile/castlevania/20231121_020902.jpg
 ./mobile/castlevania/20231121_021131.jpg
+./mobile/castlevania/20231123_063551.jpg
 ./mobile/castlevania/20 - EkIAgPV.jpg
 ./mobile/castlevania/21 - RIvjANK.jpg
 ./mobile/castlevania/2 - WSt1iQK.png
 ./mobile/castlevania/3024642.jpg
+./mobile/castlevania/3e766178fa7fb1c01a36ef3b22b47af8.jpg
 ./mobile/castlevania/4 - GNlBXuj.png
 ./mobile/castlevania/5 - tVTVWtU.png
 ./mobile/castlevania/6 - 9a6sKUO.jpg
@@ -371,7 +373,10 @@
 ./mobile/castlevania/8 - hcr2yAU.jpg
 ./mobile/castlevania/9 - Cs6igFl.png
 ./mobile/castlevania/a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp
+./mobile/castlevania/Agreus Concept Art by jorge-benedito.jpg
+./mobile/castlevania/Alucard by essijuulia.jpg
 ./mobile/castlevania/alucard by fishyu7.jpg
+./mobile/castlevania/Alucard by Junki Sakuraba.jpeg
 ./mobile/castlevania/alucard_by_天由_(tenyo0819).jpg
 ./mobile/castlevania/aos1.jpg
 ./mobile/castlevania/artbook21.jpg
@@ -379,18 +384,52 @@
 ./mobile/castlevania/ASVpzIy.jpeg
 ./mobile/castlevania/ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg
 ./mobile/castlevania/bloodstained-rotn-art-scale-6_00x-gigapixel.jpg
+./mobile/castlevania/C73POh5XgAELqJv.jpeg
+./mobile/castlevania/Castlevania by ömer tunç.jpg
+./mobile/castlevania/castlevania-by-roma-timbreza.jpg
+./mobile/castlevania/Castlevania_.Harmony.of.Despair.full.795549.jpg
 ./mobile/castlevania/castlevania-harmony-of-dissonance.jpg
+./mobile/castlevania/Castlevania-HD-wallpaper.png
+./mobile/castlevania/Castlevania-lordsofsh-reverie-castle.png
+./mobile/castlevania/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg
 ./mobile/castlevania/castlevania-symphony-of-the-night.jpg
 ./mobile/castlevania/CcgelJfUMAEoFjK.jpg_large.jpg
+./mobile/castlevania/Clipped_image_20231123_064708.png
+./mobile/castlevania/Dead-Cells-Castlevania_12-08-22.jpg
 ./mobile/castlevania/DPFKc8hXkAAPpO6.jpeg
+./mobile/castlevania/Dracula_by_katie_silva.jpg
+./mobile/castlevania/dracula by naranbaatar-ganbold.jpg
+./mobile/castlevania/Dracula's_Castle_-_01.png
+./mobile/castlevania/Dracula's_Castle_-_23.png
+./mobile/castlevania/Dracula's Castle by ilo275.jpg
+./mobile/castlevania/Dracula's_Castle_-_Moonlight_Rhapsody_-_01.jpg
+./mobile/castlevania/E2LQayxWUAcvuMr.jpg
 ./mobile/castlevania/ee80f1b6e244af88b37313b7f9c67d33.jpg
 ./mobile/castlevania/Eh5bZK5U0AAaJsr.jpeg
 ./mobile/castlevania/ERw7WnTWsAIsbY8.jpeg
+./mobile/castlevania/ESRnAXvU0AIU6M0.jpeg
+./mobile/castlevania/EYb4Rn1UEAEkLSD.png
 ./mobile/castlevania/img_1_1700538136839.jpg
+./mobile/castlevania/img_1_1700744816368.jpg
 ./mobile/castlevania/img_3_1700538366365.jpg
+./mobile/castlevania/img_4_1700744929740.jpg
+./mobile/castlevania/img_5_1700745563824.jpg
+./mobile/castlevania/Mathias_Cronqvist.png
+./mobile/castlevania/Ooe_dracula_10_1280.jpg
 ./mobile/castlevania/postcard01.jpg
 ./mobile/castlevania/postcard02.jpg
+./mobile/castlevania/pxfuel (1).jpg
+./mobile/castlevania/pxfuel (3).jpg
+./mobile/castlevania/pxfuel.jpg
+./mobile/castlevania/Quest_map_10_4.png
+./mobile/castlevania/Quest_map_1_4.png
+./mobile/castlevania/SotN Poster - Alucard by Jhony Caballero.jpg
+./mobile/castlevania/SotN Poster - Dracula by Jhony Caballero.jpg
+./mobile/castlevania/SotN Poster - Richter by Jhony Caballero.jpg
 ./mobile/castlevania/symbol.jpg
+./mobile/castlevania/Tepes_Family_Portrait_by_Katie_Silva.png
+./mobile/castlevania/The Devil Forgemaster by Al Santos.jpg
+./mobile/castlevania/Tumblr_os9m8x9nzK1qmz9juo2_1280.jpg
 ./mobile/castlevania/wallpaperflare.com_wallpaper (2).jpg
 ./mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png
 ./mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg
@@ -412,6 +451,8 @@
 ./mobile/games - nintendo/peakpx (2).jpg
 ./mobile/games - nintendo/pxfuel (1).jpg
 ./mobile/games - nintendo/pxfuel.jpg
+./mobile/games - the legend of zelda/2677727167.jpg
+./mobile/games - the legend of zelda/fytwibawj6031.jpg
 ./mobile/games - the legend of zelda/nxe_triforce.jpg
 ./mobile/games - the legend of zelda/pxfuel (10).jpg
 ./mobile/games - the legend of zelda/pxfuel (11).jpg
@@ -424,6 +465,7 @@
 ./mobile/games - the legend of zelda/pxfuel (7).jpg
 ./mobile/games - the legend of zelda/pxfuel (8).jpg
 ./mobile/games - the legend of zelda/pxfuel (9).jpg
+./mobile/misc/6406800.jpg
 ./mobile/misc/Castle.jpg
 ./mobile/misc/Dark Forest (1).jpg
 ./mobile/misc/Dark Forest.jpg
@@ -437,6 +479,8 @@
 ./mobile/misc/Nature.jpg
 ./mobile/misc/Night Creepy.jpg
 ./mobile/misc/Pagan 01.jpg
+./mobile/misc/pxfuel (4).jpg
+./mobile/misc/The Eldritch Tutor by Dies Vitae.jpeg
 ./mobile/misc/the_moon_by_ari_ibarra.jpg
 ./mobile/misc cosmere/elantris_by_peter_kovacs.jpg
 ./mobile/misc cosmere/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg

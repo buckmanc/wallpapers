@@ -1,3 +1,7 @@
+[![2677727167.jpg](2677727167.jpg "2677727167.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/games%20-%20the%20legend%20of%20zelda/2677727167.jpg)
+
+[![fytwibawj6031.jpg](fytwibawj6031.jpg "fytwibawj6031.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/games%20-%20the%20legend%20of%20zelda/fytwibawj6031.jpg)
+
 [![nxe_triforce.jpg](nxe_triforce.jpg "nxe_triforce.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/games%20-%20the%20legend%20of%20zelda/nxe_triforce.jpg)
 
 [![pxfuel (10).jpg](pxfuel%20(10).jpg "pxfuel (10).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/games%20-%20the%20legend%20of%20zelda/pxfuel%20(10).jpg)

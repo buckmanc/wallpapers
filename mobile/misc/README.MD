@@ -1,3 +1,5 @@
+[![6406800.jpg](6406800.jpg "6406800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/6406800.jpg)
+
 [![Castle.jpg](Castle.jpg "Castle.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Castle.jpg)
 
 [![Dark Forest (1).jpg](Dark%20Forest%20(1).jpg "Dark Forest (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Dark%20Forest%20(1).jpg)
@@ -24,6 +26,11 @@ Mega Sharjk Attack by By Dominik Broniek
 [![Night Creepy.jpg](Night%20Creepy.jpg "Night Creepy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Night%20Creepy.jpg)
 
 [![Pagan 01.jpg](Pagan%2001.jpg "Pagan 01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Pagan%2001.jpg)
+
+[![pxfuel (4).jpg](pxfuel%20(4).jpg "pxfuel (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(4).jpg)
+
+[![The Eldritch Tutor by Dies Vitae](The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg "The Eldritch Tutor by Dies Vitae")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg)\
+The Eldritch Tutor by Dies Vitae
 
 [![The Moon by Ari Ibarra](the_moon_by_ari_ibarra.jpg "The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/the_moon_by_ari_ibarra.jpg)\
 The Moon by Ari Ibarra
