@@ -171,20 +171,73 @@ rm -rf "$thumbnails_old_dir"
 if type pandoc >/dev/null 2>&1
 then
 	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md')
+
+	i=0
+	total=$(echo "$mdFiles" | wc -l)
+
 	echo "$mdFiles" | while read -r src; do
-		metaTitle="${src%.*}"
+		((i++)) || true
+		descname="$(basename "$(dirname "$src")")/$(basename "$src")"
+		printf '%4d/%d: %s... ' "$i" "$total" "$descname"
+			metaTitle="${src%.*}"
 		metaTitle="${metaTitle#"$path_root"}"
 		metaTitle="${metaTitle#/}"
 		htmlPath="${src%.*}.html"
+		if [ -f "$htmlPath" ]
+		then
+			rm "$htmlPath"
+		fi
+		
 
-		# pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src" -o "$htmlPath"
 		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
 		htmlText="${htmlText//.md/.html}"
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"
-		echo "$htmlText" > "$htmlPath"
+
+		echo "$htmlText" | while read htmlLine; do
+
+		# write existing line to file
+		echo "$htmlLine" >> "$htmlPath"
+
+		if [[ "$htmlLine" == "</header>" ]]
+		then
+			modText="<iframe name=\"dummyframe\" id=\"dummyframe\" style=\"display: none;\"></iframe>"
+		echo "$modText" >> "$htmlPath"
+
+		fi
+
+		if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
+		then
+			href=$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+')
+			title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
+
+			#TODO fix this script's indenting
+
+			renamePrefil="$(basename "$href" | urldecode)"
+			renamePrefil="${renamePrefil%.*}"
+			
+			modText="
+			<form action=\"/cgi-bin/move\" target=\"dummyframe\">
+			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
+			<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href" | urldecode)\">
+			  <label for=\"destname\">new file name:</label>
+			  <input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
+				  <input type=\"submit\" value=\"Rename\">
+				  </form>
+				  <br>
+				  "
+
+		# write new stuff to file
+		echo "$modText" >> "$htmlPath"
+
+		fi
+
+
+	done
+
 
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
 	
+		echo "done!"
 	done
 fi
