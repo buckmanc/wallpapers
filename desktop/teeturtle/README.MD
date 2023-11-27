@@ -8,6 +8,9 @@
 
 [![Celestial-Cat4200x4200.jpg](Celestial-Cat4200x4200.jpg "Celestial-Cat4200x4200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Celestial-Cat4200x4200.jpg)
 
+[![Celestial Current](celestial_current.jpeg "Celestial Current")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/celestial_current.jpeg)\
+Celestial Current
+
 [![Celestial-D20.jpg](Celestial-D20.jpg "Celestial-D20.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Celestial-D20.jpg)
 
 [![Cthulhu-Calling.jpg](Cthulhu-Calling.jpg "Cthulhu-Calling.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Cthulhu-Calling.jpg)
@@ -24,9 +27,6 @@
 
 [![Enchanting-KITSUNE.jpg](Enchanting-KITSUNE.jpg "Enchanting-KITSUNE.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Enchanting-KITSUNE.jpg)
 
-[![Celestial Current](F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg "Celestial Current")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg)\
-Celestial Current
-
 [![four-unicorns-of-the-apocalypse-V2.jpg](four-unicorns-of-the-apocalypse-V2.jpg "four-unicorns-of-the-apocalypse-V2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/four-unicorns-of-the-apocalypse-V2.jpg)
 
 [![Foxy-Astronaut.jpg](Foxy-Astronaut.jpg "Foxy-Astronaut.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Foxy-Astronaut.jpg)
@@ -40,8 +40,6 @@ Celestial Current
 [![Lupine-Constellations.jpg](Lupine-Constellations.jpg "Lupine-Constellations.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Lupine-Constellations.jpg)
 
 [![Mighty-Warrior.jpg](Mighty-Warrior.jpg "Mighty-Warrior.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Mighty-Warrior.jpg)
-
-[![Moonlight-Tale.jpg](Moonlight-Tale.jpg "Moonlight-Tale.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Moonlight-Tale.jpg)
 
 [![Moonlit-Blade-of-Roses.jpg](Moonlit-Blade-of-Roses.jpg "Moonlit-Blade-of-Roses.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/Moonlit-Blade-of-Roses.jpg)
 
@@ -86,6 +84,8 @@ Celestial Current
 [![zz02-reading01-TT-Spellbinding-Stories.jpg](zz02-reading01-TT-Spellbinding-Stories.jpg "zz02-reading01-TT-Spellbinding-Stories.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading01-TT-Spellbinding-Stories.jpg)
 
 [![zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg](zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg "zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg)
+
+[![zz02_reading99_moonlight-tale.jpg](zz02_reading99_moonlight-tale.jpg "zz02_reading99_moonlight-tale.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02_reading99_moonlight-tale.jpg)
 
 [![zz02-reading99-TT-Tale-of-Adventure.jpg](zz02-reading99-TT-Tale-of-Adventure.jpg "zz02-reading99-TT-Tale-of-Adventure.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/teeturtle/zz02-reading99-TT-Tale-of-Adventure.jpg)
 

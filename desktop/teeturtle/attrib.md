@@ -1,4 +1,4 @@
-F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg Celestial Current
+celestial_current.jpeg Celestial Current
 Foxy-Astronaut_800x800__SEPS.jpg Foxy Astronaut
 Im-Fulfilling-My-Destintiny_800x800_SEPS.jpg I'm Fulfilling My Destiny
 TT-Bats-and-Baubles_4200x4200_SEPS.jpg Bats and Baubles

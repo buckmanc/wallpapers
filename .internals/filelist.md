@@ -274,6 +274,7 @@
 ./desktop/teeturtle/Book-Hoarder.jpg
 ./desktop/teeturtle/Celastial-Spirits.jpg
 ./desktop/teeturtle/Celestial-Cat4200x4200.jpg
+./desktop/teeturtle/celestial_current.jpeg
 ./desktop/teeturtle/Celestial-D20.jpg
 ./desktop/teeturtle/Cthulhu-Calling.jpg
 ./desktop/teeturtle/D20-Cthulhu.jpg
@@ -282,7 +283,6 @@
 ./desktop/teeturtle/Earth-Fire-Water-and-Air-Dragons.jpg
 ./desktop/teeturtle/Elemental-Kitsune.jpg
 ./desktop/teeturtle/Enchanting-KITSUNE.jpg
-./desktop/teeturtle/F4B5783D-343A-439B-9950-72D0B5E815E0.jpeg
 ./desktop/teeturtle/four-unicorns-of-the-apocalypse-V2.jpg
 ./desktop/teeturtle/Foxy-Astronaut.jpg
 ./desktop/teeturtle/Grim-Reapers-Roll.jpg
@@ -290,7 +290,6 @@
 ./desktop/teeturtle/Im-Fulfilling-My-Destintiny.jpg
 ./desktop/teeturtle/Lupine-Constellations.jpg
 ./desktop/teeturtle/Mighty-Warrior.jpg
-./desktop/teeturtle/Moonlight-Tale.jpg
 ./desktop/teeturtle/Moonlit-Blade-of-Roses.jpg
 ./desktop/teeturtle/Mystic-Tea.jpg
 ./desktop/teeturtle/Necromancer-Cat.jpg
@@ -313,6 +312,7 @@
 ./desktop/teeturtle/zz01-mushfrog-TT-Twilight-Toadstool.jpg
 ./desktop/teeturtle/zz02-reading01-TT-Spellbinding-Stories.jpg
 ./desktop/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg
+./desktop/teeturtle/zz02_reading99_moonlight-tale.jpg
 ./desktop/teeturtle/zz02-reading99-TT-Tale-of-Adventure.jpg
 ./desktop/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg
 ./desktop/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg
@@ -337,103 +337,148 @@
 ./desktop/yumi and the nightmare painter/Learning_to_Paint_by_Aliya_Chen.jpg
 ./desktop/yumi and the nightmare painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg
 ./desktop/yumi and the nightmare painter/Yumi_wallpaper_horizontal_no_title.jpg
-./mobile/castlevania/030-color.jpg
-./mobile/castlevania/045-color.jpg
-./mobile/castlevania/072-color.jpg
-./mobile/castlevania/09-castlevania.jpg
-./mobile/castlevania/10 - okWPhCm.png
-./mobile/castlevania/114-color.jpg
-./mobile/castlevania/11 - fKM5QDq.png
-./mobile/castlevania/1225346.jpg
-./mobile/castlevania/126-color.jpg
-./mobile/castlevania/12 - k4DDwLi.png
-./mobile/castlevania/13 - R1vgp71.png
+./mobile/castlevania/00_ak_cv_09-castlevania.jpg
+./mobile/castlevania/00_ak_cv_10_-_okwphcm.png
+./mobile/castlevania/00_ak_cv_11_-_fkm5qdq.png
+./mobile/castlevania/00_ak_cv_12_-_k4ddwli.png
+./mobile/castlevania/00_ak_cv_13_-_r1vgp71.png
+./mobile/castlevania/00_ak_cv_1_-_wyzd3zs.png
+./mobile/castlevania/00_ak_cv_20231121_021131.jpg
+./mobile/castlevania/00_ak_cv_20231123_064708.png
+./mobile/castlevania/00_ak_cv_2_-_wst1iqk.png
+./mobile/castlevania/00_ak_cv_4_-_gnlbxuj.png
+./mobile/castlevania/00_ak_cv_5_-_tvtvwtu.png
+./mobile/castlevania/00_ak_cv_6_-_9a6skuo.jpg
+./mobile/castlevania/00_ak_cv_7_-_s3mlvy9.png
+./mobile/castlevania/00_ak_cv_8_-_hcr2yau.jpg
+./mobile/castlevania/00_ak_cv_9_-_cs6igfl.png
+./mobile/castlevania/00_ak_cv_aos1.jpg
+./mobile/castlevania/00_ak_cv_artbook21.jpg
+./mobile/castlevania/00_ak_cv_ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg
+./mobile/castlevania/00_ak_cv_bloodstained-rotn-art-scale-6_00x-gigapixel.jpg
+./mobile/castlevania/00_ak_cv_castlevania_harmony_of_despair_full_795549.jpg
+./mobile/castlevania/00_ak_cv_castlevania-harmony-of-dissonance.jpg
+./mobile/castlevania/00_ak_cv_castlevania-symphony-of-the-night.jpg
+./mobile/castlevania/00_ak_cv_dpfkc8hxkaappo6.jpeg
+./mobile/castlevania/00_ak_cv_eh5bzk5u0aaajsr.jpeg
+./mobile/castlevania/00_ak_cv_grimoire_of_souls_01.jpg
+./mobile/castlevania/00_ak_cv_grimoire_of_souls_02.jpg
+./mobile/castlevania/00_ak_cv_manga_01.jpg
+./mobile/castlevania/00_ak_cv_manga_02.jpg
+./mobile/castlevania/00_ak_cv_manga_18.jpg
+./mobile/castlevania/00_ak_cv_manga_artbook26.jpg
+./mobile/castlevania/00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg
+./mobile/castlevania/00_ak_cv_mathias_cronqvist.png
+./mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg
+./mobile/castlevania/00_ak_og_030-color.jpg
+./mobile/castlevania/00_ak_og_045-color.jpg
+./mobile/castlevania/00_ak_og_072-color.jpg
+./mobile/castlevania/00_ak_og_114-color.jpg
+./mobile/castlevania/00_ak_og_126-color.jpg
+./mobile/castlevania/00_ak_og_eyb4rn1ueaeklsd.png
+./mobile/castlevania/00_ak_og_img_1_1700538136839.jpg
+./mobile/castlevania/00_ak_og_img_1_1700744816368.jpg
+./mobile/castlevania/00_ak_og_img_3_1700538366365.jpg
+./mobile/castlevania/00_ak_og_img_4_1700744929740.jpg
+./mobile/castlevania/00_ak_og_img_5_1700745563824.jpg
+./mobile/castlevania/00_ak_og_postcard01.jpg
+./mobile/castlevania/00_ak_og_postcard02.jpg
+./mobile/castlevania/00_ak_og_postcard03.jpg
 ./mobile/castlevania/14 - pdydhcq.jpg
 ./mobile/castlevania/15 - NKpvJxO.jpg
 ./mobile/castlevania/16 - uBD0R8V.jpg
 ./mobile/castlevania/17 - 9WN4MMr.png
-./mobile/castlevania/18 - BcYaTv4.jpg
-./mobile/castlevania/18.jpg
 ./mobile/castlevania/19 - Lvc2HYV.jpg
-./mobile/castlevania/1 - WyZD3ZS.png
-./mobile/castlevania/20231121_014827.jpg
-./mobile/castlevania/20231121_015748.jpg
-./mobile/castlevania/20231121_020902.jpg
-./mobile/castlevania/20231121_021131.jpg
-./mobile/castlevania/20231123_063551.jpg
 ./mobile/castlevania/20 - EkIAgPV.jpg
 ./mobile/castlevania/21 - RIvjANK.jpg
-./mobile/castlevania/2 - WSt1iQK.png
-./mobile/castlevania/3024642.jpg
-./mobile/castlevania/3e766178fa7fb1c01a36ef3b22b47af8.jpg
-./mobile/castlevania/4 - GNlBXuj.png
-./mobile/castlevania/5 - tVTVWtU.png
-./mobile/castlevania/6 - 9a6sKUO.jpg
-./mobile/castlevania/7 - S3MlVy9.png
-./mobile/castlevania/8 - hcr2yAU.jpg
-./mobile/castlevania/9 - Cs6igFl.png
-./mobile/castlevania/a16ce57a08d36cc657e315abd32aacc4f9b8041a.webp
 ./mobile/castlevania/Agreus Concept Art by jorge-benedito.jpg
 ./mobile/castlevania/Alucard by essijuulia.jpg
 ./mobile/castlevania/alucard by fishyu7.jpg
 ./mobile/castlevania/Alucard by Junki Sakuraba.jpeg
 ./mobile/castlevania/alucard_by_天由_(tenyo0819).jpg
-./mobile/castlevania/aos1.jpg
-./mobile/castlevania/artbook21.jpg
-./mobile/castlevania/artbook26.jpg
 ./mobile/castlevania/ASVpzIy.jpeg
-./mobile/castlevania/ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg
-./mobile/castlevania/bloodstained-rotn-art-scale-6_00x-gigapixel.jpg
-./mobile/castlevania/C73POh5XgAELqJv.jpeg
-./mobile/castlevania/Castlevania by ömer tunç.jpg
-./mobile/castlevania/castlevania-by-roma-timbreza.jpg
-./mobile/castlevania/Castlevania_.Harmony.of.Despair.full.795549.jpg
-./mobile/castlevania/castlevania-harmony-of-dissonance.jpg
+./mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg
+./mobile/castlevania/castlevania_by_kilian_eng.jpeg
+./mobile/castlevania/castlevania-by-kilian-eng-variant.jpg
 ./mobile/castlevania/Castlevania-HD-wallpaper.png
-./mobile/castlevania/Castlevania-lordsofsh-reverie-castle.png
 ./mobile/castlevania/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg
-./mobile/castlevania/castlevania-symphony-of-the-night.jpg
+./mobile/castlevania/castlevania_symphony_of_the_night_by_nicolas_delort.jpg
 ./mobile/castlevania/CcgelJfUMAEoFjK.jpg_large.jpg
-./mobile/castlevania/Clipped_image_20231123_064708.png
-./mobile/castlevania/Dead-Cells-Castlevania_12-08-22.jpg
-./mobile/castlevania/DPFKc8hXkAAPpO6.jpeg
+./mobile/castlevania/dan_mumford_alucard.jpg
+./mobile/castlevania/dan_mumford_richter.jpg
 ./mobile/castlevania/Dracula_by_katie_silva.jpg
 ./mobile/castlevania/dracula by naranbaatar-ganbold.jpg
-./mobile/castlevania/Dracula's_Castle_-_01.png
-./mobile/castlevania/Dracula's_Castle_-_23.png
-./mobile/castlevania/Dracula's Castle by ilo275.jpg
-./mobile/castlevania/Dracula's_Castle_-_Moonlight_Rhapsody_-_01.jpg
-./mobile/castlevania/E2LQayxWUAcvuMr.jpg
-./mobile/castlevania/ee80f1b6e244af88b37313b7f9c67d33.jpg
-./mobile/castlevania/Eh5bZK5U0AAaJsr.jpeg
-./mobile/castlevania/ERw7WnTWsAIsbY8.jpeg
+./mobile/castlevania/dracula_order_of_ecclesia_2.jpeg
+./mobile/castlevania/dracula_order_of_ecclesia.jpg
 ./mobile/castlevania/ESRnAXvU0AIU6M0.jpeg
-./mobile/castlevania/EYb4Rn1UEAEkLSD.png
-./mobile/castlevania/img_1_1700538136839.jpg
-./mobile/castlevania/img_1_1700744816368.jpg
-./mobile/castlevania/img_3_1700538366365.jpg
-./mobile/castlevania/img_4_1700744929740.jpg
-./mobile/castlevania/img_5_1700745563824.jpg
-./mobile/castlevania/Mathias_Cronqvist.png
-./mobile/castlevania/Ooe_dracula_10_1280.jpg
-./mobile/castlevania/postcard01.jpg
-./mobile/castlevania/postcard02.jpg
+./mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg
+./mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png
 ./mobile/castlevania/pxfuel (1).jpg
-./mobile/castlevania/pxfuel (3).jpg
 ./mobile/castlevania/pxfuel.jpg
-./mobile/castlevania/Quest_map_10_4.png
 ./mobile/castlevania/Quest_map_1_4.png
 ./mobile/castlevania/SotN Poster - Alucard by Jhony Caballero.jpg
 ./mobile/castlevania/SotN Poster - Dracula by Jhony Caballero.jpg
 ./mobile/castlevania/SotN Poster - Richter by Jhony Caballero.jpg
 ./mobile/castlevania/symbol.jpg
-./mobile/castlevania/Tepes_Family_Portrait_by_Katie_Silva.png
 ./mobile/castlevania/The Devil Forgemaster by Al Santos.jpg
-./mobile/castlevania/Tumblr_os9m8x9nzK1qmz9juo2_1280.jpg
-./mobile/castlevania/wallpaperflare.com_wallpaper (2).jpg
 ./mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png
 ./mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg
-./mobile/castlevania/yaso02.jpg
+./mobile/castlevania/zz_castle_anime.jpg
+./mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg
+./mobile/castlevania/zz_castle_castlevania_01.png
+./mobile/castlevania/zz_castle_castlevania-by-roma-timbreza.jpg
+./mobile/castlevania/zz_castle_castlevania-lordsofsh-reverie-castle.png
+./mobile/castlevania/zz_castle_dead_cells_02.webp
+./mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg
+./mobile/castlevania/zz_castle_dracula's_castle_-_23.png
+./mobile/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg
+./mobile/castlevania/zz_castle_e2lqayxwuacvumr.jpg
+./mobile/castlevania/zz_castle_grimoire_of_souls.png
+./mobile/castlevania/zz_castle_order_of_ecclesia_wallpaper.jpg
+./mobile/castlevania/zz_castlevania_by_ömer_tunç.jpg
+./mobile/dan mumford/dan_mumford_alucard.jpg
+./mobile/dan mumford/dan_mumford_richter.jpg
+./mobile/dan mumford/DARK_SOULS_dan_mumford.jpg
+./mobile/dan mumford/desktop-wallpaper-dan-mumford-and-here-is-the-print-version-of-my-nocturnal-reinterpretation-for-available-in.jpg
+./mobile/dan mumford/DEVIL_MAY_CRY_dan_mumford.jpg
+./mobile/dan mumford/ELDEN_RING.jpg
+./mobile/dan mumford/FFVII_dan_mumford_2.jpg
+./mobile/dan mumford/FFVII_dan_mumford.jpg
+./mobile/dan mumford/FINAL_FANTASY_7.jpg
+./mobile/dan mumford/GOD_OF_WAR_dan_mumford.jpg
+./mobile/dan mumford/Hearthstone_dan_mumford_2.jpg
+./mobile/dan mumford/Hearthstone_dan_mumford.jpg
+./mobile/dan mumford/MEGAMAN_dan_mumford_2.jpg
+./mobile/dan mumford/MEGA_MAN_X.jpg
+./mobile/dan mumford/METAL_GEAR_SOLID_dan_mumford.jpg
+./mobile/dan mumford/METROID_dan_mumford.jpg
+./mobile/dan mumford/METROID_PRIME.jpg
+./mobile/dan mumford/METROID_PRIME_variant.jpg
+./mobile/dan mumford/POKEMON.jpg
+./mobile/dan mumford/PORTAL.jpg
+./mobile/dan mumford/SHADOW_OF_THE_COLOSSUS_foil.jpg
+./mobile/dan mumford/SHADOW_OF_THE_COLOSSUS.jpg
+./mobile/dan mumford/Shovel_knight_dan_mumford2.jpg
+./mobile/dan mumford/Shovel_knight_dan_mumford.jpg
+./mobile/dan mumford/Shovel_knight_plague_knight_dan_mumford.jpg
+./mobile/dan mumford/Shovel_Knight_specter_knight_dan_mumford.jpg
+./mobile/dan mumford/SILENT_HILL_dan_mumford.jpg
+./mobile/dan mumford/SPACE_INVADERS_foil.jpg
+./mobile/dan mumford/SPACE_INVADERS.jpg
+./mobile/dan mumford/SUPER_MARIO_WORLD.jpg
+./mobile/dan mumford/THE_WITCHER.jpg
+./mobile/dan mumford/TMNT_2_dan_mumford.jpg
+./mobile/dan mumford/TMNT_dan_mumford_2.jpg
+./mobile/dan mumford/TMNT_dan_mumford.jpg
+./mobile/dan mumford/TOMB_RAIDER_dan_mumford.jpg
+./mobile/dan mumford/WIPEOUT_foil.jpg
+./mobile/dan mumford/WIPEOUT.jpg
+./mobile/dan mumford/YOSHIS_ISLAND.jpg
+./mobile/dan mumford/YOSHIS_ISLAND_variant.jpg
+./mobile/dan mumford/ZELDA_BOTW.jpg
+./mobile/dan mumford/ZELDA_BOTW_variant.jpg
+./mobile/dan mumford/ZELDA_dan_mumford.jpg
+./mobile/dan mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg
 ./mobile/frog/a frog and his son by Dingzhong Hu.jpg
 ./mobile/frog/a frog reading to his son by Dingzhong Hu.jpg
 ./mobile/frog/angler frog by Dingzhong Hu.jpg
