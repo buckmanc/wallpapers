@@ -218,7 +218,7 @@ then
 			
 			modText="
 			<form action=\"/cgi-bin/move\" target=\"dummyframe\">
-			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
+			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href" | urldecode)\">
 			<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href" | urldecode)\">
 			  <label for=\"destname\">new file name:</label>
 			  <input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
