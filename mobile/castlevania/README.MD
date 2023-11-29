@@ -172,8 +172,6 @@ Dracula by Katie Silva
 [![Dracula by Naranbaatar Ganbold](dracula%20by%20naranbaatar-ganbold.jpg "Dracula by Naranbaatar Ganbold")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg)\
 Dracula by Naranbaatar Ganbold
 
-[![dracula_order_of_ecclesia_2.jpeg](dracula_order_of_ecclesia_2.jpeg "dracula_order_of_ecclesia_2.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia_2.jpeg)
-
 [![CastleVania Order of Ecclesia by Masaki Hirooka](dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)\
 CastleVania Order of Ecclesia by Masaki Hirooka
 

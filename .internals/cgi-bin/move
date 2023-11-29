@@ -48,6 +48,9 @@ do
     echo "$demo" >> "$gitroot/.internals/cgi-bin/args.log"
 done
 
+# TODO validate with a simple provided token here
+# nothing fancy
+
 echo "<hr>"
 
 # git config --global --add safe.directory /media/content/Wallpapers

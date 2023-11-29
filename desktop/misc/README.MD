@@ -2,6 +2,8 @@
 
 [![4k-keyboard.jpg](4k-keyboard.jpg "4k-keyboard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/4k-keyboard.jpg)
 
+[![7114b7d95362aa4273b803f6c7f68ea4.jpeg](7114b7d95362aa4273b803f6c7f68ea4.jpeg "7114b7d95362aa4273b803f6c7f68ea4.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/7114b7d95362aa4273b803f6c7f68ea4.jpeg)
+
 [![914910.jpg](914910.jpg "914910.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/914910.jpg)
 
 [![BatSwarm.jpg](BatSwarm.jpg "BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/BatSwarm.jpg)
