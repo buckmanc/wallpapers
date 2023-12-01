@@ -28,14 +28,14 @@ rm "$fileListFile" > /dev/null 2>&1 || true
 
 
 # stackoverflow.com/a/60559975/1995812
-imgFiles=$(
+GetImageFiles() {
 	find "$path_root" -maxdepth 5 -mindepth 3 -type f -not -path '*/thumbnails*' |
 	file --mime-type -f - |
 	grep -F image/ |
 	rev | cut -d : -f 2- | rev |
 	sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7
-)
-
+}
+imgFiles="$(GetImageFiles)"
 
 # if type pyphash-sort >/dev/null 2>&1
 # then
@@ -44,23 +44,28 @@ imgFiles=$(
 # 	imgFiles="$(echo "$imgFiles" | pyphash-sort "(/forests/|/space/|/misc/|/leaves/)")"
 # fi
 
-# # if perceptual hashing is available, append the hash to the start of the file for applicable categories
-# if type pyphash >/dev/null 2>&1
-# then
-# 	echo "$imgFiles" | while read -r path
-# 	do
-# 		filename="$(basename "$path")"
-# 		if echo "$path" | grep -qiP "(/forests/|/space/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
-# 		then
-# 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
-# 			mv "$path" "$newPath"
-# 			path="$newPath"
-# 		fi
-#
-# 		imgFilesTemp+="$path"
-# 		imgFilesTemp!=$'\n'
-# 	done
-# fi
+# if perceptual hashing is available, append the hash to the start of the file for applicable categories
+if type pyphash >/dev/null 2>&1
+then
+	echo "checking for missing perceptual hash sort data"
+	echo "$imgFiles" | while read -r path
+	do
+		filename="$(basename "$path")"
+		if echo "$path" | grep -qiP "(/forests/|/space/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
+		then
+			echo -n "moving ${path}..."
+			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
+			mv --backup=numbered "$path" "$newPath"
+			echo "done"
+		fi
+
+	done
+
+	echo "updating image paths..."
+	imgFiles="$(GetImageFiles)"
+
+	echo "done with perceptual hash check"
+fi
 
 
 # delete the folder readme files
@@ -238,18 +243,27 @@ then
 
 		if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
 		then
-			href=$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+')
+			href="$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+' | urldecode)"
 			title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
 
 			#TODO fix this script's indenting
-
-			renamePrefil="$(basename "$href" | urldecode)"
+		
+			renamePrefil="$(basename "$href")"
 			renamePrefil="${renamePrefil%.*}"
+			if [ -f "${path_root}${href}" ]
+			then
+				resolution=$(identify -ping -format '%wx%h' "${path_root}${href}")
+			else
+				resolution="???"
+
+			fi
 			
 			modText="
 			<form action=\"/cgi-bin/move\" target=\"dummyframe\">
-			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href" | urldecode)\">
-			<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href" | urldecode)\">
+			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
+			<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
+			<label>${resolution}</label>
+			<br>
 			  <label for=\"destname\">new file name:</label>
 			  <input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
 				  <input type=\"submit\" value=\"Rename\">

@@ -4,184 +4,184 @@
 ./desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg
 ./desktop/castlevania/zz_castle_dracula's_castle_-_23.png
 ./desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg
-./desktop/forests/0087039a3a065ce7b9888b4bc5087768.jpeg
-./desktop/forests/06fc6abbc63b99c9903ff625b617ec9b.jpeg
-./desktop/forests/0aba909bf54ddbcd2dd0c87e2457621d.jpeg
-./desktop/forests/0uanaa3l93931.jpg
-./desktop/forests/1094574-1321433670.jpg
-./desktop/forests/150425-autumn-sunlight-woodland-mist-nature-550x310.jpg
-./desktop/forests/1584744923895.png
-./desktop/forests/1592433088417.jpg
-./desktop/forests/1899ce9b55d90e3eb8411af860b16839.jpg
-./desktop/forests/1dee8bb45b1743cbecfc62c6c5588d95.jpeg
-./desktop/forests/1KVob09.jpg
-./desktop/forests/2048x1536_wood-trees-gloomy-fog-haze-darkness.jpg
-./desktop/forests/236b75a78fce3e355ab309ae7a0bdcab.jpeg
-./desktop/forests/2kfZQbV.jpg
-./desktop/forests/3020034-dark_fairy-tale_foggy_forest.jpg
-./desktop/forests/31adb0c35c80479c471b1faa53749a70.jpeg
-./desktop/forests/31AeHoT.jpg
-./desktop/forests/39570893840_d1632deea4_k.jpg
-./desktop/forests/39675-dark-forest-1920x1080-digital-art-wallpaper.jpg
-./desktop/forests/4201114-night-watch.jpg
-./desktop/forests/559873.jpg
-./desktop/forests/574455375-IMG_1480.jpg
-./desktop/forests/5c96fe092b0e872734eb5e0a8861fc8a.jpeg
-./desktop/forests/66971-1-1434556732.png
-./desktop/forests/751042.jpg
-./desktop/forests/79022f2cd0976f67ded8c97542f9b407.jpeg
-./desktop/forests/8w12n5l2a2101.jpg
-./desktop/forests/946027-Yuri-Hill-horror-forest-Moon-moonlight-dark (1).jpg
-./desktop/forests/946027-Yuri-Hill-horror-forest-Moon-moonlight-dark.jpg
-./desktop/forests/a12yKuOVRIhWWyYWV_ktHoptWcSwZVhLBd_P64_Fsmk.jpg
-./desktop/forests/aaron-alvarado-OZSNnAU5RPk-unsplash.jpg
-./desktop/forests/ajit-singh-wJwx_jSgZuA-unsplash.jpg
-./desktop/forests/Amazing-Dark-Forest-Wallpaper-HD.jpg
-./desktop/forests/anne-nygard-4p1Ji_BiaGQ-unsplash.jpg
-./desktop/forests/autumn-forest-leaves-1.jpg
-./desktop/forests/chmyphotography-qI5XixBb6TU-unsplash.jpg
-./desktop/forests/CLUpQkp.jpg
-./desktop/forests/coaches_night_forest_wolves_crew_road_fantasy_wolf_dark_3840x2160.jpg
-./desktop/forests/dark-forest-wallpaper-images.jpg
-./desktop/forests/dark-forest-wallpaper.jpg
-./desktop/forests/dark-forest-wallpapers-android-2.jpg
-./desktop/forests/dark-forest-wallpapers-desktop-background-3840x2160.jpg
-./desktop/forests/Darkness-pic.jpg
-./desktop/forests/dCS4tQk.jpg
-./desktop/forests/Download-Dark-Forest-Wallpaper-HD.jpg
-./desktop/forests/_downloadfiles_wallpapers_1920_1200_forest_of_fog_wallpaper_landscape_nature_1046.jpg
-./desktop/forests/dylan-leagh-k5Vj3gx4vHE-unsplash (1).jpg
-./desktop/forests/e3a154aead160b837d52b74cea3a816f.jpeg
-./desktop/forests/ef1e06c4dabedaeabc14f3b7099974fb.jpeg
-./desktop/forests/eTwRuSb.jpg
-./desktop/forests/f37b05d66d8a98fec0182dd4f779e5ef.jpeg
-./desktop/forests/fabrice-villard-O8wVokGEmEU-unsplash.jpg
-./desktop/forests/FhGHU8HSQrZ-OXcvmy0aRmHP0RKcImdjgHCygGlAfkc.jpg
-./desktop/forests/foggy-forest-at-night-time.jpg
-./desktop/forests/foggy-forest-road-wallpaper-1.jpg
-./desktop/forests/Forest-black-white-dark-forest-wallpaper.jpg
-./desktop/forests/forest-dark-nature-darkness-unnamed-wallpaper-1920x1080.jpg
-./desktop/forests/forests-spooky-dark-eerie-beautiful-mysterious-forest-blue-new-hd-wallpaper-1920x1080.jpg
-./desktop/forests/full-moon-HD-1080.jpg
-./desktop/forests/fZmfqKLzcoSCY8qrFrLuh2LVq8Hso13W05gLbC_Ejdc.jpg
-./desktop/forests/Gece.jpg
-./desktop/forests/gIxQxQD.jpg
-./desktop/forests/guLC1ShOpKNXROIdnBk9y_Pz7OTVt3P_lXlLNzpsAj0.jpg
-./desktop/forests/IEHvwiuvEOqVlw8V9MR2tbHr8dih5UeqbdW7Pl5zWo4.jpg
-./desktop/forests/IiTAHc9.jpg
-./desktop/forests/istockphoto-1313980280-640x640.jpg
-./desktop/forests/johannes-plenio-hvrpOmuMrAI-unsplash.jpg
-./desktop/forests/jr-korpa-_OQ8Jc7kBmA-unsplash.jpg
-./desktop/forests/keagan-henman-hkGF3Vwkzdk-unsplash.jpg
-./desktop/forests/khHbdpz.jpg
-./desktop/forests/lake-at-night-with-moon-wallpaper-2.jpg
-./desktop/forests/lHLBaBk.jpg
-./desktop/forests/LwKkFry-dark-forest-background.jpg
-./desktop/forests/night_moon_skyscapes_branches_desktop_1920x1080_hd-wallpaper-1143351.jpg
-./desktop/forests/nmu7hox.jpg
-./desktop/forests/o3759180.jpg
-./desktop/forests/OlLS9jP.jpg
-./desktop/forests/op39kae1v3x11.jpg
-./desktop/forests/P0Ym6iJ.jpg
-./desktop/forests/p603hrn4bux91.jpg
-./desktop/forests/P86dMbt.jpg
-./desktop/forests/peakpx (3).jpg
-./desktop/forests/peakpx (4).jpg
-./desktop/forests/photo-1483982258113-b72862e6cff6.jpeg
-./desktop/forests/pxfuel (30).jpg
-./desktop/forests/pxfuel (31).jpg
-./desktop/forests/pxfuel (33).jpg
-./desktop/forests/pxfuel (35).jpg
-./desktop/forests/pxfuel (37).jpg
-./desktop/forests/pxfuel (42).jpg
-./desktop/forests/pxfuel (47).jpg
-./desktop/forests/pxfuel (48).jpg
-./desktop/forests/pxfuel (49).jpg
-./desktop/forests/pxfuel (50).jpg
-./desktop/forests/pxfuel (52).jpg
-./desktop/forests/pxfuel (53).jpg
-./desktop/forests/pxfuel (54).jpg
-./desktop/forests/pxfuel (55).jpg
-./desktop/forests/pxfuel (56).jpg
-./desktop/forests/pxfuel (57).jpg
-./desktop/forests/pxfuel (59).jpg
-./desktop/forests/pxfuel (62).jpg
-./desktop/forests/pxfuel (63).jpg
-./desktop/forests/quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png
-./desktop/forests/r8hnG2g.jpg
-./desktop/forests/RDT_20231111_153038711334247116359361.jpg
-./desktop/forests/RDT_20231111_1603518144627521179310293.jpg
-./desktop/forests/RDT_20231111_1609528288932736187377824.jpg
-./desktop/forests/RDT_20231111_161032568005559738242669.jpg
-./desktop/forests/RDT_20231111_1615097714964751606389558.jpg
-./desktop/forests/RedFoxBlackForest.jpg
-./desktop/forests/rn0qzQ9.jpg
-./desktop/forests/roman-datsiuk-mW_yoqe6pkM-unsplash.jpg
-./desktop/forests/rosie-sun-1L71sPT5XKc-unsplash.jpg
-./desktop/forests/Rp93yzP.png
-./desktop/forests/rwbusb7wo3s51.jpg
-./desktop/forests/RycKnX9-dark-forest-background.jpg
-./desktop/forests/sad-n-dark-20.jpeg
-./desktop/forests/scary-dark-forest-desktop.jpg
-./desktop/forests/sduLRvf.jpg
-./desktop/forests/SPyDz70.jpg
-./desktop/forests/sven-brandsma-ZvO9hqVE62s-unsplash.jpg
-./desktop/forests/swans_pond_park_trees_light_painting_art_52113_3840x2400.jpg
-./desktop/forests/t3_7npw5y.jpeg
-./desktop/forests/T7NBjJm.jpg
-./desktop/forests/taylor-wright-2aSpCOPNyO0-unsplash.jpg
-./desktop/forests/TIMmKPv.jpg
-./desktop/forests/tomasz-filipek-59OA9ycJhpI-unsplash.jpg
-./desktop/forests/tumblr_static_2s7q840i158gosooscoc48k08_2048_v2.jpg
-./desktop/forests/vJyBmL3.jpg
-./desktop/forests/vunature.com-trees-forest-night-dark-moon-nature-images-for-desktop-hd.jpg
-./desktop/forests/wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg
-./desktop/forests/wryz6u4w0q021.jpg
-./desktop/forests/WTDOBJB.jpg
-./desktop/forests/XLeMHsinEHC69t8o_E_CDkQZjTOWzBZpQMd5tZqgjMM.jpg
-./desktop/forests/Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg
-./desktop/misc/3d-pine-tree-landscape-against-space-sky.jpg
-./desktop/misc/4k-keyboard.jpg
-./desktop/misc/7114b7d95362aa4273b803f6c7f68ea4.jpeg
-./desktop/misc/914910.jpg
-./desktop/misc/BatSwarm.jpg
-./desktop/misc/bici.jpg
-./desktop/misc/cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg
-./desktop/misc/colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg
-./desktop/misc/colors.jpg
-./desktop/misc/dark_forest.png
-./desktop/misc/Fantasy Deer by Martina Stipan.jpg
-./desktop/misc/Forest Spirit by j-witless.png
-./desktop/misc/gruvbox_wasteland.png
-./desktop/misc/halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg
-./desktop/misc/horror_cult.jpg
-./desktop/misc/ign_megumin_dark.png
-./desktop/misc/Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg
-./desktop/misc/john-towner-JgOeRuGD_Y4-unsplash.jpg
-./desktop/misc/leif-niemczik-Gp8R_D5klig-unsplash.jpg
-./desktop/misc/michael-benz-IgWNxx7paz4-unsplash.jpg
-./desktop/misc/minimal_landscape.jpg
-./desktop/misc/moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg
-./desktop/misc/mountains.png
-./desktop/misc/neon-shacks-nord.png
-./desktop/misc/night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg
-./desktop/misc/nord-street.png
-./desktop/misc/peakpx (5).jpg
-./desktop/misc/peakpx.jpg
-./desktop/misc/pexels-daniel-dan-7676164.jpg
-./desktop/misc/puppy.jpg
-./desktop/misc/pxfuel (23).jpg
-./desktop/misc/pxfuel (26).jpg
-./desktop/misc/pxfuel (29).jpg
-./desktop/misc/pxfuel (36).jpg
-./desktop/misc/pxfuel (41).jpg
-./desktop/misc/RDT_20231106_0046137176026357718837753.jpg
-./desktop/misc/RDT_20231106_0046546244189923785616235.jpg
-./desktop/misc/rm-rf.jpg
-./desktop/misc/shiny-colors.png
-./desktop/misc/towashi.jpg
-./desktop/misc/wallhaven-zyxvqy.jpg
-./desktop/misc/win-11.png
+./desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg
+./desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg
+./desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg
+./desktop/forests/855a7ab5d44aa1b5_dark-forest-wallpaper-images.jpg
+./desktop/forests/855a7ab5d44aa1b5_pxfuel_(33).jpg
+./desktop/forests/8563d1ce3344a7b9_aaron-alvarado-OZSNnAU5RPk-unsplash.jpg
+./desktop/forests/85857a3aaece7231_3020034-dark_fairy-tale_foggy_forest.jpg
+./desktop/forests/85926ea5d2643b1f_CLUpQkp.jpg
+./desktop/forests/85ca5297689ce769_pxfuel (53).jpg
+./desktop/forests/85ca5297689ce769_pxfuel (63).jpg
+./desktop/forests/863279ce33c364ce_quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png
+./desktop/forests/868eb5b43ace5c62_RedFoxBlackForest.jpg
+./desktop/forests/879c3f6a6861a2b9_TIMmKPv.jpg
+./desktop/forests/886e3bed743031d6_pxfuel (52).jpg
+./desktop/forests/888c2697a3a7abe3_FhGHU8HSQrZ-OXcvmy0aRmHP0RKcImdjgHCygGlAfkc.jpg
+./desktop/forests/888c26b3a3a3abe7_tumblr_static_2s7q840i158gosooscoc48k08_2048_v2.jpg
+./desktop/forests/888c26b7a3a3abe3_lHLBaBk.jpg
+./desktop/forests/89aa2aa93bab2cb3_31adb0c35c80479c471b1faa53749a70.jpeg
+./desktop/forests/89ab22a87abb2cb9_nmu7hox.jpg
+./desktop/forests/8b545cadd368a5c9_dark-forest-wallpaper.jpg
+./desktop/forests/8b8b88ba39b9a939_wryz6u4w0q021.jpg
+./desktop/forests/8c74638c9cc73c73_anne-nygard-4p1Ji_BiaGQ-unsplash.jpg
+./desktop/forests/8ca973992ac832fb_0uanaa3l93931.jpg
+./desktop/forests/8d8c31317bce9c3a_fZmfqKLzcoSCY8qrFrLuh2LVq8Hso13W05gLbC_Ejdc.jpg
+./desktop/forests/8da626f3309966d9_f37b05d66d8a98fec0182dd4f779e5ef.jpeg
+./desktop/forests/8da626f3309966d9_pxfuel (57).jpg
+./desktop/forests/8dad36738bdc8c48_1094574-1321433670.jpg
+./desktop/forests/91cf4f914e980d9b_P86dMbt.jpg
+./desktop/forests/9293594d6c6c6d65_574455375-IMG_1480.jpg
+./desktop/forests/92996d65969b9931_t3_7npw5y.jpeg
+./desktop/forests/92a4b692e6b496b6_swans_pond_park_trees_light_painting_art_52113_3840x2400.jpg
+./desktop/forests/93927c6c65c724d9_1KVob09.jpg
+./desktop/forests/93937c6c65c72459_Download-Dark-Forest-Wallpaper-HD.jpg
+./desktop/forests/93976a08b7976835_751042.jpg
+./desktop/forests/93976a08b7976835_scary-dark-forest-desktop.jpg
+./desktop/forests/93976a08f79268b5_pxfuel (48).jpg
+./desktop/forests/9399899595da6d34_coaches_night_forest_wolves_crew_road_fantasy_wolf_dark_3840x2160.jpg
+./desktop/forests/93d2646dc99b9299_ef1e06c4dabedaeabc14f3b7099974fb.jpeg
+./desktop/forests/94f93933a7c428ba_1584744923895.png
+./desktop/forests/956c6c876e8c9738_sven-brandsma-ZvO9hqVE62s-unsplash.jpg
+./desktop/forests/9696d6e33384a5a5_a12yKuOVRIhWWyYWV_ktHoptWcSwZVhLBd_P64_Fsmk.jpg
+./desktop/forests/96b236d620722cdf_SPyDz70.jpg
+./desktop/forests/9797252509dad276_pxfuel (30).jpg
+./desktop/forests/98273788cc33d9e6_lake-at-night-with-moon-wallpaper-2.jpg
+./desktop/forests/98999999f2666663_pxfuel (50).jpg
+./desktop/forests/989c639385338be7_eTwRuSb.jpg
+./desktop/forests/996d6788259a66d3_XLeMHsinEHC69t8o_E_CDkQZjTOWzBZpQMd5tZqgjMM.jpg
+./desktop/forests/999933e263656963_foggy-forest-at-night-time.jpg
+./desktop/forests/99994dd9326703ba_dylan-leagh-k5Vj3gx4vHE-unsplash (1).jpg
+./desktop/forests/999966666699993c_vunature.com-trees-forest-night-dark-moon-nature-images-for-desktop-hd.jpg
+./desktop/forests/9999e76626337161_night_moon_skyscapes_branches_desktop_1920x1080_hd-wallpaper-1143351.jpg
+./desktop/forests/99a3ca3699d991d4_op39kae1v3x11.jpg
+./desktop/forests/99b366c86666cc8e_Amazing-Dark-Forest-Wallpaper-HD.jpg
+./desktop/forests/9a9ab233b3ccc4d4_5c96fe092b0e872734eb5e0a8861fc8a.jpeg
+./desktop/forests/9a9e6d6791896a32_39570893840_d1632deea4_k.jpg
+./desktop/forests/9ba96d9264d424f6_johannes-plenio-hvrpOmuMrAI-unsplash.jpg
+./desktop/forests/9c8cc49c3c799967_jr-korpa-_OQ8Jc7kBmA-unsplash.jpg
+./desktop/forests/9cbc73669c2469c9__downloadfiles_wallpapers_1920_1200_forest_of_fog_wallpaper_landscape_nature_1046.jpg
+./desktop/forests/9cfc66228077e96c_pxfuel (35).jpg
+./desktop/forests/9cfc66228077e96c_rosie-sun-1L71sPT5XKc-unsplash.jpg
+./desktop/forests/9cfc66228077eb64_photo-1483982258113-b72862e6cff6.jpeg
+./desktop/forests/9cfc6622c075e96c_1dee8bb45b1743cbecfc62c6c5588d95.jpeg
+./desktop/forests/9d19c619799a3999_pxfuel (31).jpg
+./desktop/forests/9d19c619799a3999_pxfuel (56).jpg
+./desktop/forests/9d8d4c8ca4b44f2f_rwbusb7wo3s51.jpg
+./desktop/forests/9d97529833c9b970_forest-dark-nature-darkness-unnamed-wallpaper-1920x1080.jpg
+./desktop/forests/9d9d7236b7634290_guLC1ShOpKNXROIdnBk9y_Pz7OTVt3P_lXlLNzpsAj0.jpg
+./desktop/forests/9dcdc99c345c3236_pxfuel (54).jpg
+./desktop/forests/9ddd26e99d263488_dark-forest-wallpapers-android-2.jpg
+./desktop/forests/ab545ca9d368a5c9_pxfuel (55).jpg
+./desktop/forests/ad728fb4471ccb14_06fc6abbc63b99c9903ff625b617ec9b.jpeg
+./desktop/forests/b1e34a9a244cbe2f_gIxQxQD.jpg
+./desktop/forests/c0e03c3e73c23e73_dCS4tQk.jpg
+./desktop/forests/c0e717833ef8e0cc_peakpx (3).jpg
+./desktop/forests/c0f0c6f2e9c7d289_1592433088417.jpg
+./desktop/forests/c1c1e13c1e1c3b3f_sduLRvf.jpg
+./desktop/forests/c1c3e264a4a6a7eb_taylor-wright-2aSpCOPNyO0-unsplash.jpg
+./desktop/forests/c1c42e397b7e38b0_IiTAHc9.jpg
+./desktop/forests/c1f8e8ecee870703_2kfZQbV.jpg
+./desktop/forests/c261751b3d4d8e87_pxfuel (59).jpg
+./desktop/forests/c282282f3d3a3eed_vJyBmL3.jpg
+./desktop/forests/c2c2dd8cbcb1c19b_31AeHoT.jpg
+./desktop/forests/c3db09629699696d_4201114-night-watch.jpg
+./desktop/forests/c4c831ec5bb54dcc_236b75a78fce3e355ab309ae7a0bdcab.jpeg
+./desktop/forests/c4c831ec5bb54dcc_forests-spooky-dark-eerie-beautiful-mysterious-forest-blue-new-hd-wallpaper-1920x1080.jpg
+./desktop/forests/c4cecec6cbc990d8_946027-Yuri-Hill-horror-forest-Moon-moonlight-dark (1).jpg
+./desktop/forests/c4cecec6cbc990d8_946027-Yuri-Hill-horror-forest-Moon-moonlight-dark.jpg
+./desktop/forests/c5c527f33d822783_150425-autumn-sunlight-woodland-mist-nature-550x310.jpg
+./desktop/forests/c68696c7433acbc3_autumn-forest-leaves-1.jpg
+./desktop/forests/c7c3c2e2c1d0f9d8_RDT_20231111_1615097714964751606389558.jpg
+./desktop/forests/c86d37c867d16d03_0aba909bf54ddbcd2dd0c87e2457621d.jpeg
+./desktop/forests/c8bf24d99135e41e_Gece.jpg
+./desktop/forests/c8c227ec669cec2d_e3a154aead160b837d52b74cea3a816f.jpeg
+./desktop/forests/c8c227ec669cec2d_khHbdpz.jpg
+./desktop/forests/c8c8d8d931b3f8d4_8w12n5l2a2101.jpg
+./desktop/forests/c8c9ad2d2ca4e7d4_ajit-singh-wJwx_jSgZuA-unsplash.jpg
+./desktop/forests/c8ca7737272c323a_OlLS9jP.jpg
+./desktop/forests/c9c63319cc733699_Darkness-pic.jpg
+./desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg
+./desktop/forests/cc1b33cccc3b91cc_1899ce9b55d90e3eb8411af860b16839.jpg
+./desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg
+./desktop/forests/cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg
+./desktop/forests/cc3333cc4c3bb1cc_pxfuel (37).jpg
+./desktop/forests/cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg
+./desktop/forests/cccc4ea737363434_LwKkFry-dark-forest-background.jpg
+./desktop/forests/cccc4ea737363434_pxfuel (49).jpg
+./desktop/forests/ccccc2c3277565c6_pxfuel (42).jpg
+./desktop/forests/ccccccc7a73274a4_T7NBjJm.jpg
+./desktop/forests/cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg
+./desktop/forests/cccccf93c313c689_p603hrn4bux91.jpg
+./desktop/forests/ccccec06cd99998d_peakpx (4).jpg
+./desktop/forests/cccdcfa726343c24_2048x1536_wood-trees-gloomy-fog-haze-darkness.jpg
+./desktop/forests/cece1830982cdebe_RDT_20231111_161032568005559738242669.jpg
+./desktop/forests/cece38313333a333_P0Ym6iJ.jpg
+./desktop/forests/cece66333838d931_full-moon-HD-1080.jpg
+./desktop/forests/cecffd79c5448048_o3759180.jpg
+./desktop/forests/cfcf83a6a4c4da50_RDT_20231111_1609528288932736187377824.jpg
+./desktop/forests/d0a71ec52e996798_r8hnG2g.jpg
+./desktop/forests/d2c16a1b2d30f7f0_Forest-black-white-dark-forest-wallpaper.jpg
+./desktop/forests/d2c16a1b2d30f7f0_pxfuel (47).jpg
+./desktop/forests/d39b5bd1c29b3448_66971-1-1434556732.png
+./desktop/forests/d635b1c13ec0ca3d_559873.jpg
+./desktop/forests/d6c6398f65a81a17_IEHvwiuvEOqVlw8V9MR2tbHr8dih5UeqbdW7Pl5zWo4.jpg
+./desktop/forests/d9993dcc888c8cdd_rn0qzQ9.jpg
+./desktop/forests/d9d8dcf2e6612688_foggy-forest-road-wallpaper-1.jpg
+./desktop/forests/d9dbe6cc12268c99_chmyphotography-qI5XixBb6TU-unsplash.jpg
+./desktop/forests/da9a75e7a2225554_Rp93yzP.png
+./desktop/forests/db93386648996ad9_fabrice-villard-O8wVokGEmEU-unsplash.jpg
+./desktop/forests/dcfcc40133633373_pxfuel (62).jpg
+./desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg
+./desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg
+./desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg
+./desktop/forests/f9f9c9d9f0b09180_0087039a3a065ce7b9888b4bc5087768.jpeg
+./desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg
+./desktop/forests/fcfe0ac47d02728c_RDT_20231111_1603518144627521179310293.jpg
+./desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg
+./desktop/misc/85384ef1f61e21f1_pxfuel (26).jpg
+./desktop/misc/856a7e192aa7d01f_towashi.jpg
+./desktop/misc/85d07c8f13648b7b_BatSwarm.jpg
+./desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg
+./desktop/misc/8cccd899598d5d9c_peakpx.jpg
+./desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png
+./desktop/misc/92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg
+./desktop/misc/93306c4bb36d18f6_minimal_landscape.jpg
+./desktop/misc/93926c6d92926d6d_pexels-daniel-dan-7676164.jpg
+./desktop/misc/946b24cc4bb65b65_nord-street.png
+./desktop/misc/953b71e4a54c752a_gruvbox_wasteland.png
+./desktop/misc/958fcb41b4d26ae1_pxfuel (36).jpg
+./desktop/misc/969625496969ed4b_peakpx (5).jpg
+./desktop/misc/96b6689967359863_dark_forest.png
+./desktop/misc/989baa9a9694339b_colors.jpg
+./desktop/misc/999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg
+./desktop/misc/999c66639b98cd26_pxfuel (41).jpg
+./desktop/misc/99c6666599ce8333_pxfuel (29).jpg
+./desktop/misc/99cd26679d09c176_wallhaven-zyxvqy.jpg
+./desktop/misc/99ce663199ce6631_puppy.jpg
+./desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg
+./desktop/misc/a5f75a4abda14914_914910.jpg
+./desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png
+./desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg
+./desktop/misc/b6b44a496f6f0c13_shiny-colors.png
+./desktop/misc/c383cc8d9e1e0d67_john-towner-JgOeRuGD_Y4-unsplash.jpg
+./desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg
+./desktop/misc/c4c66f6d307bd230_pxfuel (23).jpg
+./desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg
+./desktop/misc/c919998b3393c676_bici.jpg
+./desktop/misc/cc8c3373339cce26_win-11.png
+./desktop/misc/cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg
+./desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg
+./desktop/misc/cece3131cece3131_rm-rf.jpg
+./desktop/misc/cecf63303eb13813_Fantasy Deer by Martina Stipan.jpg
+./desktop/misc/d0d80f65f9da0c27_mountains.png
+./desktop/misc/d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg
+./desktop/misc/d2c6371839c6b639_horror_cult.jpg
+./desktop/misc/d8fb9b191d0770e0_Forest Spirit by j-witless.png
+./desktop/misc/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg
+./desktop/misc/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg
+./desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg
 ./desktop/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg
 ./desktop/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg
 ./desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg
@@ -191,100 +191,100 @@
 ./desktop/skyrim art/the_saddest_khajiit_by_darrengeers_d70eql2.jpg
 ./desktop/skyrim art/the_saddest_khajiit_part_2_by_darrengeers_d716zbk.jpg
 ./desktop/skyrim art/YcqXdiz.jpg
-./desktop/space/205554.png
-./desktop/space/A_Cosmic_Tarantula_by_JWST.png
-./desktop/space/adrian-swancar-pIr-PH5IXF8-unsplash.jpg
-./desktop/space/aldebaran-s-g9Ek7TzdMVc-unsplash.jpg
-./desktop/space/aldebaran-s-qtRF_RxCAo0-unsplash.jpg
-./desktop/space/aldebaran-s-uXchDIKs4qI-unsplash.jpg
-./desktop/space/alexander-andrews-fsH1KjbdjE8-unsplash.jpg
-./desktop/space/andy-holmes-LUpDjlJv4_c-unsplash.jpg
-./desktop/space/andy-holmes-rCbdp8VCYhQ-unsplash.jpg
-./desktop/space/an_Ethereal_View_of_NGC_346_MIRI_by_JWST.png
-./desktop/space/Another_Ringed_World_With_New_Image_of_Uranus_by_JWST.png
-./desktop/space/a_Pair_of_Merging_Galaxies_by_JWST.jpg
-./desktop/space/Arp_220_NIRCam_+_MIRI_Image_by_JWST.png
-./desktop/space/A_Spiral_Amongst_Thousands_by_JWST.jpg
-./desktop/space/A_Wreath_of_Star_Formation_in_NGC_7469_by_JWST.jpg
-./desktop/space/brett-ritchie-1vKTnwLMdqs-unsplash.jpg
-./desktop/space/bryan-goff-f7YQo-eYHdM-unsplash.jpg
-./desktop/space/bryan-goff-_itkYVtDh8w-unsplash.jpg
-./desktop/space/Carina_Nebula_High_resolution_by_JWST.png
-./desktop/space/chen-liu-jgt81f_UDuU-unsplash.jpg
-./desktop/space/chen-liu-kZH8X0q4Nvo-unsplash.jpg
-./desktop/space/Clash_of_the_Titans_NGC_3256_by_JWST.jpg
-./desktop/space/Clearest_View_of_Neptune_s_Rings_in_Decades_by_JWST.png
-./desktop/space/Close-up_on_Birth_of_Sun-like_Stars_by_JWST.png
-./desktop/space/Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth_by_JWST.png
-./desktop/space/cosmic-timetraveler-LhDWW8PhPoE-unsplash.jpg
-./desktop/space/daniel-olah-dFA5XycbhoQ-unsplash.jpg
-./desktop/space/dario-bronnimann-Za5GrHuPvNY-unsplash.jpg
-./desktop/space/Dark_Side_of_Pre-stellar_Ice_Chemistry_by_JWST.png
-./desktop/space/Dying_Stars_Final_Performance_in_Fine_Detail_by_JWST.png
-./desktop/space/Early_Universe_Crackled_With_Bursts_of_Star_Formation_by_JWST.png
-./desktop/space/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg
-./desktop/space/Fiery_Hourglass_as_New_Star_Forms_by_JWST.png
-./desktop/space/First_Detection_of_Crucial_Carbon_Molecule_Orion_Bar_NIRCam_Image_by_JWST.jpg
-./desktop/space/First_Detection_of_Heavy_Element_From_Star_Merger_unlabeled_by_JWST.png
-./desktop/space/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg
-./desktop/space/Gravitational_Arcs_in_El_Gordo_Galaxy_Cluster_NIRCam_Image_by_JWST.png
-./desktop/space/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg
-./desktop/space/Highly_Detailed_Infrared_Image_of_Actively_Forming_Stars_by_JWST.png
-./desktop/space/IC_5332_by_JWST.jpg
-./desktop/space/Intricate_Details_in_the_Remains_of_a_Dying_Star_NIRCam_image_by_JWST.jpg
-./desktop/space/Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_1_by_JWST.png
-./desktop/space/Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_2_by_JWST.png
-./desktop/space/Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_by_JWST.png
-./desktop/space/ivana-cajina-asuyh-_ZX54-unsplash.jpg
-./desktop/space/james-wheeler-Okdcjy0mf7Y-unsplash.jpg
-./desktop/space/jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg
-./desktop/space/jongsun-lee-F-pSZO_jeE8-unsplash.jpg
-./desktop/space/Jupiter_Images_Showcase_Auroras,_Hazes_2_by_JWST.png
-./desktop/space/Jupiter_Images_Showcase_Auroras,_Hazes_by_JWST.png
-./desktop/space/ldn1622LeonardoJulio-ap.jpg
-./desktop/space/LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg
-./desktop/space/Long-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.png
-./desktop/space/M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg
-./desktop/space/M92_Webb_Close-up_NIRCam_Image_by_JWST.png
-./desktop/space/max-mckinnon-c9OCWLka764-unsplash.jpg
-./desktop/space/MoonMarsGoat_Brustel_3258.jpg
-./desktop/space/nasa-0DjOJ6Q8wUs-unsplash.jpg
-./desktop/space/nasa--5V6VZxSQRo-unsplash.jpg
-./desktop/space/nasa-71W3CWeZF7A-unsplash.jpg
-./desktop/space/nasa-B7Q0Rv9jTkU-unsplash.jpg
-./desktop/space/nasa-CzigtQ8gPi4-unsplash.jpg
-./desktop/space/nasa--hI5dX2ObAs-unsplash.jpg
-./desktop/space/nasa-pd4lo70LdbI-unsplash.jpg
-./desktop/space/nasa-Q1p7bh3SHj8-unsplash.jpg
-./desktop/space/nasa-rTZW4f02zY8-unsplash.jpg
-./desktop/space/nasa-V4ZksNimxLk-unsplash.jpg
-./desktop/space/nasa-vltMzn0jqsA-unsplash.jpg
-./desktop/space/Nearby_Planetary_System_Seen_in_Breathtaking_Detail,_Fomalhaut_Dusty_Debris_Disk_MIRI_Image_by_JWST.png
-./desktop/space/New_Details_in_Pandora_s_Cluster_by_JWST.png
-./desktop/space/New_Image_of_Uranus_by_JWST.png
-./desktop/space/NGC3572_Campbell_1824.jpg
-./desktop/space/NGC7129NM_gendler_f.jpg
-./desktop/space/Ngc896dBig_fera.jpg
-./desktop/space/Pillars_of_Creation_NIRCam_and_MIRI_Composite_Image_by_JWST.png
-./desktop/space/PN_Abell78-1_full.jpg
-./desktop/space/Rarely_Seen_Prelude_to_Supernova_NIRCam_and_MIRI_Image_by_JWST.png
-./desktop/space/Rare_View_of_Neptune_s_Rings_by_JWST.png
-./desktop/space/ryan-hutton-Jztmx9yqjBw-unsplash.jpg
-./desktop/space/Saturn_s_Rings_Shine_in_Webb_s_Observations_of_Ringed_Planet_Unlabeled_by_JWST.png
-./desktop/space/Short-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.jpg
-./desktop/space/shot-by-cerqueira-0o_GEzyargo-unsplash.jpg
-./desktop/space/StoneyWay_Jacobs_4754.jpg
-./desktop/space/STScI-01GNYMD5RCRF1S01A8M2S5M0Z1.png
-./desktop/space/STScI-01GQ5CG6E5B5RASD9SWQHZKXW9.png
-./desktop/space/Sunrise_Arc_NIRCam_Image_by_JWST.png
-./desktop/space/Supersonic_Outflow_of_Young_Star_by_JWST.png
-./desktop/space/The_Crab_Nebula_Seen_in_New_Light_NIRCam_and_MIRI_by_JWST.png
-./desktop/space/The_Enduring_Stellar_Lifecycle_in_30_Doradus_Composite_Infrared_+_X-ray_by_JWST.jpg
-./desktop/space/the_Heart_of_the_Phantom_Galaxy_by_JWST.jpg
-./desktop/space/The_Pillars_of_Creation_Webb_NIRCam_Image_by_JWST.png
-./desktop/space/vincentiu-solomon-ln5drpv_ImI-unsplash.jpg
-./desktop/space/WLM_Dwarf_Galaxy_by_JWST.jpg
-./desktop/space/zoltan-tasi-HQPJEEjHqSE-unsplash.jpg
+./desktop/space/81ad2655d87027fb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_2_by_JWST.png
+./desktop/space/82686c93cb75b4cb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_1_by_JWST.png
+./desktop/space/845e1de1ef1629c5_chen-liu-kZH8X0q4Nvo-unsplash.jpg
+./desktop/space/847e13e1336e4e8e_nasa-B7Q0Rv9jTkU-unsplash.jpg
+./desktop/space/851e78e3c89c9778_nasa-Q1p7bh3SHj8-unsplash.jpg
+./desktop/space/8796784a73649f92_Intricate_Details_in_the_Remains_of_a_Dying_Star_NIRCam_image_by_JWST.jpg
+./desktop/space/89b833cb693236e6_Close-up_on_Birth_of_Sun-like_Stars_by_JWST.png
+./desktop/space/89ce66738cdc714c_Clearest_View_of_Neptune_s_Rings_in_Decades_by_JWST.png
+./desktop/space/8c197357cc8ca373_dario-bronnimann-Za5GrHuPvNY-unsplash.jpg
+./desktop/space/8c4c367399dccccc_nasa-V4ZksNimxLk-unsplash.jpg
+./desktop/space/8cdc4c3333337333_zoltan-tasi-HQPJEEjHqSE-unsplash.jpg
+./desktop/space/8d7e15bb186cb2c1_Cosmic_Cliffs,_Glittering_Landscape_of_Star_Birth_by_JWST.png
+./desktop/space/90952d7a5615cd3b_MoonMarsGoat_Brustel_3258.jpg
+./desktop/space/90ad4b13d1d4acbb_Carina_Nebula_High_resolution_by_JWST.png
+./desktop/space/90c936e731cccbb1_aldebaran-s-g9Ek7TzdMVc-unsplash.jpg
+./desktop/space/91346ecb896565c7_Another_Ringed_World_With_New_Image_of_Uranus_by_JWST.png
+./desktop/space/913c66729ba1646f_First_Detection_of_Heavy_Element_From_Star_Merger_unlabeled_by_JWST.png
+./desktop/space/929b6d64329ac66d_jongsun-lee-F-pSZO_jeE8-unsplash.jpg
+./desktop/space/93163c640bda5377_graham-holtshausen-fUnfEz3VLv4-unsplash.jpg
+./desktop/space/931a6ce54b3cd0cb_New_Details_in_Pandora_s_Cluster_by_JWST.png
+./desktop/space/939a6ce56c30d39a_PN_Abell78-1_full.jpg
+./desktop/space/93be7565694a1a92_Gravitational_Arcs_in_El_Gordo_Galaxy_Cluster_NIRCam_Image_by_JWST.png
+./desktop/space/93d97906509b6ed1_eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg
+./desktop/space/93e16c92cd659279_cosmic-timetraveler-LhDWW8PhPoE-unsplash.jpg
+./desktop/space/94639b6c4b711cdc_andy-holmes-rCbdp8VCYhQ-unsplash.jpg
+./desktop/space/946e9039e5936d36_andy-holmes-LUpDjlJv4_c-unsplash.jpg
+./desktop/space/953726f82de169d0_The_Crab_Nebula_Seen_in_New_Light_NIRCam_and_MIRI_by_JWST.png
+./desktop/space/9595686e66696996_Jupiter_Images_Showcase_Auroras,_Hazes_2_by_JWST.png
+./desktop/space/95965a6ba58c94b3_bryan-goff-_itkYVtDh8w-unsplash.jpg
+./desktop/space/95ce64293b1c8737_A_Cosmic_Tarantula_by_JWST.png
+./desktop/space/963661cd39d117e8_STScI-01GNYMD5RCRF1S01A8M2S5M0Z1.png
+./desktop/space/992b668fd906e299_A_Wreath_of_Star_Formation_in_NGC_7469_by_JWST.jpg
+./desktop/space/994b6634c9cb333c_Arp_220_NIRCam_+_MIRI_Image_by_JWST.png
+./desktop/space/996e6613b1cd1ae4_StoneyWay_Jacobs_4754.jpg
+./desktop/space/9983663699c9a976_a_Pair_of_Merging_Galaxies_by_JWST.jpg
+./desktop/space/9ac96d33339c1c39_The_Enduring_Stellar_Lifecycle_in_30_Doradus_Composite_Infrared_+_X-ray_by_JWST.jpg
+./desktop/space/9acd6d3236333239_daniel-olah-dFA5XycbhoQ-unsplash.jpg
+./desktop/space/9b983266cc5933b6_guillermo-ferla-Oze6U2m1oYU-unsplash.jpg
+./desktop/space/9c27626c5b9266e5_Clash_of_the_Titans_NGC_3256_by_JWST.jpg
+./desktop/space/9c3367cc9836cc99_brett-ritchie-1vKTnwLMdqs-unsplash.jpg
+./desktop/space/9d3066c97366c89b_max-mckinnon-c9OCWLka764-unsplash.jpg
+./desktop/space/9d8de3b0cec84873_Pillars_of_Creation_NIRCam_and_MIRI_Composite_Image_by_JWST.png
+./desktop/space/9dc86633994c66d3_chen-liu-jgt81f_UDuU-unsplash.jpg
+./desktop/space/9e3161ce963169ce_Saturn_s_Rings_Shine_in_Webb_s_Observations_of_Ringed_Planet_Unlabeled_by_JWST.png
+./desktop/space/b895a21bd92a76aa_Rare_View_of_Neptune_s_Rings_by_JWST.png
+./desktop/space/b9dc85eae992d490_205554.png
+./desktop/space/bc62538d6b9584d3_adrian-swancar-pIr-PH5IXF8-unsplash.jpg
+./desktop/space/c0653fd2788e649b_nasa-pd4lo70LdbI-unsplash.jpg
+./desktop/space/c0f872638d9c3b72_nasa-rTZW4f02zY8-unsplash.jpg
+./desktop/space/c1e63a192c66f3c9_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_by_JWST.png
+./desktop/space/c2f0f1e46c79931c_Supersonic_Outflow_of_Young_Star_by_JWST.png
+./desktop/space/c3393cc730cee31c_nasa-71W3CWeZF7A-unsplash.jpg
+./desktop/space/c432399d2769d4a7_aldebaran-s-uXchDIKs4qI-unsplash.jpg
+./desktop/space/c435699a36e00ff9_an_Ethereal_View_of_NGC_346_MIRI_by_JWST.png
+./desktop/space/c5e2c20cbe3d3e86_nasa--hI5dX2ObAs-unsplash.jpg
+./desktop/space/c6c40d213dde75b2_aldebaran-s-qtRF_RxCAo0-unsplash.jpg
+./desktop/space/c8516366d89da379_Sunrise_Arc_NIRCam_Image_by_JWST.png
+./desktop/space/c8cc6c99d38d1eca_Early_Universe_Crackled_With_Bursts_of_Star_Formation_by_JWST.png
+./desktop/space/cbe1546db510727a_nasa-vltMzn0jqsA-unsplash.jpg
+./desktop/space/cc1833e6389ce7e1_Short-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.jpg
+./desktop/space/cc1933cc1d07e3f8_nasa-CzigtQ8gPi4-unsplash.jpg
+./desktop/space/cc3037c9d9cc6633_shot-by-cerqueira-0o_GEzyargo-unsplash.jpg
+./desktop/space/cc3133ce99466766_Nearby_Planetary_System_Seen_in_Breathtaking_Detail,_Fomalhaut_Dusty_Debris_Disk_MIRI_Image_by_JWST.png
+./desktop/space/cc33c8dd338c7346_A_Spiral_Amongst_Thousands_by_JWST.jpg
+./desktop/space/cc6333cecc38333c_bryan-goff-f7YQo-eYHdM-unsplash.jpg
+./desktop/space/cc9332c22b9c735e_ryan-hutton-Jztmx9yqjBw-unsplash.jpg
+./desktop/space/cca133661cccc73e_Long-wavelength_NIRCam_Orion_mosaic_in_ESASky_by_JWST.png
+./desktop/space/cccc3133c6d9d8e4_Dying_Stars_Final_Performance_in_Fine_Detail_by_JWST.png
+./desktop/space/cccc33929b3136c7_alexander-andrews-fsH1KjbdjE8-unsplash.jpg
+./desktop/space/ccce6531b366c998_nasa--5V6VZxSQRo-unsplash.jpg
+./desktop/space/ccf933856232cd39_james-wheeler-Okdcjy0mf7Y-unsplash.jpg
+./desktop/space/cde43659cc66c6c1_Ngc896dBig_fera.jpg
+./desktop/space/ce3933c65cb3232c_Highly_Detailed_Infrared_Image_of_Actively_Forming_Stars_by_JWST.png
+./desktop/space/cece3331cecce031_New_Image_of_Uranus_by_JWST.png
+./desktop/space/cf3f32c6691e8261_Rarely_Seen_Prelude_to_Supernova_NIRCam_and_MIRI_Image_by_JWST.png
+./desktop/space/d0612f32fd293cc5_Jupiter_Images_Showcase_Auroras,_Hazes_by_JWST.png
+./desktop/space/d064739b13c6693d_jeremy-perkins-uhjiu8FjnsQ-unsplash.jpg
+./desktop/space/d074636a6d61758e_IC_5332_by_JWST.jpg
+./desktop/space/d0873d381ddcc2c7_Dark_Side_of_Pre-stellar_Ice_Chemistry_by_JWST.png
+./desktop/space/d0873d381ddcc2c7_STScI-01GQ5CG6E5B5RASD9SWQHZKXW9.png
+./desktop/space/d2763c9530cea74c_NGC3572_Campbell_1824.jpg
+./desktop/space/d42906de29d77907_vincentiu-solomon-ln5drpv_ImI-unsplash.jpg
+./desktop/space/d437646e0079cdf8_The_Pillars_of_Creation_Webb_NIRCam_Image_by_JWST.png
+./desktop/space/d4db2b046491dde5_LDN42_-_the_cosmic_bat_nebula_by_mark_hanson_and_mike_selby.jpg
+./desktop/space/d59665e5f8c818d4_First_Detection_of_Crucial_Carbon_Molecule_Orion_Bar_NIRCam_Image_by_JWST.jpg
+./desktop/space/d632264d1935647f_M78_LDN1622_BarnardsLoop_SEP27_28_Oct15_final2048.jpg
+./desktop/space/d67e3a931947470c_WLM_Dwarf_Galaxy_by_JWST.jpg
+./desktop/space/d86732996dc6d261_Fiery_Hourglass_as_New_Star_Forms_by_JWST.png
+./desktop/space/d8b3278c8c73378c_NGC7129NM_gendler_f.jpg
+./desktop/space/d96472996c5a6ca6_ivana-cajina-asuyh-_ZX54-unsplash.jpg
+./desktop/space/d980139fb6b66e44_ldn1622LeonardoJulio-ap.jpg
+./desktop/space/dc56335a01f3e781_the_Heart_of_the_Phantom_Galaxy_by_JWST.jpg
+./desktop/space/e2191fe6f1001fce_nasa-0DjOJ6Q8wUs-unsplash.jpg
+./desktop/space/fefa119b69e1080b_M92_Webb_Close-up_NIRCam_Image_by_JWST.png
 ./desktop/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg
 ./desktop/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg
 ./desktop/stormlight/knights_radiant_by_antti_hakosaari.jpg
@@ -767,51 +767,51 @@
 ./mobile/games - the legend of zelda/pxfuel (7).jpg
 ./mobile/games - the legend of zelda/pxfuel (8).jpg
 ./mobile/games - the legend of zelda/pxfuel (9).jpg
-./mobile/leaves/058d30394bb54b92f46beed212779e91.jpeg
-./mobile/leaves/13f8cc63b85105eb37cea78d61c7b5eb.jpeg
-./mobile/leaves/2da76b16d84777340b7802caa739f7c1.jpeg
-./mobile/leaves/41751bd8b2825f27bb831b8a22264e8e.jpeg
-./mobile/leaves/630bd5cca2e26aae2ea8c7a910c7e7de.jpeg
-./mobile/leaves/84dd16067c81e3f6d32438e61deda0c0.jpeg
-./mobile/leaves/8d7603c7d7d613b22d792beb743bec5b.jpeg
-./mobile/leaves/b53ff0f72e0745f029bc09bc1cf23498.jpeg
-./mobile/leaves/b85602b71e36f4e8fe904e1ac117f0b3.jpeg
-./mobile/leaves/c7cea52c38d8e750f43a043358b815fd.jpeg
-./mobile/leaves/c98b8a8a473d94bb48f62a723658125f.jpeg
-./mobile/leaves/dd7b7ca8f522850f1b11983e69cea782.jpeg
-./mobile/leaves/df8c0b1a823d4b28e020b1eedfa5efa2.jpeg
-./mobile/leaves/f55b8ca1e60e24e741dafef4f6c57c14.jpeg
-./mobile/leaves/ff843c1a234a41232cda62c9688427e2.jpeg
-./mobile/leaves/pxfuel (43).jpg
+./mobile/leaves/81995b6a28f3759c_dd7b7ca8f522850f1b11983e69cea782.jpeg
+./mobile/leaves/84c74e163df860b7_df8c0b1a823d4b28e020b1eedfa5efa2.jpeg
+./mobile/leaves/869a6c65c5ac53cb_2da76b16d84777340b7802caa739f7c1.jpeg
+./mobile/leaves/89df3523ea5706a8_41751bd8b2825f27bb831b8a22264e8e.jpeg
+./mobile/leaves/8deb6cc033c30f6a_ff843c1a234a41232cda62c9688427e2.jpeg
+./mobile/leaves/9a9a61cd33993366_13f8cc63b85105eb37cea78d61c7b5eb.jpeg
+./mobile/leaves/9ddb3240da4f69a4_c7cea52c38d8e750f43a043358b815fd.jpeg
+./mobile/leaves/9e83714636e96671_630bd5cca2e26aae2ea8c7a910c7e7de.jpeg
+./mobile/leaves/9fa5bcc48d4a2af0_b53ff0f72e0745f029bc09bc1cf23498.jpeg
+./mobile/leaves/b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg
+./mobile/leaves/c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg
+./mobile/leaves/cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg
+./mobile/leaves/d20f1b713c1c6cc7_pxfuel (43).jpg
+./mobile/leaves/d7d2f81f404965b4_c98b8a8a473d94bb48f62a723658125f.jpeg
+./mobile/leaves/ec0cf544e88d38bb_f55b8ca1e60e24e741dafef4f6c57c14.jpeg
+./mobile/leaves/f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg
 ./mobile/mega man/1264785.png
 ./mobile/mega man/1264793.jpg
 ./mobile/mega man/1264868.jpg
-./mobile/misc/3c6c4e36baafa60eb1376a5386b05e1d.jpeg
-./mobile/misc/6406800.jpg
-./mobile/misc/a28d3a0412dfdaa7667fa00b10be52e1.jpeg
-./mobile/misc/Castle.jpg
-./mobile/misc/Dark Forest (1).jpg
-./mobile/misc/Dark Forest.jpg
-./mobile/misc/f4b6dd382b9815ed340d123be37c7cdd.jpeg
-./mobile/misc/Gorgeous Space.jpg
-./mobile/misc/LoveLife.jpg
-./mobile/misc/Luna.jpg
-./mobile/misc/Magic Sunset.jpg
-./mobile/misc/mega_sharjk_attack_by_by_dominik_broniek.jpg
-./mobile/misc/Moon.jpg
-./mobile/misc/nature (1).jpg
-./mobile/misc/Nature.jpg
-./mobile/misc/Night Creepy.jpg
-./mobile/misc/Pagan 01.jpg
-./mobile/misc/pxfuel (22).jpg
-./mobile/misc/pxfuel (24).jpg
-./mobile/misc/pxfuel (25).jpg
-./mobile/misc/pxfuel (34).jpg
-./mobile/misc/pxfuel (39).jpg
-./mobile/misc/pxfuel (4).jpg
-./mobile/misc/pxfuel (58).jpg
-./mobile/misc/The Eldritch Tutor by Dies Vitae.jpeg
-./mobile/misc/the_moon_by_ari_ibarra.jpg
+./mobile/misc/840bcc9d3bb47965_nature (1).jpg
+./mobile/misc/84394ed7798e99c4_pxfuel (25).jpg
+./mobile/misc/86c24b24b55a797d_Gorgeous Space.jpg
+./mobile/misc/877d30a3cf1e34e0_Nature.jpg
+./mobile/misc/8c9933663632366f_pxfuel (4).jpg
+./mobile/misc/8cf3738c69738c89_pxfuel (24).jpg
+./mobile/misc/8dcd7272cd8d2c32_pxfuel (34).jpg
+./mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg
+./mobile/misc/95ea4b94e46b3493_Dark Forest.jpg
+./mobile/misc/96e069cd37b2d229_LoveLife.jpg
+./mobile/misc/98dc63238c8d33f3_Moon.jpg
+./mobile/misc/9b991c6666694cf8_f4b6dd382b9815ed340d123be37c7cdd.jpeg
+./mobile/misc/9c4b33c7cc28766c_Pagan 01.jpg
+./mobile/misc/9fd8602587ea383d_Magic Sunset.jpg
+./mobile/misc/b094c4eb3fd530aa_Dark Forest (1).jpg
+./mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg
+./mobile/misc/c63f39c06e3ad065_pxfuel (58).jpg
+./mobile/misc/c6e0383f96384dc7_Luna.jpg
+./mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg
+./mobile/misc/ce3971cf3820c63d_Night Creepy.jpg
+./mobile/misc/ce869d1973e2ce09_Castle.jpg
+./mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg
+./mobile/misc/d22dc2d42df20dc7_The Eldritch Tutor by Dies Vitae.jpeg
+./mobile/misc/d5304b1fd876710d_6406800.jpg
+./mobile/misc/ee29aea398c790c6_pxfuel (22).jpg
+./mobile/misc/fb0f04b26bdd32c0_pxfuel (39).jpg
 ./mobile/misc cosmere/elantris_by_peter_kovacs.jpg
 ./mobile/misc cosmere/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg
 ./mobile/misc cosmere/tress_Death_of_the_Dream_by_Howard_Lyon.jpg
