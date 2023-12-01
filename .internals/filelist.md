@@ -1,5 +1,9 @@
 ./desktop/castlevania/1225346.jpg
 ./desktop/castlevania/castlevania_lords_of_shadows.jpg
+./desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg
+./desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg
+./desktop/castlevania/zz_castle_dracula's_castle_-_23.png
+./desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg
 ./desktop/forests/0087039a3a065ce7b9888b4bc5087768.jpeg
 ./desktop/forests/06fc6abbc63b99c9903ff625b617ec9b.jpeg
 ./desktop/forests/0aba909bf54ddbcd2dd0c87e2457621d.jpeg
@@ -8,6 +12,7 @@
 ./desktop/forests/150425-autumn-sunlight-woodland-mist-nature-550x310.jpg
 ./desktop/forests/1584744923895.png
 ./desktop/forests/1592433088417.jpg
+./desktop/forests/1899ce9b55d90e3eb8411af860b16839.jpg
 ./desktop/forests/1dee8bb45b1743cbecfc62c6c5588d95.jpeg
 ./desktop/forests/1KVob09.jpg
 ./desktop/forests/2048x1536_wood-trees-gloomy-fog-haze-darkness.jpg
@@ -26,6 +31,8 @@
 ./desktop/forests/751042.jpg
 ./desktop/forests/79022f2cd0976f67ded8c97542f9b407.jpeg
 ./desktop/forests/8w12n5l2a2101.jpg
+./desktop/forests/946027-Yuri-Hill-horror-forest-Moon-moonlight-dark (1).jpg
+./desktop/forests/946027-Yuri-Hill-horror-forest-Moon-moonlight-dark.jpg
 ./desktop/forests/a12yKuOVRIhWWyYWV_ktHoptWcSwZVhLBd_P64_Fsmk.jpg
 ./desktop/forests/aaron-alvarado-OZSNnAU5RPk-unsplash.jpg
 ./desktop/forests/ajit-singh-wJwx_jSgZuA-unsplash.jpg
@@ -62,6 +69,7 @@
 ./desktop/forests/guLC1ShOpKNXROIdnBk9y_Pz7OTVt3P_lXlLNzpsAj0.jpg
 ./desktop/forests/IEHvwiuvEOqVlw8V9MR2tbHr8dih5UeqbdW7Pl5zWo4.jpg
 ./desktop/forests/IiTAHc9.jpg
+./desktop/forests/istockphoto-1313980280-640x640.jpg
 ./desktop/forests/johannes-plenio-hvrpOmuMrAI-unsplash.jpg
 ./desktop/forests/jr-korpa-_OQ8Jc7kBmA-unsplash.jpg
 ./desktop/forests/keagan-henman-hkGF3Vwkzdk-unsplash.jpg
@@ -70,6 +78,7 @@
 ./desktop/forests/lHLBaBk.jpg
 ./desktop/forests/LwKkFry-dark-forest-background.jpg
 ./desktop/forests/night_moon_skyscapes_branches_desktop_1920x1080_hd-wallpaper-1143351.jpg
+./desktop/forests/nmu7hox.jpg
 ./desktop/forests/o3759180.jpg
 ./desktop/forests/OlLS9jP.jpg
 ./desktop/forests/op39kae1v3x11.jpg
@@ -78,6 +87,26 @@
 ./desktop/forests/P86dMbt.jpg
 ./desktop/forests/peakpx (3).jpg
 ./desktop/forests/peakpx (4).jpg
+./desktop/forests/photo-1483982258113-b72862e6cff6.jpeg
+./desktop/forests/pxfuel (30).jpg
+./desktop/forests/pxfuel (31).jpg
+./desktop/forests/pxfuel (33).jpg
+./desktop/forests/pxfuel (35).jpg
+./desktop/forests/pxfuel (37).jpg
+./desktop/forests/pxfuel (42).jpg
+./desktop/forests/pxfuel (47).jpg
+./desktop/forests/pxfuel (48).jpg
+./desktop/forests/pxfuel (49).jpg
+./desktop/forests/pxfuel (50).jpg
+./desktop/forests/pxfuel (52).jpg
+./desktop/forests/pxfuel (53).jpg
+./desktop/forests/pxfuel (54).jpg
+./desktop/forests/pxfuel (55).jpg
+./desktop/forests/pxfuel (56).jpg
+./desktop/forests/pxfuel (57).jpg
+./desktop/forests/pxfuel (59).jpg
+./desktop/forests/pxfuel (62).jpg
+./desktop/forests/pxfuel (63).jpg
 ./desktop/forests/quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png
 ./desktop/forests/r8hnG2g.jpg
 ./desktop/forests/RDT_20231111_153038711334247116359361.jpg
@@ -90,6 +119,7 @@
 ./desktop/forests/roman-datsiuk-mW_yoqe6pkM-unsplash.jpg
 ./desktop/forests/rosie-sun-1L71sPT5XKc-unsplash.jpg
 ./desktop/forests/Rp93yzP.png
+./desktop/forests/rwbusb7wo3s51.jpg
 ./desktop/forests/RycKnX9-dark-forest-background.jpg
 ./desktop/forests/sad-n-dark-20.jpeg
 ./desktop/forests/scary-dark-forest-desktop.jpg
@@ -140,6 +170,11 @@
 ./desktop/misc/peakpx.jpg
 ./desktop/misc/pexels-daniel-dan-7676164.jpg
 ./desktop/misc/puppy.jpg
+./desktop/misc/pxfuel (23).jpg
+./desktop/misc/pxfuel (26).jpg
+./desktop/misc/pxfuel (29).jpg
+./desktop/misc/pxfuel (36).jpg
+./desktop/misc/pxfuel (41).jpg
 ./desktop/misc/RDT_20231106_0046137176026357718837753.jpg
 ./desktop/misc/RDT_20231106_0046546244189923785616235.jpg
 ./desktop/misc/rm-rf.jpg
@@ -281,54 +316,26 @@
 ./desktop/synthwave/wallpaperflare.com_wallpaper (6).jpg
 ./desktop/synthwave/wallpaperflare.com_wallpaper (7).jpg
 ./desktop/synthwave/wallpaperflare.com_wallpaper.jpg
-./desktop/teeturtle/Bats-and-Baubles.jpg
-./desktop/teeturtle/Blood-Moon-Dragon.jpg
-./desktop/teeturtle/Book-Hoarder.jpg
-./desktop/teeturtle/Celastial-Spirits.jpg
-./desktop/teeturtle/Celestial-Cat4200x4200.jpg
-./desktop/teeturtle/celestial_current.jpeg
-./desktop/teeturtle/Celestial-D20.jpg
-./desktop/teeturtle/Cthulhu-Calling.jpg
-./desktop/teeturtle/D20-Cthulhu.jpg
-./desktop/teeturtle/d20.jpg
-./desktop/teeturtle/D20-Mage.jpg
-./desktop/teeturtle/Earth-Fire-Water-and-Air-Dragons.jpg
-./desktop/teeturtle/Elemental-Kitsune.jpg
-./desktop/teeturtle/Enchanting-KITSUNE.jpg
-./desktop/teeturtle/four-unicorns-of-the-apocalypse-V2.jpg
-./desktop/teeturtle/Foxy-Astronaut.jpg
-./desktop/teeturtle/Grim-Reapers-Roll.jpg
-./desktop/teeturtle/Hex-alotl.jpg
-./desktop/teeturtle/Im-Fulfilling-My-Destintiny.jpg
-./desktop/teeturtle/Lupine-Constellations.jpg
-./desktop/teeturtle/Mighty-Warrior.jpg
-./desktop/teeturtle/Moonlit-Blade-of-Roses.jpg
-./desktop/teeturtle/Mystic-Tea.jpg
-./desktop/teeturtle/Necromancer-Cat.jpg
-./desktop/teeturtle/Nekonomicon.jpg
-./desktop/teeturtle/pumpkin-queen.jpg
-./desktop/teeturtle/Ramen-Dragon.jpg
-./desktop/teeturtle/Seasonal-Tree.jpg
-./desktop/teeturtle/Shiny-Wolf.jpg
-./desktop/teeturtle/SHIRT-Moonlight-Sorceress.jpg
-./desktop/teeturtle/SHIRT-Tyrannosaurs-Hex.jpg
-./desktop/teeturtle/Skulls-and-Soundwaves-Glow-GLOW-ONLY.jpg
-./desktop/teeturtle/Skulls-and-Soundwaves-Glow.jpg
-./desktop/teeturtle/Smore-Hoarder.jpg
-./desktop/teeturtle/Spirit-of-the-Moon.jpg
-./desktop/teeturtle/Unicorn-Nebula.jpg
-./desktop/teeturtle/Vampire-Princess.jpg
-./desktop/teeturtle/Were-Gonna-Be-Legends.jpg
-./desktop/teeturtle/zz01-mushfrog-TT-Mushroom-Forest.jpg
-./desktop/teeturtle/zz01-mushfrog-TT-So-Mushroom-in-Space.jpg
-./desktop/teeturtle/zz01-mushfrog-TT-Twilight-Toadstool.jpg
-./desktop/teeturtle/zz02-reading01-TT-Spellbinding-Stories.jpg
-./desktop/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg
-./desktop/teeturtle/zz02_reading99_moonlight-tale.jpg
-./desktop/teeturtle/zz02-reading99-TT-Tale-of-Adventure.jpg
-./desktop/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg
-./desktop/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg
-./desktop/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg
+./desktop/tmnt/1337531.png
+./desktop/tmnt/222365.jpg
+./desktop/tmnt/222523.jpg
+./desktop/tmnt/361249.jpg
+./desktop/tmnt/490238.jpg
+./desktop/tmnt/490239.jpg
+./desktop/tmnt/490245.jpg
+./desktop/tmnt/490247.jpg
+./desktop/tmnt/583181.jpg
+./desktop/tmnt/58a261fcac667480293704250fff1154.jpeg
+./desktop/tmnt/705217.jpg
+./desktop/tmnt/72442.jpg
+./desktop/tmnt/7787.jpg
+./desktop/tmnt/7795.jpg
+./desktop/tmnt/78490.jpg
+./desktop/tmnt/78491.jpg
+./desktop/tmnt/78493.jpg
+./desktop/tmnt/910265.jpg
+./desktop/tmnt/970371.png
+./desktop/tmnt/pxfuel (6).jpg
 ./desktop/tomb raider 2013/basecamp.jpg
 ./desktop/tomb raider 2013/campsite.jpg
 ./desktop/tomb raider 2013/cliffhanger.jpg
@@ -340,6 +347,10 @@
 ./desktop/tomb raider 2013/tomb_raider_2013_concept_art_by_johann_papayou_blais-wallpaper-2560x1440.jpg
 ./desktop/tomb raider 2013/Tomb Raider Underworld Art Wallpaper 1920x1080 Tomb Raider ....jpg
 ./desktop/tomb raider 2013/WW2-SOS.jpg
+./desktop/vector vistas/pxfuel (28).jpg
+./desktop/vector vistas/pxfuel (40).jpg
+./desktop/vector vistas/pxfuel (51).jpg
+./desktop/vector vistas/pxfuel (61).jpg
 ./desktop/villages/cute-town-dark.png
 ./desktop/villages/forest.png
 ./desktop/villages/japan3.jpg
@@ -349,6 +360,241 @@
 ./desktop/yumi and the nightmare painter/Learning_to_Paint_by_Aliya_Chen.jpg
 ./desktop/yumi and the nightmare painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg
 ./desktop/yumi and the nightmare painter/Yumi_wallpaper_horizontal_no_title.jpg
+./floaters/steven rhodes/achieve-your-dreams.png
+./floaters/steven rhodes/a-cure-for-stupid-people.png
+./floaters/steven rhodes/adopt-a-familiar-part-2.png
+./floaters/steven rhodes/adopt-a-familiar-part-3.png
+./floaters/steven rhodes/adopt-a-familiar.png
+./floaters/steven rhodes/advanced-pyrokinesis.png
+./floaters/steven rhodes/alien-abduction-club.png
+./floaters/steven rhodes/always-check-your-candy-trick-r-treat.png
+./floaters/steven rhodes/anxiety-attack.png
+./floaters/steven rhodes/archery-for-beginners.png
+./floaters/steven rhodes/are-we-there-yet.png
+./floaters/steven rhodes/assume-the-fetal-position.png
+./floaters/steven rhodes/bingo-digs-a-hole.png
+./floaters/steven rhodes/b-m-hex-gang.png
+./floaters/steven rhodes/body-swap.png
+./floaters/steven rhodes/breaking-news.png
+./floaters/steven rhodes/bureau-of-firearms.png
+./floaters/steven rhodes/camp-of-lost-souls.png
+./floaters/steven rhodes/caring-for-your-demon-cat.png
+./floaters/steven rhodes/caring-for-your-hell-hound.png
+./floaters/steven rhodes/casual-friday.png
+./floaters/steven rhodes/catch-of-the-day.png
+./floaters/steven rhodes/cerberus.png
+./floaters/steven rhodes/change-the-ending-aust-bushfire-donation.png
+./floaters/steven rhodes/cheddar-goblin-mandy.png
+./floaters/steven rhodes/choose-your-prize.png
+./floaters/steven rhodes/christmas-safety.png
+./floaters/steven rhodes/clowns-are-funny.png
+./floaters/steven rhodes/coffee-gives-me-life.png
+./floaters/steven rhodes/coping-with-stress.png
+./floaters/steven rhodes/cryptozoology-for-beginners.png
+./floaters/steven rhodes/cult-book-club.png
+./floaters/steven rhodes/cult-movie-club.png
+./floaters/steven rhodes/cult-music-sing-along.png
+./floaters/steven rhodes/curses-spells.png
+./floaters/steven rhodes/dark-roast.png
+./floaters/steven rhodes/d-d-r-c.png
+./floaters/steven rhodes/death-burger.png
+./floaters/steven rhodes/death-metal-sing-along.png
+./floaters/steven rhodes/devils-music-sing-along.png
+./floaters/steven rhodes/devouring-your-soul.png
+./floaters/steven rhodes/dial-an-exorcist.png
+./floaters/steven rhodes/diving-for-treasure.png
+./floaters/steven rhodes/dont-fall-asleep.png
+./floaters/steven rhodes/dont-frig-with-me.png
+./floaters/steven rhodes/dont-sit-too-close.png
+./floaters/steven rhodes/dont-talk-to-strangers.png
+./floaters/steven rhodes/eat-your-worries.png
+./floaters/steven rhodes/electrokinesis-for-beginners.png
+./floaters/steven rhodes/everybody-croaks.png
+./floaters/steven rhodes/everybodys-doing-the-spider-walk.png
+./floaters/steven rhodes/existential-dread.png
+./floaters/steven rhodes/expand-your-mind.png
+./floaters/steven rhodes/express-your-feelings.png
+./floaters/steven rhodes/fleece-blanket.png
+./floaters/steven rhodes/fun-at-the-farm.png
+./floaters/steven rhodes/fun-in-the-snow.png
+./floaters/steven rhodes/fun-with-krampus.png
+./floaters/steven rhodes/fun-with-shadows.png
+./floaters/steven rhodes/ghostface-movie-club.png
+./floaters/steven rhodes/give-blood-today.png
+./floaters/steven rhodes/go-to-hell.png
+./floaters/steven rhodes/graham-and-the-greys.png
+./floaters/steven rhodes/hail-santa.png
+./floaters/steven rhodes/halloween-video-rental.png
+./floaters/steven rhodes/hanging-with-all-my-friends.png
+./floaters/steven rhodes/have-a-nice-life.png
+./floaters/steven rhodes/hell-cats.png
+./floaters/steven rhodes/here-comes-the-apocalypse.png
+./floaters/steven rhodes/he-sees-you-when-youre-sleeping.png
+./floaters/steven rhodes/hide-from-reality.png
+./floaters/steven rhodes/high-five.png
+./floaters/steven rhodes/how-to-exit-your-body.png
+./floaters/steven rhodes/how-to-summon-the-candyman.png
+./floaters/steven rhodes/hugsss.png
+./floaters/steven rhodes/i-am-your-god-now.png
+./floaters/steven rhodes/i-saw-the-mothman.png
+./floaters/steven rhodes/jennys-new-friends.png
+./floaters/steven rhodes/kittys-first-offering.png
+./floaters/steven rhodes/knock-knock-whos-there.png
+./floaters/steven rhodes/learn-about-division.png
+./floaters/steven rhodes/learn-about-evolution.png
+./floaters/steven rhodes/learn-about-gravity.png
+./floaters/steven rhodes/learn-about-recycling-1.png
+./floaters/steven rhodes/learn-about-subtraction.png
+./floaters/steven rhodes/learn-to-spell.png
+./floaters/steven rhodes/lets-call-the-exorcist.png
+./floaters/steven rhodes/lets-catch-santa.png
+./floaters/steven rhodes/lets-dig-for-treasure.png
+./floaters/steven rhodes/lets-go-fishing.png
+./floaters/steven rhodes/lets-have-a-seance.png
+./floaters/steven rhodes/lets-make-wishes.png
+./floaters/steven rhodes/lets-play-catch.png
+./floaters/steven rhodes/lets-raise-hell.png
+./floaters/steven rhodes/lets-run-away.png
+./floaters/steven rhodes/lets-sacrifice-toby.png
+./floaters/steven rhodes/lets-start-a-cult.png
+./floaters/steven rhodes/lets-summon-demons.png
+./floaters/steven rhodes/lets-visit-the-doctor.png
+./floaters/steven rhodes/living-well.png
+./floaters/steven rhodes/love-you-to-death.png
+./floaters/steven rhodes/making-new-friends.png
+./floaters/steven rhodes/meet-your-doppelganger.png
+./floaters/steven rhodes/meet-your-neighbours.png
+./floaters/steven rhodes/mind-control-for-beginners.png
+./floaters/steven rhodes/mr-giggles.png
+./floaters/steven rhodes/my-chosen-one.png
+./floaters/steven rhodes/my-emotional-baggage.png
+./floaters/steven rhodes/my-family-portrait.png
+./floaters/steven rhodes/my-favourite-nursery-rhymes.png
+./floaters/steven rhodes/my-first-alchemy-lab.png
+./floaters/steven rhodes/my-first-alien-autopsy.png
+./floaters/steven rhodes/my-first-flamethrower.png
+./floaters/steven rhodes/my-first-knife-fight.png
+./floaters/steven rhodes/my-first-ouija-board.png
+./floaters/steven rhodes/my-first-voodoo-doll.png
+./floaters/steven rhodes/my-first-zombie-apocalypse.png
+./floaters/steven rhodes/my-imaginary-friends.png
+./floaters/steven rhodes/my-new-family.png
+./floaters/steven rhodes/my-new-pet-creepshow.png
+./floaters/steven rhodes/necromancy-for-beginners.png
+./floaters/steven rhodes/never-accept-a-ride.png
+./floaters/steven rhodes/never-blow-out-a-jack-o-lantern.png
+./floaters/steven rhodes/no-justice-no-peace.png
+./floaters/steven rhodes/normal-is-boring.png
+./floaters/steven rhodes/one-year-closer.png
+./floaters/steven rhodes/personal-growth.png
+./floaters/steven rhodes/pin-the-tail-on-the-minotaur.png
+./floaters/steven rhodes/pumpkin-master.png
+./floaters/steven rhodes/pumpkins-revenge.png
+./floaters/steven rhodes/pyrokinesis-for-beginners.png
+./floaters/steven rhodes/rainy-day-fun.png
+./floaters/steven rhodes/r-e-a-d.png
+./floaters/steven rhodes/recipes-for-children.png
+./floaters/steven rhodes/respect-your-elders.png
+./floaters/steven rhodes/rise-above-the-bullsh-t.png
+./floaters/steven rhodes/salem-summer-camp-dark.png
+./floaters/steven rhodes/satan-is-waitin.png
+./floaters/steven rhodes/say-no-to-hate.png
+./floaters/steven rhodes/say-no-to-sports.png
+./floaters/steven rhodes/scary-movies-chill-ghost-face.png
+./floaters/steven rhodes/science.png
+./floaters/steven rhodes/see-you-later.png
+./floaters/steven rhodes/sell-your-soul.png
+./floaters/steven rhodes/silent-night.png
+./floaters/steven rhodes/smells-like-christmas.png
+./floaters/steven rhodes/so-long-losers.png
+./floaters/steven rhodes/so-many-dipsh-ts.png
+./floaters/steven rhodes/sorry-i-have-plans-care-bears.png
+./floaters/steven rhodes/stay-positive.png
+./floaters/steven rhodes/stunts-for-beginners.png
+./floaters/steven rhodes/super-glue-is-not-a-toy.png
+./floaters/steven rhodes/sweet-dreams.png
+./floaters/steven rhodes/tag-youre-it.png
+./floaters/steven rhodes/talk-to-the-dead.png
+./floaters/steven rhodes/talk-to-your-cat.png
+./floaters/steven rhodes/telekinesis-for-beginners.png
+./floaters/steven rhodes/the-cat-dimension.png
+./floaters/steven rhodes/the-christmas-spirit.png
+./floaters/steven rhodes/the-conjuring-of-lucipurr.png
+./floaters/steven rhodes/the-elves-are-always-watching.png
+./floaters/steven rhodes/the-great-dreamer.png
+./floaters/steven rhodes/the-morning-ritual.png
+./floaters/steven rhodes/the-very-drunk-leprechaun.png
+./floaters/steven rhodes/this-is-where-i-go.png
+./floaters/steven rhodes/time-travel-for-beginners.png
+./floaters/steven rhodes/timmy-has-a-visitor.png
+./floaters/steven rhodes/todays-problems.png
+./floaters/steven rhodes/trial-by-combat.png
+./floaters/steven rhodes/trick-or-treat.png
+./floaters/steven rhodes/trust-in-god.png
+./floaters/steven rhodes/video-games-rot-your-brains.png
+./floaters/steven rhodes/visit-earth.png
+./floaters/steven rhodes/voodoo-rituals-for-beginners.png
+./floaters/steven rhodes/wake-me-up.png
+./floaters/steven rhodes/who-cares.png
+./floaters/steven rhodes/who-gives-a-sh-t.png
+./floaters/steven rhodes/whos-possessed-johnny.png
+./floaters/steven rhodes/witches-brew.png
+./floaters/steven rhodes/woodwork-for-kids.png
+./floaters/steven rhodes/worship-coffee.png
+./floaters/steven rhodes/yoga-for-beginners.png
+./floaters/steven rhodes/you-can-learn-sewing.png
+./floaters/steven rhodes/you-complete-me.png
+./floaters/steven rhodes/your-changing-body.png
+./floaters/steven rhodes/youre-killing-it.png
+./floaters/steven rhodes/youre-my-crush.png
+./floaters/teeturtle/Bats-and-Baubles.jpg
+./floaters/teeturtle/Blood-Moon-Dragon.jpg
+./floaters/teeturtle/Book-Hoarder.jpg
+./floaters/teeturtle/Celastial-Spirits.jpg
+./floaters/teeturtle/Celestial-Cat4200x4200.jpg
+./floaters/teeturtle/celestial_current.jpeg
+./floaters/teeturtle/Celestial-D20.jpg
+./floaters/teeturtle/Cthulhu-Calling.jpg
+./floaters/teeturtle/D20-Cthulhu.jpg
+./floaters/teeturtle/d20.jpg
+./floaters/teeturtle/D20-Mage.jpg
+./floaters/teeturtle/Earth-Fire-Water-and-Air-Dragons.jpg
+./floaters/teeturtle/Elemental-Kitsune.jpg
+./floaters/teeturtle/Enchanting-KITSUNE.jpg
+./floaters/teeturtle/four-unicorns-of-the-apocalypse-V2.jpg
+./floaters/teeturtle/Foxy-Astronaut.jpg
+./floaters/teeturtle/Grim-Reapers-Roll.jpg
+./floaters/teeturtle/Hex-alotl.jpg
+./floaters/teeturtle/Im-Fulfilling-My-Destintiny.jpg
+./floaters/teeturtle/Lupine-Constellations.jpg
+./floaters/teeturtle/Mighty-Warrior.jpg
+./floaters/teeturtle/Moonlit-Blade-of-Roses.jpg
+./floaters/teeturtle/Mystic-Tea.jpg
+./floaters/teeturtle/Necromancer-Cat.jpg
+./floaters/teeturtle/Nekonomicon.jpg
+./floaters/teeturtle/pumpkin-queen.jpg
+./floaters/teeturtle/Ramen-Dragon.jpg
+./floaters/teeturtle/Seasonal-Tree.jpg
+./floaters/teeturtle/Shiny-Wolf.jpg
+./floaters/teeturtle/SHIRT-Moonlight-Sorceress.jpg
+./floaters/teeturtle/SHIRT-Tyrannosaurs-Hex.jpg
+./floaters/teeturtle/Skulls-and-Soundwaves-Glow-GLOW-ONLY.jpg
+./floaters/teeturtle/Skulls-and-Soundwaves-Glow.jpg
+./floaters/teeturtle/Smore-Hoarder.jpg
+./floaters/teeturtle/Spirit-of-the-Moon.jpg
+./floaters/teeturtle/Unicorn-Nebula.jpg
+./floaters/teeturtle/Vampire-Princess.jpg
+./floaters/teeturtle/Were-Gonna-Be-Legends.jpg
+./floaters/teeturtle/zz01-mushfrog-TT-Mushroom-Forest.jpg
+./floaters/teeturtle/zz01-mushfrog-TT-So-Mushroom-in-Space.jpg
+./floaters/teeturtle/zz01-mushfrog-TT-Twilight-Toadstool.jpg
+./floaters/teeturtle/zz02-reading01-TT-Spellbinding-Stories.jpg
+./floaters/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg
+./floaters/teeturtle/zz02_reading99_moonlight-tale.jpg
+./floaters/teeturtle/zz02-reading99-TT-Tale-of-Adventure.jpg
+./floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg
+./floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg
+./floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg
 ./mobile/castlevania/00_ak_cv_09-castlevania.jpg
 ./mobile/castlevania/00_ak_cv_10_-_okwphcm.png
 ./mobile/castlevania/00_ak_cv_11_-_fkm5qdq.png
@@ -521,8 +767,28 @@
 ./mobile/games - the legend of zelda/pxfuel (7).jpg
 ./mobile/games - the legend of zelda/pxfuel (8).jpg
 ./mobile/games - the legend of zelda/pxfuel (9).jpg
+./mobile/leaves/058d30394bb54b92f46beed212779e91.jpeg
+./mobile/leaves/13f8cc63b85105eb37cea78d61c7b5eb.jpeg
+./mobile/leaves/2da76b16d84777340b7802caa739f7c1.jpeg
+./mobile/leaves/41751bd8b2825f27bb831b8a22264e8e.jpeg
+./mobile/leaves/630bd5cca2e26aae2ea8c7a910c7e7de.jpeg
+./mobile/leaves/84dd16067c81e3f6d32438e61deda0c0.jpeg
+./mobile/leaves/8d7603c7d7d613b22d792beb743bec5b.jpeg
+./mobile/leaves/b53ff0f72e0745f029bc09bc1cf23498.jpeg
+./mobile/leaves/b85602b71e36f4e8fe904e1ac117f0b3.jpeg
+./mobile/leaves/c7cea52c38d8e750f43a043358b815fd.jpeg
+./mobile/leaves/c98b8a8a473d94bb48f62a723658125f.jpeg
+./mobile/leaves/dd7b7ca8f522850f1b11983e69cea782.jpeg
+./mobile/leaves/df8c0b1a823d4b28e020b1eedfa5efa2.jpeg
+./mobile/leaves/f55b8ca1e60e24e741dafef4f6c57c14.jpeg
+./mobile/leaves/ff843c1a234a41232cda62c9688427e2.jpeg
+./mobile/leaves/pxfuel (43).jpg
+./mobile/mega man/1264785.png
+./mobile/mega man/1264793.jpg
+./mobile/mega man/1264868.jpg
 ./mobile/misc/3c6c4e36baafa60eb1376a5386b05e1d.jpeg
 ./mobile/misc/6406800.jpg
+./mobile/misc/a28d3a0412dfdaa7667fa00b10be52e1.jpeg
 ./mobile/misc/Castle.jpg
 ./mobile/misc/Dark Forest (1).jpg
 ./mobile/misc/Dark Forest.jpg
@@ -537,7 +803,13 @@
 ./mobile/misc/Nature.jpg
 ./mobile/misc/Night Creepy.jpg
 ./mobile/misc/Pagan 01.jpg
+./mobile/misc/pxfuel (22).jpg
+./mobile/misc/pxfuel (24).jpg
+./mobile/misc/pxfuel (25).jpg
+./mobile/misc/pxfuel (34).jpg
+./mobile/misc/pxfuel (39).jpg
 ./mobile/misc/pxfuel (4).jpg
+./mobile/misc/pxfuel (58).jpg
 ./mobile/misc/The Eldritch Tutor by Dies Vitae.jpeg
 ./mobile/misc/the_moon_by_ari_ibarra.jpg
 ./mobile/misc cosmere/elantris_by_peter_kovacs.jpg
@@ -581,193 +853,6 @@
 ./mobile/mistborn/Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg
 ./mobile/mistborn/Vin_The_Heir_of_the_Survivor_-_Miranda_Meeks.jpg
 ./mobile/mistborn/wax_miles_hundredlives_by_ari_ibarra.jpg
-./mobile/steven rhodes/achieve-your-dreams.png
-./mobile/steven rhodes/a-cure-for-stupid-people.png
-./mobile/steven rhodes/adopt-a-familiar-part-2.png
-./mobile/steven rhodes/adopt-a-familiar-part-3.png
-./mobile/steven rhodes/adopt-a-familiar.png
-./mobile/steven rhodes/advanced-pyrokinesis.png
-./mobile/steven rhodes/alien-abduction-club.png
-./mobile/steven rhodes/always-check-your-candy-trick-r-treat.png
-./mobile/steven rhodes/anxiety-attack.png
-./mobile/steven rhodes/archery-for-beginners.png
-./mobile/steven rhodes/are-we-there-yet.png
-./mobile/steven rhodes/assume-the-fetal-position.png
-./mobile/steven rhodes/bingo-digs-a-hole.png
-./mobile/steven rhodes/b-m-hex-gang.png
-./mobile/steven rhodes/body-swap.png
-./mobile/steven rhodes/breaking-news.png
-./mobile/steven rhodes/bureau-of-firearms.png
-./mobile/steven rhodes/camp-of-lost-souls.png
-./mobile/steven rhodes/caring-for-your-demon-cat.png
-./mobile/steven rhodes/caring-for-your-hell-hound.png
-./mobile/steven rhodes/casual-friday.png
-./mobile/steven rhodes/catch-of-the-day.png
-./mobile/steven rhodes/cerberus.png
-./mobile/steven rhodes/change-the-ending-aust-bushfire-donation.png
-./mobile/steven rhodes/cheddar-goblin-mandy.png
-./mobile/steven rhodes/choose-your-prize.png
-./mobile/steven rhodes/christmas-safety.png
-./mobile/steven rhodes/clowns-are-funny.png
-./mobile/steven rhodes/coffee-gives-me-life.png
-./mobile/steven rhodes/coping-with-stress.png
-./mobile/steven rhodes/cryptozoology-for-beginners.png
-./mobile/steven rhodes/cult-book-club.png
-./mobile/steven rhodes/cult-movie-club.png
-./mobile/steven rhodes/cult-music-sing-along.png
-./mobile/steven rhodes/curses-spells.png
-./mobile/steven rhodes/dark-roast.png
-./mobile/steven rhodes/d-d-r-c.png
-./mobile/steven rhodes/death-burger.png
-./mobile/steven rhodes/death-metal-sing-along.png
-./mobile/steven rhodes/devils-music-sing-along.png
-./mobile/steven rhodes/devouring-your-soul.png
-./mobile/steven rhodes/dial-an-exorcist.png
-./mobile/steven rhodes/diving-for-treasure.png
-./mobile/steven rhodes/dont-fall-asleep.png
-./mobile/steven rhodes/dont-frig-with-me.png
-./mobile/steven rhodes/dont-sit-too-close.png
-./mobile/steven rhodes/dont-talk-to-strangers.png
-./mobile/steven rhodes/eat-your-worries.png
-./mobile/steven rhodes/electrokinesis-for-beginners.png
-./mobile/steven rhodes/everybody-croaks.png
-./mobile/steven rhodes/everybodys-doing-the-spider-walk.png
-./mobile/steven rhodes/existential-dread.png
-./mobile/steven rhodes/expand-your-mind.png
-./mobile/steven rhodes/express-your-feelings.png
-./mobile/steven rhodes/fleece-blanket.png
-./mobile/steven rhodes/fun-at-the-farm.png
-./mobile/steven rhodes/fun-in-the-snow.png
-./mobile/steven rhodes/fun-with-krampus.png
-./mobile/steven rhodes/fun-with-shadows.png
-./mobile/steven rhodes/ghostface-movie-club.png
-./mobile/steven rhodes/give-blood-today.png
-./mobile/steven rhodes/go-to-hell.png
-./mobile/steven rhodes/graham-and-the-greys.png
-./mobile/steven rhodes/hail-santa.png
-./mobile/steven rhodes/halloween-video-rental.png
-./mobile/steven rhodes/hanging-with-all-my-friends.png
-./mobile/steven rhodes/have-a-nice-life.png
-./mobile/steven rhodes/hell-cats.png
-./mobile/steven rhodes/here-comes-the-apocalypse.png
-./mobile/steven rhodes/he-sees-you-when-youre-sleeping.png
-./mobile/steven rhodes/hide-from-reality.png
-./mobile/steven rhodes/high-five.png
-./mobile/steven rhodes/how-to-exit-your-body.png
-./mobile/steven rhodes/how-to-summon-the-candyman.png
-./mobile/steven rhodes/hugsss.png
-./mobile/steven rhodes/i-am-your-god-now.png
-./mobile/steven rhodes/i-saw-the-mothman.png
-./mobile/steven rhodes/jennys-new-friends.png
-./mobile/steven rhodes/kittys-first-offering.png
-./mobile/steven rhodes/knock-knock-whos-there.png
-./mobile/steven rhodes/learn-about-division.png
-./mobile/steven rhodes/learn-about-evolution.png
-./mobile/steven rhodes/learn-about-gravity.png
-./mobile/steven rhodes/learn-about-recycling-1.png
-./mobile/steven rhodes/learn-about-subtraction.png
-./mobile/steven rhodes/learn-to-spell.png
-./mobile/steven rhodes/lets-call-the-exorcist.png
-./mobile/steven rhodes/lets-catch-santa.png
-./mobile/steven rhodes/lets-dig-for-treasure.png
-./mobile/steven rhodes/lets-go-fishing.png
-./mobile/steven rhodes/lets-have-a-seance.png
-./mobile/steven rhodes/lets-make-wishes.png
-./mobile/steven rhodes/lets-play-catch.png
-./mobile/steven rhodes/lets-raise-hell.png
-./mobile/steven rhodes/lets-run-away.png
-./mobile/steven rhodes/lets-sacrifice-toby.png
-./mobile/steven rhodes/lets-start-a-cult.png
-./mobile/steven rhodes/lets-summon-demons.png
-./mobile/steven rhodes/lets-visit-the-doctor.png
-./mobile/steven rhodes/living-well.png
-./mobile/steven rhodes/love-you-to-death.png
-./mobile/steven rhodes/making-new-friends.png
-./mobile/steven rhodes/meet-your-doppelganger.png
-./mobile/steven rhodes/meet-your-neighbours.png
-./mobile/steven rhodes/mind-control-for-beginners.png
-./mobile/steven rhodes/mr-giggles.png
-./mobile/steven rhodes/my-chosen-one.png
-./mobile/steven rhodes/my-emotional-baggage.png
-./mobile/steven rhodes/my-family-portrait.png
-./mobile/steven rhodes/my-favourite-nursery-rhymes.png
-./mobile/steven rhodes/my-first-alchemy-lab.png
-./mobile/steven rhodes/my-first-alien-autopsy.png
-./mobile/steven rhodes/my-first-flamethrower.png
-./mobile/steven rhodes/my-first-knife-fight.png
-./mobile/steven rhodes/my-first-ouija-board.png
-./mobile/steven rhodes/my-first-voodoo-doll.png
-./mobile/steven rhodes/my-first-zombie-apocalypse.png
-./mobile/steven rhodes/my-imaginary-friends.png
-./mobile/steven rhodes/my-new-family.png
-./mobile/steven rhodes/my-new-pet-creepshow.png
-./mobile/steven rhodes/necromancy-for-beginners.png
-./mobile/steven rhodes/never-accept-a-ride.png
-./mobile/steven rhodes/never-blow-out-a-jack-o-lantern.png
-./mobile/steven rhodes/no-justice-no-peace.png
-./mobile/steven rhodes/normal-is-boring.png
-./mobile/steven rhodes/one-year-closer.png
-./mobile/steven rhodes/personal-growth.png
-./mobile/steven rhodes/pin-the-tail-on-the-minotaur.png
-./mobile/steven rhodes/pumpkin-master.png
-./mobile/steven rhodes/pumpkins-revenge.png
-./mobile/steven rhodes/pyrokinesis-for-beginners.png
-./mobile/steven rhodes/rainy-day-fun.png
-./mobile/steven rhodes/r-e-a-d.png
-./mobile/steven rhodes/recipes-for-children.png
-./mobile/steven rhodes/respect-your-elders.png
-./mobile/steven rhodes/rise-above-the-bullsh-t.png
-./mobile/steven rhodes/salem-summer-camp-dark.png
-./mobile/steven rhodes/satan-is-waitin.png
-./mobile/steven rhodes/say-no-to-hate.png
-./mobile/steven rhodes/say-no-to-sports.png
-./mobile/steven rhodes/scary-movies-chill-ghost-face.png
-./mobile/steven rhodes/science.png
-./mobile/steven rhodes/see-you-later.png
-./mobile/steven rhodes/sell-your-soul.png
-./mobile/steven rhodes/silent-night.png
-./mobile/steven rhodes/smells-like-christmas.png
-./mobile/steven rhodes/so-long-losers.png
-./mobile/steven rhodes/so-many-dipsh-ts.png
-./mobile/steven rhodes/sorry-i-have-plans-care-bears.png
-./mobile/steven rhodes/stay-positive.png
-./mobile/steven rhodes/stunts-for-beginners.png
-./mobile/steven rhodes/super-glue-is-not-a-toy.png
-./mobile/steven rhodes/sweet-dreams.png
-./mobile/steven rhodes/tag-youre-it.png
-./mobile/steven rhodes/talk-to-the-dead.png
-./mobile/steven rhodes/talk-to-your-cat.png
-./mobile/steven rhodes/telekinesis-for-beginners.png
-./mobile/steven rhodes/the-cat-dimension.png
-./mobile/steven rhodes/the-christmas-spirit.png
-./mobile/steven rhodes/the-conjuring-of-lucipurr.png
-./mobile/steven rhodes/the-elves-are-always-watching.png
-./mobile/steven rhodes/the-great-dreamer.png
-./mobile/steven rhodes/the-morning-ritual.png
-./mobile/steven rhodes/the-very-drunk-leprechaun.png
-./mobile/steven rhodes/this-is-where-i-go.png
-./mobile/steven rhodes/time-travel-for-beginners.png
-./mobile/steven rhodes/timmy-has-a-visitor.png
-./mobile/steven rhodes/todays-problems.png
-./mobile/steven rhodes/trial-by-combat.png
-./mobile/steven rhodes/trick-or-treat.png
-./mobile/steven rhodes/trust-in-god.png
-./mobile/steven rhodes/video-games-rot-your-brains.png
-./mobile/steven rhodes/visit-earth.png
-./mobile/steven rhodes/voodoo-rituals-for-beginners.png
-./mobile/steven rhodes/wake-me-up.png
-./mobile/steven rhodes/who-cares.png
-./mobile/steven rhodes/who-gives-a-sh-t.png
-./mobile/steven rhodes/whos-possessed-johnny.png
-./mobile/steven rhodes/witches-brew.png
-./mobile/steven rhodes/woodwork-for-kids.png
-./mobile/steven rhodes/worship-coffee.png
-./mobile/steven rhodes/yoga-for-beginners.png
-./mobile/steven rhodes/you-can-learn-sewing.png
-./mobile/steven rhodes/you-complete-me.png
-./mobile/steven rhodes/your-changing-body.png
-./mobile/steven rhodes/youre-killing-it.png
-./mobile/steven rhodes/youre-my-crush.png
 ./mobile/stormlight/00_dalinar_by_petar_penev.jpg
 ./mobile/stormlight/01_dalinar_by_dominik_broniek.jpg
 ./mobile/stormlight/01_dalinar_by_randy_vargas.jpg
@@ -826,6 +911,53 @@
 ./mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg
 ./mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg
 ./mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg
+./mobile/tmnt/107921.jpg
+./mobile/tmnt/1337531.png
+./mobile/tmnt/152641.png
+./mobile/tmnt/222458.jpg
+./mobile/tmnt/222523.jpg
+./mobile/tmnt/2724715094_41027a1a0f_o.jpg
+./mobile/tmnt/2f1a0ffe3f0ffab265883afb2f232414.jpg
+./mobile/tmnt/30th.jpg
+./mobile/tmnt/354dd42e843e7286ec9374314a0f4946.png
+./mobile/tmnt/583181.jpg
+./mobile/tmnt/664468.jpg
+./mobile/tmnt/705217.jpg
+./mobile/tmnt/72442.jpg
+./mobile/tmnt/892815.jpg
+./mobile/tmnt/970371.png
+./mobile/tmnt/a0809ee9b33fea1970a6306f882501dc.jpeg
+./mobile/tmnt/FsKkYHnXwAE_5st.jpg_large.jpg
+./mobile/tmnt/peakpx (1).jpg
+./mobile/tmnt/peakpx (3).jpg
+./mobile/tmnt/pxfuel (11).jpg
+./mobile/tmnt/pxfuel (16).jpg
+./mobile/tmnt/pxfuel (17).jpg
+./mobile/tmnt/pxfuel (18).jpg
+./mobile/tmnt/pxfuel (19).jpg
+./mobile/tmnt/pxfuel (1).jpg
+./mobile/tmnt/pxfuel (20).jpg
+./mobile/tmnt/pxfuel (21).jpg
+./mobile/tmnt/pxfuel (2).jpg
+./mobile/tmnt/pxfuel (3).jpg
+./mobile/tmnt/pxfuel (4) (1).jpg
+./mobile/tmnt/pxfuel (4).jpg
+./mobile/tmnt/pxfuel (5).jpg
+./mobile/tmnt/pxfuel (7).jpg
+./mobile/tmnt/pxfuel (8).jpg
+./mobile/tmnt/pxfuel (9).jpg
+./mobile/tmnt/pxfuel.jpg
+./mobile/tmnt/TMNT_29A.jpg
+./mobile/tmnt/tmnt_cover_color_by_nelsondaniel_d4u4x17.jpg
+./mobile/tmnt/TMNT don cover.jpg
+./mobile/tmnt/TMNT leo cover.jpg
+./mobile/tmnt/TMNT mike cover.jpg
+./mobile/tmnt/TMNT raph cover.jpg
+./mobile/tmnt/TMNT splinter.jpg
+./mobile/tmnt/TMNT TIME 1.jpg
+./mobile/tmnt/TMNT TIME 3 color.jpg
+./mobile/tmnt/TMNT USAGI color3.jpg
+./mobile/tmnt/wp3205588.jpg
 ./mobile/yumi and the nightmare painter/Backlit_by_Wonder_by_Aliya_Chen.jpg
 ./mobile/yumi and the nightmare painter/Defending_Kilahito_by_Aliya_Chen.jpg
 ./mobile/yumi and the nightmare painter/Learning_to_Paint_by_Aliya_Chen.jpg

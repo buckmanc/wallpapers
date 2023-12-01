@@ -1,13 +1,6 @@
 #!/usr/bin/env bash
 set -e
 
-# Usage: ./make_gallery.sh
-#
-# Run in a directory with a "papes/" subdirectory, and it will create a
-# "thumbnails/" subdirectory.
-#
-# Uses imagemagick's `convert`, so make sure that's installed.
-#
 # heavily modified from github.com/jonascarpay/Wallpapers
 
 # stackoverflow.com/a/296135731995812
@@ -42,6 +35,33 @@ imgFiles=$(
 	rev | cut -d : -f 2- | rev |
 	sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7
 )
+
+
+# if type pyphash-sort >/dev/null 2>&1
+# then
+# 	echo "calculating perceptual hash sort"
+# 	echo "this could take a while"
+# 	imgFiles="$(echo "$imgFiles" | pyphash-sort "(/forests/|/space/|/misc/|/leaves/)")"
+# fi
+
+# # if perceptual hashing is available, append the hash to the start of the file for applicable categories
+# if type pyphash >/dev/null 2>&1
+# then
+# 	echo "$imgFiles" | while read -r path
+# 	do
+# 		filename="$(basename "$path")"
+# 		if echo "$path" | grep -qiP "(/forests/|/space/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
+# 		then
+# 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
+# 			mv "$path" "$newPath"
+# 			path="$newPath"
+# 		fi
+#
+# 		imgFilesTemp+="$path"
+# 		imgFilesTemp!=$'\n'
+# 	done
+# fi
+
 
 # delete the folder readme files
 find "$path_root" -maxdepth 5 -mindepth 3 -type f -iname 'readme.md' -delete
@@ -99,8 +119,18 @@ echo "$imgFiles" | while read -r src; do
 		# echo "aspectRatio: $aspectRatio"
 		# echo "targetDimensions: $targetDimensions"
 
+		fitCaret="^"
+		bgColor="none"
+
+		# altered logic for images that sit in the center
+		if echo "$src" | grep -iq "/floaters/"
+		then
+			fitCaret=""
+			bgColor="black"
+		fi
+
 		# resize images, then crop to the desired resolution
-		convert -background none -thumbnail "$targetDimensions^" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
+		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
 		echo "converted!"
 	else
 		mv "$thumbnail_old" "$target"

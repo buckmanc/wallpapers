@@ -61,6 +61,16 @@ Johan Christian Dahl - View Of Dresden By Moonlight
 
 [![puppy.jpg](puppy.jpg "puppy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/puppy.jpg)
 
+[![pxfuel (23).jpg](pxfuel%20(23).jpg "pxfuel (23).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/pxfuel%20(23).jpg)
+
+[![pxfuel (26).jpg](pxfuel%20(26).jpg "pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/pxfuel%20(26).jpg)
+
+[![pxfuel (29).jpg](pxfuel%20(29).jpg "pxfuel (29).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/pxfuel%20(29).jpg)
+
+[![pxfuel (36).jpg](pxfuel%20(36).jpg "pxfuel (36).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/pxfuel%20(36).jpg)
+
+[![pxfuel (41).jpg](pxfuel%20(41).jpg "pxfuel (41).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/pxfuel%20(41).jpg)
+
 [![RDT_20231106_0046137176026357718837753.jpg](RDT_20231106_0046137176026357718837753.jpg "RDT_20231106_0046137176026357718837753.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/RDT_20231106_0046137176026357718837753.jpg)
 
 [![RDT_20231106_0046546244189923785616235.jpg](RDT_20231106_0046546244189923785616235.jpg "RDT_20231106_0046546244189923785616235.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/RDT_20231106_0046546244189923785616235.jpg)

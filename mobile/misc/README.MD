@@ -2,6 +2,8 @@
 
 [![6406800.jpg](6406800.jpg "6406800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/6406800.jpg)
 
+[![a28d3a0412dfdaa7667fa00b10be52e1.jpeg](a28d3a0412dfdaa7667fa00b10be52e1.jpeg "a28d3a0412dfdaa7667fa00b10be52e1.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/a28d3a0412dfdaa7667fa00b10be52e1.jpeg)
+
 [![Castle.jpg](Castle.jpg "Castle.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Castle.jpg)
 
 [![Dark Forest (1).jpg](Dark%20Forest%20(1).jpg "Dark Forest (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Dark%20Forest%20(1).jpg)
@@ -31,7 +33,19 @@ Mega Sharjk Attack by By Dominik Broniek
 
 [![Pagan 01.jpg](Pagan%2001.jpg "Pagan 01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/Pagan%2001.jpg)
 
+[![pxfuel (22).jpg](pxfuel%20(22).jpg "pxfuel (22).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(22).jpg)
+
+[![pxfuel (24).jpg](pxfuel%20(24).jpg "pxfuel (24).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(24).jpg)
+
+[![pxfuel (25).jpg](pxfuel%20(25).jpg "pxfuel (25).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(25).jpg)
+
+[![pxfuel (34).jpg](pxfuel%20(34).jpg "pxfuel (34).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(34).jpg)
+
+[![pxfuel (39).jpg](pxfuel%20(39).jpg "pxfuel (39).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(39).jpg)
+
 [![pxfuel (4).jpg](pxfuel%20(4).jpg "pxfuel (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(4).jpg)
+
+[![pxfuel (58).jpg](pxfuel%20(58).jpg "pxfuel (58).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/pxfuel%20(58).jpg)
 
 [![The Eldritch Tutor by Dies Vitae](The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg "The Eldritch Tutor by Dies Vitae")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg)\
 The Eldritch Tutor by Dies Vitae
