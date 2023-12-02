@@ -91,3 +91,4 @@ The_Enduring_Stellar_Lifecycle_in_30_Doradus_Composite_Infrared_+_X-ray_by_JWST.
 the_Heart_of_the_Phantom_Galaxy_by_JWST.jpg The Heart Of The Phantom Galaxy by JWST
 The_Pillars_of_Creation_Webb_NIRCam_Image_by_JWST.png The Pillars Of Creation Webb NIRCam Image by JWST
 WLM_Dwarf_Galaxy_by_JWST.jpg WLM Dwarf Galaxy by JWST
+fefa119b69e1080b_M92_Webb_Close-up_NIRCam_Image_by_JWST.png Fefa119b69e1080b M92 Webb Close Up NIRCam Image by JWST

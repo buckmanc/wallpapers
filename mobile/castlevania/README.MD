@@ -1,19 +1,12 @@
 [![00_ak_cv_09-castlevania.jpg](00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
-[![CastleVania Chronicles by Ayami Kojima](00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
-CastleVania Chronicles by Ayami Kojima
+[![00_ak_cv_10_-_okwphcm.png](00_ak_cv_10_-_okwphcm.png "00_ak_cv_10_-_okwphcm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 
-[![CastleVania Chronicles by Ayami Kojima](00_ak_cv_11_-_fkm5qdq.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_11_-_fkm5qdq.png)\
-CastleVania Chronicles by Ayami Kojima
+[![00_ak_cv_12_-_k4ddwli.png](00_ak_cv_12_-_k4ddwli.png "00_ak_cv_12_-_k4ddwli.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
 
-[![CastleVania Dracula X Chronicles by Ayami Kojima](00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)\
-CastleVania Dracula X Chronicles by Ayami Kojima
+[![00_ak_cv_13_-_r1vgp71.png](00_ak_cv_13_-_r1vgp71.png "00_ak_cv_13_-_r1vgp71.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_13_-_r1vgp71.png)
 
-[![CastleVania Dracula X Chronicles by Ayami Kojima](00_ak_cv_13_-_r1vgp71.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_13_-_r1vgp71.png)\
-CastleVania Dracula X Chronicles by Ayami Kojima
-
-[![CastleVania Symphony of the Night by Ayami Kojima](00_ak_cv_1_-_wyzd3zs.png "CastleVania Symphony of the Night by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_1_-_wyzd3zs.png)\
-CastleVania Symphony of the Night by Ayami Kojima
+[![00_ak_cv_1_-_wyzd3zs.png](00_ak_cv_1_-_wyzd3zs.png "00_ak_cv_1_-_wyzd3zs.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_1_-_wyzd3zs.png)
 
 [![00_ak_cv_20231121_021131.jpg](00_ak_cv_20231121_021131.jpg "00_ak_cv_20231121_021131.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_20231121_021131.jpg)
 
@@ -21,28 +14,21 @@ CastleVania Symphony of the Night by Ayami Kojima
 
 [![00_ak_cv_2_-_wst1iqk.png](00_ak_cv_2_-_wst1iqk.png "00_ak_cv_2_-_wst1iqk.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_2_-_wst1iqk.png)
 
-[![CastleVania Aria of Sorrow by Ayami Kojima](00_ak_cv_4_-_gnlbxuj.png "CastleVania Aria of Sorrow by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_4_-_gnlbxuj.png)\
-CastleVania Aria of Sorrow by Ayami Kojima
+[![00_ak_cv_4_-_gnlbxuj.png](00_ak_cv_4_-_gnlbxuj.png "00_ak_cv_4_-_gnlbxuj.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_4_-_gnlbxuj.png)
 
-[![CastleVania Aria of Sorrow by Ayami Kojima](00_ak_cv_5_-_tvtvwtu.png "CastleVania Aria of Sorrow by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_5_-_tvtvwtu.png)\
-CastleVania Aria of Sorrow by Ayami Kojima
+[![00_ak_cv_5_-_tvtvwtu.png](00_ak_cv_5_-_tvtvwtu.png "00_ak_cv_5_-_tvtvwtu.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_5_-_tvtvwtu.png)
 
-[![CastleVania Lament of Innocence by Ayami Kojima](00_ak_cv_6_-_9a6skuo.jpg "CastleVania Lament of Innocence by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_6_-_9a6skuo.jpg)\
-CastleVania Lament of Innocence by Ayami Kojima
+[![00_ak_cv_6_-_9a6skuo.jpg](00_ak_cv_6_-_9a6skuo.jpg "00_ak_cv_6_-_9a6skuo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_6_-_9a6skuo.jpg)
 
-[![CastleVania Lament of Innocence by Ayami Kojima](00_ak_cv_7_-_s3mlvy9.png "CastleVania Lament of Innocence by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_7_-_s3mlvy9.png)\
-CastleVania Lament of Innocence by Ayami Kojima
+[![00_ak_cv_7_-_s3mlvy9.png](00_ak_cv_7_-_s3mlvy9.png "00_ak_cv_7_-_s3mlvy9.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_7_-_s3mlvy9.png)
 
-[![CastleVania Curse of Darkness by Ayami Kojima](00_ak_cv_8_-_hcr2yau.jpg "CastleVania Curse of Darkness by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_8_-_hcr2yau.jpg)\
-CastleVania Curse of Darkness by Ayami Kojima
+[![00_ak_cv_8_-_hcr2yau.jpg](00_ak_cv_8_-_hcr2yau.jpg "00_ak_cv_8_-_hcr2yau.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_8_-_hcr2yau.jpg)
 
-[![CastleVania Curse of Darkness by Ayami Kojima](00_ak_cv_9_-_cs6igfl.png "CastleVania Curse of Darkness by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_9_-_cs6igfl.png)\
-CastleVania Curse of Darkness by Ayami Kojima
+[![00_ak_cv_9_-_cs6igfl.png](00_ak_cv_9_-_cs6igfl.png "00_ak_cv_9_-_cs6igfl.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_9_-_cs6igfl.png)
 
 [![00_ak_cv_aos1.jpg](00_ak_cv_aos1.jpg "00_ak_cv_aos1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_aos1.jpg)
 
-[![from Santa Lilio Sangre by Ayami Kojima](00_ak_cv_artbook21.jpg "from Santa Lilio Sangre by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_artbook21.jpg)\
-from Santa Lilio Sangre by Ayami Kojima
+[![00_ak_cv_artbook21.jpg](00_ak_cv_artbook21.jpg "00_ak_cv_artbook21.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_artbook21.jpg)
 
 [![00_ak_cv_ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg](00_ak_cv_ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg "00_ak_cv_ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_ayami-castlevania-fate-hector-wallpaper-cc758890e7ca721a8f7ab95ca02cba94.jpg)
 
@@ -50,8 +36,7 @@ from Santa Lilio Sangre by Ayami Kojima
 
 [![00_ak_cv_castlevania_harmony_of_despair_full_795549.jpg](00_ak_cv_castlevania_harmony_of_despair_full_795549.jpg "00_ak_cv_castlevania_harmony_of_despair_full_795549.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_castlevania_harmony_of_despair_full_795549.jpg)
 
-[![CastleVania Harmony of Dissonance by Ayami Kojima](00_ak_cv_castlevania-harmony-of-dissonance.jpg "CastleVania Harmony of Dissonance by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_castlevania-harmony-of-dissonance.jpg)\
-CastleVania Harmony of Dissonance by Ayami Kojima
+[![00_ak_cv_castlevania-harmony-of-dissonance.jpg](00_ak_cv_castlevania-harmony-of-dissonance.jpg "00_ak_cv_castlevania-harmony-of-dissonance.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_castlevania-harmony-of-dissonance.jpg)
 
 [![00_ak_cv_castlevania-symphony-of-the-night.jpg](00_ak_cv_castlevania-symphony-of-the-night.jpg "00_ak_cv_castlevania-symphony-of-the-night.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_castlevania-symphony-of-the-night.jpg)
 
@@ -69,8 +54,7 @@ CastleVania Harmony of Dissonance by Ayami Kojima
 
 [![00_ak_cv_manga_18.jpg](00_ak_cv_manga_18.jpg "00_ak_cv_manga_18.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_manga_18.jpg)
 
-[![from Santa Lilio Sangre by Ayami Kojima](00_ak_cv_manga_artbook26.jpg "from Santa Lilio Sangre by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_manga_artbook26.jpg)\
-from Santa Lilio Sangre by Ayami Kojima
+[![00_ak_cv_manga_artbook26.jpg](00_ak_cv_manga_artbook26.jpg "00_ak_cv_manga_artbook26.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_manga_artbook26.jpg)
 
 [![00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg](00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg "00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg)
 
@@ -100,25 +84,19 @@ from Santa Lilio Sangre by Ayami Kojima
 
 [![00_ak_og_img_5_1700745563824.jpg](00_ak_og_img_5_1700745563824.jpg "00_ak_og_img_5_1700745563824.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_img_5_1700745563824.jpg)
 
-[![postcard by Ayami Kojima](00_ak_og_postcard01.jpg "postcard by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_postcard01.jpg)\
-postcard by Ayami Kojima
+[![00_ak_og_postcard01.jpg](00_ak_og_postcard01.jpg "00_ak_og_postcard01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_postcard01.jpg)
 
-[![postcard by Ayami Kojima](00_ak_og_postcard02.jpg "postcard by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_postcard02.jpg)\
-postcard by Ayami Kojima
+[![00_ak_og_postcard02.jpg](00_ak_og_postcard02.jpg "00_ak_og_postcard02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_postcard02.jpg)
 
 [![00_ak_og_postcard03.jpg](00_ak_og_postcard03.jpg "00_ak_og_postcard03.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_postcard03.jpg)
 
-[![CastleVania Portrait of Ruin by Fumi Ishikaw](14%20-%20pdydhcq.jpg "CastleVania Portrait of Ruin by Fumi Ishikaw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/14%20-%20pdydhcq.jpg)\
-CastleVania Portrait of Ruin by Fumi Ishikaw
+[![14 - pdydhcq.jpg](14%20-%20pdydhcq.jpg "14 - pdydhcq.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/14%20-%20pdydhcq.jpg)
 
-[![CastleVania Portrait of Ruin by Fumi Ishikaw](15%20-%20NKpvJxO.jpg "CastleVania Portrait of Ruin by Fumi Ishikaw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20NKpvJxO.jpg)\
-CastleVania Portrait of Ruin by Fumi Ishikaw
+[![15 - NKpvJxO.jpg](15%20-%20NKpvJxO.jpg "15 - NKpvJxO.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20NKpvJxO.jpg)
 
-[![CastleVania Order of Ecclesia by Masaki Hirooka](16%20-%20uBD0R8V.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/16%20-%20uBD0R8V.jpg)\
-CastleVania Order of Ecclesia by Masaki Hirooka
+[![16 - uBD0R8V.jpg](16%20-%20uBD0R8V.jpg "16 - uBD0R8V.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/16%20-%20uBD0R8V.jpg)
 
-[![CastleVania Order of Ecclesia by Masaki Hirooka](17%20-%209WN4MMr.png "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/17%20-%209WN4MMr.png)\
-CastleVania Order of Ecclesia by Masaki Hirooka
+[![17 - 9WN4MMr.png](17%20-%209WN4MMr.png "17 - 9WN4MMr.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/17%20-%209WN4MMr.png)
 
 [![19 - Lvc2HYV.jpg](19%20-%20Lvc2HYV.jpg "19 - Lvc2HYV.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/19%20-%20Lvc2HYV.jpg)
 
@@ -143,8 +121,8 @@ Alucard by 天由 (tenyo0819)
 
 [![ASVpzIy.jpeg](ASVpzIy.jpeg "ASVpzIy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ASVpzIy.jpeg)
 
-[![Dracula's Castle by Ilo275](castle_dracula's_castle_by_ilo275.jpg "Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)\
-Dracula's Castle by Ilo275
+[![Castle Dracula's Castle by Ilo275](castle_dracula's_castle_by_ilo275.jpg "Castle Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)\
+Castle Dracula's Castle by Ilo275
 
 [![Castlevania by Kilian Eng](castlevania_by_kilian_eng.jpeg "Castlevania by Kilian Eng")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania_by_kilian_eng.jpeg)\
 Castlevania by Kilian Eng
@@ -172,16 +150,15 @@ Dracula by Katie Silva
 [![Dracula by Naranbaatar Ganbold](dracula%20by%20naranbaatar-ganbold.jpg "Dracula by Naranbaatar Ganbold")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg)\
 Dracula by Naranbaatar Ganbold
 
-[![CastleVania Order of Ecclesia by Masaki Hirooka](dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)\
-CastleVania Order of Ecclesia by Masaki Hirooka
+[![dracula_order_of_ecclesia.jpg](dracula_order_of_ecclesia.jpg "dracula_order_of_ecclesia.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)
 
 [![ESRnAXvU0AIU6M0.jpeg](ESRnAXvU0AIU6M0.jpeg "ESRnAXvU0AIU6M0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg)
 
-[![Lisa Tepes by Katie Silva](portrait_lisa_tepes_by_katie_silva.jpg "Lisa Tepes by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg)\
-Lisa Tepes by Katie Silva
+[![Portrait Lisa Tepes by Katie Silva](portrait_lisa_tepes_by_katie_silva.jpg "Portrait Lisa Tepes by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg)\
+Portrait Lisa Tepes by Katie Silva
 
-[![Tepes Family Portrait by Katie Silva](portrait_tepes_family_portrait_by_katie_silva.png "Tepes Family Portrait by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png)\
-Tepes Family Portrait by Katie Silva
+[![Portrait Tepes Family Portrait by Katie Silva](portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png)\
+Portrait Tepes Family Portrait by Katie Silva
 
 [![pxfuel (1).jpg](pxfuel%20(1).jpg "pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel%20(1).jpg)
 
@@ -213,8 +190,8 @@ The Devil Forgemaster by Al Santos
 
 [![zz_castle_castlevania_01.png](zz_castle_castlevania_01.png "zz_castle_castlevania_01.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania_01.png)
 
-[![Castlevania by Roma Timbreza](zz_castle_castlevania-by-roma-timbreza.jpg "Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania-by-roma-timbreza.jpg)\
-Castlevania by Roma Timbreza
+[![Zz Castle Castlevania by Roma Timbreza](zz_castle_castlevania-by-roma-timbreza.jpg "Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania-by-roma-timbreza.jpg)\
+Zz Castle Castlevania by Roma Timbreza
 
 [![zz_castle_castlevania-lordsofsh-reverie-castle.png](zz_castle_castlevania-lordsofsh-reverie-castle.png "zz_castle_castlevania-lordsofsh-reverie-castle.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania-lordsofsh-reverie-castle.png)
 

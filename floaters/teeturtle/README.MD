@@ -8,8 +8,7 @@
 
 [![Celestial-Cat4200x4200.jpg](Celestial-Cat4200x4200.jpg "Celestial-Cat4200x4200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Celestial-Cat4200x4200.jpg)
 
-[![Celestial Current](celestial_current.jpeg "Celestial Current")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/celestial_current.jpeg)\
-Celestial Current
+[![celestial_current.jpeg](celestial_current.jpeg "celestial_current.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/celestial_current.jpeg)
 
 [![Celestial-D20.jpg](Celestial-D20.jpg "Celestial-D20.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Celestial-D20.jpg)
 

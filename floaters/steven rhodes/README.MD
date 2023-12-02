@@ -298,6 +298,8 @@
 
 [![stay-positive.png](stay-positive.png "stay-positive.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/steven%20rhodes/stay-positive.png)
 
+[![steven_rhodes_logo.png](steven_rhodes_logo.png "steven_rhodes_logo.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/steven%20rhodes/steven_rhodes_logo.png)
+
 [![stunts-for-beginners.png](stunts-for-beginners.png "stunts-for-beginners.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/steven%20rhodes/stunts-for-beginners.png)
 
 [![super-glue-is-not-a-toy.png](super-glue-is-not-a-toy.png "super-glue-is-not-a-toy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/steven%20rhodes/super-glue-is-not-a-toy.png)

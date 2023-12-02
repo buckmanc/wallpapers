@@ -72,24 +72,23 @@ fi
 find "$path_root" -maxdepth 5 -mindepth 3 -type f -iname 'readme.md' -delete
 
 i=0
-total=$(echo "$imgFiles" | wc -l)
+totalImages=$(echo "$imgFiles" | wc -l)
 
 echo "$imgFiles" | while read -r src; do
 	((i++)) || true
 	filename="$(basename "$src")"
-	printf '%4d/%d: %s... ' "$i" "$total" "$filename"
+	printf '%4d/%d: %s... ' "$i" "$totalImages" "$filename"
 
 	dirReadmePath="$(dirname "$src")/README.MD"
 
+	attrib=''
 	dirAttribPath="$(dirname "$src")/attrib.md"
 	if [ -f "$dirAttribPath" ]
 	then
 		# sort the attrib files
 		sort -u -o "$dirAttribPath" "$dirAttribPath"
 
-		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" || true
-	else
-		attrib=''
+		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" | sed 's/ \+/ /g' || true
 	fi
 
 	# attempted to pull attribution from metadata using imagemagick but did not succeed
@@ -195,9 +194,11 @@ echo "$imgFiles" | while read -r src; do
 	echo >> "$dirReadmePath"
 done
 
-readmeTemplate="$(cat "$readmeTemplatePath")"
 thumbnailText="$(cat "$thumbnailMD")"
-echo "${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" > README.MD
+readmeTemplate="$(cat "$readmeTemplatePath")"
+readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
+readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
+echo "$readmeTemplate" > README.MD
 
 rm "$thumbnailMD"
 rm -rf "$thumbnails_old_dir"
@@ -205,12 +206,13 @@ rm -rf "$thumbnails_old_dir"
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
 then
-	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md')
+	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md')
 
 	i=0
 	total=$(echo "$mdFiles" | wc -l)
 
-	echo "$mdFiles" | while read -r src; do
+	echo "$mdFiles" | while read -r src
+	do
 		((i++)) || true
 		descname="$(basename "$(dirname "$src")")/$(basename "$src")"
 		printf '%4d/%d: %s... ' "$i" "$total" "$descname"
@@ -229,59 +231,58 @@ then
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"
 
-		echo "$htmlText" | while read htmlLine; do
+		echo "$htmlText" | while read htmlLine
+		do
 
-		# write existing line to file
-		echo "$htmlLine" >> "$htmlPath"
+			# write existing line to file
+			echo "$htmlLine" >> "$htmlPath"
 
-		if [[ "$htmlLine" == "</header>" ]]
-		then
-			modText="<iframe name=\"dummyframe\" id=\"dummyframe\" style=\"display: none;\"></iframe>"
-		echo "$modText" >> "$htmlPath"
-
-		fi
-
-		if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
-		then
-			href="$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+' | urldecode)"
-			title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
-
-			#TODO fix this script's indenting
-		
-			renamePrefil="$(basename "$href")"
-			renamePrefil="${renamePrefil%.*}"
-			if [ -f "${path_root}${href}" ]
+			if [[ "$htmlLine" == "</header>" ]]
 			then
-				resolution=$(identify -ping -format '%wx%h' "${path_root}${href}")
-			else
-				resolution="???"
+				modText="<iframe name=\"dummyframe\" id=\"dummyframe\" style=\"display: none;\"></iframe>"
+				echo "$modText" >> "$htmlPath"
 
 			fi
-			
-			modText="
-			<form action=\"/cgi-bin/move\" target=\"dummyframe\">
-			<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
-			<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
-			<label>${resolution}</label>
-			<br>
-			  <label for=\"destname\">new file name:</label>
-			  <input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
-				  <input type=\"submit\" value=\"Rename\">
-				  </form>
-				  <br>
-				  "
 
-		# write new stuff to file
-		echo "$modText" >> "$htmlPath"
+			if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
+			then
+				href="$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+' | urldecode)"
+				title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
 
-		fi
+				renamePrefil="$(basename "$href")"
+				renamePrefil="${renamePrefil%.*}"
+				if [ -f "${path_root}${href}" ]
+				then
+					resolution=$(identify -ping -format '%wx%h' "${path_root}${href}")
+				else
+					resolution="???"
+
+				fi
+				
+				modText="
+				<form action=\"/cgi-bin/move\" target=\"dummyframe\">
+				<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
+				<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
+				<label>${resolution}</label>
+				<br>
+				<label for=\"destname\">new file name:</label>
+				<input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
+				<input type=\"submit\" value=\"Rename\">
+				</form>
+				<br>
+				"
+
+				# write new stuff to file
+				echo "$modText" >> "$htmlPath"
+
+			fi
 
 
-	done
-
+		done
 
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
-	
+
 		echo "done!"
+
 	done
 fi

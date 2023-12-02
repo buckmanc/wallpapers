@@ -4,3 +4,4 @@ angler frog by Dingzhong Hu.jpg Angler Frog by Dingzhong Hu
 frog and chill by Dingzhong Hu.jpg Frog and Chill by Dingzhong Hu
 frog chef by Dingzhong Hu.jpg Frog Chef by Dingzhong Hu
 wizard frog by Dingzhong Hu.png Wizard Frog by Dingzhong Hu
+wizard frog by Dingzhong Hu.png Wizard Frog by Dingzhong Hu

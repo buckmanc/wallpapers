@@ -27,6 +27,7 @@ Alucard by essijuulia.jpg Alucard by Essijuulia
 alucard by fishyu7.jpg Alucard by Fishyu7
 Alucard by Junki Sakuraba.jpeg Alucard by Junki Sakuraba
 alucard_by_天由_(tenyo0819).jpg Alucard by 天由 (tenyo0819)
+castle_dracula's_castle_by_ilo275.jpg Castle Dracula's Castle by Ilo275
 castle_dracula's_castle_by_ilo275.jpg Dracula's Castle by Ilo275
 castlevania_by_kilian_eng.jpeg Castlevania by Kilian Eng
 castlevania-by-kilian-eng-variant.jpg Castlevania by Kilian Eng Variant
@@ -38,10 +39,14 @@ dracula by naranbaatar-ganbold.jpg Dracula by Naranbaatar Ganbold
 dracula_order_of_ecclesia.jpg CastleVania Order of Ecclesia by Masaki Hirooka
 Lisa Tepes Portrait by Katie Silva.png Lisa Tepes Portrait by Katie Silva
 portrait_lisa_tepes_by_katie_silva.jpg Lisa Tepes by Katie Silva
+portrait_lisa_tepes_by_katie_silva.jpg Portrait Lisa Tepes by Katie Silva
+portrait_tepes_family_portrait_by_katie_silva.png Portrait Tepes Family Portrait by Katie Silva
 portrait_tepes_family_portrait_by_katie_silva.png Tepes Family Portrait by Katie Silva
 SotN Poster - Alucard by Jhony Caballero.jpg SotN Poster   Alucard by Jhony Caballero
 SotN Poster - Dracula by Jhony Caballero.jpg SotN Poster   Dracula by Jhony Caballero
 SotN Poster - Richter by Jhony Caballero.jpg SotN Poster   Richter by Jhony Caballero
 The Devil Forgemaster by Al Santos.jpg The Devil Forgemaster by Al Santos
 zz_castle_castlevania-by-roma-timbreza.jpg Castlevania by Roma Timbreza
+zz_castle_castlevania-by-roma-timbreza.jpg Zz Castle Castlevania by Roma Timbreza
+zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç

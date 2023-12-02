@@ -22,9 +22,11 @@
 
 [![Hearthstone_dan_mumford.jpg](Hearthstone_dan_mumford.jpg "Hearthstone_dan_mumford.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/Hearthstone_dan_mumford.jpg)
 
-[![MEGAMAN_dan_mumford_2.jpg](MEGAMAN_dan_mumford_2.jpg "MEGAMAN_dan_mumford_2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/MEGAMAN_dan_mumford_2.jpg)
+[![Mega Man 2 by Dan Mumford](mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/mega_man_2_by_dan_mumford.jpg)\
+Mega Man 2 by Dan Mumford
 
-[![MEGA_MAN_X.jpg](MEGA_MAN_X.jpg "MEGA_MAN_X.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/MEGA_MAN_X.jpg)
+[![Mega Man X by Dan Mumford](mega_man_x_by_dan_mumford.jpg "Mega Man X by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/mega_man_x_by_dan_mumford.jpg)\
+Mega Man X by Dan Mumford
 
 [![METAL_GEAR_SOLID_dan_mumford.jpg](METAL_GEAR_SOLID_dan_mumford.jpg "METAL_GEAR_SOLID_dan_mumford.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/METAL_GEAR_SOLID_dan_mumford.jpg)
 

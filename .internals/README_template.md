@@ -2,7 +2,7 @@
 make sure you're editing the template, doofus
 -->
 
-# Wallpapers
+# {total} Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 

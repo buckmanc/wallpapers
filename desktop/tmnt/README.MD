@@ -14,7 +14,11 @@
 
 [![970371.png](970371.png "970371.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/970371.png)
 
-[![pxfuel (6).jpg](pxfuel%20(6).jpg "pxfuel (6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/pxfuel%20(6).jpg)
+[![G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp](G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp "G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp)
+
+[![shirtpunch.jpg](shirtpunch.jpg "shirtpunch.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/shirtpunch.jpg)
+
+[![sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp](sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp "sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp)
 
 [![zz_set_01_01_leonardo.jpg](zz_set_01_01_leonardo.jpg "zz_set_01_01_leonardo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_01_01_leonardo.jpg)
 
