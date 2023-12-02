@@ -160,8 +160,6 @@ Portrait Lisa Tepes by Katie Silva
 [![Portrait Tepes Family Portrait by Katie Silva](portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png)\
 Portrait Tepes Family Portrait by Katie Silva
 
-[![pxfuel (1).jpg](pxfuel%20(1).jpg "pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel%20(1).jpg)
-
 [![pxfuel.jpg](pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel.jpg)
 
 [![Quest_map_1_4.png](Quest_map_1_4.png "Quest_map_1_4.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Quest_map_1_4.png)
@@ -183,6 +181,8 @@ The Devil Forgemaster by Al Santos
 [![wp4374297-bloodstained-ritual-of-the-night-wallpapers.png](wp4374297-bloodstained-ritual-of-the-night-wallpapers.png "wp4374297-bloodstained-ritual-of-the-night-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png)
 
 [![wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg](wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg "wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg)
+
+[![zz_castle_anime_02.jpg](zz_castle_anime_02.jpg "zz_castle_anime_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime_02.jpg)
 
 [![zz_castle_anime.jpg](zz_castle_anime.jpg "zz_castle_anime.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime.jpg)
 

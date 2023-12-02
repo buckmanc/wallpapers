@@ -2,7 +2,7 @@
 make sure you're editing the template, doofus
 -->
 
-# 971 Wallpapers
+# 969 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -622,7 +622,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![zz02-reading99-TT-Tale-of-Scales.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg "zz02-reading99-TT-Tale-of-Scales.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg)
 [![zz02-reading99-TT-Tale-of-Tails.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg "zz02-reading99-TT-Tale-of-Tails.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg)
 [![zz02-reading99-TT-Tales-of-Magic.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg "zz02-reading99-TT-Tales-of-Magic.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg)
-# mobile - 398
+# mobile - 396
 ## [castlevania](mobile/castlevania/README.MD) - 97
 [![00_ak_cv_09-castlevania.jpg](.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![00_ak_cv_10_-_okwphcm.png](.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "00_ak_cv_10_-_okwphcm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
@@ -698,7 +698,6 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![ESRnAXvU0AIU6M0.jpeg](.internals/thumbnails/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg "ESRnAXvU0AIU6M0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg)
 [![Portrait Lisa Tepes by Katie Silva](.internals/thumbnails/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg "Portrait Lisa Tepes by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg)
 [![Portrait Tepes Family Portrait by Katie Silva](.internals/thumbnails/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png)
-[![pxfuel (1).jpg](.internals/thumbnails/mobile/castlevania/pxfuel%20(1).jpg "pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel%20(1).jpg)
 [![pxfuel.jpg](.internals/thumbnails/mobile/castlevania/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel.jpg)
 [![Quest_map_1_4.png](.internals/thumbnails/mobile/castlevania/Quest_map_1_4.png "Quest_map_1_4.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Quest_map_1_4.png)
 [![SotN Poster   Alucard by Jhony Caballero](.internals/thumbnails/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg "SotN Poster   Alucard by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg)
@@ -708,6 +707,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![The Devil Forgemaster by Al Santos](.internals/thumbnails/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg "The Devil Forgemaster by Al Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg)
 [![wp4374297-bloodstained-ritual-of-the-night-wallpapers.png](.internals/thumbnails/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png "wp4374297-bloodstained-ritual-of-the-night-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png)
 [![wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg](.internals/thumbnails/mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg "wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg)
+[![zz_castle_anime_02.jpg](.internals/thumbnails/mobile/castlevania/zz_castle_anime_02.jpg "zz_castle_anime_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime_02.jpg)
 [![zz_castle_anime.jpg](.internals/thumbnails/mobile/castlevania/zz_castle_anime.jpg "zz_castle_anime.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime.jpg)
 [![zz_castle_bloodstained_titlescreen.jpg](.internals/thumbnails/mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg)
 [![zz_castle_castlevania_01.png](.internals/thumbnails/mobile/castlevania/zz_castle_castlevania_01.png "zz_castle_castlevania_01.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania_01.png)
@@ -951,7 +951,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![Zz07 Tanavast by Ari Ibarra](.internals/thumbnails/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg "Zz07 Tanavast by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg)
 [![Zz08 Cultivation and The Nightwatcher by Ari Ibarra](.internals/thumbnails/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg "Zz08 Cultivation and The Nightwatcher by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg)
 [![Zz09 Odium Reigns by Ari Ibarra](.internals/thumbnails/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg "Zz09 Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg)
-## [tmnt](mobile/tmnt/README.MD) - 70
+## [tmnt](mobile/tmnt/README.MD) - 68
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
 [![00_idw_30th.jpg](.internals/thumbnails/mobile/tmnt/00_idw_30th.jpg "00_idw_30th.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_30th.jpg)
 [![00_idw_354dd42e843e7286ec9374314a0f4946.png](.internals/thumbnails/mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png "00_idw_354dd42e843e7286ec9374314a0f4946.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png)
@@ -982,7 +982,6 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![1337531.png](.internals/thumbnails/mobile/tmnt/1337531.png "1337531.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/1337531.png)
 [![152641.png](.internals/thumbnails/mobile/tmnt/152641.png "152641.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/152641.png)
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](.internals/thumbnails/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
-[![20231201_174322.jpg](.internals/thumbnails/mobile/tmnt/20231201_174322.jpg "20231201_174322.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/20231201_174322.jpg)
 [![222458.jpg](.internals/thumbnails/mobile/tmnt/222458.jpg "222458.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/222458.jpg)
 [![25a33700c54b09d31d7999f20f167585.jpg](.internals/thumbnails/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg "25a33700c54b09d31d7999f20f167585.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg)
 [![2f1a0ffe3f0ffab265883afb2f232414.jpg](.internals/thumbnails/mobile/tmnt/2f1a0ffe3f0ffab265883afb2f232414.jpg "2f1a0ffe3f0ffab265883afb2f232414.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/2f1a0ffe3f0ffab265883afb2f232414.jpg)
@@ -1019,7 +1018,6 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![tmnt_four_panel_03_raphael.png](.internals/thumbnails/mobile/tmnt/tmnt_four_panel_03_raphael.png "tmnt_four_panel_03_raphael.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_four_panel_03_raphael.png)
 [![tmnt_four_panel_04_michelangelo.png](.internals/thumbnails/mobile/tmnt/tmnt_four_panel_04_michelangelo.png "tmnt_four_panel_04_michelangelo.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_four_panel_04_michelangelo.png)
 [![Tmnt Leonardo  Colors  by Le0arts Da7hjun](.internals/thumbnails/mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg "Tmnt Leonardo  Colors  by Le0arts Da7hjun")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg)
-[![wp10403435-tmnt-1987-wallpapers.jpg](.internals/thumbnails/mobile/tmnt/wp10403435-tmnt-1987-wallpapers.jpg "wp10403435-tmnt-1987-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/wp10403435-tmnt-1987-wallpapers.jpg)
 [![zz_set_02_04_michelangelo.jpg](.internals/thumbnails/mobile/tmnt/zz_set_02_04_michelangelo.jpg "zz_set_02_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_04_michelangelo.jpg)
 [![zz_set_02_99_shredder.jpg](.internals/thumbnails/mobile/tmnt/zz_set_02_99_shredder.jpg "zz_set_02_99_shredder.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_99_shredder.jpg)
 ## [yumi and the nightmare painter](mobile/yumi%20and%20the%20nightmare%20painter/README.MD) - 11

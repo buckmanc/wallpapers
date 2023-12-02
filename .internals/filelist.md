@@ -645,7 +645,6 @@
 ./mobile/castlevania/ESRnAXvU0AIU6M0.jpeg
 ./mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg
 ./mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png
-./mobile/castlevania/pxfuel (1).jpg
 ./mobile/castlevania/pxfuel.jpg
 ./mobile/castlevania/Quest_map_1_4.png
 ./mobile/castlevania/SotN Poster - Alucard by Jhony Caballero.jpg
@@ -655,6 +654,7 @@
 ./mobile/castlevania/The Devil Forgemaster by Al Santos.jpg
 ./mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png
 ./mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg
+./mobile/castlevania/zz_castle_anime_02.jpg
 ./mobile/castlevania/zz_castle_anime.jpg
 ./mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg
 ./mobile/castlevania/zz_castle_castlevania_01.png
@@ -918,7 +918,6 @@
 ./mobile/tmnt/1337531.png
 ./mobile/tmnt/152641.png
 ./mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg
-./mobile/tmnt/20231201_174322.jpg
 ./mobile/tmnt/222458.jpg
 ./mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg
 ./mobile/tmnt/2f1a0ffe3f0ffab265883afb2f232414.jpg
@@ -955,7 +954,6 @@
 ./mobile/tmnt/tmnt_four_panel_03_raphael.png
 ./mobile/tmnt/tmnt_four_panel_04_michelangelo.png
 ./mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg
-./mobile/tmnt/wp10403435-tmnt-1987-wallpapers.jpg
 ./mobile/tmnt/zz_set_02_04_michelangelo.jpg
 ./mobile/tmnt/zz_set_02_99_shredder.jpg
 ./mobile/yumi and the nightmare painter/Backlit_by_Wonder_by_Aliya_Chen.jpg

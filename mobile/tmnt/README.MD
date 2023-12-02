@@ -60,8 +60,6 @@
 
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
 
-[![20231201_174322.jpg](20231201_174322.jpg "20231201_174322.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/20231201_174322.jpg)
-
 [![222458.jpg](222458.jpg "222458.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/222458.jpg)
 
 [![25a33700c54b09d31d7999f20f167585.jpg](25a33700c54b09d31d7999f20f167585.jpg "25a33700c54b09d31d7999f20f167585.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg)
@@ -140,8 +138,6 @@ Tmnt by Fpeniche D789bg7 Fullview
 
 [![Tmnt Leonardo  Colors  by Le0arts Da7hjun](tmnt_leonardo__colors__by_le0arts_da7hjun.jpg "Tmnt Leonardo  Colors  by Le0arts Da7hjun")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg)\
 Tmnt Leonardo  Colors  by Le0arts Da7hjun
-
-[![wp10403435-tmnt-1987-wallpapers.jpg](wp10403435-tmnt-1987-wallpapers.jpg "wp10403435-tmnt-1987-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/wp10403435-tmnt-1987-wallpapers.jpg)
 
 [![zz_set_02_04_michelangelo.jpg](zz_set_02_04_michelangelo.jpg "zz_set_02_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_04_michelangelo.jpg)
 
