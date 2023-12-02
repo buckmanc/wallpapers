@@ -1,4 +1,3 @@
-./desktop/castlevania/1225346.jpg
 ./desktop/castlevania/castlevania_lords_of_shadows.jpg
 ./desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg
 ./desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg
@@ -8,27 +7,20 @@
 ./desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg
 ./desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg
 ./desktop/forests/855a7ab5d44aa1b5_dark-forest-wallpaper-images.jpg
-./desktop/forests/855a7ab5d44aa1b5_pxfuel_(33).jpg
 ./desktop/forests/8563d1ce3344a7b9_aaron-alvarado-OZSNnAU5RPk-unsplash.jpg
 ./desktop/forests/85857a3aaece7231_3020034-dark_fairy-tale_foggy_forest.jpg
 ./desktop/forests/85926ea5d2643b1f_CLUpQkp.jpg
-./desktop/forests/85ca5297689ce769_pxfuel (53).jpg
 ./desktop/forests/85ca5297689ce769_pxfuel (63).jpg
 ./desktop/forests/863279ce33c364ce_quoth_the_raven_noir_style_wallpaper_by_charlie_henson-da05son.png
 ./desktop/forests/868eb5b43ace5c62_RedFoxBlackForest.jpg
 ./desktop/forests/879c3f6a6861a2b9_TIMmKPv.jpg
 ./desktop/forests/886e3bed743031d6_pxfuel (52).jpg
-./desktop/forests/888c2697a3a7abe3_FhGHU8HSQrZ-OXcvmy0aRmHP0RKcImdjgHCygGlAfkc.jpg
-./desktop/forests/888c26b3a3a3abe7_tumblr_static_2s7q840i158gosooscoc48k08_2048_v2.jpg
-./desktop/forests/888c26b7a3a3abe3_lHLBaBk.jpg
 ./desktop/forests/89aa2aa93bab2cb3_31adb0c35c80479c471b1faa53749a70.jpeg
-./desktop/forests/89ab22a87abb2cb9_nmu7hox.jpg
 ./desktop/forests/8b545cadd368a5c9_dark-forest-wallpaper.jpg
 ./desktop/forests/8b8b88ba39b9a939_wryz6u4w0q021.jpg
 ./desktop/forests/8c74638c9cc73c73_anne-nygard-4p1Ji_BiaGQ-unsplash.jpg
 ./desktop/forests/8ca973992ac832fb_0uanaa3l93931.jpg
 ./desktop/forests/8d8c31317bce9c3a_fZmfqKLzcoSCY8qrFrLuh2LVq8Hso13W05gLbC_Ejdc.jpg
-./desktop/forests/8da626f3309966d9_f37b05d66d8a98fec0182dd4f779e5ef.jpeg
 ./desktop/forests/8da626f3309966d9_pxfuel (57).jpg
 ./desktop/forests/8dad36738bdc8c48_1094574-1321433670.jpg
 ./desktop/forests/91cf4f914e980d9b_P86dMbt.jpg
@@ -36,10 +28,7 @@
 ./desktop/forests/92996d65969b9931_t3_7npw5y.jpeg
 ./desktop/forests/92a4b692e6b496b6_swans_pond_park_trees_light_painting_art_52113_3840x2400.jpg
 ./desktop/forests/93927c6c65c724d9_1KVob09.jpg
-./desktop/forests/93937c6c65c72459_Download-Dark-Forest-Wallpaper-HD.jpg
-./desktop/forests/93976a08b7976835_751042.jpg
 ./desktop/forests/93976a08b7976835_scary-dark-forest-desktop.jpg
-./desktop/forests/93976a08f79268b5_pxfuel (48).jpg
 ./desktop/forests/9399899595da6d34_coaches_night_forest_wolves_crew_road_fantasy_wolf_dark_3840x2160.jpg
 ./desktop/forests/93d2646dc99b9299_ef1e06c4dabedaeabc14f3b7099974fb.jpeg
 ./desktop/forests/94f93933a7c428ba_1584744923895.png
@@ -62,11 +51,7 @@
 ./desktop/forests/9ba96d9264d424f6_johannes-plenio-hvrpOmuMrAI-unsplash.jpg
 ./desktop/forests/9c8cc49c3c799967_jr-korpa-_OQ8Jc7kBmA-unsplash.jpg
 ./desktop/forests/9cbc73669c2469c9__downloadfiles_wallpapers_1920_1200_forest_of_fog_wallpaper_landscape_nature_1046.jpg
-./desktop/forests/9cfc66228077e96c_pxfuel (35).jpg
 ./desktop/forests/9cfc66228077e96c_rosie-sun-1L71sPT5XKc-unsplash.jpg
-./desktop/forests/9cfc66228077eb64_photo-1483982258113-b72862e6cff6.jpeg
-./desktop/forests/9cfc6622c075e96c_1dee8bb45b1743cbecfc62c6c5588d95.jpeg
-./desktop/forests/9d19c619799a3999_pxfuel (31).jpg
 ./desktop/forests/9d19c619799a3999_pxfuel (56).jpg
 ./desktop/forests/9d8d4c8ca4b44f2f_rwbusb7wo3s51.jpg
 ./desktop/forests/9d97529833c9b970_forest-dark-nature-darkness-unnamed-wallpaper-1920x1080.jpg
@@ -88,34 +73,25 @@
 ./desktop/forests/c2c2dd8cbcb1c19b_31AeHoT.jpg
 ./desktop/forests/c3db09629699696d_4201114-night-watch.jpg
 ./desktop/forests/c4c831ec5bb54dcc_236b75a78fce3e355ab309ae7a0bdcab.jpeg
-./desktop/forests/c4c831ec5bb54dcc_forests-spooky-dark-eerie-beautiful-mysterious-forest-blue-new-hd-wallpaper-1920x1080.jpg
-./desktop/forests/c4cecec6cbc990d8_946027-Yuri-Hill-horror-forest-Moon-moonlight-dark (1).jpg
 ./desktop/forests/c4cecec6cbc990d8_946027-Yuri-Hill-horror-forest-Moon-moonlight-dark.jpg
 ./desktop/forests/c5c527f33d822783_150425-autumn-sunlight-woodland-mist-nature-550x310.jpg
 ./desktop/forests/c68696c7433acbc3_autumn-forest-leaves-1.jpg
 ./desktop/forests/c7c3c2e2c1d0f9d8_RDT_20231111_1615097714964751606389558.jpg
 ./desktop/forests/c86d37c867d16d03_0aba909bf54ddbcd2dd0c87e2457621d.jpeg
-./desktop/forests/c8bf24d99135e41e_Gece.jpg
-./desktop/forests/c8c227ec669cec2d_e3a154aead160b837d52b74cea3a816f.jpeg
 ./desktop/forests/c8c227ec669cec2d_khHbdpz.jpg
 ./desktop/forests/c8c8d8d931b3f8d4_8w12n5l2a2101.jpg
 ./desktop/forests/c8c9ad2d2ca4e7d4_ajit-singh-wJwx_jSgZuA-unsplash.jpg
 ./desktop/forests/c8ca7737272c323a_OlLS9jP.jpg
 ./desktop/forests/c9c63319cc733699_Darkness-pic.jpg
 ./desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg
-./desktop/forests/cc1b33cccc3b91cc_1899ce9b55d90e3eb8411af860b16839.jpg
+./desktop/forests/cc1b33cccc3b91cc_bye01.jpg
 ./desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg
 ./desktop/forests/cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg
-./desktop/forests/cc3333cc4c3bb1cc_pxfuel (37).jpg
 ./desktop/forests/cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg
-./desktop/forests/cccc4ea737363434_LwKkFry-dark-forest-background.jpg
-./desktop/forests/cccc4ea737363434_pxfuel (49).jpg
-./desktop/forests/ccccc2c3277565c6_pxfuel (42).jpg
-./desktop/forests/ccccccc7a73274a4_T7NBjJm.jpg
+./desktop/forests/ccccc2c3277565c6_bye02.jpg
 ./desktop/forests/cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg
 ./desktop/forests/cccccf93c313c689_p603hrn4bux91.jpg
 ./desktop/forests/ccccec06cd99998d_peakpx (4).jpg
-./desktop/forests/cccdcfa726343c24_2048x1536_wood-trees-gloomy-fog-haze-darkness.jpg
 ./desktop/forests/cece1830982cdebe_RDT_20231111_161032568005559738242669.jpg
 ./desktop/forests/cece38313333a333_P0Ym6iJ.jpg
 ./desktop/forests/cece66333838d931_full-moon-HD-1080.jpg
@@ -123,7 +99,6 @@
 ./desktop/forests/cfcf83a6a4c4da50_RDT_20231111_1609528288932736187377824.jpg
 ./desktop/forests/d0a71ec52e996798_r8hnG2g.jpg
 ./desktop/forests/d2c16a1b2d30f7f0_Forest-black-white-dark-forest-wallpaper.jpg
-./desktop/forests/d2c16a1b2d30f7f0_pxfuel (47).jpg
 ./desktop/forests/d39b5bd1c29b3448_66971-1-1434556732.png
 ./desktop/forests/d635b1c13ec0ca3d_559873.jpg
 ./desktop/forests/d6c6398f65a81a17_IEHvwiuvEOqVlw8V9MR2tbHr8dih5UeqbdW7Pl5zWo4.jpg
@@ -136,9 +111,7 @@
 ./desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg
 ./desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg
 ./desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg
-./desktop/forests/f9f9c9d9f0b09180_0087039a3a065ce7b9888b4bc5087768.jpeg
 ./desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg
-./desktop/forests/fcfe0ac47d02728c_RDT_20231111_1603518144627521179310293.jpg
 ./desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg
 ./desktop/misc/85384ef1f61e21f1_pxfuel (26).jpg
 ./desktop/misc/856a7e192aa7d01f_towashi.jpg
@@ -147,7 +120,6 @@
 ./desktop/misc/8cccd899598d5d9c_peakpx.jpg
 ./desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png
 ./desktop/misc/92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg
-./desktop/misc/93306c4bb36d18f6_minimal_landscape.jpg
 ./desktop/misc/93926c6d92926d6d_pexels-daniel-dan-7676164.jpg
 ./desktop/misc/946b24cc4bb65b65_nord-street.png
 ./desktop/misc/953b71e4a54c752a_gruvbox_wasteland.png
@@ -169,6 +141,7 @@
 ./desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg
 ./desktop/misc/c4c66f6d307bd230_pxfuel (23).jpg
 ./desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg
+./desktop/misc/c8bf24d99135e41e_Gece.jpg
 ./desktop/misc/c919998b3393c676_bici.jpg
 ./desktop/misc/cc8c3373339cce26_win-11.png
 ./desktop/misc/cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg
@@ -179,8 +152,6 @@
 ./desktop/misc/d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg
 ./desktop/misc/d2c6371839c6b639_horror_cult.jpg
 ./desktop/misc/d8fb9b191d0770e0_Forest Spirit by j-witless.png
-./desktop/misc/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg
-./desktop/misc/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg
 ./desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg
 ./desktop/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg
 ./desktop/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg
@@ -318,24 +289,23 @@
 ./desktop/synthwave/wallpaperflare.com_wallpaper.jpg
 ./desktop/tmnt/1337531.png
 ./desktop/tmnt/222365.jpg
-./desktop/tmnt/222523.jpg
 ./desktop/tmnt/361249.jpg
-./desktop/tmnt/490238.jpg
-./desktop/tmnt/490239.jpg
-./desktop/tmnt/490245.jpg
-./desktop/tmnt/490247.jpg
-./desktop/tmnt/583181.jpg
 ./desktop/tmnt/58a261fcac667480293704250fff1154.jpeg
 ./desktop/tmnt/705217.jpg
-./desktop/tmnt/72442.jpg
-./desktop/tmnt/7787.jpg
 ./desktop/tmnt/7795.jpg
-./desktop/tmnt/78490.jpg
-./desktop/tmnt/78491.jpg
-./desktop/tmnt/78493.jpg
 ./desktop/tmnt/910265.jpg
 ./desktop/tmnt/970371.png
 ./desktop/tmnt/pxfuel (6).jpg
+./desktop/tmnt/zz_set_01_01_leonardo.jpg
+./desktop/tmnt/zz_set_01_02_donatello.jpg
+./desktop/tmnt/zz_set_01_03_raphael.jpg
+./desktop/tmnt/zz_set_01_04_michelangelo.jpg
+./desktop/tmnt/zz_set_02_01_leonardo.jpg
+./desktop/tmnt/zz_set_02_02_donatello.jpg
+./desktop/tmnt/zz_set_02_03_raphael.jpg
+./desktop/tmnt/zz_set_02_04_michelangelo.jpg
+./desktop/tmnt/zz_set_02_98_beebop_and_rocksteady.jpg
+./desktop/tmnt/zz_set_02_99_shredder.jpg
 ./desktop/tomb raider 2013/basecamp.jpg
 ./desktop/tomb raider 2013/campsite.jpg
 ./desktop/tomb raider 2013/cliffhanger.jpg
@@ -347,6 +317,9 @@
 ./desktop/tomb raider 2013/tomb_raider_2013_concept_art_by_johann_papayou_blais-wallpaper-2560x1440.jpg
 ./desktop/tomb raider 2013/Tomb Raider Underworld Art Wallpaper 1920x1080 Tomb Raider ....jpg
 ./desktop/tomb raider 2013/WW2-SOS.jpg
+./desktop/vector vistas/93306c4bb36d18f6_minimal_landscape.jpg
+./desktop/vector vistas/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg
+./desktop/vector vistas/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg
 ./desktop/vector vistas/pxfuel (28).jpg
 ./desktop/vector vistas/pxfuel (40).jpg
 ./desktop/vector vistas/pxfuel (51).jpg
@@ -724,9 +697,9 @@
 ./mobile/dan mumford/SPACE_INVADERS.jpg
 ./mobile/dan mumford/SUPER_MARIO_WORLD.jpg
 ./mobile/dan mumford/THE_WITCHER.jpg
-./mobile/dan mumford/TMNT_2_dan_mumford.jpg
-./mobile/dan mumford/TMNT_dan_mumford_2.jpg
-./mobile/dan mumford/TMNT_dan_mumford.jpg
+./mobile/dan mumford/tmnt_01_dan_mumford_01.jpg
+./mobile/dan mumford/tmnt_01_dan_mumford_02.jpg
+./mobile/dan mumford/tmnt_02_dan_mumford_01.jpg
 ./mobile/dan mumford/TOMB_RAIDER_dan_mumford.jpg
 ./mobile/dan mumford/WIPEOUT_foil.jpg
 ./mobile/dan mumford/WIPEOUT.jpg
@@ -911,53 +884,53 @@
 ./mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg
 ./mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg
 ./mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg
+./mobile/tmnt/00_idw_30th.jpg
+./mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png
+./mobile/tmnt/00_idw_892815.jpg
+./mobile/tmnt/00_idw_fskkyhnxwae_5st.jpg_large.jpg
+./mobile/tmnt/00_idw_peakpx_(1).jpg
+./mobile/tmnt/00_idw_pxfuel_(1).jpg
+./mobile/tmnt/00_idw_pxfuel_(21).jpg
+./mobile/tmnt/00_idw_pxfuel_(2).jpg
+./mobile/tmnt/00_idw_pxfuel_(4)_(1).jpg
+./mobile/tmnt/00_idw_pxfuel_(8).jpg
+./mobile/tmnt/00_idw_tmnt_29a.jpg
+./mobile/tmnt/00_idw_tmnt_cover_color_by_nelsondaniel_d4u4x17.jpg
+./mobile/tmnt/00_idw_tmnt_don_cover.jpg
+./mobile/tmnt/00_idw_tmnt_leo_cover.jpg
+./mobile/tmnt/00_idw_tmnt_mike_cover.jpg
+./mobile/tmnt/00_idw_tmnt_raph_cover.jpg
+./mobile/tmnt/00_idw_tmnt_splinter.jpg
+./mobile/tmnt/00_idw_tmnt_time_1.jpg
+./mobile/tmnt/00_idw_tmnt_time_3_color.jpg
+./mobile/tmnt/00_idw_tmnt_usagi_color3.jpg
+./mobile/tmnt/00_idw_wp3205588.jpg
 ./mobile/tmnt/107921.jpg
 ./mobile/tmnt/1337531.png
 ./mobile/tmnt/152641.png
 ./mobile/tmnt/222458.jpg
-./mobile/tmnt/222523.jpg
 ./mobile/tmnt/2724715094_41027a1a0f_o.jpg
 ./mobile/tmnt/2f1a0ffe3f0ffab265883afb2f232414.jpg
-./mobile/tmnt/30th.jpg
-./mobile/tmnt/354dd42e843e7286ec9374314a0f4946.png
-./mobile/tmnt/583181.jpg
 ./mobile/tmnt/664468.jpg
 ./mobile/tmnt/705217.jpg
-./mobile/tmnt/72442.jpg
-./mobile/tmnt/892815.jpg
 ./mobile/tmnt/970371.png
 ./mobile/tmnt/a0809ee9b33fea1970a6306f882501dc.jpeg
-./mobile/tmnt/FsKkYHnXwAE_5st.jpg_large.jpg
-./mobile/tmnt/peakpx (1).jpg
 ./mobile/tmnt/peakpx (3).jpg
 ./mobile/tmnt/pxfuel (11).jpg
 ./mobile/tmnt/pxfuel (16).jpg
 ./mobile/tmnt/pxfuel (17).jpg
 ./mobile/tmnt/pxfuel (18).jpg
 ./mobile/tmnt/pxfuel (19).jpg
-./mobile/tmnt/pxfuel (1).jpg
 ./mobile/tmnt/pxfuel (20).jpg
-./mobile/tmnt/pxfuel (21).jpg
-./mobile/tmnt/pxfuel (2).jpg
 ./mobile/tmnt/pxfuel (3).jpg
-./mobile/tmnt/pxfuel (4) (1).jpg
 ./mobile/tmnt/pxfuel (4).jpg
 ./mobile/tmnt/pxfuel (5).jpg
 ./mobile/tmnt/pxfuel (7).jpg
-./mobile/tmnt/pxfuel (8).jpg
 ./mobile/tmnt/pxfuel (9).jpg
 ./mobile/tmnt/pxfuel.jpg
-./mobile/tmnt/TMNT_29A.jpg
-./mobile/tmnt/tmnt_cover_color_by_nelsondaniel_d4u4x17.jpg
-./mobile/tmnt/TMNT don cover.jpg
-./mobile/tmnt/TMNT leo cover.jpg
-./mobile/tmnt/TMNT mike cover.jpg
-./mobile/tmnt/TMNT raph cover.jpg
-./mobile/tmnt/TMNT splinter.jpg
-./mobile/tmnt/TMNT TIME 1.jpg
-./mobile/tmnt/TMNT TIME 3 color.jpg
-./mobile/tmnt/TMNT USAGI color3.jpg
-./mobile/tmnt/wp3205588.jpg
+./mobile/tmnt/zz_set_02_04_michelangelo.jpg
+./mobile/tmnt/zz_set_02_98_beebop_and_rocksteady.jpg
+./mobile/tmnt/zz_set_02_99_shredder.jpg
 ./mobile/yumi and the nightmare painter/Backlit_by_Wonder_by_Aliya_Chen.jpg
 ./mobile/yumi and the nightmare painter/Defending_Kilahito_by_Aliya_Chen.jpg
 ./mobile/yumi and the nightmare painter/Learning_to_Paint_by_Aliya_Chen.jpg

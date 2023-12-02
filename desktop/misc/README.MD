@@ -13,8 +13,6 @@
 [![92c93d69e5926d92 Johan Christian Dahl   View Of Dresden by Moonlight](92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg "92c93d69e5926d92 Johan Christian Dahl   View Of Dresden by Moonlight")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg)\
 92c93d69e5926d92 Johan Christian Dahl   View Of Dresden by Moonlight
 
-[![93306c4bb36d18f6_minimal_landscape.jpg](93306c4bb36d18f6_minimal_landscape.jpg "93306c4bb36d18f6_minimal_landscape.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/93306c4bb36d18f6_minimal_landscape.jpg)
-
 [![93926c6d92926d6d_pexels-daniel-dan-7676164.jpg](93926c6d92926d6d_pexels-daniel-dan-7676164.jpg "93926c6d92926d6d_pexels-daniel-dan-7676164.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/93926c6d92926d6d_pexels-daniel-dan-7676164.jpg)
 
 [![946b24cc4bb65b65_nord-street.png](946b24cc4bb65b65_nord-street.png "946b24cc4bb65b65_nord-street.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/946b24cc4bb65b65_nord-street.png)
@@ -57,6 +55,8 @@
 
 [![c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg](c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg "c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg)
 
+[![c8bf24d99135e41e_Gece.jpg](c8bf24d99135e41e_Gece.jpg "c8bf24d99135e41e_Gece.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8bf24d99135e41e_Gece.jpg)
+
 [![c919998b3393c676_bici.jpg](c919998b3393c676_bici.jpg "c919998b3393c676_bici.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c919998b3393c676_bici.jpg)
 
 [![cc8c3373339cce26_win-11.png](cc8c3373339cce26_win-11.png "cc8c3373339cce26_win-11.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc8c3373339cce26_win-11.png)
@@ -78,10 +78,6 @@ Cecf63303eb13813 Fantasy Deer by Martina Stipan
 
 [![D8fb9b191d0770e0 Forest Spirit by J Witless](d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png "D8fb9b191d0770e0 Forest Spirit by J Witless")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png)\
 D8fb9b191d0770e0 Forest Spirit by J Witless
-
-[![d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg](d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg "d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg)
-
-[![d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg](d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg "d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg)
 
 [![f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg](f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg "f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg)
 
