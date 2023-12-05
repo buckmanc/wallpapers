@@ -219,6 +219,11 @@ then
 			metaTitle="${src%.*}"
 		metaTitle="${metaTitle#"$path_root"}"
 		metaTitle="${metaTitle#/}"
+
+		if [ "${src,,}" = "${path_root,,}/readme.md" ]
+		then
+			metaTitle="Wallpapers"
+		fi
 		htmlPath="${src%.*}.html"
 		if [ -f "$htmlPath" ]
 		then
