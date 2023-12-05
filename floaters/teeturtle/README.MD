@@ -12,6 +12,10 @@
 
 [![Celestial-D20.jpg](Celestial-D20.jpg "Celestial-D20.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Celestial-D20.jpg)
 
+[![Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg](Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg "Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg)
+
+[![Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg](Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg "Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg)
+
 [![Cthulhu-Calling.jpg](Cthulhu-Calling.jpg "Cthulhu-Calling.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Cthulhu-Calling.jpg)
 
 [![D20-Cthulhu.jpg](D20-Cthulhu.jpg "D20-Cthulhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/D20-Cthulhu.jpg)
@@ -35,6 +39,8 @@
 [![Hex-alotl.jpg](Hex-alotl.jpg "Hex-alotl.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Hex-alotl.jpg)
 
 [![Im-Fulfilling-My-Destintiny.jpg](Im-Fulfilling-My-Destintiny.jpg "Im-Fulfilling-My-Destintiny.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Im-Fulfilling-My-Destintiny.jpg)
+
+[![Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg](Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg "Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg)
 
 [![Lupine-Constellations.jpg](Lupine-Constellations.jpg "Lupine-Constellations.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Lupine-Constellations.jpg)
 
@@ -67,6 +73,10 @@
 [![Smore-Hoarder.jpg](Smore-Hoarder.jpg "Smore-Hoarder.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Smore-Hoarder.jpg)
 
 [![Spirit-of-the-Moon.jpg](Spirit-of-the-Moon.jpg "Spirit-of-the-Moon.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Spirit-of-the-Moon.jpg)
+
+[![TT-Candlelit-Orbit_4200x4200_SEPS.jpg](TT-Candlelit-Orbit_4200x4200_SEPS.jpg "TT-Candlelit-Orbit_4200x4200_SEPS.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/TT-Candlelit-Orbit_4200x4200_SEPS.jpg)
+
+[![TT-Floral-Moon_4200x4200_SEPS_out.jpg](TT-Floral-Moon_4200x4200_SEPS_out.jpg "TT-Floral-Moon_4200x4200_SEPS_out.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/TT-Floral-Moon_4200x4200_SEPS_out.jpg)
 
 [![Unicorn-Nebula.jpg](Unicorn-Nebula.jpg "Unicorn-Nebula.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/Unicorn-Nebula.jpg)
 

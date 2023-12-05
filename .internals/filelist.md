@@ -50,12 +50,14 @@
 ./desktop/forests/9a9e6d6791896a32_39570893840_d1632deea4_k.jpg
 ./desktop/forests/9ba96d9264d424f6_johannes-plenio-hvrpOmuMrAI-unsplash.jpg
 ./desktop/forests/9c8cc49c3c799967_jr-korpa-_OQ8Jc7kBmA-unsplash.jpg
+./desktop/forests/9c9c9c9cf098e3b2_RDT_20231202_2001597067443607727677107.jpg
 ./desktop/forests/9cbc73669c2469c9__downloadfiles_wallpapers_1920_1200_forest_of_fog_wallpaper_landscape_nature_1046.jpg
 ./desktop/forests/9cfc66228077e96c_rosie-sun-1L71sPT5XKc-unsplash.jpg
 ./desktop/forests/9d19c619799a3999_pxfuel (56).jpg
 ./desktop/forests/9d8d4c8ca4b44f2f_rwbusb7wo3s51.jpg
 ./desktop/forests/9d97529833c9b970_forest-dark-nature-darkness-unnamed-wallpaper-1920x1080.jpg
 ./desktop/forests/9d9d7236b7634290_guLC1ShOpKNXROIdnBk9y_Pz7OTVt3P_lXlLNzpsAj0.jpg
+./desktop/forests/9da923a789893fa8_RDT_20231202_2001318329063044382763080.jpg
 ./desktop/forests/9dcdc99c345c3236_pxfuel (54).jpg
 ./desktop/forests/9ddd26e99d263488_dark-forest-wallpapers-android-2.jpg
 ./desktop/forests/ab545ca9d368a5c9_pxfuel (55).jpg
@@ -64,6 +66,7 @@
 ./desktop/forests/c0e03c3e73c23e73_dCS4tQk.jpg
 ./desktop/forests/c0e717833ef8e0cc_peakpx (3).jpg
 ./desktop/forests/c0f0c6f2e9c7d289_1592433088417.jpg
+./desktop/forests/c1c1bb99e88c87ba_RDT_20231202_1956563733812621655125127.jpg
 ./desktop/forests/c1c1e13c1e1c3b3f_sduLRvf.jpg
 ./desktop/forests/c1c3e264a4a6a7eb_taylor-wright-2aSpCOPNyO0-unsplash.jpg
 ./desktop/forests/c1c42e397b7e38b0_IiTAHc9.jpg
@@ -77,7 +80,6 @@
 ./desktop/forests/c5c527f33d822783_150425-autumn-sunlight-woodland-mist-nature-550x310.jpg
 ./desktop/forests/c68696c7433acbc3_autumn-forest-leaves-1.jpg
 ./desktop/forests/c7c3c2e2c1d0f9d8_RDT_20231111_1615097714964751606389558.jpg
-./desktop/forests/c86d37c867d16d03_0aba909bf54ddbcd2dd0c87e2457621d.jpeg
 ./desktop/forests/c8c227ec669cec2d_khHbdpz.jpg
 ./desktop/forests/c8c8d8d931b3f8d4_8w12n5l2a2101.jpg
 ./desktop/forests/c8c9ad2d2ca4e7d4_ajit-singh-wJwx_jSgZuA-unsplash.jpg
@@ -88,6 +90,7 @@
 ./desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg
 ./desktop/forests/cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg
 ./desktop/forests/cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg
+./desktop/forests/cc6c3399cc323bd8_RDT_20231202_1959052116105647650675667.jpg
 ./desktop/forests/ccccc2c3277565c6_bye02.jpg
 ./desktop/forests/cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg
 ./desktop/forests/cccccf93c313c689_p603hrn4bux91.jpg
@@ -302,12 +305,6 @@
 ./desktop/tmnt/zz_set_01_02_donatello.jpg
 ./desktop/tmnt/zz_set_01_03_raphael.jpg
 ./desktop/tmnt/zz_set_01_04_michelangelo.jpg
-./desktop/tmnt/zz_set_02_01_leonardo.jpg
-./desktop/tmnt/zz_set_02_02_donatello.jpg
-./desktop/tmnt/zz_set_02_03_raphael.jpg
-./desktop/tmnt/zz_set_02_04_michelangelo.jpg
-./desktop/tmnt/zz_set_02_98_beebop_and_rocksteady.jpg
-./desktop/tmnt/zz_set_02_99_shredder.jpg
 ./desktop/tomb raider 2013/basecamp.jpg
 ./desktop/tomb raider 2013/campsite.jpg
 ./desktop/tomb raider 2013/cliffhanger.jpg
@@ -530,6 +527,8 @@
 ./floaters/teeturtle/Celestial-Cat4200x4200.jpg
 ./floaters/teeturtle/celestial_current.jpeg
 ./floaters/teeturtle/Celestial-D20.jpg
+./floaters/teeturtle/Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg
+./floaters/teeturtle/Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg
 ./floaters/teeturtle/Cthulhu-Calling.jpg
 ./floaters/teeturtle/D20-Cthulhu.jpg
 ./floaters/teeturtle/d20.jpg
@@ -542,6 +541,7 @@
 ./floaters/teeturtle/Grim-Reapers-Roll.jpg
 ./floaters/teeturtle/Hex-alotl.jpg
 ./floaters/teeturtle/Im-Fulfilling-My-Destintiny.jpg
+./floaters/teeturtle/Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg
 ./floaters/teeturtle/Lupine-Constellations.jpg
 ./floaters/teeturtle/Mighty-Warrior.jpg
 ./floaters/teeturtle/Moonlit-Blade-of-Roses.jpg
@@ -558,6 +558,8 @@
 ./floaters/teeturtle/Skulls-and-Soundwaves-Glow.jpg
 ./floaters/teeturtle/Smore-Hoarder.jpg
 ./floaters/teeturtle/Spirit-of-the-Moon.jpg
+./floaters/teeturtle/TT-Candlelit-Orbit_4200x4200_SEPS.jpg
+./floaters/teeturtle/TT-Floral-Moon_4200x4200_SEPS_out.jpg
 ./floaters/teeturtle/Unicorn-Nebula.jpg
 ./floaters/teeturtle/Vampire-Princess.jpg
 ./floaters/teeturtle/Were-Gonna-Be-Legends.jpg
@@ -655,6 +657,7 @@
 ./mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png
 ./mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg
 ./mobile/castlevania/zz_castle_anime_02.jpg
+./mobile/castlevania/zz_castle_anime_03.jpg
 ./mobile/castlevania/zz_castle_anime.jpg
 ./mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg
 ./mobile/castlevania/zz_castle_castlevania_01.png

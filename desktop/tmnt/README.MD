@@ -28,15 +28,3 @@
 
 [![zz_set_01_04_michelangelo.jpg](zz_set_01_04_michelangelo.jpg "zz_set_01_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_01_04_michelangelo.jpg)
 
-[![zz_set_02_01_leonardo.jpg](zz_set_02_01_leonardo.jpg "zz_set_02_01_leonardo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_01_leonardo.jpg)
-
-[![zz_set_02_02_donatello.jpg](zz_set_02_02_donatello.jpg "zz_set_02_02_donatello.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_02_donatello.jpg)
-
-[![zz_set_02_03_raphael.jpg](zz_set_02_03_raphael.jpg "zz_set_02_03_raphael.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_03_raphael.jpg)
-
-[![zz_set_02_04_michelangelo.jpg](zz_set_02_04_michelangelo.jpg "zz_set_02_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_04_michelangelo.jpg)
-
-[![zz_set_02_98_beebop_and_rocksteady.jpg](zz_set_02_98_beebop_and_rocksteady.jpg "zz_set_02_98_beebop_and_rocksteady.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_98_beebop_and_rocksteady.jpg)
-
-[![zz_set_02_99_shredder.jpg](zz_set_02_99_shredder.jpg "zz_set_02_99_shredder.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_02_99_shredder.jpg)
-

@@ -184,6 +184,8 @@ The Devil Forgemaster by Al Santos
 
 [![zz_castle_anime_02.jpg](zz_castle_anime_02.jpg "zz_castle_anime_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime_02.jpg)
 
+[![zz_castle_anime_03.jpg](zz_castle_anime_03.jpg "zz_castle_anime_03.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime_03.jpg)
+
 [![zz_castle_anime.jpg](zz_castle_anime.jpg "zz_castle_anime.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime.jpg)
 
 [![zz_castle_bloodstained_titlescreen.jpg](zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_bloodstained_titlescreen.jpg)
