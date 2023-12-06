@@ -717,8 +717,12 @@
 ./mobile/frog/a frog and his son by Dingzhong Hu.jpg
 ./mobile/frog/a frog reading to his son by Dingzhong Hu.jpg
 ./mobile/frog/angler frog by Dingzhong Hu.jpg
+./mobile/frog/fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg
 ./mobile/frog/frog and chill by Dingzhong Hu.jpg
 ./mobile/frog/frog chef by Dingzhong Hu.jpg
+./mobile/frog/FsLSOt4WwAASspt.jpeg
+./mobile/frog/il_1080xN.4211184424_2ixp.jpg
+./mobile/frog/resized_everybody-croaks.png
 ./mobile/frog/wizard frog by Dingzhong Hu.png
 ./mobile/games - nintendo/1445886.jpg
 ./mobile/games - nintendo/3191590.png

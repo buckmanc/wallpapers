@@ -7,11 +7,19 @@ A Frog Reading To His Son by Dingzhong Hu
 [![Angler Frog by Dingzhong Hu](angler%20frog%20by%20Dingzhong%20Hu.jpg "Angler Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/angler%20frog%20by%20Dingzhong%20Hu.jpg)\
 Angler Frog by Dingzhong Hu
 
+[![fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg](fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg "fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg)
+
 [![Frog and Chill by Dingzhong Hu](frog%20and%20chill%20by%20Dingzhong%20Hu.jpg "Frog and Chill by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog%20and%20chill%20by%20Dingzhong%20Hu.jpg)\
 Frog and Chill by Dingzhong Hu
 
 [![Frog Chef by Dingzhong Hu](frog%20chef%20by%20Dingzhong%20Hu.jpg "Frog Chef by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog%20chef%20by%20Dingzhong%20Hu.jpg)\
 Frog Chef by Dingzhong Hu
+
+[![FsLSOt4WwAASspt.jpeg](FsLSOt4WwAASspt.jpeg "FsLSOt4WwAASspt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/FsLSOt4WwAASspt.jpeg)
+
+[![il_1080xN.4211184424_2ixp.jpg](il_1080xN.4211184424_2ixp.jpg "il_1080xN.4211184424_2ixp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/il_1080xN.4211184424_2ixp.jpg)
+
+[![resized_everybody-croaks.png](resized_everybody-croaks.png "resized_everybody-croaks.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/resized_everybody-croaks.png)
 
 [![Wizard Frog by Dingzhong Hu](wizard%20frog%20by%20Dingzhong%20Hu.png "Wizard Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png)\
 Wizard Frog by Dingzhong Hu

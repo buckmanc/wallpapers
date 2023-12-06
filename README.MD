@@ -2,7 +2,7 @@
 make sure you're editing the template, doofus
 -->
 
-# 972 Wallpapers
+# 976 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -624,7 +624,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![zz02-reading99-TT-Tale-of-Scales.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg "zz02-reading99-TT-Tale-of-Scales.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg)
 [![zz02-reading99-TT-Tale-of-Tails.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg "zz02-reading99-TT-Tale-of-Tails.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg)
 [![zz02-reading99-TT-Tales-of-Magic.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg "zz02-reading99-TT-Tales-of-Magic.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg)
-# mobile - 397
+# mobile - 401
 ## [castlevania](mobile/castlevania/README.MD) - 98
 [![00_ak_cv_09-castlevania.jpg](.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![00_ak_cv_10_-_okwphcm.png](.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "00_ak_cv_10_-_okwphcm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
@@ -768,12 +768,16 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![ZELDA_BOTW_variant.jpg](.internals/thumbnails/mobile/dan%20mumford/ZELDA_BOTW_variant.jpg "ZELDA_BOTW_variant.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/ZELDA_BOTW_variant.jpg)
 [![ZELDA_dan_mumford.jpg](.internals/thumbnails/mobile/dan%20mumford/ZELDA_dan_mumford.jpg "ZELDA_dan_mumford.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/ZELDA_dan_mumford.jpg)
 [![ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg](.internals/thumbnails/mobile/dan%20mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg "ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/dan%20mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg)
-## [frog](mobile/frog/README.MD) - 6
+## [frog](mobile/frog/README.MD) - 10
 [![A Frog and His Son by Dingzhong Hu](.internals/thumbnails/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog and His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg)
 [![A Frog Reading To His Son by Dingzhong Hu](.internals/thumbnails/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog Reading To His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg)
 [![Angler Frog by Dingzhong Hu](.internals/thumbnails/mobile/frog/angler%20frog%20by%20Dingzhong%20Hu.jpg "Angler Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/angler%20frog%20by%20Dingzhong%20Hu.jpg)
+[![fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg](.internals/thumbnails/mobile/frog/fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg "fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/fpb3441886-frog-playing-banjo-on-log--black-post-garment.jpg)
 [![Frog and Chill by Dingzhong Hu](.internals/thumbnails/mobile/frog/frog%20and%20chill%20by%20Dingzhong%20Hu.jpg "Frog and Chill by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog%20and%20chill%20by%20Dingzhong%20Hu.jpg)
 [![Frog Chef by Dingzhong Hu](.internals/thumbnails/mobile/frog/frog%20chef%20by%20Dingzhong%20Hu.jpg "Frog Chef by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog%20chef%20by%20Dingzhong%20Hu.jpg)
+[![FsLSOt4WwAASspt.jpeg](.internals/thumbnails/mobile/frog/FsLSOt4WwAASspt.jpeg "FsLSOt4WwAASspt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/FsLSOt4WwAASspt.jpeg)
+[![il_1080xN.4211184424_2ixp.jpg](.internals/thumbnails/mobile/frog/il_1080xN.4211184424_2ixp.jpg "il_1080xN.4211184424_2ixp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/il_1080xN.4211184424_2ixp.jpg)
+[![resized_everybody-croaks.png](.internals/thumbnails/mobile/frog/resized_everybody-croaks.png "resized_everybody-croaks.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/resized_everybody-croaks.png)
 [![Wizard Frog by Dingzhong Hu](.internals/thumbnails/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png "Wizard Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png)
 ## [games - nintendo](mobile/games%20-%20nintendo/README.MD) - 11
 [![1445886.jpg](.internals/thumbnails/mobile/games%20-%20nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/games%20-%20nintendo/1445886.jpg)
