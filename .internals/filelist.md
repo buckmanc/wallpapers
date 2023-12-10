@@ -145,6 +145,7 @@
 ./desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg
 ./desktop/misc/c4c66f6d307bd230_pxfuel (23).jpg
 ./desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg
+./desktop/misc/c6993166cd99d266_the-relaxing-time_1563221945.jpg
 ./desktop/misc/c8bf24d99135e41e_Gece.jpg
 ./desktop/misc/c919998b3393c676_bici.jpg
 ./desktop/misc/cc8c3373339cce26_win-11.png
@@ -152,6 +153,7 @@
 ./desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg
 ./desktop/misc/cece3131cece3131_rm-rf.jpg
 ./desktop/misc/cecf63303eb13813_Fantasy Deer by Martina Stipan.jpg
+./desktop/misc/cf88394d72384c6f_bye.jpg
 ./desktop/misc/d0d80f65f9da0c27_mountains.png
 ./desktop/misc/d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg
 ./desktop/misc/d2c6371839c6b639_horror_cult.jpg
@@ -291,6 +293,11 @@
 ./desktop/synthwave/wallpaperflare.com_wallpaper (6).jpg
 ./desktop/synthwave/wallpaperflare.com_wallpaper (7).jpg
 ./desktop/synthwave/wallpaperflare.com_wallpaper.jpg
+./desktop/the legend of zelda/pxfuel (10).jpg
+./desktop/the legend of zelda/pxfuel (11).jpg
+./desktop/the legend of zelda/pxfuel (36).jpg
+./desktop/the legend of zelda/pxfuel (7).jpg
+./desktop/the legend of zelda/the_legend_of_zelda___camping_in_the_wild_by_atarts_db72g3j.jpg
 ./desktop/tmnt/1337531.png
 ./desktop/tmnt/222365.jpg
 ./desktop/tmnt/361249.jpg
@@ -524,12 +531,13 @@
 ./floaters/teeturtle/Bats-and-Baubles.jpg
 ./floaters/teeturtle/Blood-Moon-Dragon.jpg
 ./floaters/teeturtle/Book-Hoarder.jpg
+./floaters/teeturtle/Candlelit-Orbit.jpg
 ./floaters/teeturtle/Celastial-Spirits.jpg
-./floaters/teeturtle/Celestial-Cat4200x4200.jpg
+./floaters/teeturtle/Celestial-Cat.jpg
 ./floaters/teeturtle/celestial_current.jpeg
 ./floaters/teeturtle/Celestial-D20.jpg
-./floaters/teeturtle/Celestial-Dragon_800x800-GLOW_SEPS_v1.jpg
-./floaters/teeturtle/Celestial-Stag-Glow_GLOW-800x800_SEPS.jpg
+./floaters/teeturtle/Celestial-Dragon-GLOW_v1.jpg
+./floaters/teeturtle/Celestial-Stag-Glow_GLOW.jpg
 ./floaters/teeturtle/Cthulhu-Calling.jpg
 ./floaters/teeturtle/D20-Cthulhu.jpg
 ./floaters/teeturtle/d20.jpg
@@ -537,14 +545,16 @@
 ./floaters/teeturtle/Earth-Fire-Water-and-Air-Dragons.jpg
 ./floaters/teeturtle/Elemental-Kitsune.jpg
 ./floaters/teeturtle/Enchanting-KITSUNE.jpg
+./floaters/teeturtle/Floral-Moon_out.jpg
 ./floaters/teeturtle/four-unicorns-of-the-apocalypse-V2.jpg
 ./floaters/teeturtle/Foxy-Astronaut.jpg
 ./floaters/teeturtle/Grim-Reapers-Roll.jpg
 ./floaters/teeturtle/Hex-alotl.jpg
 ./floaters/teeturtle/Im-Fulfilling-My-Destintiny.jpg
-./floaters/teeturtle/Im-Not-a-Damsel-Im-a-Dragon_800x800_SEPS_out.jpg
+./floaters/teeturtle/Im-Not-a-Damsel-Im-a-Dragon_out.jpg
 ./floaters/teeturtle/Lupine-Constellations.jpg
 ./floaters/teeturtle/Mighty-Warrior.jpg
+./floaters/teeturtle/Moonlight-Sorceress.jpg
 ./floaters/teeturtle/Moonlit-Blade-of-Roses.jpg
 ./floaters/teeturtle/Mystic-Tea.jpg
 ./floaters/teeturtle/Necromancer-Cat.jpg
@@ -553,27 +563,24 @@
 ./floaters/teeturtle/Ramen-Dragon.jpg
 ./floaters/teeturtle/Seasonal-Tree.jpg
 ./floaters/teeturtle/Shiny-Wolf.jpg
-./floaters/teeturtle/SHIRT-Moonlight-Sorceress.jpg
-./floaters/teeturtle/SHIRT-Tyrannosaurs-Hex.jpg
 ./floaters/teeturtle/Skulls-and-Soundwaves-Glow-GLOW-ONLY.jpg
 ./floaters/teeturtle/Skulls-and-Soundwaves-Glow.jpg
 ./floaters/teeturtle/Smore-Hoarder.jpg
 ./floaters/teeturtle/Spirit-of-the-Moon.jpg
-./floaters/teeturtle/TT-Candlelit-Orbit_4200x4200_SEPS.jpg
-./floaters/teeturtle/TT-Floral-Moon_4200x4200_SEPS_out.jpg
+./floaters/teeturtle/Tyrannosaurs-Hex.jpg
 ./floaters/teeturtle/Unicorn-Nebula.jpg
 ./floaters/teeturtle/Vampire-Princess.jpg
 ./floaters/teeturtle/Were-Gonna-Be-Legends.jpg
-./floaters/teeturtle/zz01-mushfrog-TT-Mushroom-Forest.jpg
-./floaters/teeturtle/zz01-mushfrog-TT-So-Mushroom-in-Space.jpg
-./floaters/teeturtle/zz01-mushfrog-TT-Twilight-Toadstool.jpg
-./floaters/teeturtle/zz02-reading01-TT-Spellbinding-Stories.jpg
-./floaters/teeturtle/zz02-reading02-TT-SHIRT-Tales-of-Horror.jpg
-./floaters/teeturtle/zz02_reading99_moonlight-tale.jpg
-./floaters/teeturtle/zz02-reading99-TT-Tale-of-Adventure.jpg
-./floaters/teeturtle/zz02-reading99-TT-Tale-of-Scales.jpg
-./floaters/teeturtle/zz02-reading99-TT-Tale-of-Tails.jpg
-./floaters/teeturtle/zz02-reading99-TT-Tales-of-Magic.jpg
+./floaters/teeturtle/zz01-mushfrogMushroom-Forest.jpg
+./floaters/teeturtle/zz01-mushfrogSo-Mushroom-in-Space.jpg
+./floaters/teeturtle/zz01-mushfrogTwilight-Toadstool.jpg
+./floaters/teeturtle/zz02-reading01-Spellbinding-Stories.jpg
+./floaters/teeturtle/zz02-reading02-Tales-of-Horror.jpg
+./floaters/teeturtle/zz02-reading99-moonlight-tale.jpg
+./floaters/teeturtle/zz02-reading99-Tale-of-Adventure.jpg
+./floaters/teeturtle/zz02-reading99-Tale-of-Scales.jpg
+./floaters/teeturtle/zz02-reading99-Tale-of-Tails.jpg
+./floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg
 ./mobile/castlevania/00_ak_cv_09-castlevania.jpg
 ./mobile/castlevania/00_ak_cv_10_-_okwphcm.png
 ./mobile/castlevania/00_ak_cv_12_-_k4ddwli.png
@@ -632,6 +639,7 @@
 ./mobile/castlevania/alucard by fishyu7.jpg
 ./mobile/castlevania/Alucard by Junki Sakuraba.jpeg
 ./mobile/castlevania/alucard_by_天由_(tenyo0819).jpg
+./mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg
 ./mobile/castlevania/ASVpzIy.jpeg
 ./mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg
 ./mobile/castlevania/castlevania_by_kilian_eng.jpeg
@@ -715,6 +723,12 @@
 ./mobile/dan mumford/ZELDA_BOTW_variant.jpg
 ./mobile/dan mumford/ZELDA_dan_mumford.jpg
 ./mobile/dan mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg
+./mobile/elden ring/a_princess_and_her_vassal_by_quirkilicious_df3fi0i.jpg
+./mobile/elden ring/ELDEN_RING.jpg
+./mobile/elden ring/ER_Icon_Remembrance_of_the_Full_Moon_Queen (1).png
+./mobile/elden ring/ranni_the_witch_with_big_hat_hd_elden_ring_2.jpg
+./mobile/elden ring/wp11118577-elden-ring-ranni-the-witch-wallpapers.jpg
+./mobile/elden ring/wp11118725-elden-ring-ranni-the-witch-wallpapers.jpg
 ./mobile/frog/a frog and his son by Dingzhong Hu.jpg
 ./mobile/frog/a frog reading to his son by Dingzhong Hu.jpg
 ./mobile/frog/angler frog by Dingzhong Hu.jpg
@@ -735,6 +749,7 @@
 ./mobile/leaves/9e83714636e96671_630bd5cca2e26aae2ea8c7a910c7e7de.jpeg
 ./mobile/leaves/9fa5bcc48d4a2af0_b53ff0f72e0745f029bc09bc1cf23498.jpeg
 ./mobile/leaves/b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg
+./mobile/leaves/c1ee4a137ea53e90_pxfuel (22).jpg
 ./mobile/leaves/c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg
 ./mobile/leaves/cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg
 ./mobile/leaves/d20f1b713c1c6cc7_pxfuel (43).jpg
@@ -756,62 +771,63 @@
 ./mobile/mario/peakpx (5).jpg
 ./mobile/mario/rosalina_1280976.jpg
 ./mobile/mario/rosalina_577203.png
+./mobile/mario/Rosalina_Art_Nouveau_By_ranefae.jpg
 ./mobile/mario/rosalina_d3ep8hoxkaadyob.jpeg
 ./mobile/mario/rosalina_peakpx_(1)_(1).jpg
 ./mobile/mario/rosalina_peakpx.jpg
 ./mobile/mario/rosalina_rosalina.full.1859847.jpg
 ./mobile/mario/rosalina_rosalina.full.1881057.jpg
-./mobile/mega man/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae_ddzksjv-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x1_first_armor_by_e_chae_ddzku64-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae_ddzkufi-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x3_01_3rd_armor_by_e_chae_ddzkuld-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x3_02_hyper_max_armor_by_e_chae_ddzpdfr-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x3_03_gold_3rd_armor_xgold_zero_by_e_chae_ddzks9e-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x4_01_fourth_armor_by_e_chae_ddzkuqc-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x4_02_ultimate_armor_by_e_chae_ddzpdlb-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x4_03_black_x_and_black_zero_by_e_chae_ddzkrhk-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x5_falcon_armor_by_e_chae_ddzpc4q-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x5_gaea_armor_by_e_chae_ddzpdru-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x6_blade_armor_by_e_chae_ddzpcej-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x6_shadow_armor_by_e_chae_ddzpdwz-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x7_glide_armor_by_e_chae_ddzpcml-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x8_hermes_armor_by_e_chae_ddzpd6j-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x8_neutral_armor_by_e_chae_ddzpcu6-fullview.png
-./mobile/mega man/00_armors_e_chae_rockman_x8_ultimate_armor_x8_by_e_chae_ddzpe4u-fullview.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x1_first_armor_x_full_body_1_.png
+./mobile/mega man/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x3_01_3rd_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x3_02_hyper_max_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x3_03_gold_3rd_armor_xgold_zero_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x4_01_fourth_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x4_02_ultimate_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x4_03_black_x_and_black_zero_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x5_falcon_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x5_gaea_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x6_blade_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x6_shadow_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x7_glide_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x8_hermes_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x8_neutral_armor_by_e_chae.png
+./mobile/mega man/00_armors_e_chae_rockman_x8_ultimate_armor_x8_by_e_chae.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x0_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png
 ./mobile/mega man/00_armors_mmx_dive_rockman_x2_second_armor_dive.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x3_third_armor_x_full_body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x4_fourth_armor_x_full_body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x4_ultimate_armor_x_full_body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_DiVE_Armor_X_Full_Art.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Falcon_Armor_X_Full_Art.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Gaea_Armor_X_Full_Body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Next_DiVE_Armor_X_Full_Body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Rathalos_Armor_X_full_body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Shadow_Armor_X_Full_Body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Shagaru_Armor_X_Full_Body.png
-./mobile/mega man/00_armors_mmx_dive_rockman_x_Ultimate_Armor_X_CM_Full_Body.png
-./mobile/mega man/00_mmx_dive_AC_Ver._Full_body.png
-./mobile/mega man/00_mmx_dive_Awakened_Zero_Full_Body.png
-./mobile/mega man/00_mmx_dive_Axl_full_body.png
-./mobile/mega man/00_mmx_dive_Ciel_full_body.png
-./mobile/mega man/00_mmx_dive_Copy_X_Full_Body.png
-./mobile/mega man/00_mmx_dive_DiVE_Armor_Zero_Full_Body.png
-./mobile/mega man/00_mmx_dive_Halloween_Vile_Full_Body.png
-./mobile/mega man/00_mmx_dive_kai_full_body.png
-./mobile/mega man/00_mmx_dive_Mega_Man_Fully_Body.png
-./mobile/mega man/00_mmx_dive_Mega_Man_X_DiVE_Hunter_Program_Proto_Man.png
-./mobile/mega man/00_mmx_dive_Omega_Full_Body.png
-./mobile/mega man/00_mmx_dive_Sigma_full_body.png
-./mobile/mega man/00_mmx_dive_Super_Bass_Full_Body.png
-./mobile/mega man/00_mmx_dive_ViA_full_artwork.png
-./mobile/mega man/00_mmx_dive_ViA_full_body.png
-./mobile/mega man/00_mmx_dive_Vile_full_body.png
-./mobile/mega man/00_mmx_dive_Vile_MK-II_Full_Art.png
-./mobile/mega man/00_mmx_dive_X_full_body.png
-./mobile/mega man/00_mmx_dive_X_ver_ke_Full_Body.png
-./mobile/mega man/00_mmx_dive_Zero_Nightmare_full_body.png
-./mobile/mega man/00_mmx_dive_Zero_Z_full_body.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x3_third_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x4_fourth_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x4_ultimate_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x5_falcon_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x5_gaea_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x6_shadow_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x90_ultimate_armor_x_cm.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x91_ac_ver.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x91_dive_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x91_next_dive_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x91_rathalos_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x91_shagaru_armor_x.png
+./mobile/mega man/00_armors_mmx_dive_rockman_x92_x_ver_ke.png
+./mobile/mega man/00_mmx_dive_00_mmxd_kai.png
+./mobile/mega man/00_mmx_dive_Axl.png
+./mobile/mega man/00_mmx_dive_mmc_mega_man.png
+./mobile/mega man/00_mmx_dive_mmc_proto_man.png
+./mobile/mega man/00_mmx_dive_mmc_super_bass.png
+./mobile/mega man/00_mmx_dive_mmz_ciel.png
+./mobile/mega man/00_mmx_dive_mmz_copy_x.png
+./mobile/mega man/00_mmx_dive_mmz_omega.png
+./mobile/mega man/00_mmx_dive_mmz_zero_z.png
+./mobile/mega man/00_mmx_dive_Sigma.png
+./mobile/mega man/00_mmx_dive_vile_rockman_x1.png
+./mobile/mega man/00_mmx_dive_vile_rockman_x3_vile_mk-ii.png
+./mobile/mega man/00_mmx_dive_vile_rockman_x91_halloween_vile.png
+./mobile/mega man/00_mmx_dive_zero_awakened_zero.png
+./mobile/mega man/00_mmx_dive_zero_dive_armor_zero.png
+./mobile/mega man/00_mmx_dive_Zero_Nightmare.png
+./mobile/mega man/00_mmx_dive_zz_mmxd_via_1.png
+./mobile/mega man/00_mmx_dive_zz_mmxd_via_2.png
 ./mobile/mega man/01a4b91065b93e990d7ac798a9385686.jpg
 ./mobile/mega man/02c290e97f9044e3638f870dba012947.jpg
 ./mobile/mega man/101060072_p0.jpg
@@ -865,7 +881,7 @@
 ./mobile/mega man/20231207_143809.jpg
 ./mobile/mega man/20231207_144431.png
 ./mobile/mega man/20231207_144502.png
-./mobile/mega man/20th_anniversary_rockmanx4_by_peeape_dbjqw4v.png
+./mobile/mega man/20th_anniversary_rockmanx4_by_peeape.png
 ./mobile/mega man/35094566_0.jpg
 ./mobile/mega man/37157647_p5_master1200.jpg
 ./mobile/mega man/3fb834d1bf61356199457136b29858a8.jpg
@@ -922,58 +938,59 @@
 ./mobile/mega man/art_noveau_vile_by_grim-gate.jpg
 ./mobile/mega man/art_noveau_zero_by_grim-gate.jpg
 ./mobile/mega man/aurjdgv5ywg51.jpg
-./mobile/mega man/best_partners_by_ultimatemaverickx_de2r732.png
-./mobile/mega man/Black_Zero_full_body.png
-./mobile/mega man/brothers_by_ultimatemaverickx_dewuqo6-fullview.jpg
+./mobile/mega man/best_partners_by_ultimatemaverickx.png
+./mobile/mega man/Black_Zero.png
+./mobile/mega man/brothers_by_ultimatemaverickx.jpg
 ./mobile/mega man/Card353_Large.png
 ./mobile/mega man/chun_li_sonic_the_hedgehog_ryu_roll_amy_rose_and_55_more_street_fighter_and_25_more_fd608132e0d2752de1a0b03722f5dfed.jpg
-./mobile/mega man/classic_exe_by_ultimatemaverickx_dekegxu-fullview.jpg
+./mobile/mega man/classic_exe_by_ultimatemaverickx.jpg
 ./mobile/mega man/Clipped_image_20231206_230834.png
 ./mobile/mega man/Clipped_image_20231206_230905.png
 ./mobile/mega man/Clipped_image_20231207_141932.png
 ./mobile/mega man/Clipped_image_20231207_144612.png
 ./mobile/mega man/Cover05.jpg
 ./mobile/mega man/death_grim_reaper_and_sigma_mega_man_and_3_more_drawn_by_mizuno_keisuke_0cd0d4e64d0e26b9bb82709d9ee8b2c3.png
-./mobile/mega man/dwn_infinity_by_blopa_inf_dgd62s0-fullview.jpg
+./mobile/mega man/dwn_infinity_by_blopa_inf.jpg
 ./mobile/mega man/e858c0f7592e18e1e907a8999fb11bf4.jpg
-./mobile/mega man/falcon_and_gaea_by_ultimatemaverickx_de1sphi.png
+./mobile/mega man/falcon_and_gaea_by_ultimatemaverickx.png
 ./mobile/mega man/i28b40jljvw61.jpg
-./mobile/mega man/light_s_armor_by_ultimatemaverickx_de13x0r.png
+./mobile/mega man/light_s_armor_by_ultimatemaverickx.png
 ./mobile/mega man/mega_man_2_by_dan_mumford.jpg
 ./mobile/mega man/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg
-./mobile/mega man/mega_man_x2_by_ultimatemaverickx_de5chq9.png
-./mobile/mega man/megaman_x2_raider_killer_by_innovator123_deyw9on.png
+./mobile/mega man/mega_man_x2_by_ultimatemaverickx.png
+./mobile/mega man/megaman_x2_raider_killer_by_innovator123.png
 ./mobile/mega man/megamanx5_1.jpg
 ./mobile/mega man/mega_man_x_by_dan_mumford.jpg
-./mobile/mega man/mega_man_x_by_ultimatemaverickx_dex98cb.png
-./mobile/mega man/megaman_x_legacy_wallpaper_2_b_by_falconburst322_dcb4c1h.jpg
-./mobile/mega man/megaman_x_legacy_wallpaper_3_by_falconburst322_dcav69y.jpg
-./mobile/mega man/megaman_x_wallpaper_2_a_by_falconburst322_dcarhq0.jpg
+./mobile/mega man/mega_man_x_by_ultimatemaverickx.png
+./mobile/mega man/megaman_x_legacy_wallpaper_2_b_by_falconburst322.jpg
+./mobile/mega man/megaman_x_legacy_wallpaper_3_by_falconburst322.jpg
+./mobile/mega man/megaman_x_wallpaper_2_a_by_falconburst322.jpg
 ./mobile/mega man/Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.webp
-./mobile/mega man/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx_ddi2l8g.png
-./mobile/mega man/mmx_1_8_the_collection_vinyl_ost_box_arts_by_ultimatemaverickx_de03qh5.png
-./mobile/mega man/plasma_shot_by_ultimatemaverickx_del84yv-fullview.jpg
-./mobile/mega man/project_x_dr_light_s_final_and_ultimate_creation_by_ultimatemaverickx_dewe0vm-fullview.jpg
-./mobile/mega man/proto_man_skies_1920x1200_by_alby13_d1oftyz.jpg
+./mobile/mega man/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png
+./mobile/mega man/mmx_1_8_the_collection_vinyl_ost_box_arts_by_ultimatemaverickx.png
+./mobile/mega man/plasma_shot_by_ultimatemaverickx.jpg
+./mobile/mega man/project_x_dr_light_s_final_and_ultimate_creation_by_ultimatemaverickx.jpg
+./mobile/mega man/proto_man_skies_1920x1200_by_alby13.jpg
 ./mobile/mega man/pxfuel_1_.jpg
 ./mobile/mega man/pxfuel_3_.jpg
 ./mobile/mega man/pxfuel_4_.jpg
-./mobile/mega man/rank_uh_by_ultimatemaverickx_de0h0w5.png
-./mobile/mega man/robot_masters_rampage_by_xamoel_d3290nv.jpg
+./mobile/mega man/rank_uh_by_ultimatemaverickx.png
+./mobile/mega man/robot_masters_rampage_by_xamoel.jpg
 ./mobile/mega man/RockMan._Character_.full.2401781.png
 ./mobile/mega man/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png
 ./mobile/mega man/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg
-./mobile/mega man/SD_Second_Armor_X_Full_Body.png
-./mobile/mega man/secret_codes_by_ultimatemaverickx_de0ogjs.png
+./mobile/mega man/SD_Second_Armor_X.png
+./mobile/mega man/secret_codes_by_ultimatemaverickx.png
 ./mobile/mega man/TEPPEN_SI_073_art.webp
 ./mobile/mega man/TEPPEN_SI_075_art.webp
 ./mobile/mega man/TEPPEN_SI_079_art.webp
 ./mobile/mega man/TEPPEN_T097_art.webp
-./mobile/mega man/transformation_by_ultimatemaverickx_ddifi3r.png
-./mobile/mega man/triple_attack_by_ultimatemaverickx_ddifloe.png
-./mobile/mega man/variable_x_by_ultimatemaverickx_dfksa29-fullview.jpg
-./mobile/mega man/vile_by_ultimatemaverickx_de1jrko.png
+./mobile/mega man/transformation_by_ultimatemaverickx.png
+./mobile/mega man/triple_attack_by_ultimatemaverickx.png
+./mobile/mega man/variable_x_by_ultimatemaverickx.jpg
+./mobile/mega man/vile_by_ultimatemaverickx.png
 ./mobile/mega man/zero_and_dr_wily_mega_man_and_2_more_drawn_by_hoshi_mikan_aecbc1b1fe039a0dadd9d254e6d0ef4c.png
+./mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg
 ./mobile/misc/840bcc9d3bb47965_nature (1).jpg
 ./mobile/misc/84394ed7798e99c4_pxfuel (25).jpg
 ./mobile/misc/86c24b24b55a797d_Gorgeous Space.jpg
@@ -986,9 +1003,11 @@
 ./mobile/misc/95ea4b94e46b3493_Dark Forest.jpg
 ./mobile/misc/96e069cd37b2d229_LoveLife.jpg
 ./mobile/misc/98dc63238c8d33f3_Moon.jpg
+./mobile/misc/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg
 ./mobile/misc/9b991c6666694cf8_f4b6dd382b9815ed340d123be37c7cdd.jpeg
 ./mobile/misc/9c4b33c7cc28766c_Pagan 01.jpg
 ./mobile/misc/9d8472db4d6c7321_a6c537240a4a49effec422a9a6cd435a.jpg
+./mobile/misc/9e41794e3327926b_Moon Goddess by Jemma Young.jpg
 ./mobile/misc/9fd8602587ea383d_Magic Sunset.jpg
 ./mobile/misc/b094c4eb3fd530aa_Dark Forest (1).jpg
 ./mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg
@@ -1117,28 +1136,116 @@
 ./mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg
 ./mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg
 ./mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg
-./mobile/the legend of zelda/2677727167.jpg
-./mobile/the legend of zelda/37f5acb16b7dcad059261e262b0a3f59.jpg
-./mobile/the legend of zelda/AaJrEqt.jpeg
+./mobile/the legend of zelda/20231209_105546.jpg
+./mobile/the legend of zelda/81PCc-jKuqL.jpg
+./mobile/the legend of zelda/834c8e96948325.5eba1fd7ea299.jpg
+./mobile/the legend of zelda/an_rf_01_midna_art_nouveau_by_ranefae.jpg
+./mobile/the legend of zelda/an_rf_02_link_art_nouveau_by_ranefae.jpg
+./mobile/the legend of zelda/an_rf_03_zelda_art_nouveau_by_ranefae.jpg
+./mobile/the legend of zelda/astri-lohne-botw2-web.jpg
+./mobile/the legend of zelda/astri-lohne-botw-web.jpg
 ./mobile/the legend of zelda/b82349c170605738a208ba0d7264e844.jpg
+./mobile/the legend of zelda/bg-as-above-so-below-2-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/bg-as-above-so-below-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/bg_deku_tree_01_test_thy_courage_version_2_by_bradygoldsmith_d9y02hu-fullview.jpg
+./mobile/the legend of zelda/bg_deku_tree_02_do_not_grieve_for_me_by_bradygoldsmith_d9qxht0-fullview.jpg
+./mobile/the legend of zelda/bg-i-ll-wait-for-you-here-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/bg-i-will-draw-you-into-the-dark-world-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/bg_lead_the_way___variant_by_bradygoldsmith_daf96h6-fullview.jpg
+./mobile/the legend of zelda/bg_light_the_way_by_bradygoldsmith_d9otihd-fullview.jpg
+./mobile/the legend of zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg
+./mobile/the legend of zelda/BotW_Calamity_Ganon_Artwork.png
 ./mobile/the legend of zelda/c6b49d709042f09ef7155ca57bc2b332.jpg
-./mobile/the legend of zelda/fytwibawj6031.jpg
-./mobile/the legend of zelda/j0r5gdi.jpeg
-./mobile/the legend of zelda/KeZduG6.jpeg
-./mobile/the legend of zelda/nxe_triforce.jpg
+./mobile/the legend of zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg
+./mobile/the legend of zelda/ganondorf__wake_up_by_dasgnomo_dd93j1w.jpg
+./mobile/the legend of zelda/Ganon_sm.png
+./mobile/the legend of zelda/goddess_statue__hylia_by_lezulla_deeooxb-fullview.jpg
+./mobile/the legend of zelda/HW_Ganondorf_Render.png
+./mobile/the legend of zelda/ian-singh-legend-of-zelda-v2.jpg
+./mobile/the legend of zelda/it_s_dangerous_to_go_alone_by_colin_morella.jpg
+./mobile/the legend of zelda/meganlangandinraal.jpg
+./mobile/the legend of zelda/Official botw link.jpg
+./mobile/the legend of zelda/official_peakpx_(8).jpg
+./mobile/the legend of zelda/official_pxfuel_(10)_(1).jpg
+./mobile/the legend of zelda/official_pxfuel_(18).jpg
+./mobile/the legend of zelda/Official totk link.webp
+./mobile/the legend of zelda/Official totk zelda.webp
+./mobile/the legend of zelda/peakpx (1).jpg
+./mobile/the legend of zelda/peakpx (2).jpg
+./mobile/the legend of zelda/peakpx (4).jpg
+./mobile/the legend of zelda/peakpx (7).jpg
+./mobile/the legend of zelda/peakpx (9).jpg
+./mobile/the legend of zelda/practice_by_shirley_gong.jpg
 ./mobile/the legend of zelda/pxfuel (10).jpg
+./mobile/the legend of zelda/pxfuel (11) (1).jpg
 ./mobile/the legend of zelda/pxfuel (11).jpg
+./mobile/the legend of zelda/pxfuel (16) (1).jpg
 ./mobile/the legend of zelda/pxfuel (16).jpg
-./mobile/the legend of zelda/pxfuel (2).jpg
+./mobile/the legend of zelda/pxfuel (1).jpg
+./mobile/the legend of zelda/pxfuel (20).jpg
+./mobile/the legend of zelda/pxfuel (2) (1).jpg
+./mobile/the legend of zelda/pxfuel (21).jpg
+./mobile/the legend of zelda/pxfuel (23).jpg
+./mobile/the legend of zelda/pxfuel (27).jpg
+./mobile/the legend of zelda/pxfuel (28).jpg
+./mobile/the legend of zelda/pxfuel (29).jpg
+./mobile/the legend of zelda/pxfuel (30).jpg
+./mobile/the legend of zelda/pxfuel (32).jpg
 ./mobile/the legend of zelda/pxfuel (3).jpg
+./mobile/the legend of zelda/pxfuel (4) (1).jpg
 ./mobile/the legend of zelda/pxfuel (4).jpg
-./mobile/the legend of zelda/pxfuel (5).jpg
 ./mobile/the legend of zelda/pxfuel (6).jpg
 ./mobile/the legend of zelda/pxfuel (7).jpg
-./mobile/the legend of zelda/pxfuel (8).jpg
-./mobile/the legend of zelda/pxfuel (9).jpg
-./mobile/the legend of zelda/SdBJ4Jo.jpeg
-./mobile/the legend of zelda/XMnqr82.jpeg
+./mobile/the legend of zelda/sg_20231208_223440.jpg
+./mobile/the legend of zelda/sg_20231208_223506.jpg
+./mobile/the legend of zelda/sg_20231208_223537.jpg
+./mobile/the legend of zelda/sg_20231208_223605.jpg
+./mobile/the legend of zelda/sg_20231208_223625.jpg
+./mobile/the legend of zelda/sg_Clipped_image_20231208_223158.png
+./mobile/the legend of zelda/sg_pxfuel_(3).jpg
+./mobile/the legend of zelda/sg_rf_adventure_of_link_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_a_link_between_worlds_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_a_link_to_the_past_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_breath_of_the_wild_stained_glass_2_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_breath_of_the_wild_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_link_s_awakening_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_majora_s_mask_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_ocarina_of_time_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_oracle_of_ages_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_oracle_of_seasons_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_skyward_sword_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_tears_of_the_kingdom_stained_glass_by_ranefae.png
+./mobile/the legend of zelda/sg_rf_the_legend_of_zelda_stained_glass_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_twilight_princess_stained_glass_orange_version_by_ranefea.png
+./mobile/the legend of zelda/sg_rf_twilight_princess_stained_glass_purple_version_by_ranefea.png
+./mobile/the legend of zelda/sword_alttp_sacred_grove_artwork.png
+./mobile/the legend of zelda/sword_pxfuel_(25).jpg
+./mobile/the legend of zelda/sword_pxfuel_(2).jpg
+./mobile/the legend of zelda/tears_by_quirkilicious_dg2hz6t.jpg
+./mobile/the legend of zelda/tg_hyrule_field_by_tom_garden.jpg
+./mobile/the legend of zelda/tg_oot_temples_01_forest_temple_by_tom-garden.jpeg
+./mobile/the legend of zelda/tg_oot_temples_02_fire_temple_by_tom-garden.jpeg
+./mobile/the legend of zelda/tg_oot_temples_03_water_temple_by_tom-garden.jpeg
+./mobile/the legend of zelda/tg_oot_temples_04_shadow_temple_by_tom-garden.jpeg
+./mobile/the legend of zelda/tg_oot_temples_05_spirit_temple_by_tom-garden.jpeg
+./mobile/the legend of zelda/tg_oot_young_link_links-house_by_tom_garden.jpg
+./mobile/the legend of zelda/tg_oot_young_link-sacred-meadow_by_tom-garden.jpg
+./mobile/the legend of zelda/thomas-chamberlain-keen-xiabingshort.jpg
+./mobile/the legend of zelda/tumblr_15b71d01ae2dc832866fff3069fb4c8b_37e47a30_1280.jpg
+./mobile/the legend of zelda/tumblr_3938ad287ddbeefd27e37a1afb900cc5_5f3fe96d_1280.jpg
+./mobile/the legend of zelda/tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg
+./mobile/the legend of zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png
+./mobile/the legend of zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg
+./mobile/the legend of zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg
+./mobile/the legend of zelda/zz_triforce_2677727167.jpg
+./mobile/the legend of zelda/zz_triforce_fytwibawj6031.jpg
+./mobile/the legend of zelda/zz_triforce_nxe_triforce.jpg
+./mobile/the legend of zelda/zz_triforce_pxfuel_(19).jpg
+./mobile/the legend of zelda/zz_triforce_pxfuel_(5).jpg
+./mobile/the legend of zelda/zz_triforce_pxfuel.jpg
+./mobile/the legend of zelda/zz_triforce_zz_door_of_time_pxfuel_(8).jpg
+./mobile/the legend of zelda/zz_triforce_zz_door_of_time_pxfuel_(9).jpg
 ./mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg
 ./mobile/tmnt/00_idw_30th.jpg
 ./mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png

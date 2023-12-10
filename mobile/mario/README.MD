@@ -33,6 +33,9 @@ Ox F2t VlKaQAIJWP2 by Oxfruit
 
 [![rosalina_577203.png](rosalina_577203.png "rosalina_577203.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_577203.png)
 
+[![Rosalina Art Nouveau by Ranefae](Rosalina_Art_Nouveau_By_ranefae.jpg "Rosalina Art Nouveau by Ranefae")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Rosalina_Art_Nouveau_By_ranefae.jpg)\
+Rosalina Art Nouveau by Ranefae
+
 [![rosalina_d3ep8hoxkaadyob.jpeg](rosalina_d3ep8hoxkaadyob.jpeg "rosalina_d3ep8hoxkaadyob.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_d3ep8hoxkaadyob.jpeg)
 
 [![rosalina_peakpx_(1)_(1).jpg](rosalina_peakpx_(1)_(1).jpg "rosalina_peakpx_(1)_(1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_peakpx_(1)_(1).jpg)

@@ -57,6 +57,8 @@
 
 [![c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg](c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg "c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg)
 
+[![c6993166cd99d266_the-relaxing-time_1563221945.jpg](c6993166cd99d266_the-relaxing-time_1563221945.jpg "c6993166cd99d266_the-relaxing-time_1563221945.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c6993166cd99d266_the-relaxing-time_1563221945.jpg)
+
 [![c8bf24d99135e41e_Gece.jpg](c8bf24d99135e41e_Gece.jpg "c8bf24d99135e41e_Gece.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8bf24d99135e41e_Gece.jpg)
 
 [![c919998b3393c676_bici.jpg](c919998b3393c676_bici.jpg "c919998b3393c676_bici.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c919998b3393c676_bici.jpg)
@@ -71,6 +73,8 @@
 
 [![Cecf63303eb13813 Fantasy Deer by Martina Stipan](cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg "Cecf63303eb13813 Fantasy Deer by Martina Stipan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg)\
 Cecf63303eb13813 Fantasy Deer by Martina Stipan
+
+[![cf88394d72384c6f_bye.jpg](cf88394d72384c6f_bye.jpg "cf88394d72384c6f_bye.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cf88394d72384c6f_bye.jpg)
 
 [![d0d80f65f9da0c27_mountains.png](d0d80f65f9da0c27_mountains.png "d0d80f65f9da0c27_mountains.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d0d80f65f9da0c27_mountains.png)
 

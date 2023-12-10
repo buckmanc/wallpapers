@@ -18,6 +18,8 @@
 
 [![b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg](b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg "b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/b992b419b8bd4a3c_8d7603c7d7d613b22d792beb743bec5b.jpeg)
 
+[![c1ee4a137ea53e90_pxfuel (22).jpg](c1ee4a137ea53e90_pxfuel%20(22).jpg "c1ee4a137ea53e90_pxfuel (22).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/c1ee4a137ea53e90_pxfuel%20(22).jpg)
+
 [![c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg](c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg "c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/c338214dfd1a33e6_058d30394bb54b92f46beed212779e91.jpeg)
 
 [![cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg](cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg "cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/cfce6870db83d046_b85602b71e36f4e8fe904e1ac117f0b3.jpeg)
