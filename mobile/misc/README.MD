@@ -12,6 +12,8 @@
 
 [![8dcd7272cd8d2c32_pxfuel (34).jpg](8dcd7272cd8d2c32_pxfuel%20(34).jpg "8dcd7272cd8d2c32_pxfuel (34).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8dcd7272cd8d2c32_pxfuel%20(34).jpg)
 
+[![919566664fd91972_abd2a265ac3a5355d5ab0757eb0fd060.jpg](919566664fd91972_abd2a265ac3a5355d5ab0757eb0fd060.jpg "919566664fd91972_abd2a265ac3a5355d5ab0757eb0fd060.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/919566664fd91972_abd2a265ac3a5355d5ab0757eb0fd060.jpg)
+
 [![932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg](932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg "932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg)
 
 [![95ea4b94e46b3493_Dark Forest.jpg](95ea4b94e46b3493_Dark%20Forest.jpg "95ea4b94e46b3493_Dark Forest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg)
@@ -24,6 +26,8 @@
 
 [![9c4b33c7cc28766c_Pagan 01.jpg](9c4b33c7cc28766c_Pagan%2001.jpg "9c4b33c7cc28766c_Pagan 01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9c4b33c7cc28766c_Pagan%2001.jpg)
 
+[![9d8472db4d6c7321_a6c537240a4a49effec422a9a6cd435a.jpg](9d8472db4d6c7321_a6c537240a4a49effec422a9a6cd435a.jpg "9d8472db4d6c7321_a6c537240a4a49effec422a9a6cd435a.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9d8472db4d6c7321_a6c537240a4a49effec422a9a6cd435a.jpg)
+
 [![9fd8602587ea383d_Magic Sunset.jpg](9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
 
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
@@ -31,9 +35,14 @@
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)\
 C0e01f97e078c3e7 The Moon by Ari Ibarra
 
+[![C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit](c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg "C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg)\
+C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit
+
 [![c63f39c06e3ad065_pxfuel (58).jpg](c63f39c06e3ad065_pxfuel%20(58).jpg "c63f39c06e3ad065_pxfuel (58).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c63f39c06e3ad065_pxfuel%20(58).jpg)
 
 [![c6e0383f96384dc7_Luna.jpg](c6e0383f96384dc7_Luna.jpg "c6e0383f96384dc7_Luna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c6e0383f96384dc7_Luna.jpg)
+
+[![c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg](c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg "c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg)
 
 [![ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg](ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg "ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg)
 
