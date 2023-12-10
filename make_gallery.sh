@@ -14,6 +14,7 @@ path_root="." # TODO make this the script dir
 raw_root="https://raw.githubusercontent.com/buckmanc/Wallpapers/main"
 
 thumbnailMD="${path_root}/.internals/thumbnails.md"
+tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
@@ -24,6 +25,7 @@ mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
 rm "$thumbnailMD" > /dev/null 2>&1 || true
+rm "$tocMD" > /dev/null 2>&1 || true
 rm "$fileListFile" > /dev/null 2>&1 || true
 
 
@@ -47,7 +49,7 @@ imgFiles="$(GetImageFiles)"
 # if perceptual hashing is available, append the hash to the start of the file for applicable categories
 if type pyphash >/dev/null 2>&1
 then
-	echo "checking for missing perceptual hash sort data"
+	echo -n "checking for missing perceptual hash sort data..."
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
@@ -61,10 +63,9 @@ then
 
 	done
 
-	echo "updating image paths..."
 	imgFiles="$(GetImageFiles)"
 
-	echo "done with perceptual hash check"
+	echo "done!"
 fi
 
 
@@ -77,7 +78,7 @@ totalImages=$(echo "$imgFiles" | wc -l)
 echo "$imgFiles" | while read -r src; do
 	((i++)) || true
 	filename="$(basename "$src")"
-	printf '%4d/%d: %s... ' "$i" "$totalImages" "$filename"
+	printf '\033[2K%4d/%d: %s...' "$i" "$totalImages" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 	dirReadmePath="$(dirname "$src")/README.MD"
 
@@ -135,10 +136,12 @@ echo "$imgFiles" | while read -r src; do
 
 		# resize images, then crop to the desired resolution
 		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
-		echo "converted!"
+		# echo "converted!"
+		echo ""
 	else
 		mv "$thumbnail_old" "$target"
-		echo "skipped!"
+		# echo "skipped!"
+		echo -en "\r"
 	fi
 
 	src_escaped="${src// /%20}"
@@ -164,19 +167,35 @@ echo "$imgFiles" | while read -r src; do
 
 	folderPathReggie="$(quoteRe "${folderPath}/")"
 	parentFolderPathReggie="$(quoteRe "${parentFolderPath}/")"
-	parentFolderHeader="# $parentFolderName - $(echo "$imgFiles" | grep -iPc "$parentFolderPathReggie")"
-	folderHeader="## [$folderName]($dirReadme_url) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
+
+	folderCount="$(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
+	parentFolderCount="$(echo "$imgFiles" | grep -iPc "$parentFolderPathReggie")"
+
+	# specifying a custom ID failed locally
+	# generating a copy of the auto header id by using the visible text and replacing spaces
+	folderAutoHeaderID="$(echo "$folderName - $folderCount" | sed 's/ /-/g')"
+	parentFolderAutoHeaderID="$(echo "$parentFolderName - $parentFolderCount" | sed 's/ /-/g')"
+
+	parentFolderHeader="# $parentFolderName - $parentFolderCount"
+
+	folderHeader="## [$folderName]($dirReadme_url) - $folderCount"
+	parentFolderToc="$parentFolderName - $parentFolderCount" # linking here isn't working, probably because it ends up in an HTML tag
+	# plus how would you expand the section?
+	folderToc="[$folderName](#$folderAutoHeaderID) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
 
 	# echo "${thumbnailMD}"
 	# echo  "^$(quoteRe "${parentFolderHeader}")$"
 
-	if ! grep -qP "^$(quoteRe "${parentFolderHeader}")$" "$thumbnailMD"
+	if ! grep --no-messages -qP "^$(quoteRe "${parentFolderHeader}")$" "$thumbnailMD"
  	then
 		echo "${parentFolderHeader}" >> "$thumbnailMD"
+		echo "</details><details><summary>${parentFolderToc}</summary>" >> "$tocMD"
 	fi
 	if ! grep -qP "^$(quoteRe "${folderHeader}")\$" "$thumbnailMD"
 	then
-	    echo "${folderHeader}" >> "$thumbnailMD"
+		echo "${folderHeader}" >> "$thumbnailMD"
+		echo "" >> "$tocMD"
+		echo "- ${folderToc}" >> "$tocMD"
 	fi
 
 	echo    "$src" >> "$fileListFile"
@@ -194,19 +213,24 @@ echo "$imgFiles" | while read -r src; do
 	echo >> "$dirReadmePath"
 done
 
+echo ""
+
 thumbnailText="$(cat "$thumbnailMD")"
+tocText="$(cat "$tocMD" | perl -00pe 's/^<\/details>//g')</details>"
 readmeTemplate="$(cat "$readmeTemplatePath")"
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
+readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
 readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
 echo "$readmeTemplate" > README.MD
 
 rm "$thumbnailMD"
+rm "$tocMD"
 rm -rf "$thumbnails_old_dir"
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
 then
-	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md')
+	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
 	total=$(echo "$mdFiles" | wc -l)
@@ -215,10 +239,11 @@ then
 	do
 		((i++)) || true
 		descname="$(basename "$(dirname "$src")")/$(basename "$src")"
-		printf '%4d/%d: %s... ' "$i" "$total" "$descname"
-			metaTitle="${src%.*}"
+		printf '\033[2K%4d/%d: %s...' "$i" "$total" "$descname" | cut -c "-$COLUMNS" | tr -d $'\n'
+		metaTitle="${src%.*}"
 		metaTitle="${metaTitle#"$path_root"}"
 		metaTitle="${metaTitle#/}"
+		metaTitle="$(echo "$metaTitle" | sed 's|/README$||g')"
 
 		if [ "${src,,}" = "${path_root,,}/readme.md" ]
 		then
@@ -231,7 +256,7 @@ then
 		fi
 		
 
-		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
+		htmlText=$(pandoc --from=gfm+auto_identifiers --to=html --standalone --metadata title="$metaTitle" "$src")
 		htmlText="${htmlText//.md/.html}"
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"
@@ -258,20 +283,20 @@ then
 				renamePrefil="${renamePrefil%.*}"
 				if [ -f "${path_root}${href}" ]
 				then
-					resolution=$(identify -ping -format '%wx%h' "${path_root}${href}")
+					resolution=$(identify -ping -format '%wx%h' "${path_root}${href}" 2>&1)
 				else
 					resolution="???"
 
 				fi
 				
 				modText="
-				<form action=\"/cgi-bin/move\" target=\"dummyframe\">
+				<form action=\"/cgi-bin/move\" target=\"dummyframe\" style='width:400px'>
 				<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
 				<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
 				<label>${resolution}</label>
 				<br>
 				<label for=\"destname\">new file name:</label>
-				<input type=\"text\" id=\"destname\" name=\"destname\" value=\"$renamePrefil\"><br>
+				<input type=\"text\" id=\"destname\" name=\"destname\" style='width:100%' value=\"$renamePrefil\"><br>
 				<input type=\"submit\" value=\"Rename\">
 				</form>
 				<br>
@@ -285,9 +310,16 @@ then
 
 		done
 
+		# make sure images don't blow out the page
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
+		# remove that double header from the main readme
+		perl -i -00pe 's|<header.+?>Wallpapers<.+?</header>||gs' "$htmlPath"
 
-		echo "done!"
+		echo -en "\r"
 
 	done
 fi
+
+echo ""
+
+echo "done at $(date)"

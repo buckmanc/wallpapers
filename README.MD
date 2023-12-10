@@ -32,6 +32,73 @@ Homescreen / desktop wallpapers underly icons, windows, and active tasks (read: 
 Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](https://github.com/makccr/wallpapers), and [dharmx](https://github.com/dharmx/walls) for excellent examples of wallpaper repos, all the artists of various kinds for their work, and you as Mega Man X!
 
 ---
+
+# Table of Contents
+
+<details><summary>desktop - 335</summary>
+
+- [castlevania](#castlevania---5) - 5
+
+- [forests](#forests---113) - 113
+
+- [misc](#misc---41) - 41
+
+- [mistborn](#mistborn---4) - 4
+
+- [skyrim art](#skyrim-art---5) - 5
+
+- [space](#space---94) - 94
+
+- [stormlight](#stormlight---5) - 5
+
+- [synthwave](#synthwave---26) - 26
+
+- [tmnt](#tmnt---15) - 15
+
+- [tomb raider 2013](#tomb-raider-2013---11) - 11
+
+- [vector vistas](#vector-vistas---7) - 7
+
+- [villages](#villages---5) - 5
+
+- [yumi and the nightmare painter](#yumi-and-the-nightmare-painter---4) - 4
+</details><details><summary>floaters - 241</summary>
+
+- [steven rhodes](#steven-rhodes---188) - 188
+
+- [teeturtle](#teeturtle---53) - 53
+</details><details><summary>mobile - 647</summary>
+
+- [castlevania](#castlevania---98) - 98
+
+- [dan mumford](#dan-mumford---43) - 43
+
+- [frog](#frog---10) - 10
+
+- [leaves](#leaves---16) - 16
+
+- [mario](#mario---20) - 20
+
+- [mega man](#mega-man---213) - 213
+
+- [misc](#misc---30) - 30
+
+- [misc cosmere](#misc-cosmere---7) - 7
+
+- [mistborn](#mistborn---34) - 34
+
+- [nintendo](#nintendo---14) - 14
+
+- [stormlight](#stormlight---58) - 58
+
+- [the legend of zelda](#the-legend-of-zelda---22) - 22
+
+- [tmnt](#tmnt---71) - 71
+
+- [yumi and the nightmare painter](#yumi-and-the-nightmare-painter---11) - 11</details>
+
+---
+
 # desktop - 335
 ## [castlevania](desktop/castlevania/README.MD) - 5
 [![castlevania_lords_of_shadows.jpg](.internals/thumbnails/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg)
