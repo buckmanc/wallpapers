@@ -297,7 +297,7 @@
 ./desktop/the legend of zelda/pxfuel (11).jpg
 ./desktop/the legend of zelda/pxfuel (36).jpg
 ./desktop/the legend of zelda/pxfuel (7).jpg
-./desktop/the legend of zelda/the_legend_of_zelda___camping_in_the_wild_by_atarts_db72g3j.jpg
+./desktop/the legend of zelda/the_legend_of_zelda-camping_in_the_wild_by_atarts_db72g3j.jpg
 ./desktop/tmnt/1337531.png
 ./desktop/tmnt/222365.jpg
 ./desktop/tmnt/361249.jpg
@@ -989,7 +989,7 @@
 ./mobile/mega man/triple_attack_by_ultimatemaverickx.png
 ./mobile/mega man/variable_x_by_ultimatemaverickx.jpg
 ./mobile/mega man/vile_by_ultimatemaverickx.png
-./mobile/mega man/zero_and_dr_wily_mega_man_and_2_more_drawn_by_hoshi_mikan_aecbc1b1fe039a0dadd9d254e6d0ef4c.png
+./mobile/mega man/zero_and_dr_wily_mega_man_by_hoshi_mikan.png
 ./mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg
 ./mobile/misc/840bcc9d3bb47965_nature (1).jpg
 ./mobile/misc/84394ed7798e99c4_pxfuel (25).jpg
@@ -1147,20 +1147,20 @@
 ./mobile/the legend of zelda/b82349c170605738a208ba0d7264e844.jpg
 ./mobile/the legend of zelda/bg-as-above-so-below-2-by-brady-goldsmith.jpg
 ./mobile/the legend of zelda/bg-as-above-so-below-by-brady-goldsmith.jpg
-./mobile/the legend of zelda/bg_deku_tree_01_test_thy_courage_version_2_by_bradygoldsmith_d9y02hu-fullview.jpg
-./mobile/the legend of zelda/bg_deku_tree_02_do_not_grieve_for_me_by_bradygoldsmith_d9qxht0-fullview.jpg
+./mobile/the legend of zelda/bg_deku_tree_01_test_thy_courage_version_2_by_brady_goldsmith.jpg
+./mobile/the legend of zelda/bg_deku_tree_02_do_not_grieve_for_me_by_brady_goldsmith.jpg
 ./mobile/the legend of zelda/bg-i-ll-wait-for-you-here-by-brady-goldsmith.jpg
 ./mobile/the legend of zelda/bg-i-will-draw-you-into-the-dark-world-by-brady-goldsmith.jpg
-./mobile/the legend of zelda/bg_lead_the_way___variant_by_bradygoldsmith_daf96h6-fullview.jpg
-./mobile/the legend of zelda/bg_light_the_way_by_bradygoldsmith_d9otihd-fullview.jpg
+./mobile/the legend of zelda/bg_lead_the_way-variant_by_brady_goldsmith.jpg
+./mobile/the legend of zelda/bg_light_the_way_by_brady_goldsmith.jpg
 ./mobile/the legend of zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg
 ./mobile/the legend of zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg
 ./mobile/the legend of zelda/BotW_Calamity_Ganon_Artwork.png
 ./mobile/the legend of zelda/c6b49d709042f09ef7155ca57bc2b332.jpg
 ./mobile/the legend of zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg
-./mobile/the legend of zelda/ganondorf__wake_up_by_dasgnomo_dd93j1w.jpg
+./mobile/the legend of zelda/ganondorf-wake_up_by_dasgnomo.jpg
 ./mobile/the legend of zelda/Ganon_sm.png
-./mobile/the legend of zelda/goddess_statue__hylia_by_lezulla_deeooxb-fullview.jpg
+./mobile/the legend of zelda/goddess_statue-hylia_by_lezulla.jpg
 ./mobile/the legend of zelda/HW_Ganondorf_Render.png
 ./mobile/the legend of zelda/ian-singh-legend-of-zelda-v2.jpg
 ./mobile/the legend of zelda/it_s_dangerous_to_go_alone_by_colin_morella.jpg
@@ -1236,8 +1236,8 @@
 ./mobile/the legend of zelda/tumblr_3938ad287ddbeefd27e37a1afb900cc5_5f3fe96d_1280.jpg
 ./mobile/the legend of zelda/tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg
 ./mobile/the legend of zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png
-./mobile/the legend of zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg
-./mobile/the legend of zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg
+./mobile/the legend of zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg
+./mobile/the legend of zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg
 ./mobile/the legend of zelda/zz_triforce_2677727167.jpg
 ./mobile/the legend of zelda/zz_triforce_fytwibawj6031.jpg
 ./mobile/the legend of zelda/zz_triforce_nxe_triforce.jpg
@@ -1291,8 +1291,8 @@
 ./mobile/tmnt/e43c9b591c989ba43e76879fa74a173a.jpg
 ./mobile/tmnt/hpMZhrJEmgF4yhRX7Xzeih.jpg
 ./mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg
-./mobile/tmnt/leonardo___tmnt___by_tiagomontoia_d81by4k.png
-./mobile/tmnt/leo_vs__bebop_by_nimeshmorarji_dbwl7aw.png
+./mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png
+./mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png
 ./mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg
 ./mobile/tmnt/pxfuel (16).jpg
 ./mobile/tmnt/pxfuel (17).jpg
@@ -1309,12 +1309,12 @@
 ./mobile/tmnt/tiny_turtles_02.jpg
 ./mobile/tmnt/tmnt_47_variant_cover_by_claudia_sg_d8zly3x.jpg
 ./mobile/tmnt/TMNT_88-RI_cover_by_luleiya_on_DeviantArt.jpg
-./mobile/tmnt/tmnt_by_fpeniche_d789bg7-fullview.jpg
+./mobile/tmnt/tmnt_by_fpeniche.jpg
 ./mobile/tmnt/tmnt_four_panel_01_leonardo.png
 ./mobile/tmnt/tmnt_four_panel_02_donatello.png
 ./mobile/tmnt/tmnt_four_panel_03_raphael.png
 ./mobile/tmnt/tmnt_four_panel_04_michelangelo.png
-./mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg
+./mobile/tmnt/tmnt_leonardo-colors-by_le0arts_da7hjun.jpg
 ./mobile/tmnt/zz_set_02_04_michelangelo.jpg
 ./mobile/tmnt/zz_set_02_99_shredder.jpg
 ./mobile/yumi and the nightmare painter/Backlit_by_Wonder_by_Aliya_Chen.jpg

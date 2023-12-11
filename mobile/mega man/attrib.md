@@ -29,9 +29,9 @@ light_s_armor_by_ultimatemaverickx.png Light S Armor by Ultimatemaverickx
 mega_man_2_by_dan_mumford.jpg Mega Man 2 by Dan Mumford
 mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 mega_man_x2_by_ultimatemaverickx.png Mega Man X2 by Ultimatemaverickx
+megaman_x2_raider_killer_by_innovator123.png Megaman X2 Raider Killer by Innovator123
 mega_man_x_by_dan_mumford.jpg Mega Man X by Dan Mumford
 mega_man_x_by_ultimatemaverickx.png Mega Man X by Ultimatemaverickx
-megaman_x2_raider_killer_by_innovator123.png Megaman X2 Raider Killer by Innovator123
 megaman_x_legacy_wallpaper_2_b_by_falconburst322.jpg Megaman X Legacy Wallpaper 2 B by Falconburst322
 megaman_x_legacy_wallpaper_3_by_falconburst322.jpg Megaman X Legacy Wallpaper 3 by Falconburst322
 megaman_x_wallpaper_2_a_by_falconburst322.jpg Megaman X Wallpaper 2 A by Falconburst322
@@ -48,4 +48,4 @@ transformation_by_ultimatemaverickx.png Transformation by Ultimatemaverickx
 triple_attack_by_ultimatemaverickx.png Triple Attack by Ultimatemaverickx
 variable_x_by_ultimatemaverickx.jpg Variable X by Ultimatemaverickx
 vile_by_ultimatemaverickx.png Vile by Ultimatemaverickx
-zero_and_dr_wily_mega_man_and_2_more_drawn_by_hoshi_mikan_aecbc1b1fe039a0dadd9d254e6d0ef4c.png Zero and Dr Wily Mega Man and 2 More Drawn by Hoshi Mikan Aecbc1b1fe039a0dadd9d254e6d0ef4c
+zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan

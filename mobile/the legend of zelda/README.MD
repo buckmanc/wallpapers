@@ -25,11 +25,11 @@ Bg As Above So Below 2 by Brady Goldsmith
 [![Bg As Above So Below by Brady Goldsmith](bg-as-above-so-below-by-brady-goldsmith.jpg "Bg As Above So Below by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg-as-above-so-below-by-brady-goldsmith.jpg)\
 Bg As Above So Below by Brady Goldsmith
 
-[![Bg Deku Tree 01 Test Thy Courage Version 2 by Bradygoldsmith D9y02hu Fullview](bg_deku_tree_01_test_thy_courage_version_2_by_bradygoldsmith_d9y02hu-fullview.jpg "Bg Deku Tree 01 Test Thy Courage Version 2 by Bradygoldsmith D9y02hu Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_deku_tree_01_test_thy_courage_version_2_by_bradygoldsmith_d9y02hu-fullview.jpg)\
-Bg Deku Tree 01 Test Thy Courage Version 2 by Bradygoldsmith D9y02hu Fullview
+[![Bg Deku Tree 01 Test Thy Courage Version 2 by Brady Goldsmith](bg_deku_tree_01_test_thy_courage_version_2_by_brady_goldsmith.jpg "Bg Deku Tree 01 Test Thy Courage Version 2 by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_deku_tree_01_test_thy_courage_version_2_by_brady_goldsmith.jpg)\
+Bg Deku Tree 01 Test Thy Courage Version 2 by Brady Goldsmith
 
-[![Bg Deku Tree 02 Do Not Grieve For Me by Bradygoldsmith D9qxht0 Fullview](bg_deku_tree_02_do_not_grieve_for_me_by_bradygoldsmith_d9qxht0-fullview.jpg "Bg Deku Tree 02 Do Not Grieve For Me by Bradygoldsmith D9qxht0 Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_deku_tree_02_do_not_grieve_for_me_by_bradygoldsmith_d9qxht0-fullview.jpg)\
-Bg Deku Tree 02 Do Not Grieve For Me by Bradygoldsmith D9qxht0 Fullview
+[![Bg Deku Tree 02 Do Not Grieve For Me by Brady Goldsmith](bg_deku_tree_02_do_not_grieve_for_me_by_brady_goldsmith.jpg "Bg Deku Tree 02 Do Not Grieve For Me by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_deku_tree_02_do_not_grieve_for_me_by_brady_goldsmith.jpg)\
+Bg Deku Tree 02 Do Not Grieve For Me by Brady Goldsmith
 
 [![Bg I Ll Wait For You Here by Brady Goldsmith](bg-i-ll-wait-for-you-here-by-brady-goldsmith.jpg "Bg I Ll Wait For You Here by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg-i-ll-wait-for-you-here-by-brady-goldsmith.jpg)\
 Bg I Ll Wait For You Here by Brady Goldsmith
@@ -37,11 +37,11 @@ Bg I Ll Wait For You Here by Brady Goldsmith
 [![Bg I Will Draw You Into The Dark World by Brady Goldsmith](bg-i-will-draw-you-into-the-dark-world-by-brady-goldsmith.jpg "Bg I Will Draw You Into The Dark World by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg-i-will-draw-you-into-the-dark-world-by-brady-goldsmith.jpg)\
 Bg I Will Draw You Into The Dark World by Brady Goldsmith
 
-[![Bg Lead The Way   Variant by Bradygoldsmith Daf96h6 Fullview](bg_lead_the_way___variant_by_bradygoldsmith_daf96h6-fullview.jpg "Bg Lead The Way   Variant by Bradygoldsmith Daf96h6 Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_lead_the_way___variant_by_bradygoldsmith_daf96h6-fullview.jpg)\
-Bg Lead The Way   Variant by Bradygoldsmith Daf96h6 Fullview
+[![Bg Lead The Way Variant by Brady Goldsmith](bg_lead_the_way-variant_by_brady_goldsmith.jpg "Bg Lead The Way Variant by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_lead_the_way-variant_by_brady_goldsmith.jpg)\
+Bg Lead The Way Variant by Brady Goldsmith
 
-[![Bg Light The Way by Bradygoldsmith D9otihd Fullview](bg_light_the_way_by_bradygoldsmith_d9otihd-fullview.jpg "Bg Light The Way by Bradygoldsmith D9otihd Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_bradygoldsmith_d9otihd-fullview.jpg)\
-Bg Light The Way by Bradygoldsmith D9otihd Fullview
+[![Bg Light The Way by Brady Goldsmith](bg_light_the_way_by_brady_goldsmith.jpg "Bg Light The Way by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_brady_goldsmith.jpg)\
+Bg Light The Way by Brady Goldsmith
 
 [![Bg Minuet Of Forest Dark by Brady Goldsmith](bg-minuet-of-forest-dark-by-brady-goldsmith.jpg "Bg Minuet Of Forest Dark by Brady Goldsmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg)\
 Bg Minuet Of Forest Dark by Brady Goldsmith
@@ -55,13 +55,13 @@ Bg Mothula Fire Rod by Brady Goldsmith
 
 [![desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg](desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg "desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg)
 
-[![Ganondorf  Wake Up by Dasgnomo Dd93j1w](ganondorf__wake_up_by_dasgnomo_dd93j1w.jpg "Ganondorf  Wake Up by Dasgnomo Dd93j1w")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/ganondorf__wake_up_by_dasgnomo_dd93j1w.jpg)\
-Ganondorf  Wake Up by Dasgnomo Dd93j1w
+[![Ganondorf Wake Up by Dasgnomo](ganondorf-wake_up_by_dasgnomo.jpg "Ganondorf Wake Up by Dasgnomo")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/ganondorf-wake_up_by_dasgnomo.jpg)\
+Ganondorf Wake Up by Dasgnomo
 
 [![Ganon_sm.png](Ganon_sm.png "Ganon_sm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Ganon_sm.png)
 
-[![Goddess Statue  Hylia by Lezulla Deeooxb Fullview](goddess_statue__hylia_by_lezulla_deeooxb-fullview.jpg "Goddess Statue  Hylia by Lezulla Deeooxb Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/goddess_statue__hylia_by_lezulla_deeooxb-fullview.jpg)\
-Goddess Statue  Hylia by Lezulla Deeooxb Fullview
+[![Goddess Statue Hylia by Lezulla](goddess_statue-hylia_by_lezulla.jpg "Goddess Statue Hylia by Lezulla")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/goddess_statue-hylia_by_lezulla.jpg)\
+Goddess Statue Hylia by Lezulla
 
 [![HW_Ganondorf_Render.png](HW_Ganondorf_Render.png "HW_Ganondorf_Render.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/HW_Ganondorf_Render.png)
 
@@ -239,9 +239,9 @@ Tg Oot Young Link Sacred Meadow by Tom Garden
 
 [![tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png](tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png "tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png)
 
-[![Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg](Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg "Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.2839737.jpg)
+[![Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg](Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg "Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg)
 
-[![Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg](Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg "Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu_.Breath.of.the.Wild.full.3129913.jpg)
+[![Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg](Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg "Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg)
 
 [![zz_triforce_2677727167.jpg](zz_triforce_2677727167.jpg "zz_triforce_2677727167.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_2677727167.jpg)
 

@@ -90,11 +90,11 @@
 
 [![kael-ngu-20190715-bigtimecollectables-tmnt.jpg](kael-ngu-20190715-bigtimecollectables-tmnt.jpg "kael-ngu-20190715-bigtimecollectables-tmnt.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg)
 
-[![Leonardo   Tmnt   by Tiagomontoia D81by4k](leonardo___tmnt___by_tiagomontoia_d81by4k.png "Leonardo   Tmnt   by Tiagomontoia D81by4k")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/leonardo___tmnt___by_tiagomontoia_d81by4k.png)\
-Leonardo   Tmnt   by Tiagomontoia D81by4k
+[![Leonardo Tmnt by Tiagomontoia D81by4k](leonardo-tmnt-by_tiagomontoia_d81by4k.png "Leonardo Tmnt by Tiagomontoia D81by4k")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png)\
+Leonardo Tmnt by Tiagomontoia D81by4k
 
-[![Leo Vs  Bebop by Nimeshmorarji Dbwl7aw](leo_vs__bebop_by_nimeshmorarji_dbwl7aw.png "Leo Vs  Bebop by Nimeshmorarji Dbwl7aw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/leo_vs__bebop_by_nimeshmorarji_dbwl7aw.png)\
-Leo Vs  Bebop by Nimeshmorarji Dbwl7aw
+[![Leo Vs Bebop by Nimeshmorarji Dbwl7aw](leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png "Leo Vs Bebop by Nimeshmorarji Dbwl7aw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png)\
+Leo Vs Bebop by Nimeshmorarji Dbwl7aw
 
 [![Pensive Michelangelo by Mooncalfe600 828](pensive_michelangelo_by_mooncalfe600_828.jpg "Pensive Michelangelo by Mooncalfe600 828")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg)\
 Pensive Michelangelo by Mooncalfe600 828
@@ -131,8 +131,8 @@ Tmnt 47 Variant Cover by Claudia Sg D8zly3x
 [![TMNT 88 RI Cover by Luleiya On DeviantArt](TMNT_88-RI_cover_by_luleiya_on_DeviantArt.jpg "TMNT 88 RI Cover by Luleiya On DeviantArt")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/TMNT_88-RI_cover_by_luleiya_on_DeviantArt.jpg)\
 TMNT 88 RI Cover by Luleiya On DeviantArt
 
-[![Tmnt by Fpeniche D789bg7 Fullview](tmnt_by_fpeniche_d789bg7-fullview.jpg "Tmnt by Fpeniche D789bg7 Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_by_fpeniche_d789bg7-fullview.jpg)\
-Tmnt by Fpeniche D789bg7 Fullview
+[![Tmnt by Fpeniche](tmnt_by_fpeniche.jpg "Tmnt by Fpeniche")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_by_fpeniche.jpg)\
+Tmnt by Fpeniche
 
 [![tmnt_four_panel_01_leonardo.png](tmnt_four_panel_01_leonardo.png "tmnt_four_panel_01_leonardo.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_four_panel_01_leonardo.png)
 
@@ -142,8 +142,8 @@ Tmnt by Fpeniche D789bg7 Fullview
 
 [![tmnt_four_panel_04_michelangelo.png](tmnt_four_panel_04_michelangelo.png "tmnt_four_panel_04_michelangelo.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_four_panel_04_michelangelo.png)
 
-[![Tmnt Leonardo  Colors  by Le0arts Da7hjun](tmnt_leonardo__colors__by_le0arts_da7hjun.jpg "Tmnt Leonardo  Colors  by Le0arts Da7hjun")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_leonardo__colors__by_le0arts_da7hjun.jpg)\
-Tmnt Leonardo  Colors  by Le0arts Da7hjun
+[![Tmnt Leonardo Colors by Le0arts Da7hjun](tmnt_leonardo-colors-by_le0arts_da7hjun.jpg "Tmnt Leonardo Colors by Le0arts Da7hjun")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_leonardo-colors-by_le0arts_da7hjun.jpg)\
+Tmnt Leonardo Colors by Le0arts Da7hjun
 
 [![zz_set_02_04_michelangelo.jpg](zz_set_02_04_michelangelo.jpg "zz_set_02_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_04_michelangelo.jpg)
 

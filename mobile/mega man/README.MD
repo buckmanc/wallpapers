@@ -472,6 +472,6 @@ Variable X by Ultimatemaverickx
 [![Vile by Ultimatemaverickx](vile_by_ultimatemaverickx.png "Vile by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/vile_by_ultimatemaverickx.png)\
 Vile by Ultimatemaverickx
 
-[![Zero and Dr Wily Mega Man and 2 More Drawn by Hoshi Mikan Aecbc1b1fe039a0dadd9d254e6d0ef4c](zero_and_dr_wily_mega_man_and_2_more_drawn_by_hoshi_mikan_aecbc1b1fe039a0dadd9d254e6d0ef4c.png "Zero and Dr Wily Mega Man and 2 More Drawn by Hoshi Mikan Aecbc1b1fe039a0dadd9d254e6d0ef4c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/zero_and_dr_wily_mega_man_and_2_more_drawn_by_hoshi_mikan_aecbc1b1fe039a0dadd9d254e6d0ef4c.png)\
-Zero and Dr Wily Mega Man and 2 More Drawn by Hoshi Mikan Aecbc1b1fe039a0dadd9d254e6d0ef4c
+[![Zero and Dr Wily Mega Man by Hoshi Mikan](zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)\
+Zero and Dr Wily Mega Man by Hoshi Mikan
 
