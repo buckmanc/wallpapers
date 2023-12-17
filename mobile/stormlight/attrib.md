@@ -12,6 +12,7 @@
 02_navani_the_mother_of_machines_by_zireael.jpg Navani The Mother Of Machines by Zireael
 abandoning_the_oathpact_by_micah_epstein.jpg Abandoning The Oathpact by Micah Epstein
 chasm_fiend_hunt_by_randy_vargas.jpg Chasm Fiend Hunt by Randy Vargas
+Design_with_Hoid_statue_by_Botanicaxu.jpg Design With Hoid Statue by Botanicaxu
 eshonai_by_antti_hakosaari.jpg Eshonai by Antti Hakosaari
 jasnah_by_mycks_art_studio.jpg Jasnah by Mycks Art Studio
 jasnah_kholin_by_jessi_chen_liu.jpg Jasnah Kholin by Jessi Chen Liu
@@ -31,6 +32,7 @@ kal_and_syl_by_ina_wong.jpg [Kal and Syl](https://www.deviantart.com/inawong/art
 kal_and_szeth_by_jessi_chen_liu.png Kal and Szeth by Jessi Chen Liu
 knights_radiant_by_antti_hakosaari.jpg Knights Radiant by Antti Hakosaari
 lyn_by_jessi_chen_liu.jpg Lyn by Jessi Chen Liu
+Midnight_Mother_by_Petar_Penev.jpg Midnight Mother by Petar Penev
 nale_herald_of_justice_by_petar_penev.jpg Herald of Justice by Petar Penev
 nale_herald_of_justice_by_petar_penev.jpg Nale Herald Of Justice by Petar Penev
 oathgate_spren_by_ben_mcsweeny.jpg Oathgate Spren by Ben Mcsweeny
@@ -50,6 +52,7 @@ rysn_by_dominik_broniek.jpg Rysn by Dominik Broniek
 shallan_and_the_santhid_by_ashley_coad.png Shallan and The Santhid by Ashley Coad
 shallan_by_dominik_broniek.jpg Shallan by Dominik Broniek
 shallan_by_michael_whalen.png Shallan by Michael Whalen
+shallan_davar_by_lulybot_dffw49c.jpg Shallan Davar by Lulybot Dffw49c
 shallan_radiant_by_jemma_young.jpg Radiant by Jemma Young
 shallan_radiant_by_jemma_young.jpg Shallan Radiant by Jemma Young
 shallan_sailing_into_kharbranth_by_jessi_chen_liu.jpg Shallan Sailing Into Kharbranth by Jessi Chen Liu

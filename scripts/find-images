@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# echo "args received by find-images: $@" > $(tty)
+
+input="$1"
+if [ -z "$input" ] || [[ ! -d "$input" ]]
+then
+  input="."
+else
+  shift
+fi
+
+# stackoverflow.com/a/60559975/1995812
+find "$input" "$@" -type f |
+file --mime-type -f - |
+grep -F image/ |
+rev | cut -d : -f 2- | rev |
+sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7

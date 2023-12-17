@@ -4,6 +4,10 @@ Elantris by Peter Kovacs
 [![Shadows For Silence In The Forests Of Hell by Miranda Meeks](Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg "Shadows For Silence In The Forests Of Hell by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)\
 Shadows For Silence In The Forests Of Hell by Miranda Meeks
 
+[![SP4_wallpaper_vertical_back_recolored.jpg](SP4_wallpaper_vertical_back_recolored.jpg "SP4_wallpaper_vertical_back_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/SP4_wallpaper_vertical_back_recolored.jpg)
+
+[![SP4_wallpaper_vertical_v2_recolored.jpg](SP4_wallpaper_vertical_v2_recolored.jpg "SP4_wallpaper_vertical_v2_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/SP4_wallpaper_vertical_v2_recolored.jpg)
+
 [![Tress Death Of The Dream by Howard Lyon](tress_Death_of_the_Dream_by_Howard_Lyon.jpg "Tress Death Of The Dream by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20cosmere/tress_Death_of_the_Dream_by_Howard_Lyon.jpg)\
 Tress Death Of The Dream by Howard Lyon
 

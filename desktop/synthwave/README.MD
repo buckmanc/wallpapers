@@ -16,6 +16,8 @@
 
 [![peakpx (7).jpg](peakpx%20(7).jpg "peakpx (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/peakpx%20(7).jpg)
 
+[![pxfuel (20).jpg](pxfuel%20(20).jpg "pxfuel (20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20).jpg)
+
 [![RDT_20231106_004554839560427587957369.jpg](RDT_20231106_004554839560427587957369.jpg "RDT_20231106_004554839560427587957369.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/RDT_20231106_004554839560427587957369.jpg)
 
 [![retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg](retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg "retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg)

@@ -75,6 +75,8 @@
 
 [![00_armors_mmx_dive_rockman_x91_next_dive_armor_x.png](00_armors_mmx_dive_rockman_x91_next_dive_armor_x.png "00_armors_mmx_dive_rockman_x91_next_dive_armor_x.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_armors_mmx_dive_rockman_x91_next_dive_armor_x.png)
 
+[![00_armors_mmx_dive_rockman_x91.png](00_armors_mmx_dive_rockman_x91.png "00_armors_mmx_dive_rockman_x91.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_armors_mmx_dive_rockman_x91.png)
+
 [![00_armors_mmx_dive_rockman_x91_rathalos_armor_x.png](00_armors_mmx_dive_rockman_x91_rathalos_armor_x.png "00_armors_mmx_dive_rockman_x91_rathalos_armor_x.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_armors_mmx_dive_rockman_x91_rathalos_armor_x.png)
 
 [![00_armors_mmx_dive_rockman_x91_shagaru_armor_x.png](00_armors_mmx_dive_rockman_x91_shagaru_armor_x.png "00_armors_mmx_dive_rockman_x91_shagaru_armor_x.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_armors_mmx_dive_rockman_x91_shagaru_armor_x.png)
@@ -108,6 +110,8 @@
 [![00_mmx_dive_vile_rockman_x91_halloween_vile.png](00_mmx_dive_vile_rockman_x91_halloween_vile.png "00_mmx_dive_vile_rockman_x91_halloween_vile.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_mmx_dive_vile_rockman_x91_halloween_vile.png)
 
 [![00_mmx_dive_zero_awakened_zero.png](00_mmx_dive_zero_awakened_zero.png "00_mmx_dive_zero_awakened_zero.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_mmx_dive_zero_awakened_zero.png)
+
+[![00_mmx_dive_Zero_Black_Zero.png](00_mmx_dive_Zero_Black_Zero.png "00_mmx_dive_Zero_Black_Zero.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_mmx_dive_Zero_Black_Zero.png)
 
 [![00_mmx_dive_zero_dive_armor_zero.png](00_mmx_dive_zero_dive_armor_zero.png "00_mmx_dive_zero_dive_armor_zero.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/00_mmx_dive_zero_dive_armor_zero.png)
 
@@ -223,6 +227,10 @@
 
 [![20231207_144502.png](20231207_144502.png "20231207_144502.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/20231207_144502.png)
 
+[![20231210_214532.jpg](20231210_214532.jpg "20231210_214532.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/20231210_214532.jpg)
+
+[![20231210_215116_0000.png](20231210_215116_0000.png "20231210_215116_0000.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/20231210_215116_0000.png)
+
 [![20th Anniversary Rockmanx4 by Peeape](20th_anniversary_rockmanx4_by_peeape.png "20th Anniversary Rockmanx4 by Peeape")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/20th_anniversary_rockmanx4_by_peeape.png)\
 20th Anniversary Rockmanx4 by Peeape
 
@@ -292,6 +300,8 @@
 
 [![85054239_p0.jpg](85054239_p0.jpg "85054239_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/85054239_p0.jpg)
 
+[![850865-megaman-wallpaper.jpg](850865-megaman-wallpaper.jpg "850865-megaman-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/850865-megaman-wallpaper.jpg)
+
 [![85318763_p0.jpg](85318763_p0.jpg "85318763_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/85318763_p0.jpg)
 
 [![85862913_p0.jpg](85862913_p0.jpg "85862913_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/85862913_p0.jpg)
@@ -344,12 +354,8 @@ Art Noveau Zero by Grim Gate
 [![Best Partners by Ultimatemaverickx](best_partners_by_ultimatemaverickx.png "Best Partners by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/best_partners_by_ultimatemaverickx.png)\
 Best Partners by Ultimatemaverickx
 
-[![Black_Zero.png](Black_Zero.png "Black_Zero.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Black_Zero.png)
-
 [![Brothers by Ultimatemaverickx](brothers_by_ultimatemaverickx.jpg "Brothers by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/brothers_by_ultimatemaverickx.jpg)\
 Brothers by Ultimatemaverickx
-
-[![Card353_Large.png](Card353_Large.png "Card353_Large.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Card353_Large.png)
 
 [![chun_li_sonic_the_hedgehog_ryu_roll_amy_rose_and_55_more_street_fighter_and_25_more_fd608132e0d2752de1a0b03722f5dfed.jpg](chun_li_sonic_the_hedgehog_ryu_roll_amy_rose_and_55_more_street_fighter_and_25_more_fd608132e0d2752de1a0b03722f5dfed.jpg "chun_li_sonic_the_hedgehog_ryu_roll_amy_rose_and_55_more_street_fighter_and_25_more_fd608132e0d2752de1a0b03722f5dfed.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/chun_li_sonic_the_hedgehog_ryu_roll_amy_rose_and_55_more_street_fighter_and_25_more_fd608132e0d2752de1a0b03722f5dfed.jpg)
 
@@ -377,6 +383,8 @@ Dwn Infinity by Blopa Inf
 [![Falcon and Gaea by Ultimatemaverickx](falcon_and_gaea_by_ultimatemaverickx.png "Falcon and Gaea by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/falcon_and_gaea_by_ultimatemaverickx.png)\
 Falcon and Gaea by Ultimatemaverickx
 
+[![Free-Pictures-Megaman-Backgrounds.jpg](Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Free-Pictures-Megaman-Backgrounds.jpg)
+
 [![i28b40jljvw61.jpg](i28b40jljvw61.jpg "i28b40jljvw61.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/i28b40jljvw61.jpg)
 
 [![Light S Armor by Ultimatemaverickx](light_s_armor_by_ultimatemaverickx.png "Light S Armor by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/light_s_armor_by_ultimatemaverickx.png)\
@@ -384,6 +392,9 @@ Light S Armor by Ultimatemaverickx
 
 [![Mega Man 2 by Dan Mumford](mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mega_man_2_by_dan_mumford.jpg)\
 Mega Man 2 by Dan Mumford
+
+[![Mega Man Mega Man Drawn by Nakayama Tooru  07b3783041c215c2e5ac34839cdc27a6](mega_man_mega_man_drawn_by_nakayama_tooru__07b3783041c215c2e5ac34839cdc27a6.jpg "Mega Man Mega Man Drawn by Nakayama Tooru  07b3783041c215c2e5ac34839cdc27a6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mega_man_mega_man_drawn_by_nakayama_tooru__07b3783041c215c2e5ac34839cdc27a6.jpg)\
+Mega Man Mega Man Drawn by Nakayama Tooru  07b3783041c215c2e5ac34839cdc27a6
 
 [![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg)\
 Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
@@ -421,6 +432,10 @@ Mmx 1 8 The Collection Vinyl Ost Box Arts by Ultimatemaverickx
 
 [![Plasma Shot by Ultimatemaverickx](plasma_shot_by_ultimatemaverickx.jpg "Plasma Shot by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/plasma_shot_by_ultimatemaverickx.jpg)\
 Plasma Shot by Ultimatemaverickx
+
+[![pngwing.com (4).png](pngwing.com%20(4).png "pngwing.com (4).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/pngwing.com%20(4).png)
+
+[![pngwing.com (5).png](pngwing.com%20(5).png "pngwing.com (5).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/pngwing.com%20(5).png)
 
 [![Project X Dr Light S Final and Ultimate Creation by Ultimatemaverickx](project_x_dr_light_s_final_and_ultimate_creation_by_ultimatemaverickx.jpg "Project X Dr Light S Final and Ultimate Creation by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/project_x_dr_light_s_final_and_ultimate_creation_by_ultimatemaverickx.jpg)\
 Project X Dr Light S Final and Ultimate Creation by Ultimatemaverickx
@@ -471,6 +486,9 @@ Variable X by Ultimatemaverickx
 
 [![Vile by Ultimatemaverickx](vile_by_ultimatemaverickx.png "Vile by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/vile_by_ultimatemaverickx.png)\
 Vile by Ultimatemaverickx
+
+[![X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0](x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg "X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg)\
+X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0
 
 [![Zero and Dr Wily Mega Man by Hoshi Mikan](zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)\
 Zero and Dr Wily Mega Man by Hoshi Mikan

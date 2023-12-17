@@ -25,6 +25,9 @@ Abandoning The Oathpact by Micah Epstein
 [![Chasm Fiend Hunt by Randy Vargas](chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)\
 Chasm Fiend Hunt by Randy Vargas
 
+[![Design With Hoid Statue by Botanicaxu](Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/Design_with_Hoid_statue_by_Botanicaxu.jpg)\
+Design With Hoid Statue by Botanicaxu
+
 [![Eshonai by Antti Hakosaari](eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/eshonai_by_antti_hakosaari.jpg)\
 Eshonai by Antti Hakosaari
 
@@ -64,6 +67,9 @@ Knights Radiant by Antti Hakosaari
 [![Lyn by Jessi Chen Liu](lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/lyn_by_jessi_chen_liu.jpg)\
 Lyn by Jessi Chen Liu
 
+[![Midnight Mother by Petar Penev](Midnight_Mother_by_Petar_Penev.jpg "Midnight Mother by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/Midnight_Mother_by_Petar_Penev.jpg)\
+Midnight Mother by Petar Penev
+
 [![Nale Herald Of Justice by Petar Penev](nale_herald_of_justice_by_petar_penev.jpg "Nale Herald Of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/nale_herald_of_justice_by_petar_penev.jpg)\
 Nale Herald Of Justice by Petar Penev
 
@@ -99,6 +105,9 @@ Shallan by Dominik Broniek
 
 [![Shallan by Michael Whalen](shallan_by_michael_whalen.png "Shallan by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_by_michael_whalen.png)\
 Shallan by Michael Whalen
+
+[![Shallan Davar by Lulybot Dffw49c](shallan_davar_by_lulybot_dffw49c.jpg "Shallan Davar by Lulybot Dffw49c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_davar_by_lulybot_dffw49c.jpg)\
+Shallan Davar by Lulybot Dffw49c
 
 [![Shallan Radiant by Jemma Young](shallan_radiant_by_jemma_young.jpg "Shallan Radiant by Jemma Young")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_radiant_by_jemma_young.jpg)\
 Shallan Radiant by Jemma Young

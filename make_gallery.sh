@@ -28,16 +28,74 @@ rm "$thumbnailMD" > /dev/null 2>&1 || true
 rm "$tocMD" > /dev/null 2>&1 || true
 rm "$fileListFile" > /dev/null 2>&1 || true
 
+# TODO fix this up, support others
+if [[ -f "$HOME/bin/find-images" ]]
+then
+	cp "$HOME/bin/find-images" "$path_root/scripts/find-images"
+fi
+if [[ -f "$HOME/bin/wallpaper-fitter" ]]
+then
+	cp "$HOME/bin/wallpaper-fitter" "$path_root/scripts/wallpaper-fitter"
+fi
 
-# stackoverflow.com/a/60559975/1995812
-GetImageFiles() {
-	find "$path_root" -maxdepth 5 -mindepth 3 -type f -not -path '*/thumbnails*' |
-	file --mime-type -f - |
-	grep -F image/ |
-	rev | cut -d : -f 2- | rev |
-	sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7
+find-images() {
+	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*'
 }
-imgFiles="$(GetImageFiles)"
+find-images-main() {
+	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.internals/*'
+}
+wallpaper-fitter(){
+	"$path_root/scripts/wallpaper-fitter" "$@"
+}
+
+fitDir="$path_root/.internals/wallpapers_to_fit"
+imagesToFit="$(find-images "$fitDir")"
+i=0
+totalImagesToFit=$(echo "$imagesToFit" | wc -l)
+
+echo "--checking for missing images to fit..."
+echo "$imagesToFit" | while read -r src; do
+	((i++)) || true
+	if [[ -z "$src" ]]
+	then
+		continue
+	fi
+	filename="$(basename "$src")"
+	printf '\033[2K%4d/%d: %s...' "$i" "$totalImagesToFit" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
+
+	target="${src/#"$fitDir"/"$path_root"}"
+	# # temp fix: if jpeg target exists, burn it
+	# if [[ -f "$target" ]] && echo "$target" | grep -Piq "\.jpe?g$"
+	# then
+	# 	rm "$target"
+	# fi
+	# swap jpegs to pngs to avoid a greyscaling bug
+	target="$(echo "$target" | perl -pe 's/\.jpe?g$/.png/g')"
+	targetDir="$(dirname "$target")"
+	if [[ -f "$target" ]]
+	then
+		echo -en '\r'
+		continue
+	fi
+
+	if echo "$src" | grep -iq "$fitDir/desktop"
+	then
+		args="--landscape"
+	else
+		args="--portrait"
+	fi
+
+	if echo "$src" | grep -iq "album cover art"
+	then
+		args+=" --blur"
+	fi
+
+	mkdir -p "$targetDir"
+	wallpaper-fitter "$src" "$target" $args
+	echo ""
+done
+
+echo -e "\r"
 
 # if type pyphash-sort >/dev/null 2>&1
 # then
@@ -49,7 +107,8 @@ imgFiles="$(GetImageFiles)"
 # if perceptual hashing is available, append the hash to the start of the file for applicable categories
 if type pyphash >/dev/null 2>&1
 then
-	echo -n "checking for missing perceptual hash sort data..."
+	echo -n "--checking for missing perceptual hash sort data..."
+	imgFiles="$(find-images-main)"
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
@@ -63,15 +122,15 @@ then
 
 	done
 
-	imgFiles="$(GetImageFiles)"
-
 	echo "done!"
 fi
 
 
+echo "--updating thumbnails..."
 # delete the folder readme files
 find "$path_root" -maxdepth 5 -mindepth 3 -type f -iname 'readme.md' -delete
 
+imgFiles="$(find-images-main)"
 i=0
 totalImages=$(echo "$imgFiles" | wc -l)
 
@@ -97,7 +156,7 @@ echo "$imgFiles" | while read -r src; do
 	# allow for initial load of attribution from the filename
 	if [[ -z "$attrib" ]] && echo "$filename" | grep -qiP "[-_ ]by[-_ ]"
 	then
-		attrib="$(echo "${filename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' )"
+		attrib="$(echo "${filename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' | perl -pe 's/_[a-f0-9]{30}//g')"
 		echo "$filename $attrib" >> "$dirAttribPath"
 	fi
 
@@ -156,6 +215,7 @@ echo "$imgFiles" | while read -r src; do
 	parentFolderName="$(basename "$(dirname "$(dirname "$src")")")"
 	folderPath="$(dirname "$src")"
 	parentFolderPath="$(dirname "$(dirname "$src")")"
+	customHeaderID="$(echo "${parentFolderName}-${folderName}" | perl -pe 's/[ -_"#]+/-/g')"
 
 	if [ -n "$attrib" ]
 	then
@@ -171,17 +231,12 @@ echo "$imgFiles" | while read -r src; do
 	folderCount="$(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
 	parentFolderCount="$(echo "$imgFiles" | grep -iPc "$parentFolderPathReggie")"
 
-	# specifying a custom ID failed locally
-	# generating a copy of the auto header id by using the visible text and replacing spaces
-	folderAutoHeaderID="$(echo "$folderName - $folderCount" | sed 's/ /-/g')"
-	parentFolderAutoHeaderID="$(echo "$parentFolderName - $parentFolderCount" | sed 's/ /-/g')"
-
 	parentFolderHeader="# $parentFolderName - $parentFolderCount"
 
 	folderHeader="## [$folderName]($dirReadme_url) - $folderCount"
 	parentFolderToc="$parentFolderName - $parentFolderCount" # linking here isn't working, probably because it ends up in an HTML tag
 	# plus how would you expand the section?
-	folderToc="[$folderName](#$folderAutoHeaderID) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
+	folderToc="[$folderName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
 
 	# echo "${thumbnailMD}"
 	# echo  "^$(quoteRe "${parentFolderHeader}")$"
@@ -193,6 +248,11 @@ echo "$imgFiles" | while read -r src; do
 	fi
 	if ! grep -qP "^$(quoteRe "${folderHeader}")\$" "$thumbnailMD"
 	then
+		# adding an HTML anchor for persistent header links
+		# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
+		echo "" >> "$thumbnailMD"
+		echo "<a id=\"${customHeaderID}\"></a>" >> "$thumbnailMD"
+		echo "" >> "$thumbnailMD"
 		echo "${folderHeader}" >> "$thumbnailMD"
 		echo "" >> "$tocMD"
 		echo "- ${folderToc}" >> "$tocMD"
@@ -230,6 +290,7 @@ rm -rf "$thumbnails_old_dir"
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
 then
+	echo "--updating readmes..."
 	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
@@ -256,7 +317,7 @@ then
 		fi
 		
 
-		htmlText=$(pandoc --from=gfm+auto_identifiers --to=html --standalone --metadata title="$metaTitle" "$src")
+		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
 		htmlText="${htmlText//.md/.html}"
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"

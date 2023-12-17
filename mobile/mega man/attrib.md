@@ -27,6 +27,7 @@ dwn_infinity_by_blopa_inf.jpg Dwn Infinity by Blopa Inf
 falcon_and_gaea_by_ultimatemaverickx.png Falcon and Gaea by Ultimatemaverickx
 light_s_armor_by_ultimatemaverickx.png Light S Armor by Ultimatemaverickx
 mega_man_2_by_dan_mumford.jpg Mega Man 2 by Dan Mumford
+mega_man_mega_man_drawn_by_nakayama_tooru__07b3783041c215c2e5ac34839cdc27a6.jpg Mega Man Mega Man Drawn by Nakayama Tooru  07b3783041c215c2e5ac34839cdc27a6
 mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 mega_man_x2_by_ultimatemaverickx.png Mega Man X2 by Ultimatemaverickx
 megaman_x2_raider_killer_by_innovator123.png Megaman X2 Raider Killer by Innovator123
@@ -48,4 +49,7 @@ transformation_by_ultimatemaverickx.png Transformation by Ultimatemaverickx
 triple_attack_by_ultimatemaverickx.png Triple Attack by Ultimatemaverickx
 variable_x_by_ultimatemaverickx.jpg Variable X by Ultimatemaverickx
 vile_by_ultimatemaverickx.png Vile by Ultimatemaverickx
+__x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg   X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0
+x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0
+zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan
 zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan
