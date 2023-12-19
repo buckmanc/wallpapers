@@ -124,7 +124,13 @@ D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding
 
 [![dfdda5a232124c4d_pxfuel (40).jpg](dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
 
+[![e6ce49b31a44275b_20231217_203424.jpg](e6ce49b31a44275b_20231217_203424.jpg "e6ce49b31a44275b_20231217_203424.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg)
+
 [![ee29aea398c790c6_pxfuel (22).jpg](ee29aea398c790c6_pxfuel%20(22).jpg "ee29aea398c790c6_pxfuel (22).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg)
+
+[![f7c0187d2dc2621f_dead-cells-roadmap.jpg](f7c0187d2dc2621f_dead-cells-roadmap.jpg "f7c0187d2dc2621f_dead-cells-roadmap.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg)
+
+[![f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg](f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg "f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg)
 
 [![fb0f04b26bdd32c0_pxfuel (39).jpg](fb0f04b26bdd32c0_pxfuel%20(39).jpg "fb0f04b26bdd32c0_pxfuel (39).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(39).jpg)
 

@@ -6,3 +6,7 @@
 
 [![nft.jpg](nft.jpg "nft.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/nft.jpg)
 
+[![tommy-arnold-arnold-network-effect-01-abducted.jpg](tommy-arnold-arnold-network-effect-01-abducted.jpg "tommy-arnold-arnold-network-effect-01-abducted.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/tommy-arnold-arnold-network-effect-01-abducted.jpg)
+
+[![tommy-arnold-arnold-network-effect-03-besupplyship.jpg](tommy-arnold-arnold-network-effect-03-besupplyship.jpg "tommy-arnold-arnold-network-effect-03-besupplyship.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg)
+

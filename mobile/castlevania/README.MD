@@ -124,8 +124,8 @@ An Rf Art Nouveau Alucard by Ranefea
 
 [![ASVpzIy.jpeg](ASVpzIy.jpeg "ASVpzIy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ASVpzIy.jpeg)
 
-[![Camilla by Donsveertje](Camilla%20by%20Donsveertje.png "Camilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Camilla%20by%20Donsveertje.png)\
-Camilla by Donsveertje
+[![Carmilla by Donsveertje](Carmilla%20by%20Donsveertje.png "Carmilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png)\
+Carmilla by Donsveertje
 
 [![Castle Dracula's Castle by Ilo275](castle_dracula's_castle_by_ilo275.jpg "Castle Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)\
 Castle Dracula's Castle by Ilo275
@@ -149,6 +149,8 @@ Castlevania Symphony Of The Night by Nicolas Delort
 [![dan_mumford_alucard.jpg](dan_mumford_alucard.jpg "dan_mumford_alucard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_alucard.jpg)
 
 [![dan_mumford_richter.jpg](dan_mumford_richter.jpg "dan_mumford_richter.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_richter.jpg)
+
+[![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
 
 [![Dracula by Katie Silva](Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)\
 Dracula by Katie Silva

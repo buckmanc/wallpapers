@@ -679,7 +679,7 @@
 ./mobile/castlevania/alucard_by_天由_(tenyo0819).jpg
 ./mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg
 ./mobile/castlevania/ASVpzIy.jpeg
-./mobile/castlevania/Camilla by Donsveertje.png
+./mobile/castlevania/Carmilla by Donsveertje.png
 ./mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg
 ./mobile/castlevania/castlevania_by_kilian_eng.jpeg
 ./mobile/castlevania/castlevania-by-kilian-eng-variant.jpg
@@ -689,6 +689,7 @@
 ./mobile/castlevania/CcgelJfUMAEoFjK.jpg_large.jpg
 ./mobile/castlevania/dan_mumford_alucard.jpg
 ./mobile/castlevania/dan_mumford_richter.jpg
+./mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg
 ./mobile/castlevania/Dracula_by_katie_silva.jpg
 ./mobile/castlevania/dracula by naranbaatar-ganbold.jpg
 ./mobile/castlevania/dracula_order_of_ecclesia.jpg
@@ -791,6 +792,13 @@
 ./mobile/frog/il_1080xN.4211184424_2ixp.jpg
 ./mobile/frog/resized_everybody-croaks.png
 ./mobile/frog/wizard frog by Dingzhong Hu.png
+./mobile/gideon the ninth/976791.jpg
+./mobile/gideon the ninth/976797.jpg
+./mobile/gideon the ninth/dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png
+./mobile/gideon the ninth/EFuhu_cWoAEqRrx.jpeg
+./mobile/gideon the ninth/gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg
+./mobile/gideon the ninth/Gideon-the-Ninth-artwork.jpg
+./mobile/gideon the ninth/lars-bundvx-amodt-standingshothood.jpg
 ./mobile/kirby/70959531_p13.png
 ./mobile/kirby/70959531_p2 (1).png
 ./mobile/kirby/__kirby_meta_knight_king_dedede_magolor_bandana_waddle_dee_and_141_more_mario_and_22_more_drawn_by_suyasuyabi__bde1d47fd1e49e14b9007fc42cd41206.jpg
@@ -1186,7 +1194,7 @@
 ./mobile/metroid/pngwing.com.png
 ./mobile/metroid/PROJECT M by Emilie Boisvert.jpg
 ./mobile/metroid/pxfuel.jpg
-./mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093.png
+./mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093_enlarged.png
 ./mobile/metroid/samus_aran_and_metroid_metroid_and_1_more_drawn_by_thebourgyman__48c6dfb6a203afd65108fa9dba118df9.jpg
 ./mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_nakayama_tooru__4ae16ccbf0627d558e7921b4c84f3a60.jpg
 ./mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_polarityplus__52ae1aeb65a93e8b5afadaae4c433ec8.jpg
@@ -1195,7 +1203,7 @@
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_der_razputin__eae167e7c284e95beed4e43541129abd.jpg
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_gonzarez__50ce6143655a6ac6775b058beb93defd.jpg
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_hungry_clicker__72fd2fad478112b230dd44154c8460a9.jpg
-./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393.jpg
+./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393_enlarged.jpg
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__b37e55e5dbb4992a5ed7ba24a8189ff6.jpg
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__ec13517660994e9359a4854631cf9edb.jpg
 ./mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_steven_donegani__4f6ac8b2b2283f253bae9ce6a188fc75.jpg
@@ -1294,7 +1302,10 @@
 ./mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg
 ./mobile/misc/d5304b1fd876710d_6406800.jpg
 ./mobile/misc/dfdda5a232124c4d_pxfuel (40).jpg
+./mobile/misc/e6ce49b31a44275b_20231217_203424.jpg
 ./mobile/misc/ee29aea398c790c6_pxfuel (22).jpg
+./mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg
+./mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg
 ./mobile/misc/fb0f04b26bdd32c0_pxfuel (39).jpg
 ./mobile/misc/fddc8202237ddc8c_pxfuel (31).jpg
 ./mobile/misc cosmere/elantris_by_peter_kovacs.jpg
@@ -1344,6 +1355,8 @@
 ./mobile/murderbot/MrdrBot4_sk1.jpg
 ./mobile/murderbot/MurderbotLV.jpg
 ./mobile/murderbot/nft.jpg
+./mobile/murderbot/tommy-arnold-arnold-network-effect-01-abducted.jpg
+./mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg
 ./mobile/nintendo/1445886.jpg
 ./mobile/nintendo/3191590.png
 ./mobile/nintendo/3191681.jpg

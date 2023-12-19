@@ -2,7 +2,7 @@
 make sure you're editing the template, doofus
 -->
 
-# 1,853 Wallpapers
+# 1,866 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -75,15 +75,17 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 - [steven rhodes](#floaters-steven-rhodes) - 188
 
 - [teeturtle](#floaters-teeturtle) - 53
-</details><details><summary>mobile - 1232</summary>
+</details><details><summary>mobile - 1245</summary>
 
-- [castlevania](#mobile-castlevania) - 100
+- [castlevania](#mobile-castlevania) - 101
 
 - [dan mumford](#mobile-dan-mumford) - 43
 
 - [elden ring](#mobile-elden-ring) - 16
 
 - [frog](#mobile-frog) - 13
+
+- [gideon the ninth](#mobile-gideon-the-ninth) - 7
 
 - [kirby](#mobile-kirby) - 4
 
@@ -95,13 +97,13 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 
 - [metroid](#mobile-metroid) - 152
 
-- [misc](#mobile-misc) - 61
+- [misc](#mobile-misc) - 64
 
 - [misc cosmere](#mobile-misc-cosmere) - 9
 
 - [mistborn](#mobile-mistborn) - 34
 
-- [murderbot](#mobile-murderbot) - 4
+- [murderbot](#mobile-murderbot) - 6
 
 - [nintendo](#mobile-nintendo) - 34
 
@@ -824,11 +826,11 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![zz02-reading99-Tale-of-Scales.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tale-of-Scales.jpg "zz02-reading99-Tale-of-Scales.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-Tale-of-Scales.jpg)
 [![zz02-reading99-Tale-of-Tails.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tale-of-Tails.jpg "zz02-reading99-Tale-of-Tails.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-Tale-of-Tails.jpg)
 [![zz02-reading99-Tales-of-Magic.jpg](.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg "zz02-reading99-Tales-of-Magic.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg)
-# mobile - 1232
+# mobile - 1245
 
 <a id="mobile-castlevania"></a>
 
-## [castlevania](mobile/castlevania/README.MD) - 100
+## [castlevania](mobile/castlevania/README.MD) - 101
 [![00_ak_cv_09-castlevania.jpg](.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![00_ak_cv_10_-_okwphcm.png](.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "00_ak_cv_10_-_okwphcm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![00_ak_cv_12_-_k4ddwli.png](.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "00_ak_cv_12_-_k4ddwli.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -889,7 +891,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![Alucard by 天由 ](.internals/thumbnails/mobile/castlevania/alucard_by_天由_(tenyo0819).jpg "Alucard by 天由 ")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard_by_天由_(tenyo0819).jpg)
 [![An Rf Art Nouveau Alucard by Ranefea](.internals/thumbnails/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg)
 [![ASVpzIy.jpeg](.internals/thumbnails/mobile/castlevania/ASVpzIy.jpeg "ASVpzIy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ASVpzIy.jpeg)
-[![Camilla by Donsveertje](.internals/thumbnails/mobile/castlevania/Camilla%20by%20Donsveertje.png "Camilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Camilla%20by%20Donsveertje.png)
+[![Carmilla by Donsveertje](.internals/thumbnails/mobile/castlevania/Carmilla%20by%20Donsveertje.png "Carmilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png)
 [![Castle Dracula's Castle by Ilo275](.internals/thumbnails/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg "Castle Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)
 [![Castlevania by Kilian Eng](.internals/thumbnails/mobile/castlevania/castlevania_by_kilian_eng.jpeg "Castlevania by Kilian Eng")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania_by_kilian_eng.jpeg)
 [![Castlevania by Kilian Eng Variant](.internals/thumbnails/mobile/castlevania/castlevania-by-kilian-eng-variant.jpg "Castlevania by Kilian Eng Variant")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania-by-kilian-eng-variant.jpg)
@@ -899,6 +901,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![CcgelJfUMAEoFjK.jpg_large.jpg](.internals/thumbnails/mobile/castlevania/CcgelJfUMAEoFjK.jpg_large.jpg "CcgelJfUMAEoFjK.jpg_large.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/CcgelJfUMAEoFjK.jpg_large.jpg)
 [![dan_mumford_alucard.jpg](.internals/thumbnails/mobile/castlevania/dan_mumford_alucard.jpg "dan_mumford_alucard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_alucard.jpg)
 [![dan_mumford_richter.jpg](.internals/thumbnails/mobile/castlevania/dan_mumford_richter.jpg "dan_mumford_richter.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_richter.jpg)
+[![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](.internals/thumbnails/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
 [![Dracula by Katie Silva](.internals/thumbnails/mobile/castlevania/Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)
 [![Dracula by Naranbaatar Ganbold](.internals/thumbnails/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg "Dracula by Naranbaatar Ganbold")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg)
 [![dracula_order_of_ecclesia.jpg](.internals/thumbnails/mobile/castlevania/dracula_order_of_ecclesia.jpg "dracula_order_of_ecclesia.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)
@@ -1013,6 +1016,17 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![il_1080xN.4211184424_2ixp.jpg](.internals/thumbnails/mobile/frog/il_1080xN.4211184424_2ixp.jpg "il_1080xN.4211184424_2ixp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/il_1080xN.4211184424_2ixp.jpg)
 [![resized_everybody-croaks.png](.internals/thumbnails/mobile/frog/resized_everybody-croaks.png "resized_everybody-croaks.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/resized_everybody-croaks.png)
 [![Wizard Frog by Dingzhong Hu](.internals/thumbnails/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png "Wizard Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png)
+
+<a id="mobile-gideon-the-ninth"></a>
+
+## [gideon the ninth](mobile/gideon%20the%20ninth/README.MD) - 7
+[![976791.jpg](.internals/thumbnails/mobile/gideon%20the%20ninth/976791.jpg "976791.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976791.jpg)
+[![976797.jpg](.internals/thumbnails/mobile/gideon%20the%20ninth/976797.jpg "976797.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976797.jpg)
+[![dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png](.internals/thumbnails/mobile/gideon%20the%20ninth/dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png "dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png)
+[![EFuhu_cWoAEqRrx.jpeg](.internals/thumbnails/mobile/gideon%20the%20ninth/EFuhu_cWoAEqRrx.jpeg "EFuhu_cWoAEqRrx.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/EFuhu_cWoAEqRrx.jpeg)
+[![gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg](.internals/thumbnails/mobile/gideon%20the%20ninth/gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg "gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg)
+[![Gideon-the-Ninth-artwork.jpg](.internals/thumbnails/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg "Gideon-the-Ninth-artwork.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg)
+[![lars-bundvx-amodt-standingshothood.jpg](.internals/thumbnails/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg "lars-bundvx-amodt-standingshothood.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg)
 
 <a id="mobile-kirby"></a>
 
@@ -1428,7 +1442,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![pngwing.com.png](.internals/thumbnails/mobile/metroid/pngwing.com.png "pngwing.com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/pngwing.com.png)
 [![PROJECT M by Emilie Boisvert](.internals/thumbnails/mobile/metroid/PROJECT%20M%20by%20Emilie%20Boisvert.jpg "PROJECT M by Emilie Boisvert")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/PROJECT%20M%20by%20Emilie%20Boisvert.jpg)
 [![pxfuel.jpg](.internals/thumbnails/mobile/metroid/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/pxfuel.jpg)
-[![Samus Aran and Master Chief Metroid and 1 More Drawn by Kdekercy  820389065d4db3087a54d35c4521e093](.internals/thumbnails/mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093.png "Samus Aran and Master Chief Metroid and 1 More Drawn by Kdekercy  820389065d4db3087a54d35c4521e093")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093.png)
+[![Samus Aran and Master Chief Metroid and 1 More Drawn by Kdekercy  820389065d4db3087a54d35c4521e093 Enlarged](.internals/thumbnails/mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093_enlarged.png "Samus Aran and Master Chief Metroid and 1 More Drawn by Kdekercy  820389065d4db3087a54d35c4521e093 Enlarged")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_and_master_chief_metroid_and_1_more_drawn_by_kdekercy__820389065d4db3087a54d35c4521e093_enlarged.png)
 [![Samus Aran and Metroid Metroid and 1 More Drawn by Thebourgyman  48c6dfb6a203afd65108fa9dba118df9](.internals/thumbnails/mobile/metroid/samus_aran_and_metroid_metroid_and_1_more_drawn_by_thebourgyman__48c6dfb6a203afd65108fa9dba118df9.jpg "Samus Aran and Metroid Metroid and 1 More Drawn by Thebourgyman  48c6dfb6a203afd65108fa9dba118df9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_and_metroid_metroid_and_1_more_drawn_by_thebourgyman__48c6dfb6a203afd65108fa9dba118df9.jpg)
 [![Samus Aran and Metroid Metroid Drawn by Nakayama Tooru  4ae16ccbf0627d558e7921b4c84f3a60](.internals/thumbnails/mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_nakayama_tooru__4ae16ccbf0627d558e7921b4c84f3a60.jpg "Samus Aran and Metroid Metroid Drawn by Nakayama Tooru  4ae16ccbf0627d558e7921b4c84f3a60")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_nakayama_tooru__4ae16ccbf0627d558e7921b4c84f3a60.jpg)
 [![Samus Aran and Metroid Metroid Drawn by Polarityplus  52ae1aeb65a93e8b5afadaae4c433ec8](.internals/thumbnails/mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_polarityplus__52ae1aeb65a93e8b5afadaae4c433ec8.jpg "Samus Aran and Metroid Metroid Drawn by Polarityplus  52ae1aeb65a93e8b5afadaae4c433ec8")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_and_metroid_metroid_drawn_by_polarityplus__52ae1aeb65a93e8b5afadaae4c433ec8.jpg)
@@ -1437,7 +1451,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![Samus Aran Metroid and 1 More Drawn by Der Razputin  Eae167e7c284e95beed4e43541129abd](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_der_razputin__eae167e7c284e95beed4e43541129abd.jpg "Samus Aran Metroid and 1 More Drawn by Der Razputin  Eae167e7c284e95beed4e43541129abd")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_der_razputin__eae167e7c284e95beed4e43541129abd.jpg)
 [![Samus Aran Metroid and 1 More Drawn by Gonzarez  50ce6143655a6ac6775b058beb93defd](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_gonzarez__50ce6143655a6ac6775b058beb93defd.jpg "Samus Aran Metroid and 1 More Drawn by Gonzarez  50ce6143655a6ac6775b058beb93defd")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_gonzarez__50ce6143655a6ac6775b058beb93defd.jpg)
 [![Samus Aran Metroid and 1 More Drawn by Hungry Clicker  72fd2fad478112b230dd44154c8460a9](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_hungry_clicker__72fd2fad478112b230dd44154c8460a9.jpg "Samus Aran Metroid and 1 More Drawn by Hungry Clicker  72fd2fad478112b230dd44154c8460a9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_hungry_clicker__72fd2fad478112b230dd44154c8460a9.jpg)
-[![Samus Aran Metroid and 1 More Drawn by Ioruko  E209feddaba5561604322a3790306393](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393.jpg "Samus Aran Metroid and 1 More Drawn by Ioruko  E209feddaba5561604322a3790306393")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393.jpg)
+[![Samus Aran Metroid and 1 More Drawn by Ioruko  E209feddaba5561604322a3790306393 Enlarged](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393_enlarged.jpg "Samus Aran Metroid and 1 More Drawn by Ioruko  E209feddaba5561604322a3790306393 Enlarged")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_ioruko__e209feddaba5561604322a3790306393_enlarged.jpg)
 [![Samus Aran Metroid and 1 More Drawn by Mike Luckas  B37e55e5dbb4992a5ed7ba24a8189ff6](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__b37e55e5dbb4992a5ed7ba24a8189ff6.jpg "Samus Aran Metroid and 1 More Drawn by Mike Luckas  B37e55e5dbb4992a5ed7ba24a8189ff6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__b37e55e5dbb4992a5ed7ba24a8189ff6.jpg)
 [![Samus Aran Metroid and 1 More Drawn by Mike Luckas  Ec13517660994e9359a4854631cf9edb](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__ec13517660994e9359a4854631cf9edb.jpg "Samus Aran Metroid and 1 More Drawn by Mike Luckas  Ec13517660994e9359a4854631cf9edb")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_mike_luckas__ec13517660994e9359a4854631cf9edb.jpg)
 [![Samus Aran Metroid and 1 More Drawn by Steven Donegani  4f6ac8b2b2283f253bae9ce6a188fc75](.internals/thumbnails/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_steven_donegani__4f6ac8b2b2283f253bae9ce6a188fc75.jpg "Samus Aran Metroid and 1 More Drawn by Steven Donegani  4f6ac8b2b2283f253bae9ce6a188fc75")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/samus_aran_metroid_and_1_more_drawn_by_steven_donegani__4f6ac8b2b2283f253bae9ce6a188fc75.jpg)
@@ -1481,7 +1495,7 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 
 <a id="mobile-misc"></a>
 
-## [misc](mobile/misc/README.MD) - 61
+## [misc](mobile/misc/README.MD) - 64
 [![8282ff7d1c82a36d_pxfuel (43).jpg](.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1540,7 +1554,10 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 [![D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding](.internals/thumbnails/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg "D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg)
 [![d5304b1fd876710d_6406800.jpg](.internals/thumbnails/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg)
 [![dfdda5a232124c4d_pxfuel (40).jpg](.internals/thumbnails/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
+[![e6ce49b31a44275b_20231217_203424.jpg](.internals/thumbnails/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg "e6ce49b31a44275b_20231217_203424.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg)
 [![ee29aea398c790c6_pxfuel (22).jpg](.internals/thumbnails/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg "ee29aea398c790c6_pxfuel (22).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg)
+[![f7c0187d2dc2621f_dead-cells-roadmap.jpg](.internals/thumbnails/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg "f7c0187d2dc2621f_dead-cells-roadmap.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg)
+[![f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg](.internals/thumbnails/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg "f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg)
 [![fb0f04b26bdd32c0_pxfuel (39).jpg](.internals/thumbnails/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(39).jpg "fb0f04b26bdd32c0_pxfuel (39).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(39).jpg)
 [![fddc8202237ddc8c_pxfuel (31).jpg](.internals/thumbnails/mobile/misc/fddc8202237ddc8c_pxfuel%20(31).jpg "fddc8202237ddc8c_pxfuel (31).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fddc8202237ddc8c_pxfuel%20(31).jpg)
 
@@ -1597,11 +1614,13 @@ Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](htt
 
 <a id="mobile-murderbot"></a>
 
-## [murderbot](mobile/murderbot/README.MD) - 4
+## [murderbot](mobile/murderbot/README.MD) - 6
 [![MrdrBot4_final+web.jpg](.internals/thumbnails/mobile/murderbot/MrdrBot4_final+web.jpg "MrdrBot4_final+web.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/MrdrBot4_final+web.jpg)
 [![MrdrBot4_sk1.jpg](.internals/thumbnails/mobile/murderbot/MrdrBot4_sk1.jpg "MrdrBot4_sk1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/MrdrBot4_sk1.jpg)
 [![MurderbotLV.jpg](.internals/thumbnails/mobile/murderbot/MurderbotLV.jpg "MurderbotLV.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/MurderbotLV.jpg)
 [![nft.jpg](.internals/thumbnails/mobile/murderbot/nft.jpg "nft.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/nft.jpg)
+[![tommy-arnold-arnold-network-effect-01-abducted.jpg](.internals/thumbnails/mobile/murderbot/tommy-arnold-arnold-network-effect-01-abducted.jpg "tommy-arnold-arnold-network-effect-01-abducted.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/tommy-arnold-arnold-network-effect-01-abducted.jpg)
+[![tommy-arnold-arnold-network-effect-03-besupplyship.jpg](.internals/thumbnails/mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg "tommy-arnold-arnold-network-effect-03-besupplyship.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg)
 
 <a id="mobile-nintendo"></a>
 
