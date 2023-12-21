@@ -6,11 +6,14 @@ make sure you're editing the template, doofus
 
 A simple repo to house my wallpapers for ease of use and automation.
 
+# Table of Contents
+{table of contents}
+
 # Usage
 
 ## Nab Individual Wallpapers
 
-Long press / right click > save link / save image. Just make sure you're saving the image and not the thumbnail!
+Long press / right click > save link. Just don't save the thumbnail by mistake!
 
 ## Shallow Clone
 
@@ -31,12 +34,3 @@ Homescreen / desktop wallpapers underly icons, windows, and active tasks (read: 
 
 Thanks to [jonascarpay](https://github.com/jonascarpay/wallpapers), [makccr](https://github.com/makccr/wallpapers), and [dharmx](https://github.com/dharmx/walls) for excellent examples of wallpaper repos, all the artists of various kinds for their work, and you as Mega Man X!
 
----
-
-# Table of Contents
-
-{table of contents}
-
----
-
-{thumbnails}

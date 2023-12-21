@@ -6,4 +6,3 @@ frog and chill by Dingzhong Hu.jpg Frog and Chill by Dingzhong Hu
 frog chef by Dingzhong Hu.jpg Frog Chef by Dingzhong Hu
 frog_wizard_by_greenbeedrill888_dg1y4lx.png Frog Wizard by Greenbeedrill888 Dg1y4lx
 wizard frog by Dingzhong Hu.png Wizard Frog by Dingzhong Hu
-wizard frog by Dingzhong Hu.png Wizard Frog by Dingzhong Hu

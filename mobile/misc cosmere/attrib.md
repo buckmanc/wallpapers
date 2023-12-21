@@ -11,4 +11,3 @@ tress_sipping_salty_tea_by_howard_lyon.jpg Sipping Salty Tea by Howard Lyon
 tress_sipping_salty_tea_by_howard_lyon.jpg Tress Sipping Salty Tea by Howard Lyon
 warbreaker_cover_by_yasen_stoilov.jpg Warbreaker Cover by Yasen Stoilov
 yumi_and_the_nightmare_painter_by_jessi_chen_liu.png Yumi and The Nightmare Painter by Jessi Chen Liu
-warbreaker_cover_by_yasen_stoilov.jpg Warbreaker Cover by Yasen Stoilov

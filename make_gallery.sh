@@ -8,12 +8,9 @@ quoteRe() {
 	sed -e 's/[^^]/[&]/g; s/\^/\\^/g; $!a\'$'\n''\\n' <<<"$1" | tr -d '\n'
 }
 
-path_root="." # TODO make this the script dir
-# or is the git root better?
-# git_root=$(git rev-parse --show-toplevel)
+path_root="$(git rev-parse --show-toplevel)"
 raw_root="https://raw.githubusercontent.com/buckmanc/Wallpapers/main"
 
-thumbnailMD="${path_root}/.internals/thumbnails.md"
 tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
@@ -24,7 +21,6 @@ mkdir -p "$thumbnails_dir"
 mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
-rm "$thumbnailMD" > /dev/null 2>&1 || true
 rm "$tocMD" > /dev/null 2>&1 || true
 rm "$fileListFile" > /dev/null 2>&1 || true
 
@@ -46,6 +42,14 @@ find-images-main() {
 }
 wallpaper-fitter(){
 	"$path_root/scripts/wallpaper-fitter" "$@"
+}
+bottom-level-dir(){
+	if [[ "$(find-images "$1" -maxdepth 1 | wc -l)" -gt 0 ]]
+	then
+		echo 1
+	else
+		echo 0
+	fi
 }
 
 fitDir="$path_root/.internals/wallpapers_to_fit"
@@ -91,7 +95,7 @@ echo "$imagesToFit" | while read -r src; do
 	fi
 
 	mkdir -p "$targetDir"
-	wallpaper-fitter "$src" "$target" $args
+	wallpaper-fitter "$src" "$target" "$args"
 	echo ""
 done
 
@@ -127,8 +131,6 @@ fi
 
 
 echo "--updating thumbnails..."
-# delete the folder readme files
-find "$path_root" -maxdepth 5 -mindepth 3 -type f -iname 'readme.md' -delete
 
 imgFiles="$(find-images-main)"
 i=0
@@ -139,32 +141,13 @@ echo "$imgFiles" | while read -r src; do
 	filename="$(basename "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImages" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
-	dirReadmePath="$(dirname "$src")/README.MD"
-
-	attrib=''
-	dirAttribPath="$(dirname "$src")/attrib.md"
-	if [ -f "$dirAttribPath" ]
-	then
-		# sort the attrib files
-		sort -u -o "$dirAttribPath" "$dirAttribPath"
-
-		attrib="$(grep -iPo "(?<=$(quoteRe "$filename")\s).+$" "$dirAttribPath")" | sed 's/ \+/ /g' || true
-	fi
-
-	# attempted to pull attribution from metadata using imagemagick but did not succeed
-
-	# allow for initial load of attribution from the filename
-	if [[ -z "$attrib" ]] && echo "$filename" | grep -qiP "[-_ ]by[-_ ]"
-	then
-		attrib="$(echo "${filename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' | perl -pe 's/_[a-f0-9]{30}//g')"
-		echo "$filename $attrib" >> "$dirAttribPath"
-	fi
-
 	target="${thumbnails_dir}/${src#"$path_root/"}"
 	thumbnail_old="${thumbnails_old_dir}/${src#"$path_root/"}"
 
 	target_dir="$(dirname "$target")"
 	mkdir -p "$target_dir"
+
+	echo    "${src#"$path_root"}" >> "$fileListFile"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
 		if [[ "$src" == *"/mobile/"* ]]; then
@@ -195,102 +178,200 @@ echo "$imgFiles" | while read -r src; do
 
 		# resize images, then crop to the desired resolution
 		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
-		# echo "converted!"
+
 		echo ""
 	else
 		mv "$thumbnail_old" "$target"
 		# echo "skipped!"
 		echo -en "\r"
 	fi
-
-	src_escaped="${src// /%20}"
-	filename_escaped="${filename// /%20}"
-	target_escaped="${target// /%20}"
-	dirReadmePath_escaped="${dirReadmePath// /%20}"
-	thumb_url="${target_escaped#"$path_root/"}"
-	pape_url="$raw_root/${src_escaped#"$path_root/"}"
-	dirReadme_url="${dirReadmePath_escaped#"$path_root/"}"
-
-	folderName="$(basename "$(dirname "$src")")"
-	parentFolderName="$(basename "$(dirname "$(dirname "$src")")")"
-	folderPath="$(dirname "$src")"
-	parentFolderPath="$(dirname "$(dirname "$src")")"
-	customHeaderID="$(echo "${parentFolderName}-${folderName}" | perl -pe 's/[ -_"#]+/-/g')"
-
-	if [ -n "$attrib" ]
-	then
-		# strip markdown links out of the alt text
-		alt_text=$(echo "$attrib" | sed 's/([^)]*)//g' | sed 's/[][]//g')
-	else
-		alt_text="$filename"
-	fi
-
-	folderPathReggie="$(quoteRe "${folderPath}/")"
-	parentFolderPathReggie="$(quoteRe "${parentFolderPath}/")"
-
-	folderCount="$(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
-	parentFolderCount="$(echo "$imgFiles" | grep -iPc "$parentFolderPathReggie")"
-
-	parentFolderHeader="# $parentFolderName - $parentFolderCount"
-
-	folderHeader="## [$folderName]($dirReadme_url) - $folderCount"
-	parentFolderToc="$parentFolderName - $parentFolderCount" # linking here isn't working, probably because it ends up in an HTML tag
-	# plus how would you expand the section?
-	folderToc="[$folderName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$folderPathReggie")"
-
-	# echo "${thumbnailMD}"
-	# echo  "^$(quoteRe "${parentFolderHeader}")$"
-
-	if ! grep --no-messages -qP "^$(quoteRe "${parentFolderHeader}")$" "$thumbnailMD"
- 	then
-		echo "${parentFolderHeader}" >> "$thumbnailMD"
-		echo "</details><details><summary>${parentFolderToc}</summary>" >> "$tocMD"
-	fi
-	if ! grep -qP "^$(quoteRe "${folderHeader}")\$" "$thumbnailMD"
-	then
-		# adding an HTML anchor for persistent header links
-		# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
-		echo "" >> "$thumbnailMD"
-		echo "<a id=\"${customHeaderID}\"></a>" >> "$thumbnailMD"
-		echo "" >> "$thumbnailMD"
-		echo "${folderHeader}" >> "$thumbnailMD"
-		echo "" >> "$tocMD"
-		echo "- ${folderToc}" >> "$tocMD"
-	fi
-
-	echo    "$src" >> "$fileListFile"
-	echo    "[![$alt_text]($thumb_url \"$alt_text\")]($pape_url)" >> "$thumbnailMD" 
-	echo -n "[![$alt_text]($filename_escaped \"$alt_text\")]($pape_url)" >> "$dirReadmePath"
-
-	# have to do a bunch of shenanigans to get the attribution immediately below the picture
-	if [ -n "$attrib" ]
-	then
-		echo "\\" >> "$dirReadmePath"
-		echo "$attrib" >> "$dirReadmePath"
-	else
-		echo >> "$dirReadmePath"
-	fi
-	echo >> "$dirReadmePath"
 done
+
+rm -rf "$thumbnails_old_dir"
 
 echo ""
 
-thumbnailText="$(cat "$thumbnailMD")"
-tocText="$(cat "$tocMD" | perl -00pe 's/^<\/details>//g')</details>"
+echo "--updating readme md's..."
+# delete the folder readme files
+find "$path_root" -maxdepth 5 -mindepth 2 -type f -iname 'readme.md' -delete
+
+rootReadmePath="${path_root}/README_ALL.MD"
+rm -f "$rootReadmePath"
+
+directories="$(find "$path_root" -type d -not -path '*/.internals*' -not -path '*/.git*' -not -path '*/scripts' -not -path '*/temp workspace' -not -path '*/thumbnails_test')"
+totalDirs="$(echo "$directories" | wc -l)"
+i=0
+iDir=0
+echo "$directories" | while read -r dir; do
+	((iDir++)) || true
+	friendlyDirName="${dir/"$path_root"}"
+	# printf -v dirStatus '\033[2K%4d/%d: %s' "$iDir" "$totalDirs" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
+	printf -v dirStatus '\033[2K%4d/%d: ' "$iDir" "$totalDirs"
+
+	dirReadmePath="$dir/README.MD"
+	# don't overwrite the real root readme
+	if [[ "$dirReadmePath" == "${path_root}/README.MD" ]]
+	then
+		dirReadmePath="$rootReadmePath"
+	fi
+
+	imgFiles="$(find-images "$dir" -not -path '*/.internals*' -not -path '*/.git*' -not -path '*/scripts')"
+	i=0
+	totalDirImages=$(echo "$imgFiles" | wc -l)
+
+	bottomLevelDir="$(bottom-level-dir "$dir")"
+
+	echo "# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")" >> "$dirReadmePath"
+
+	subDirs="$(echo "$imgFiles" | sed -r 's|/[^/]+$||' | sort -u)"
+	echo "$subDirs" | while read -r subDir; do
+		subDirName="${subDir#"$dir"}"
+		subDirName="${subDirName#\/}"
+
+		if [[ -z "$subDirName" ]]
+		then
+			continue
+		fi
+		customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
+		imgFolderPathReggie="$(quoteRe "${subDir}/")"
+		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie")"
+		echo "$folderToc" >> "$dirReadmePath"
+	done
+
+	echo "$imgFiles" | while read -r imgPath; do
+		((i++)) || true
+		imgFilename="$(basename "$imgPath")"
+		printf '%s %4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
+
+		imgDir="$(dirname "$imgPath")"
+
+		attrib=''
+		dirAttribPath="$imgDir/attrib.md"
+		if [ -f "$dirAttribPath" ]
+		then
+			# sort the attrib files
+			sort -u -o "$dirAttribPath" "$dirAttribPath"
+			attrib="$(grep -iPo "(?<=$(quoteRe "$imgFilename")\s).+$" "$dirAttribPath" | sed 's/ \+/ /g')" || true
+		fi
+
+		# attempted to pull attribution from metadata using imagemagick but did not succeed
+
+		# allow for initial load of attribution from the filename
+		if [[ -z "$attrib" ]] && echo "$imgFilename" | grep -qiP "[-_ ]by[-_ ]"
+		then
+			attrib="$(echo "${imgFilename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' | perl -pe 's/_[a-f0-9]{30}//g')"
+			echo "$imgFilename $attrib" >> "$dirAttribPath"
+		fi
+
+		thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
+
+		thumbnailUrl="${thumbnailPath/#"$path_root"/}"
+		thumbnailUrl="${thumbnailUrl// /%20}"
+		imageUrl="$raw_root${imgPath/#"$path_root"/}"
+		imageUrl="${imageUrl// /%20}"
+
+		folderReadmeUrl="$(dirname "$imgPath")/README.MD"
+		folderReadmeUrl="${folderReadmeUrl#"$path_root"}"
+		folderReadmeUrl="${folderReadmeUrl// /%20}"
+
+		# imgFolderName="$(basename "$(dirname "$imgPath")")"
+		imgFolderName="${imgDir#"$dir"}"
+		imgFolderName="${imgFolderName#\/}"
+		imgFolderPath="$imgDir" # can rename
+		customHeaderID="$(echo "${imgFolderName}" | perl -pe 's/[ -_"#]+/-/g')"
+
+		if [ -n "$attrib" ]
+		then
+			# strip markdown links out of the alt text
+			alt_text=$(echo "$attrib" | sed 's/([^)]*)//g' | sed 's/[][]//g')
+		else
+			alt_text="$imgFilename"
+		fi
+
+		imgFolderPathReggie="$(quoteRe "${imgFolderPath}/")"
+
+		imgFolderCount="$(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie")"
+
+		imgFolderHeader="## [$imgFolderName]($folderReadmeUrl) - $imgFolderCount"
+
+		# if [[ "$dirReadmePath" == "$rootReadmePath" ]]
+		# then
+                #
+		# fi
+
+		# show full image for bottom level dirs
+		# TODO support dirs with images at depth 1 *and* sub dirs
+		if [[ "$bottomLevelDir" == 1 ]]
+		then
+
+			echo -n "[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)" >> "$dirReadmePath"
+
+			# have to do a bunch of shenanigans to get the attribution immediately below the picture
+			if [ -n "$attrib" ]
+			then
+				echo "\\" >> "$dirReadmePath"
+				echo "$attrib" >> "$dirReadmePath"
+			else
+				echo >> "$dirReadmePath"
+			fi
+			echo >> "$dirReadmePath"
+
+		#thumbnails only
+		else
+
+			if ! grep -qP "^$(quoteRe "${imgFolderHeader}")\$" "$dirReadmePath"
+			then
+				# adding an HTML anchor for persistent header links
+				# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
+				echo "" >> "$dirReadmePath"
+				echo "<a id=\"${customHeaderID}\"></a>" >> "$dirReadmePath"
+				echo "" >> "$dirReadmePath"
+				echo "${imgFolderHeader}" >> "$dirReadmePath"
+			fi
+
+			echo    "[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)" >> "$dirReadmePath" 
+
+
+		fi
+
+	echo -en '\r'
+	
+	# if [[ "$i" -gt 50 ]]
+	# then
+	# 	echo "breaking early for testing"
+	# 	break
+	# fi
+
+	done
+
+	parentDirUrl="$(echo "$friendlyDirName" | sed -r 's|/[^/]+$||')"
+	echo -e "\n" >> "$dirReadmePath"
+	echo "[back to top](#)" >> "$dirReadmePath"
+	echo "[up one level]($parentDirUrl/README.MD)" >> "$dirReadmePath"
+done
+
+# build the root table of contents
+pathRootEscaped="$(quoteRe "$path_root/")"
+rootDirs="$(echo "$imgFiles" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/]+' | sort -u)"
+echo "$rootDirs" | while read -r rootDir
+do
+	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l)" >> "$tocMD"
+	# echo $'\n' >> "$tocMD"
+done
+tocText="$(cat "$tocMD")"
+rm "$tocMD"
+
 readmeTemplate="$(cat "$readmeTemplatePath")"
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
 readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
 echo "$readmeTemplate" > README.MD
 
-rm "$thumbnailMD"
-rm "$tocMD"
-rm -rf "$thumbnails_old_dir"
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
 then
-	echo "--updating readmes..."
+	echo "--updating readme html's..."
 	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
@@ -305,8 +386,10 @@ then
 		metaTitle="${metaTitle#"$path_root"}"
 		metaTitle="${metaTitle#/}"
 		metaTitle="$(echo "$metaTitle" | sed 's|/README$||g')"
+		mdDir="$(dirname "$src")"
+		bottomLevelDir="$(bottom-level-dir "$mdDir")"
 
-		if [ "${src,,}" = "${path_root,,}/readme.md" ]
+		if [ "${mdDir,,}" = "${path_root,,}" ]
 		then
 			metaTitle="Wallpapers"
 		fi
@@ -322,11 +405,17 @@ then
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"
 
-		echo "$htmlText" | while read htmlLine
+		echo "$htmlText" | while read -r htmlLine
 		do
 
 			# write existing line to file
 			echo "$htmlLine" >> "$htmlPath"
+
+			# only doing edits based on htmlLine on bottom level readmes
+			if [[ "$bottomLevelDir" == 0 ]]
+			then
+				continue
+			fi
 
 			if [[ "$htmlLine" == "</header>" ]]
 			then
@@ -338,16 +427,16 @@ then
 			if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
 			then
 				href="$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+' | urldecode)"
-				title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
+				# title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
 
 				renamePrefil="$(basename "$href")"
 				renamePrefil="${renamePrefil%.*}"
-				if [ -f "${path_root}${href}" ]
+				# TODO HTML decode this first
+				if [[ -f "${path_root}/${href}" ]]
 				then
-					resolution=$(identify -ping -format '%wx%h' "${path_root}${href}" 2>&1)
+					resolution=$(identify -ping -format '%wx%h' "${path_root}/${href}" 2>&1)
 				else
 					resolution="???"
-
 				fi
 				
 				modText="
@@ -373,8 +462,8 @@ then
 
 		# make sure images don't blow out the page
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
-		# remove that double header from the main readme
-		perl -i -00pe 's|<header.+?>Wallpapers<.+?</header>||gs' "$htmlPath"
+		# remove that double header
+		perl -i -00pe 's|<header.+?title-block-header.+?</header>||gs' "$htmlPath"
 
 		echo -en "\r"
 

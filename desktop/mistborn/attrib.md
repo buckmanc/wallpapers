@@ -5,4 +5,3 @@
 00_cover_zz_era_2_by_marc_simonetti.jpg 00 Cover Zz Era 2 by Marc Simonetti
 00_cover_zz_era_2_by_marc_simonetti.jpg Era 2 Triptych by Marc Simonetti
 cognitive-realm-by-ricky-ho.jpg Cognitive Realm by Ricky Ho
-cognitive-realm-by-ricky-ho.jpg Cognitive Realm by Ricky Ho

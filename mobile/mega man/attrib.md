@@ -52,4 +52,3 @@ vile_by_ultimatemaverickx.png Vile by Ultimatemaverickx
 __x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg   X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0
 x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P  Bc1db10b4a3a9488eace9ade5fb278e0
 zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan
-zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan

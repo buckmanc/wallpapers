@@ -53,4 +53,3 @@ Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg The Ascendant Warrior by Miranda 
 Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg Vin The Ascendant Warrior by Miranda Meeks
 wax_miles_hundredlives_by_ari_ibarra.jpg Miles Hundredlives by Ari Ibarra
 wax_miles_hundredlives_by_ari_ibarra.jpg Wax Miles Hundredlives by Ari Ibarra
-wax_miles_hundredlives_by_ari_ibarra.jpg Wax Miles Hundredlives by Ari Ibarra

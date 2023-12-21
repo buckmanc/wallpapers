@@ -52,4 +52,3 @@ The Devil Forgemaster by Al Santos.jpg The Devil Forgemaster by Al Santos
 zz_castle_castlevania-by-roma-timbreza.jpg Castlevania by Roma Timbreza
 zz_castle_castlevania-by-roma-timbreza.jpg Zz Castle Castlevania by Roma Timbreza
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
-zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
