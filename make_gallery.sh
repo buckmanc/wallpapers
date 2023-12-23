@@ -38,7 +38,7 @@ find-images() {
 	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*'
 }
 find-images-main() {
-	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.internals/*'
+	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.*'
 }
 wallpaper-fitter(){
 	"$path_root/scripts/wallpaper-fitter" "$@"
@@ -198,7 +198,7 @@ find "$path_root" -maxdepth 5 -mindepth 2 -type f -iname 'readme.md' -delete
 rootReadmePath="${path_root}/README_ALL.MD"
 rm -f "$rootReadmePath"
 
-directories="$(find "$path_root" -type d -not -path '*/.internals*' -not -path '*/.git*' -not -path '*/scripts' -not -path '*/temp workspace' -not -path '*/thumbnails_test')"
+directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
@@ -215,7 +215,7 @@ echo "$directories" | while read -r dir; do
 		dirReadmePath="$rootReadmePath"
 	fi
 
-	imgFiles="$(find-images "$dir" -not -path '*/.internals*' -not -path '*/.git*' -not -path '*/scripts')"
+	imgFiles="$(find-images "$dir" -not -path '*/.*' -not -path '*/scripts')"
 	i=0
 	totalDirImages=$(echo "$imgFiles" | wc -l)
 
@@ -358,7 +358,7 @@ do
 	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l)" >> "$tocMD"
 	# echo $'\n' >> "$tocMD"
 done
-tocText="$(cat "$tocMD")"
+tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
 rm "$tocMD"
 
 readmeTemplate="$(cat "$readmeTemplatePath")"
@@ -372,7 +372,7 @@ echo "$readmeTemplate" > README.MD
 if type pandoc >/dev/null 2>&1
 then
 	echo "--updating readme html's..."
-	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.internals/*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
+	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
 	total=$(echo "$mdFiles" | wc -l)
