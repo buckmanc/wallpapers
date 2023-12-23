@@ -449,6 +449,11 @@ then
 				<input type=\"text\" id=\"destname\" name=\"destname\" style='width:100%' value=\"$renamePrefil\"><br>
 				<input type=\"submit\" value=\"Rename\">
 				</form>
+				<form action=\"/cgi-bin/trim\" target=\"dummyframe\">
+				<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
+				<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
+				<input type=\"submit\" value=\"Trim\">
+				</form>
 				<br>
 				"
 

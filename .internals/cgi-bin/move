@@ -17,9 +17,9 @@ echo "<p>Hello World!</p>"
 echo "<br>"
 echo "<p>whoami: $(whoami)</p>"
 echo "<p>query string: $QUERY_STRING</p>"
-echo "<p>write test: $(echo "$QUERY_STRING" >> "$gitroot/.internals/cgi-bin/args.log")</p>"
+echo "<p>write test: $(echo "$QUERY_STRING" >> "$gitroot/.internals/cgi-bin/move_args.log")</p>"
 echo "<p>args logged? $?<p>"
-echo "<p>log read test: $(cat "$gitroot/.internals/cgi-bin/args.log")</p>"
+echo "<p>log read test: $(cat "$gitroot/.internals/cgi-bin/move_args.log")</p>"
 echo "<p>file logged? $?<p>"
 
 # IFS='&=' read -ra parm <<<"$QUERY_STRING"
@@ -29,7 +29,7 @@ echo "<p>file logged? $?<p>"
 # echo "<p>parm: $parm</p>"
 # echo "<p>destName: $destName</p>"
 
-declare -A param   
+declare -A param
 while IFS='=' read -r -d '&' key value && [[ -n "$key" ]]; do
     # param["$key"]=$value
     # param["$key"]=$(echo $value | sed 's/\(+\|%20\)/ /g')
@@ -39,13 +39,13 @@ done <<<"${QUERY_STRING}&"
 
 echo "<hr>"
 echo "<p>decoded query params:</p>"
-echo "decoded query params:" >> "$gitroot/.internals/cgi-bin/args.log"
+echo "decoded query params:" >> "$gitroot/.internals/cgi-bin/move_args.log"
 
 for i in "${!param[@]}"
 do
     demo="$i: ${param[$i]}"
     echo "<p>$demo</p>"
-    echo "$demo" >> "$gitroot/.internals/cgi-bin/args.log"
+    echo "$demo" >> "$gitroot/.internals/cgi-bin/move_args.log"
 done
 
 # TODO validate with a simple provided token here
