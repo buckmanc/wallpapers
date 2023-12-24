@@ -40,6 +40,9 @@ find-images() {
 find-images-main() {
 	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.*'
 }
+find-mod-time() {
+	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
+}
 wallpaper-fitter(){
 	"$path_root/scripts/wallpaper-fitter" "$@"
 }
@@ -101,13 +104,6 @@ done
 
 echo -e "\r"
 
-# if type pyphash-sort >/dev/null 2>&1
-# then
-# 	echo "calculating perceptual hash sort"
-# 	echo "this could take a while"
-# 	imgFiles="$(echo "$imgFiles" | pyphash-sort "(/forests/|/space/|/misc/|/leaves/)")"
-# fi
-
 # if perceptual hashing is available, append the hash to the start of the file for applicable categories
 if type pyphash >/dev/null 2>&1
 then
@@ -132,11 +128,11 @@ fi
 
 echo "--updating thumbnails..."
 
-imgFiles="$(find-images-main)"
+imgFilesAll="$(find-images-main)"
 i=0
-totalImages=$(echo "$imgFiles" | wc -l)
+totalImages=$(echo "$imgFilesAll" | wc -l)
 
-echo "$imgFiles" | while read -r src; do
+echo "$imgFilesAll" | while read -r src; do
 	((i++)) || true
 	filename="$(basename "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImages" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
@@ -182,7 +178,6 @@ echo "$imgFiles" | while read -r src; do
 		echo ""
 	else
 		mv "$thumbnail_old" "$target"
-		# echo "skipped!"
 		echo -en "\r"
 	fi
 done
@@ -192,25 +187,24 @@ rm -rf "$thumbnails_old_dir"
 echo ""
 
 echo "--updating readme md's..."
-# delete the folder readme files
-find "$path_root" -maxdepth 5 -mindepth 2 -type f -iname 'readme.md' -delete
 
+homeReadmePath="${path_root}/README.MD"
 rootReadmePath="${path_root}/README_ALL.MD"
-rm -f "$rootReadmePath"
 
 directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
-echo "$directories" | while read -r dir; do
+iMdSkip=0
+while read -r dir; do
 	((iDir++)) || true
 	friendlyDirName="${dir/"$path_root"}"
 	# printf -v dirStatus '\033[2K%4d/%d: %s' "$iDir" "$totalDirs" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
-	printf -v dirStatus '\033[2K%4d/%d: ' "$iDir" "$totalDirs"
+	printf -v dirStatus '\033[2K%3d/%d:' "$iDir" "$totalDirs"
 
 	dirReadmePath="$dir/README.MD"
 	# don't overwrite the real root readme
-	if [[ "$dirReadmePath" == "${path_root}/README.MD" ]]
+	if [[ "$dirReadmePath" == "$homeReadmePath" ]]
 	then
 		dirReadmePath="$rootReadmePath"
 	fi
@@ -221,10 +215,11 @@ echo "$directories" | while read -r dir; do
 
 	bottomLevelDir="$(bottom-level-dir "$dir")"
 
-	echo "# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")" >> "$dirReadmePath"
+	mdText=''
+	mdText+="# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")"$'\n'
 
 	subDirs="$(echo "$imgFiles" | sed -r 's|/[^/]+$||' | sort -u)"
-	echo "$subDirs" | while read -r subDir; do
+	while read -r subDir; do
 		subDirName="${subDir#"$dir"}"
 		subDirName="${subDirName#\/}"
 
@@ -235,13 +230,13 @@ echo "$directories" | while read -r dir; do
 		customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
 		imgFolderPathReggie="$(quoteRe "${subDir}/")"
 		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie")"
-		echo "$folderToc" >> "$dirReadmePath"
-	done
+		mdText+="$folderToc"$'\n'
+	done < <( echo "$subDirs" )
 
-	echo "$imgFiles" | while read -r imgPath; do
+	while read -r imgPath; do
 		((i++)) || true
 		imgFilename="$(basename "$imgPath")"
-		printf '%s %4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
+		printf '%s%4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 		imgDir="$(dirname "$imgPath")"
 
@@ -304,32 +299,32 @@ echo "$directories" | while read -r dir; do
 		if [[ "$bottomLevelDir" == 1 ]]
 		then
 
-			echo -n "[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)" >> "$dirReadmePath"
+			mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)"
 
 			# have to do a bunch of shenanigans to get the attribution immediately below the picture
 			if [ -n "$attrib" ]
 			then
-				echo "\\" >> "$dirReadmePath"
-				echo "$attrib" >> "$dirReadmePath"
+				mdText+="\\"$'\n'
+				mdText+="$attrib"$'\n'
 			else
-				echo >> "$dirReadmePath"
+				mdText+=$'\n'
 			fi
-			echo >> "$dirReadmePath"
+				mdText+=$'\n'
 
 		#thumbnails only
 		else
 
-			if ! grep -qP "^$(quoteRe "${imgFolderHeader}")\$" "$dirReadmePath"
+			if ! echo "$mdText" | grep -qP "^$(quoteRe "${imgFolderHeader}")\$"
 			then
 				# adding an HTML anchor for persistent header links
 				# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
-				echo "" >> "$dirReadmePath"
-				echo "<a id=\"${customHeaderID}\"></a>" >> "$dirReadmePath"
-				echo "" >> "$dirReadmePath"
-				echo "${imgFolderHeader}" >> "$dirReadmePath"
+				mdText+=$'\n'
+				mdText+="<a id=\"${customHeaderID}\"></a>"$'\n'
+				mdText+=$'\n'
+				mdText+="${imgFolderHeader}"$'\n'
 			fi
 
-			echo    "[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)" >> "$dirReadmePath" 
+			mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)"$'\n'
 
 
 		fi
@@ -342,17 +337,41 @@ echo "$directories" | while read -r dir; do
 	# 	break
 	# fi
 
-	done
+	done < <( echo "$imgFiles" )
 
 	parentDirUrl="$(echo "$friendlyDirName" | sed -r 's|/[^/]+$||')"
-	echo -e "\n" >> "$dirReadmePath"
-	echo "[back to top](#)" >> "$dirReadmePath"
-	echo "[up one level]($parentDirUrl/README.MD)" >> "$dirReadmePath"
-done
+	mdText+=$'\n'$'\n'
+	mdText+="[back to top](#)"$'\n'
+	mdText+="[up one level]($parentDirUrl/README.MD)"
+
+	# only write if changed
+	if [[ -f "$dirReadmePath" ]]
+	then
+		mdTextOld="$(cat "$dirReadmePath")"
+	else
+		mdTextOld=''
+	fi
+
+
+	if [[ "$mdTextOld" != "$mdText" ]]
+	then
+		echo "$mdText" > "$dirReadmePath"
+
+		# echo
+		# echo "mdText:    $(echo "$mdText" | wc)"
+		# echo "mdTextOld: $(echo "$mdTextOld" | wc)"
+	else
+		iMdSkip=$(($iMdSkip + 1))
+	fi
+done < <( echo "$directories" )
+
+echo
+echo "$iMdSkip/$totalDirs md files unchanged"
 
 # build the root table of contents
 pathRootEscaped="$(quoteRe "$path_root/")"
-rootDirs="$(echo "$imgFiles" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/]+' | sort -u)"
+rootDirs="$(echo "$imgFilesAll" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/]+' | sort -u)"
+
 echo "$rootDirs" | while read -r rootDir
 do
 	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l)" >> "$tocMD"
@@ -365,8 +384,20 @@ readmeTemplate="$(cat "$readmeTemplatePath")"
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
 readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
-echo "$readmeTemplate" > README.MD
 
+# only write if changed
+if [[ -f "$homeReadmePath" ]]
+then
+	mdTextOld="$(cat "$homeReadmePath")"
+else
+	mdTextOld=''
+fi
+
+
+if [[ "$mdTextOld" != "$readmeTemplate" ]]
+	then
+	echo "$readmeTemplate" > "$homeReadmePath"
+fi
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
@@ -375,13 +406,29 @@ then
 	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
+	iHtmlSkip=0
 	total=$(echo "$mdFiles" | wc -l)
 
-	echo "$mdFiles" | while read -r src
+	while read -r src
 	do
 		((i++)) || true
 		descname="$(basename "$(dirname "$src")")/$(basename "$src")"
+
 		printf '\033[2K%4d/%d: %s...' "$i" "$total" "$descname" | cut -c "-$COLUMNS" | tr -d $'\n'
+
+		htmlPath="${src%.*}.html"
+		# skip if the underlying md hasn't changed since last html generation
+		if [[ "$htmlPath" -nt "$src" ]]
+		then
+		iHtmlSkip=$(($iHtmlSkip + 1))
+		echo -en '\r'
+			continue
+		fi
+
+		if [ -f "$htmlPath" ]
+		then
+			rm "$htmlPath"
+		fi
 		metaTitle="${src%.*}"
 		metaTitle="${metaTitle#"$path_root"}"
 		metaTitle="${metaTitle#/}"
@@ -393,12 +440,6 @@ then
 		then
 			metaTitle="Wallpapers"
 		fi
-		htmlPath="${src%.*}.html"
-		if [ -f "$htmlPath" ]
-		then
-			rm "$htmlPath"
-		fi
-		
 
 		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
 		htmlText="${htmlText//.md/.html}"
@@ -472,9 +513,15 @@ then
 
 		echo -en "\r"
 
-	done
-fi
+	done < <( echo "$mdFiles")
 
-echo ""
+	# echo ""
+
+	if [[ "$iHtmlSkip" -gt 0 ]]
+	then
+		echo
+		echo "skipped $iHtmlSkip/$total html files"
+	fi
+fi
 
 echo "done at $(date)"
