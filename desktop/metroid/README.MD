@@ -1,4 +1,4 @@
-# metroid - 7
+# metroid - 8
 [![Hjmdi1A-metroid-wallpaper.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg "Hjmdi1A-metroid-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg)
 
 [![metroid-3nc8jol5751aw6co.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-3nc8jol5751aw6co.jpg "metroid-3nc8jol5751aw6co.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-3nc8jol5751aw6co.jpg)
@@ -6,6 +6,8 @@
 [![metroid-the-forest-ee3581bggowaeid2.jpg.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp "metroid-the-forest-ee3581bggowaeid2.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp)
 
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/pxfuel.jpg)
+
+[![sm_zebes_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sm_zebes_enlarged.png "sm_zebes_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sm_zebes_enlarged.png)
 
 [![sRBr53E.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sRBr53E.jpeg "sRBr53E.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sRBr53E.jpeg)
 

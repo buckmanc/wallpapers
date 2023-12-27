@@ -12,6 +12,7 @@
 00_ak_cv_artbook21.jpg from Santa Lilio Sangre by Ayami Kojima
 00_ak_cv_castlevania-harmony-of-dissonance.jpg CastleVania Harmony of Dissonance by Ayami Kojima
 00_ak_cv_manga_artbook26.jpg from Santa Lilio Sangre by Ayami Kojima
+00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg 00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami  157cb87e302e85fc71bdee9fc0c53ef9
 00_ak_og_postcard01.jpg postcard by Ayami Kojima
 00_ak_og_postcard02.jpg postcard by Ayami Kojima
 14 - pdydhcq.jpg CastleVania Portrait of Ruin by Fumi Ishikaw
@@ -27,6 +28,11 @@ Alucard by essijuulia.jpg Alucard by Essijuulia
 alucard by fishyu7.jpg Alucard by Fishyu7
 Alucard by Junki Sakuraba.jpeg Alucard by Junki Sakuraba
 alucard_by_天由_(tenyo0819).jpg Alucard by 天由 (tenyo0819)
+__alucard_castlevania_and_1_more_drawn_by_crimson_chains__041db30a256c928a3646753d6ef0f1a2.jpg   Alucard Castlevania and 1 More Drawn by Crimson Chains  041db30a256c928a3646753d6ef0f1a2
+__alucard_castlevania_and_1_more_drawn_by_hungry_clicker__0b19d55a4305164f5947815e812bb36b.jpg   Alucard Castlevania and 1 More Drawn by Hungry Clicker  0b19d55a4305164f5947815e812bb36b
+__alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg   Alucard Castlevania and 1 More Drawn by Ngop  Cdf4f72dba0421f8596b72653e518405
+__alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg   Alucard Castlevania and 1 More Drawn by Nigelgraz  4518ac23f2839609ba33642dc0579f1f
+__alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg   Alucard Castlevania and 1 More Drawn by Nigelgraz  69e0aeacbd21aa926397336178e1c040
 an_rf_art_nouveau_alucard_by_ranefea.jpg An Rf Art Nouveau Alucard by Ranefea
 Camilla by Donsveertje.png Camilla by Donsveertje
 Carmilla by Donsveertje.png Carmilla by Donsveertje
@@ -39,6 +45,7 @@ Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg Cas
 castlevania_symphony_of_the_night_by_nicolas_delort.jpg Castlevania Symphony Of The Night by Nicolas Delort
 Dracula_by_katie_silva.jpg Dracula by Katie Silva
 dracula by naranbaatar-ganbold.jpg Dracula by Naranbaatar Ganbold
+__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg   Dracula Castlevania and 1 More Drawn by Amber Goodhart  87d8b78dcf2c98cab8aed36920917e5b
 dracula_order_of_ecclesia.jpg CastleVania Order of Ecclesia by Masaki Hirooka
 Lisa Tepes Portrait by Katie Silva.png Lisa Tepes Portrait by Katie Silva
 portrait_lisa_tepes_by_katie_silva.jpg Lisa Tepes by Katie Silva
@@ -49,6 +56,7 @@ SotN Poster - Alucard by Jhony Caballero.jpg SotN Poster   Alucard by Jhony Caba
 SotN Poster - Dracula by Jhony Caballero.jpg SotN Poster   Dracula by Jhony Caballero
 SotN Poster - Richter by Jhony Caballero.jpg SotN Poster   Richter by Jhony Caballero
 The Devil Forgemaster by Al Santos.jpg The Devil Forgemaster by Al Santos
+__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg   Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul  7f055fa10680c659cb2ae2d002ffdaa8
 zz_castle_castlevania-by-roma-timbreza.jpg Castlevania by Roma Timbreza
 zz_castle_castlevania-by-roma-timbreza.jpg Zz Castle Castlevania by Roma Timbreza
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç

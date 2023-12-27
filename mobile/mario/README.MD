@@ -1,7 +1,21 @@
-# mario - 49
+# mario - 79
+[![12a4830848439cd628c6dd09260a3533.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
+
 [![20231211_115019.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
 
+[![20231220_213840.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg "20231220_213840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg)
+
+[![20231220_213919.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213919.jpg "20231220_213919.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213919.jpg)
+
+[![276122836_5207546689276452_264819243623934142_n.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg "276122836_5207546689276452_264819243623934142_n.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg)
+
 [![3m2a9g0n5uz71.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/3m2a9g0n5uz71.png "3m2a9g0n5uz71.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/3m2a9g0n5uz71.png)
+
+[![6ded0e26843503.5635b4c47d79b.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg "6ded0e26843503.5635b4c47d79b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg)
+
+[![98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg "98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg)
+
+[![9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg "9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg)
 
 [![bob-omb_ciy_bhcwcaasemp.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/bob-omb_ciy_bhcwcaasemp.jpeg "bob-omb_ciy_bhcwcaasemp.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/bob-omb_ciy_bhcwcaasemp.jpeg)
 
@@ -15,9 +29,27 @@ Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68
  Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68a995fda820a20
 Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68a995fda820a20
 
+[![Box_art_-_Super_Mario_Bros_Deluxe.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Box_art_-_Super_Mario_Bros_Deluxe.jpg "Box_art_-_Super_Mario_Bros_Deluxe.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Box_art_-_Super_Mario_Bros_Deluxe.jpg)
+
+[![channels4_profile.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/channels4_profile.png "channels4_profile.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/channels4_profile.png)
+
+[![Clipped_image_20231227_014417.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Clipped_image_20231227_014417.png "Clipped_image_20231227_014417.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Clipped_image_20231227_014417.png)
+
+[![CP77208b.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/CP77208b.jpg "CP77208b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/CP77208b.jpg)
+
+[![desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg "desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg)
+
+[![desktop-wallpaper-mario-star.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/desktop-wallpaper-mario-star.jpg "desktop-wallpaper-mario-star.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/desktop-wallpaper-mario-star.jpg)
+
 [![EW-mKFUU8AIywAt.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/EW-mKFUU8AIywAt.jpeg "EW-mKFUU8AIywAt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/EW-mKFUU8AIywAt.jpeg)
 
 [![F26rILZWAAAzgUi.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/F26rILZWAAAzgUi.jpeg "F26rILZWAAAzgUi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/F26rILZWAAAzgUi.jpeg)
+
+[![fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg "fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg)
+
+[![fzcvn9fdz0361.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fzcvn9fdz0361.png "fzcvn9fdz0361.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fzcvn9fdz0361.png)
+
+[![Guillaume-Morellec-luigi.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Guillaume-Morellec-luigi.png "Guillaume-Morellec-luigi.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Guillaume-Morellec-luigi.png)
 
 [![ Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264
 Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/kirby_boo_king_boo_and_ghost_kirby_mario_and_2_more_drawn_by_poyo_party__sample-aa8ec214ed06ea8c1839dbaf98eb5264.jpg " Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264
@@ -33,6 +65,11 @@ Leaphere Yoshi S Island Drawn by Leaphere 3a4a4dee053d1ecac7a1dd76c519a755
 
 [![Mario by Woofzilla](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario_by_woofzilla.jpg "Mario by Woofzilla")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario_by_woofzilla.jpg)\
 Mario by Woofzilla
+
+[![Mario_ Luigi.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario_%20Luigi.jpeg "Mario_ Luigi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario_%20Luigi.jpeg)
+
+[![Mario Print by Matt Kaufenberg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg "Mario Print by Matt Kaufenberg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg)\
+Mario Print by Matt Kaufenberg
 
 [![Mario The Lizard by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg)\
 Mario The Lizard by Nick Derington
@@ -62,6 +99,8 @@ Ox F2t VlKaQAIJWP2 by Oxfruit
 
 [![pngwing.com (1).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/pngwing.com%20(1).png "pngwing.com (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/pngwing.com%20(1).png)
 
+[![PN_Halloween_2022_Mario_Swoop_Artwork.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/PN_Halloween_2022_Mario_Swoop_Artwork.png "PN_Halloween_2022_Mario_Swoop_Artwork.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/PN_Halloween_2022_Mario_Swoop_Artwork.png)
+
 [![portrait bw.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/portrait%20bw.png "portrait bw.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/portrait%20bw.png)
 
 [![Portrait.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Portrait.png "Portrait.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Portrait.png)
@@ -77,6 +116,9 @@ Princess Peach Mario Luigi Bowser Boo and 15 More Mario Drawn by Parororo C6e72c
 Princess Peach Mario Luigi Bowser Boo and 15 More Mario Drawn by Parororo C6e72c82b554e06a3af58515816b39bd")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/princess_peach_mario_luigi_bowser_boo_and_15_more_mario_drawn_by_parororo__c6e72c82b554e06a3af58515816b39bd.jpg)\
  Princess Peach Mario Luigi Bowser Boo and 15 More Mario Drawn by Parororo C6e72c82b554e06a3af58515816b39bd
 Princess Peach Mario Luigi Bowser Boo and 15 More Mario Drawn by Parororo C6e72c82b554e06a3af58515816b39bd
+
+[![ Princess Peach Mario Luigi Bowser Toad and 11 More Mario and 2 More Drawn by Dettlefff 9a8391468665aec125d446b47d154a15](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/__princess_peach_mario_luigi_bowser_toad_and_11_more_mario_and_2_more_drawn_by_dettlefff__9a8391468665aec125d446b47d154a15.jpg " Princess Peach Mario Luigi Bowser Toad and 11 More Mario and 2 More Drawn by Dettlefff 9a8391468665aec125d446b47d154a15")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/__princess_peach_mario_luigi_bowser_toad_and_11_more_mario_and_2_more_drawn_by_dettlefff__9a8391468665aec125d446b47d154a15.jpg)\
+ Princess Peach Mario Luigi Bowser Toad and 11 More Mario and 2 More Drawn by Dettlefff 9a8391468665aec125d446b47d154a15
 
 [![ Princess Peach Mario Luigi Princess Daisy Bowser and 6 More Mario and 2 More Drawn by Junnosu Cb083edee641bdcd16767e09546f1b1b
 Princess Peach Mario Luigi Princess Daisy Bowser and 6 More Mario and 2 More Drawn by Junnosu Cb083edee641bdcd16767e09546f1b1b](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/princess_peach_mario_luigi_princess_daisy_bowser_and_6_more_mario_and_2_more_drawn_by_junnosu__cb083edee641bdcd16767e09546f1b1b.jpg " Princess Peach Mario Luigi Princess Daisy Bowser and 6 More Mario and 2 More Drawn by Junnosu Cb083edee641bdcd16767e09546f1b1b
@@ -95,6 +137,8 @@ Princess Peach Mario Rosalina Luigi Princess Daisy and 122 More Mario and 51 Mor
 Princess Peach Mario Rosalina Luigi Princess Daisy and 122 More Mario and 51 More Drawn by Palearaptor F0595c73986547ff3136b534bc28fb89")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/princess_peach_mario_rosalina_luigi_princess_daisy_and_122_more_mario_and_51_more_drawn_by_palearaptor__f0595c73986547ff3136b534bc28fb89.png)\
  Princess Peach Mario Rosalina Luigi Princess Daisy and 122 More Mario and 51 More Drawn by Palearaptor F0595c73986547ff3136b534bc28fb89
 Princess Peach Mario Rosalina Luigi Princess Daisy and 122 More Mario and 51 More Drawn by Palearaptor F0595c73986547ff3136b534bc28fb89
+
+[![RDT_20231221_0441596850468904888816271.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/RDT_20231221_0441596850468904888816271.jpg "RDT_20231221_0441596850468904888816271.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/RDT_20231221_0441596850468904888816271.jpg)
 
 [![rosalina_1280976.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_1280976.jpg "rosalina_1280976.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_1280976.jpg)
 
@@ -161,6 +205,20 @@ Rosalina Mario and 1 More Drawn by Miri Cherryjelly 176527c633b0373e4af365cadf55
 
 [![rosalina_rosalina.full.1881057.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_rosalina.full.1881057.jpg "rosalina_rosalina.full.1881057.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_rosalina.full.1881057.jpg)
 
+[![SM3DWBF_Bowser_Art.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SM3DWBF_Bowser_Art.jpg "SM3DWBF_Bowser_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SM3DWBF_Bowser_Art.jpg)
+
+[![SMO_1st_anniversary.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SMO_1st_anniversary.jpg "SMO_1st_anniversary.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SMO_1st_anniversary.jpg)
+
+[![SSB4_Rosalina_Key_Art.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SSB4_Rosalina_Key_Art.jpg "SSB4_Rosalina_Key_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SSB4_Rosalina_Key_Art.jpg)
+
+[![super-mario-power-ups-48228-2880x1800.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg "super-mario-power-ups-48228-2880x1800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg)
+
+[![super-mario-with-gun-black-wallpaper.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-with-gun-black-wallpaper.jpg "super-mario-with-gun-black-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-with-gun-black-wallpaper.jpg)
+
+[![tumblr_mzlkukDWrr1qd4q8ao1_500.gif](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif "tumblr_mzlkukDWrr1qd4q8ao1_500.gif")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif)
+
+[![tumblr_nhoyf76XN51qgzgz6o1_1280.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png "tumblr_nhoyf76XN51qgzgz6o1_1280.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png)
+
 [![ Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
 Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/waluigi_mario_and_1_more_drawn_by_nicholas_theil__795e3a03816e317b21f632c492012651.jpg " Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
 Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/waluigi_mario_and_1_more_drawn_by_nicholas_theil__795e3a03816e317b21f632c492012651.jpg)\
@@ -178,6 +236,10 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg)\
  Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
+
+[![wp4021146-super-mario-bros-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg "wp4021146-super-mario-bros-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg)
+
+[![yoshi_touch_and_go_art_24c178b2.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg "yoshi_touch_and_go_art_24c178b2.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg)
 
 
 

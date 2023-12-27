@@ -1,4 +1,4 @@
-# misc - 64
+# misc - 69
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -8,6 +8,12 @@
 [![84394ed7798e99c4_pxfuel (25).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/84394ed7798e99c4_pxfuel%20(25).jpg "84394ed7798e99c4_pxfuel (25).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/84394ed7798e99c4_pxfuel%20(25).jpg)
 
 [![854a75b84eb84bbc_pxfuel (23).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/854a75b84eb84bbc_pxfuel%20(23).jpg "854a75b84eb84bbc_pxfuel (23).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/854a75b84eb84bbc_pxfuel%20(23).jpg)
+
+[![864bd934f270e696 Acerezak The Eternal by Inkeyjay](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/864bd934f270e696_Acerezak%20the%20Eternal%20by%20inkeyjay.jpg "864bd934f270e696 Acerezak The Eternal by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/864bd934f270e696_Acerezak%20the%20Eternal%20by%20inkeyjay.jpg)\
+864bd934f270e696 Acerezak The Eternal by Inkeyjay
+
+[![868c90137bcb2bf9 Pantheon Eucharist Of The Ravenous by Inkeyjay](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/868c90137bcb2bf9_pantheon-eucharist-of-the-ravenous-by-inkeyjay.jpg "868c90137bcb2bf9 Pantheon Eucharist Of The Ravenous by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/868c90137bcb2bf9_pantheon-eucharist-of-the-ravenous-by-inkeyjay.jpg)\
+868c90137bcb2bf9 Pantheon Eucharist Of The Ravenous by Inkeyjay
 
 [![86c24b24b55a797d_Gorgeous Space.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/86c24b24b55a797d_Gorgeous%20Space.jpg "86c24b24b55a797d_Gorgeous Space.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/86c24b24b55a797d_Gorgeous%20Space.jpg)
 
@@ -29,6 +35,8 @@
 
 [![94953881377ddd58_peakpx(20).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94953881377ddd58_peakpx(20).jpg "94953881377ddd58_peakpx(20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94953881377ddd58_peakpx(20).jpg)
 
+[![94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg "94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg)
+
 [![9587277d3c98aa62_woofzilla_88031078_p0.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg "9587277d3c98aa62_woofzilla_88031078_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg)
 
 [![95ea4b94e46b3493_Dark Forest.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg "95ea4b94e46b3493_Dark Forest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg)
@@ -43,8 +51,6 @@
 [![97e876a9cc263156_pxfuel (38).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/97e876a9cc263156_pxfuel%20(38).jpg "97e876a9cc263156_pxfuel (38).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/97e876a9cc263156_pxfuel%20(38).jpg)
 
 [![98dc63238c8d33f3_Moon.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/98dc63238c8d33f3_Moon.jpg "98dc63238c8d33f3_Moon.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/98dc63238c8d33f3_Moon.jpg)
-
-[![999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg "999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg)
 
 [![99cd4d181ccce5f1_pxfuel (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg "99cd4d181ccce5f1_pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg)
 
@@ -85,12 +91,15 @@ C0e01f97e078c3e7 The Moon by Ari Ibarra
 [![C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg "C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg)\
 C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit
 
+[![C17cc5983cbc3f14 by Inkeyjay](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg "C17cc5983cbc3f14 by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg)\
+C17cc5983cbc3f14 by Inkeyjay
+
 [![c1f21a2ce7d18c1f_peakpx(8).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c1f21a2ce7d18c1f_peakpx(8).jpg "c1f21a2ce7d18c1f_peakpx(8).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c1f21a2ce7d18c1f_peakpx(8).jpg)
 
-[![C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c3cc2cb33297cb2c_iwilding_demonssouls_by_ian_wilding.jpg "C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c3cc2cb33297cb2c_iwilding_demonssouls_by_ian_wilding.jpg)\
-C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding
-
 [![c4c47b1ee4e59a94_pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c4c47b1ee4e59a94_pxfuel.jpg "c4c47b1ee4e59a94_pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c4c47b1ee4e59a94_pxfuel.jpg)
+
+[![C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c5c2ca1e9c5a6a57_termperance%20godkiller%20by%20inkeyjay.jpg "C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c5c2ca1e9c5a6a57_termperance%20godkiller%20by%20inkeyjay.jpg)\
+C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay
 
 [![c63f39c06e3ad065_pxfuel (58).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c63f39c06e3ad065_pxfuel%20(58).jpg "c63f39c06e3ad065_pxfuel (58).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c63f39c06e3ad065_pxfuel%20(58).jpg)
 
@@ -123,7 +132,12 @@ D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding
 
 [![d5304b1fd876710d_6406800.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg)
 
+[![d70de486af311927_FLXA97vXoAIBTpW.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
+
 [![dfdda5a232124c4d_pxfuel (40).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
+
+[![E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png "E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png)\
+E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01
 
 [![e6ce49b31a44275b_20231217_203424.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg "e6ce49b31a44275b_20231217_203424.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg)
 

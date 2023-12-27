@@ -1,4 +1,4 @@
-# metroid - 152
+# metroid - 156
 [![013ajqkptu571.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/013ajqkptu571.jpg "013ajqkptu571.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/013ajqkptu571.jpg)
 
 [![07c8a8854a5f5030deeaa82589d5e6516aae134d.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/07c8a8854a5f5030deeaa82589d5e6516aae134d.jpg "07c8a8854a5f5030deeaa82589d5e6516aae134d.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/07c8a8854a5f5030deeaa82589d5e6516aae134d.jpg)
@@ -73,6 +73,8 @@ Caverns Of Norfair by Francoyovich Db8l78r
 
 [![chara_fate_sp.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chara_fate_sp.png "chara_fate_sp.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chara_fate_sp.png)
 
+[![chozo-artifact-wallpaper-v0-evm7skd5pk1a1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chozo-artifact-wallpaper-v0-evm7skd5pk1a1.png "chozo-artifact-wallpaper-v0-evm7skd5pk1a1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chozo-artifact-wallpaper-v0-evm7skd5pk1a1.png)
+
 [![chozo_manual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chozo_manual.jpg "chozo_manual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/chozo_manual.jpg)
 
 [![Classic Samus Zero Suit by Sawuinhaff Dez1awk](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/classic_samus__zero_suit__by_sawuinhaff_dez1awk.png "Classic Samus Zero Suit by Sawuinhaff Dez1awk")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/classic_samus__zero_suit__by_sawuinhaff_dez1awk.png)\
@@ -126,6 +128,8 @@ Explore by ZeroMayhem
 
 [![km-kaw-asset.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/km-kaw-asset.jpg "km-kaw-asset.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/km-kaw-asset.jpg)
 
+[![m0tsp8yni2671.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/m0tsp8yni2671.jpg "m0tsp8yni2671.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/m0tsp8yni2671.jpg)
+
 [![map_03_capture_map_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/map_03_capture_map_1.png "map_03_capture_map_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/map_03_capture_map_1.png)
 
 [![map_03_capture_map_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/map_03_capture_map_2.png "map_03_capture_map_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/map_03_capture_map_2.png)
@@ -148,6 +152,8 @@ Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da4963
 
 [![Metroid by Splashbrush Dbcly1r](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid_by_splashbrush_dbcly1r.jpg "Metroid by Splashbrush Dbcly1r")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid_by_splashbrush_dbcly1r.jpg)\
 Metroid by Splashbrush Dbcly1r
+
+[![Metroid+color.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid+color.jpg "Metroid+color.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid+color.jpg)
 
 [![Metroid Dread by Stariah](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20dread%20by%20stariah.jpeg "Metroid Dread by Stariah")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20dread%20by%20stariah.jpeg)\
 Metroid Dread by Stariah
@@ -400,6 +406,8 @@ Sa X and X Parasite Metroid Drawn by Kosmonauttihai F68acffa1d72844a3c3bcf251040
 [![sm_intro_samus_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_intro_samus_enlarged.png "sm_intro_samus_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_intro_samus_enlarged.png)
 
 [![sm_intro_scientist_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_intro_scientist_enlarged.png "sm_intro_scientist_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_intro_scientist_enlarged.png)
+
+[![sm_zebes_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_zebes_enlarged.png "sm_zebes_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/sm_zebes_enlarged.png)
 
 [![Super Metroid by Rokusho1345](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Super%20metroid%20by%20rokusho1345.png "Super Metroid by Rokusho1345")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Super%20metroid%20by%20rokusho1345.png)\
 Super Metroid by Rokusho1345

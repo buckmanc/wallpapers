@@ -1,7 +1,9 @@
-# pokemon - 77
+# pokemon - 83
 [![20231214_033711.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/20231214_033711.jpg "20231214_033711.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/20231214_033711.jpg)
 
 [![43c9126f-6176-428c-95c2-9790728f0d6b.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/43c9126f-6176-428c-95c2-9790728f0d6b.jpeg "43c9126f-6176-428c-95c2-9790728f0d6b.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/43c9126f-6176-428c-95c2-9790728f0d6b.jpeg)
+
+[![anscbb7zrg541.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/anscbb7zrg541.jpg "anscbb7zrg541.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/anscbb7zrg541.jpg)
 
 [![Attack On Wooloo by Flyaspring4](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/attack_on_wooloo_by_flyaspring4.jpg "Attack On Wooloo by Flyaspring4")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/attack_on_wooloo_by_flyaspring4.jpg)\
 Attack On Wooloo by Flyaspring4
@@ -105,8 +107,6 @@ Pumpkaboo by Artico D6usi6u
 
 [![pxfuel (2).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(2).jpg "pxfuel (2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(2).jpg)
 
-[![pxfuel (3).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(3).jpg "pxfuel (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(3).jpg)
-
 [![pxfuel (4).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(4).jpg "pxfuel (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(4).jpg)
 
 [![pxfuel (52).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(52).jpg "pxfuel (52).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel%20(52).jpg)
@@ -118,6 +118,24 @@ Pumpkaboo by Artico D6usi6u
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel.jpg)
 
 [![sample_4094320759f2df43904ac65ea68982e2030308b2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sample_4094320759f2df43904ac65ea68982e2030308b2.jpg "sample_4094320759f2df43904ac65ea68982e2030308b2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sample_4094320759f2df43904ac65ea68982e2030308b2.jpg)
+
+[![Sg Ss Charizard Stained Glass by Sarcastic Sketches 666397174184247296 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_charizard_stained_glass_by_sarcastic_sketches_666397174184247296_01.jpg "Sg Ss Charizard Stained Glass by Sarcastic Sketches 666397174184247296 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_charizard_stained_glass_by_sarcastic_sketches_666397174184247296_01.jpg)\
+Sg Ss Charizard Stained Glass by Sarcastic Sketches 666397174184247296 01
+
+[![Sg Ss Eevee Flareon Stained Glass by Sarcastic Sketches 181654631475 03](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_flareon_stained_glass_by_sarcastic_sketches_181654631475_03.jpg "Sg Ss Eevee Flareon Stained Glass by Sarcastic Sketches 181654631475 03")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_flareon_stained_glass_by_sarcastic_sketches_181654631475_03.jpg)\
+Sg Ss Eevee Flareon Stained Glass by Sarcastic Sketches 181654631475 03
+
+[![Sg Ss Eevee Jolteon Stained Glass by Sarcastic Sketches 181654631475 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_jolteon_stained_glass_by_sarcastic_sketches_181654631475_01.jpg "Sg Ss Eevee Jolteon Stained Glass by Sarcastic Sketches 181654631475 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_jolteon_stained_glass_by_sarcastic_sketches_181654631475_01.jpg)\
+Sg Ss Eevee Jolteon Stained Glass by Sarcastic Sketches 181654631475 01
+
+[![Sg Ss Eeveelutions Stained Glass by Sarcastic Sketches 181526897260 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eeveelutions_stained_glass_by_sarcastic_sketches_181526897260_01.png "Sg Ss Eeveelutions Stained Glass by Sarcastic Sketches 181526897260 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eeveelutions_stained_glass_by_sarcastic_sketches_181526897260_01.png)\
+Sg Ss Eeveelutions Stained Glass by Sarcastic Sketches 181526897260 01
+
+[![Sg Ss Eevee Vaporeon Stained Glass by Sarcastic Sketches 181654631475 02](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_vaporeon_stained_glass_by_sarcastic_sketches_181654631475_02.jpg "Sg Ss Eevee Vaporeon Stained Glass by Sarcastic Sketches 181654631475 02")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_eevee_vaporeon_stained_glass_by_sarcastic_sketches_181654631475_02.jpg)\
+Sg Ss Eevee Vaporeon Stained Glass by Sarcastic Sketches 181654631475 02
+
+[![Sg Ss Lugia Stained Glass by Sarcastic Sketches 666397174184247296 02](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_lugia_stained_glass_by_sarcastic_sketches_666397174184247296_02.jpg "Sg Ss Lugia Stained Glass by Sarcastic Sketches 666397174184247296 02")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_lugia_stained_glass_by_sarcastic_sketches_666397174184247296_02.jpg)\
+Sg Ss Lugia Stained Glass by Sarcastic Sketches 666397174184247296 02
 
 [![sleeping-wooloo-and-dubwool-jjcv79fdrhj1otcj.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sleeping-wooloo-and-dubwool-jjcv79fdrhj1otcj.jpg "sleeping-wooloo-and-dubwool-jjcv79fdrhj1otcj.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sleeping-wooloo-and-dubwool-jjcv79fdrhj1otcj.jpg)
 

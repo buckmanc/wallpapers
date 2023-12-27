@@ -60,5 +60,5 @@ echo "<p>gitroot: $gitroot</p>"
 echo "<p>sourcePath: $sourcePath</p>"
 echo "<p>thumbSource: $thumbSource</p>"
 
-convert "$sourcePath" -trim "$sourcePath"
+centertrim "$sourcePath" "$sourcePath"
 rm "$thumbSource"

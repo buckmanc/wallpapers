@@ -1,9 +1,11 @@
-# misc - 52
+# misc - 53
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 
 [![856a7e192aa7d01f_towashi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 
 [![85d07c8f13648b7b_BatSwarm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
+
+[![89059525c7bde783_SM3DWBF_Bowser_Art.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg "89059525c7bde783_SM3DWBF_Bowser_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg)
 
 [![89c8b1623675b7c5_peakpx (8).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89c8b1623675b7c5_peakpx%20(8).jpg "89c8b1623675b7c5_peakpx (8).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89c8b1623675b7c5_peakpx%20(8).jpg)
 

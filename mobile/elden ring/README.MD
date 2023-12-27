@@ -1,4 +1,4 @@
-# elden ring - 16
+# elden ring - 19
 [![1466574cb6634d178b56229b9926ef7afc373761.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/1466574cb6634d178b56229b9926ef7afc373761.jpg "1466574cb6634d178b56229b9926ef7afc373761.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/1466574cb6634d178b56229b9926ef7afc373761.jpg)
 
 [![35e162dfcb3d720e62376a211988dffcddca77f4.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/35e162dfcb3d720e62376a211988dffcddca77f4.jpg "35e162dfcb3d720e62376a211988dffcddca77f4.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/35e162dfcb3d720e62376a211988dffcddca77f4.jpg)
@@ -14,6 +14,9 @@
 [![A Princess and Her Vassal by Quirkilicious Df3fi0i](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/a_princess_and_her_vassal_by_quirkilicious_df3fi0i.jpg "A Princess and Her Vassal by Quirkilicious Df3fi0i")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/a_princess_and_her_vassal_by_quirkilicious_df3fi0i.jpg)\
 A Princess and Her Vassal by Quirkilicious Df3fi0i
 
+[![ Blaidd The Half Wolf Elden Ring Drawn by Anato Finnstark 84c799e8ed4cc9da4ccc5c442bae11ec](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__blaidd_the_half_wolf_elden_ring_drawn_by_anato_finnstark__84c799e8ed4cc9da4ccc5c442bae11ec.jpg " Blaidd The Half Wolf Elden Ring Drawn by Anato Finnstark 84c799e8ed4cc9da4ccc5c442bae11ec")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__blaidd_the_half_wolf_elden_ring_drawn_by_anato_finnstark__84c799e8ed4cc9da4ccc5c442bae11ec.jpg)\
+ Blaidd The Half Wolf Elden Ring Drawn by Anato Finnstark 84c799e8ed4cc9da4ccc5c442bae11ec
+
 [![c08c9a062d858d787afbf0de363c772b0763b827.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/c08c9a062d858d787afbf0de363c772b0763b827.jpg "c08c9a062d858d787afbf0de363c772b0763b827.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/c08c9a062d858d787afbf0de363c772b0763b827.jpg)
 
 [![c3fb3a3002d891fe4cf9589d0750aca709304194.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/c3fb3a3002d891fe4cf9589d0750aca709304194.jpg "c3fb3a3002d891fe4cf9589d0750aca709304194.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/c3fb3a3002d891fe4cf9589d0750aca709304194.jpg)
@@ -26,7 +29,13 @@ A Princess and Her Vassal by Quirkilicious Df3fi0i
 
 [![F-zmAXSbcAALyU9.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/F-zmAXSbcAALyU9.jpeg "F-zmAXSbcAALyU9.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/F-zmAXSbcAALyU9.jpeg)
 
+[![ Melina and Gloam Eyed Queen Elden Ring Drawn by Anato Finnstark 8e662b93cb04d494d50e431b5d4bc9bc](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__melina_and_gloam_eyed_queen_elden_ring_drawn_by_anato_finnstark__8e662b93cb04d494d50e431b5d4bc9bc.jpg " Melina and Gloam Eyed Queen Elden Ring Drawn by Anato Finnstark 8e662b93cb04d494d50e431b5d4bc9bc")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__melina_and_gloam_eyed_queen_elden_ring_drawn_by_anato_finnstark__8e662b93cb04d494d50e431b5d4bc9bc.jpg)\
+ Melina and Gloam Eyed Queen Elden Ring Drawn by Anato Finnstark 8e662b93cb04d494d50e431b5d4bc9bc
+
 [![ranni_the_witch_with_big_hat_hd_elden_ring_2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/ranni_the_witch_with_big_hat_hd_elden_ring_2.jpg "ranni_the_witch_with_big_hat_hd_elden_ring_2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/ranni_the_witch_with_big_hat_hd_elden_ring_2.jpg)
+
+[![ Tarnished and Bloody Wolf Elden Ring Drawn by Anato Finnstark 63549abe56a55c808df9a8ea0e3db774](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__tarnished_and_bloody_wolf_elden_ring_drawn_by_anato_finnstark__63549abe56a55c808df9a8ea0e3db774.jpg " Tarnished and Bloody Wolf Elden Ring Drawn by Anato Finnstark 63549abe56a55c808df9a8ea0e3db774")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/__tarnished_and_bloody_wolf_elden_ring_drawn_by_anato_finnstark__63549abe56a55c808df9a8ea0e3db774.jpg)\
+ Tarnished and Bloody Wolf Elden Ring Drawn by Anato Finnstark 63549abe56a55c808df9a8ea0e3db774
 
 [![wp11118577-elden-ring-ranni-the-witch-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/wp11118577-elden-ring-ranni-the-witch-wallpapers.jpg "wp11118577-elden-ring-ranni-the-witch-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/wp11118577-elden-ring-ranni-the-witch-wallpapers.jpg)
 

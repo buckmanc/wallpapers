@@ -1,5 +1,7 @@
-# nintendo - 34
+# nintendo - 42
 [![1445886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg)
+
+[![1996 Green pocket gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg)
 
 [![3191590.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/3191590.png "3191590.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/3191590.png)
 
@@ -14,11 +16,18 @@
 [![Advent Of The Deliverer by Gigi D G](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/advent_of_the_deliverer_by_gigi_d_g.png "Advent Of The Deliverer by Gigi D G")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/advent_of_the_deliverer_by_gigi_d_g.png)\
 Advent Of The Deliverer by Gigi D G
 
+[![Aesthetic Black Gameboy Advance SP Wallpaper.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Aesthetic%20Black%20Gameboy%20Advance%20SP%20Wallpaper.jpeg "Aesthetic Black Gameboy Advance SP Wallpaper.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Aesthetic%20Black%20Gameboy%20Advance%20SP%20Wallpaper.jpeg)
+
 [![cnxUSBX.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/cnxUSBX.jpeg "cnxUSBX.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/cnxUSBX.jpeg)
+
+[![e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg "e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg)
 
 [![Game_Boy_Play_It_Loud!_Transparent_American_Edition.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Game_Boy_Play_It_Loud!_Transparent_American_Edition.png "Game_Boy_Play_It_Loud!_Transparent_American_Edition.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Game_Boy_Play_It_Loud!_Transparent_American_Edition.png)
 
 [![link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg "link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg)
+
+[![ Link Pikachu Princess Zelda Samus Aran Kirby and 55 More Pokemon and 34 More Drawn by Saiba Henrietta 345d400ee0c0d193e6021f5f54d03ec0](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/__link_pikachu_princess_zelda_samus_aran_kirby_and_55_more_pokemon_and_34_more_drawn_by_saiba_henrietta__345d400ee0c0d193e6021f5f54d03ec0.jpg " Link Pikachu Princess Zelda Samus Aran Kirby and 55 More Pokemon and 34 More Drawn by Saiba Henrietta 345d400ee0c0d193e6021f5f54d03ec0")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/__link_pikachu_princess_zelda_samus_aran_kirby_and_55_more_pokemon_and_34_more_drawn_by_saiba_henrietta__345d400ee0c0d193e6021f5f54d03ec0.jpg)\
+ Link Pikachu Princess Zelda Samus Aran Kirby and 55 More Pokemon and 34 More Drawn by Saiba Henrietta 345d400ee0c0d193e6021f5f54d03ec0
 
 [![ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higurashi Ryuuji 6077e722d9c3a3eb52d29a3bc64ceabe
 Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higurashi Ryuuji 6077e722d9c3a3eb52d29a3bc64ceabe](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/link_pikachu_samus_aran_kirby_mario_and_5_more_pokemon_and_10_more_drawn_by_higurashi_ryuuji__6077e722d9c3a3eb52d29a3bc64ceabe.png " Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higurashi Ryuuji 6077e722d9c3a3eb52d29a3bc64ceabe
@@ -47,6 +56,8 @@ Nes Controller Wallpaper by Doctor G D41urm3
 
 [![peakpx (6).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(6).jpg "peakpx (6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(6).jpg)
 
+[![Popular Graphic Design Trends in 2016.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Popular%20Graphic%20Design%20Trends%20in%202016.jpeg "Popular Graphic Design Trends in 2016.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Popular%20Graphic%20Design%20Trends%20in%202016.jpeg)
+
 [![pxfuel (11).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(11).jpg "pxfuel (11).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(11).jpg)
 
 [![pxfuel (18).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(18).jpg "pxfuel (18).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(18).jpg)
@@ -66,6 +77,12 @@ Nes Controller Wallpaper by Doctor G D41urm3
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel.jpg)
 
 [![SMB1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SMB1.png "SMB1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SMB1.png)
+
+[![SSB4_-_Robin_Lucina_Illustration.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg)
+
+[![Wallpaper Zelda Gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg "Wallpaper Zelda Gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg)
+
+[![wp2453886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp2453886.jpg "wp2453886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp2453886.jpg)
 
 [![wp8687365-gameboy-color-iphone-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg "wp8687365-gameboy-color-iphone-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg)
 
