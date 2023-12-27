@@ -1,4 +1,4 @@
-# desktop - 432
+# desktop - 431
 - [castlevania](#castlevania) - 5
 - [castlevania pixel](#castlevania-pixel) - 6
 - [forests](#forests) - 113
@@ -15,7 +15,7 @@
 - [synthwave](#synthwave) - 27
 - [the legend of zelda](#the-legend-of-zelda) - 9
 - [tmnt](#tmnt) - 15
-- [tolkien](#tolkien) - 29
+- [tolkien](#tolkien) - 28
 - [tomb raider 2013](#tomb-raider-) - 11
 - [vector vistas](#vector-vistas) - 10
 - [villages](#villages) - 5
@@ -472,7 +472,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="tolkien"></a>
 
-## [tolkien](/desktop/tolkien/README.MD) - 29
+## [tolkien](/desktop/tolkien/README.MD) - 28
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)
 [![Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
@@ -494,7 +494,6 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![Nazgul Frodo Baggins and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_frodo_baggins_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Frodo Baggins and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_frodo_baggins_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 3fed5fe2ba2ecfc3f1bfc1edd4a4aae6](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3fed5fe2ba2ecfc3f1bfc1edd4a4aae6.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 3fed5fe2ba2ecfc3f1bfc1edd4a4aae6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3fed5fe2ba2ecfc3f1bfc1edd4a4aae6.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg)
-[![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png "Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png)

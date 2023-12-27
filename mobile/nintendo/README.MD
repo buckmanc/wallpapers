@@ -1,4 +1,4 @@
-# nintendo - 42
+# nintendo - 41
 [![1445886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg)
 
 [![1996 Green pocket gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg)
@@ -48,7 +48,7 @@ Nes Controller Wallpaper by Doctor G D41urm3
 
 [![peakpx (32).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(32).jpg "peakpx (32).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(32).jpg)
 
-[![peakpx (33).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(33).jpg "peakpx (33).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(33).jpg)
+[![peakpx_33.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx_33.jpg "peakpx_33.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx_33.jpg)
 
 [![peakpx (38).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(38).jpg "peakpx (38).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(38).jpg)
 
@@ -81,8 +81,6 @@ Nes Controller Wallpaper by Doctor G D41urm3
 [![SSB4_-_Robin_Lucina_Illustration.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg)
 
 [![Wallpaper Zelda Gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg "Wallpaper Zelda Gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg)
-
-[![wp2453886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp2453886.jpg "wp2453886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp2453886.jpg)
 
 [![wp8687365-gameboy-color-iphone-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg "wp8687365-gameboy-color-iphone-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg)
 

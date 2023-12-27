@@ -392,7 +392,6 @@
 /desktop/tolkien/nazgul_frodo_baggins_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg
 /desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3fed5fe2ba2ecfc3f1bfc1edd4a4aae6.jpg
 /desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg
-/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg
 /desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg
 /desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg
 /desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png
@@ -784,7 +783,8 @@
 /mobile/castlevania pixel/sotn-castle_keep-flippy_relief_enlarged.png
 /mobile/castlevania pixel/sotn-chapel-painting_enlarged.png
 /mobile/castlevania pixel/sotn-ending_enlarged.png
-/mobile/castlevania pixel/sotn-entrance_enlarged.png
+/mobile/castlevania pixel/sotn-entrance_enlarged (1).png
+/mobile/castlevania pixel/sotn-entrance_enlarged (2).png
 /mobile/castlevania pixel/sotn-marble_gallery-statue_enlarged.png
 /mobile/castlevania pixel/sotn-zz-magic_missile_out_enlarged.png
 /mobile/castlevania pixel/sotn-zz-pentagram_out_enlarged.png
@@ -862,7 +862,6 @@
 /mobile/frog/frog_wizard_by_greenbeedrill888_dg1y4lx.png
 /mobile/frog/FsLSOt4WwAASspt.jpeg
 /mobile/frog/il_1080xN.4211184424_2ixp.jpg
-/mobile/frog/resized_everybody-croaks.png
 /mobile/frog/wizard frog by Dingzhong Hu.png
 /mobile/gideon the ninth/976791.jpg
 /mobile/gideon the ninth/976797.jpg
@@ -972,6 +971,7 @@
 /mobile/mario/waluigi_mario_and_1_more_drawn_by_nicholas_theil__795e3a03816e317b21f632c492012651.jpg
 /mobile/mario/wario_and_waluigi_mario_and_2_more_drawn_by_voodoothur__c02ed1f98e29c4dcf84eac6c9cd8fd2f.png
 /mobile/mario/wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg
+/mobile/mario/wp2453886.jpg
 /mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg
 /mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg
 /mobile/mega man/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png
@@ -1530,7 +1530,7 @@
 /mobile/nintendo/peakpx (1).jpg
 /mobile/nintendo/peakpx (2).jpg
 /mobile/nintendo/peakpx (32).jpg
-/mobile/nintendo/peakpx (33).jpg
+/mobile/nintendo/peakpx_33.jpg
 /mobile/nintendo/peakpx (38).jpg
 /mobile/nintendo/peakpx (4).jpg
 /mobile/nintendo/peakpx (6).jpg
@@ -1547,7 +1547,6 @@
 /mobile/nintendo/SMB1.png
 /mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg
 /mobile/nintendo/Wallpaper Zelda Gameboy.jpeg
-/mobile/nintendo/wp2453886.jpg
 /mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg
 /mobile/nintendo/wp8687460-gameboy-color-iphone-wallpapers.jpg
 /mobile/nintendo/wp9759104-game-boy-color-wallpapers.png

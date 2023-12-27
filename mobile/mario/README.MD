@@ -1,4 +1,4 @@
-# mario - 79
+# mario - 80
 [![12a4830848439cd628c6dd09260a3533.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
 
 [![20231211_115019.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
@@ -236,6 +236,8 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg)\
  Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
+
+[![wp2453886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp2453886.jpg "wp2453886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp2453886.jpg)
 
 [![wp4021146-super-mario-bros-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg "wp4021146-super-mario-bros-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg)
 

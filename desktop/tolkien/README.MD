@@ -1,4 +1,4 @@
-# tolkien - 29
+# tolkien - 28
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)\
  Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde
 
@@ -61,9 +61,6 @@ Nazgul Frodo Baggins and Witch King Of Angmar Tolkien S Legendarium and 1 More D
 
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg)\
  Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b
-
-[![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg)\
- Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d
 
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg)\
  Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5

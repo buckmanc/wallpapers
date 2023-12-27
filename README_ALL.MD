@@ -1,4 +1,4 @@
-# Wallpapers - 2,257
+# Wallpapers - 2,256
 - [desktop/castlevania](#desktop-castlevania) - 5
 - [desktop/castlevania pixel](#desktop-castlevania-pixel) - 6
 - [desktop/forests](#desktop-forests) - 113
@@ -15,7 +15,7 @@
 - [desktop/synthwave](#desktop-synthwave) - 27
 - [desktop/the legend of zelda](#desktop-the-legend-of-zelda) - 9
 - [desktop/tmnt](#desktop-tmnt) - 15
-- [desktop/tolkien](#desktop-tolkien) - 29
+- [desktop/tolkien](#desktop-tolkien) - 28
 - [desktop/tomb raider 2013](#desktop-tomb-raider-) - 11
 - [desktop/vector vistas](#desktop-vector-vistas) - 10
 - [desktop/villages](#desktop-villages) - 5
@@ -23,14 +23,14 @@
 - [floaters/steven rhodes](#floaters-steven-rhodes) - 188
 - [floaters/teeturtle](#floaters-teeturtle) - 53
 - [mobile/castlevania](#mobile-castlevania) - 109
-- [mobile/castlevania pixel](#mobile-castlevania-pixel) - 9
+- [mobile/castlevania pixel](#mobile-castlevania-pixel) - 10
 - [mobile/dan mumford](#mobile-dan-mumford) - 43
 - [mobile/elden ring](#mobile-elden-ring) - 19
-- [mobile/frog](#mobile-frog) - 13
+- [mobile/frog](#mobile-frog) - 12
 - [mobile/gideon the ninth](#mobile-gideon-the-ninth) - 7
 - [mobile/kirby](#mobile-kirby) - 5
 - [mobile/leaves](#mobile-leaves) - 19
-- [mobile/mario](#mobile-mario) - 79
+- [mobile/mario](#mobile-mario) - 80
 - [mobile/mega man](#mobile-mega-man) - 227
 - [mobile/mega man pixel](#mobile-mega-man-pixel) - 25
 - [mobile/metroid](#mobile-metroid) - 156
@@ -40,7 +40,7 @@
 - [mobile/misc pixel](#mobile-misc-pixel) - 1
 - [mobile/mistborn](#mobile-mistborn) - 35
 - [mobile/murderbot](#mobile-murderbot) - 6
-- [mobile/nintendo](#mobile-nintendo) - 42
+- [mobile/nintendo](#mobile-nintendo) - 41
 - [mobile/pokemon](#mobile-pokemon) - 83
 - [mobile/pokemon isometrics by leaphere](#mobile-pokemon-isometrics-by-leaphere) - 65
 - [mobile/pokemon patterns](#mobile-pokemon-patterns) - 38
@@ -510,7 +510,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="desktop-tolkien"></a>
 
-## [desktop/tolkien](/desktop/tolkien/README.MD) - 29
+## [desktop/tolkien](/desktop/tolkien/README.MD) - 28
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)
 [![Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
@@ -532,7 +532,6 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![Nazgul Frodo Baggins and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_frodo_baggins_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Frodo Baggins and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_frodo_baggins_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 3fed5fe2ba2ecfc3f1bfc1edd4a4aae6](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3fed5fe2ba2ecfc3f1bfc1edd4a4aae6.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 3fed5fe2ba2ecfc3f1bfc1edd4a4aae6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3fed5fe2ba2ecfc3f1bfc1edd4a4aae6.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4d81d7960df2e1ec931e1533585b3d7b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4d81d7960df2e1ec931e1533585b3d7b.jpg)
-[![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 4f1ba02fa6b2366292c804f245eb6a0d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__4f1ba02fa6b2366292c804f245eb6a0d.jpg)
 [![ Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg " Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark 65704aff9efb5f52ce4178485bbd9bc5")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__65704aff9efb5f52ce4178485bbd9bc5.jpg)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png "Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png)
@@ -961,12 +960,13 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="mobile-castlevania-pixel"></a>
 
-## [mobile/castlevania pixel](/mobile/castlevania%20pixel/README.MD) - 9
+## [mobile/castlevania pixel](/mobile/castlevania%20pixel/README.MD) - 10
 [![sotn-alchemy_lab_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 [![sotn-castle_keep-flippy_relief_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png "sotn-castle_keep-flippy_relief_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png)
 [![sotn-chapel-painting_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-chapel-painting_enlarged.png "sotn-chapel-painting_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-chapel-painting_enlarged.png)
 [![sotn-ending_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-ending_enlarged.png "sotn-ending_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-ending_enlarged.png)
-[![sotn-entrance_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-entrance_enlarged.png "sotn-entrance_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged.png)
+[![sotn-entrance_enlarged (1).png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(1).png "sotn-entrance_enlarged (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(1).png)
+[![sotn-entrance_enlarged (2).png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png "sotn-entrance_enlarged (2).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png)
 [![sotn-marble_gallery-statue_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
 [![sotn-zz-magic_missile_out_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-zz-magic_missile_out_enlarged.png "sotn-zz-magic_missile_out_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-zz-magic_missile_out_enlarged.png)
 [![sotn-zz-pentagram_out_enlarged.png](/.internals/thumbnails/mobile/castlevania%20pixel/sotn-zz-pentagram_out_enlarged.png "sotn-zz-pentagram_out_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-zz-pentagram_out_enlarged.png)
@@ -1044,7 +1044,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="mobile-frog"></a>
 
-## [mobile/frog](/mobile/frog/README.MD) - 13
+## [mobile/frog](/mobile/frog/README.MD) - 12
 [![20231216_133833.jpg](/.internals/thumbnails/mobile/frog/20231216_133833.jpg "20231216_133833.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/20231216_133833.jpg)
 [![A Frog and His Son by Dingzhong Hu](/.internals/thumbnails/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog and His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg)
 [![A Frog Reading To His Son by Dingzhong Hu](/.internals/thumbnails/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog Reading To His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg)
@@ -1056,7 +1056,6 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![Frog Wizard by Greenbeedrill888 Dg1y4lx](/.internals/thumbnails/mobile/frog/frog_wizard_by_greenbeedrill888_dg1y4lx.png "Frog Wizard by Greenbeedrill888 Dg1y4lx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog_wizard_by_greenbeedrill888_dg1y4lx.png)
 [![FsLSOt4WwAASspt.jpeg](/.internals/thumbnails/mobile/frog/FsLSOt4WwAASspt.jpeg "FsLSOt4WwAASspt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/FsLSOt4WwAASspt.jpeg)
 [![il_1080xN.4211184424_2ixp.jpg](/.internals/thumbnails/mobile/frog/il_1080xN.4211184424_2ixp.jpg "il_1080xN.4211184424_2ixp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/il_1080xN.4211184424_2ixp.jpg)
-[![resized_everybody-croaks.png](/.internals/thumbnails/mobile/frog/resized_everybody-croaks.png "resized_everybody-croaks.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/resized_everybody-croaks.png)
 [![Wizard Frog by Dingzhong Hu](/.internals/thumbnails/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png "Wizard Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png)
 
 <a id="mobile-gideon-the-ninth"></a>
@@ -1104,7 +1103,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="mobile-mario"></a>
 
-## [mobile/mario](/mobile/mario/README.MD) - 79
+## [mobile/mario](/mobile/mario/README.MD) - 80
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
 [![20231211_115019.jpg](/.internals/thumbnails/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
 [![20231220_213840.jpg](/.internals/thumbnails/mobile/mario/20231220_213840.jpg "20231220_213840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg)
@@ -1218,6 +1217,7 @@ Wario and Waluigi Mario and 2 More Drawn by Voodoothur C02ed1f98e29c4dcf84eac6c9
 [![ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1](/.internals/thumbnails/mobile/mario/wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg " Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1
 Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5afa1")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg)
+[![wp2453886.jpg](/.internals/thumbnails/mobile/mario/wp2453886.jpg "wp2453886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp2453886.jpg)
 [![wp4021146-super-mario-bros-wallpapers.jpg](/.internals/thumbnails/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg "wp4021146-super-mario-bros-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/wp4021146-super-mario-bros-wallpapers.jpg)
 [![yoshi_touch_and_go_art_24c178b2.jpeg](/.internals/thumbnails/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg "yoshi_touch_and_go_art_24c178b2.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg)
 
@@ -1904,7 +1904,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="mobile-nintendo"></a>
 
-## [mobile/nintendo](/mobile/nintendo/README.MD) - 42
+## [mobile/nintendo](/mobile/nintendo/README.MD) - 41
 [![1445886.jpg](/.internals/thumbnails/mobile/nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg)
 [![1996 Green pocket gameboy.jpeg](/.internals/thumbnails/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg)
 [![3191590.png](/.internals/thumbnails/mobile/nintendo/3191590.png "3191590.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/3191590.png)
@@ -1928,7 +1928,7 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 [![peakpx (1).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(1).jpg "peakpx (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(1).jpg)
 [![peakpx (2).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(2).jpg "peakpx (2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(2).jpg)
 [![peakpx (32).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(32).jpg "peakpx (32).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(32).jpg)
-[![peakpx (33).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(33).jpg "peakpx (33).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(33).jpg)
+[![peakpx_33.jpg](/.internals/thumbnails/mobile/nintendo/peakpx_33.jpg "peakpx_33.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx_33.jpg)
 [![peakpx (38).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(38).jpg "peakpx (38).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(38).jpg)
 [![peakpx (4).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(4).jpg "peakpx (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(4).jpg)
 [![peakpx (6).jpg](/.internals/thumbnails/mobile/nintendo/peakpx%20(6).jpg "peakpx (6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/peakpx%20(6).jpg)
@@ -1945,7 +1945,6 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 [![SMB1.png](/.internals/thumbnails/mobile/nintendo/SMB1.png "SMB1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SMB1.png)
 [![SSB4_-_Robin_Lucina_Illustration.jpg](/.internals/thumbnails/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SSB4_-_Robin_Lucina_Illustration.jpg)
 [![Wallpaper Zelda Gameboy.jpeg](/.internals/thumbnails/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg "Wallpaper Zelda Gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Wallpaper%20Zelda%20Gameboy.jpeg)
-[![wp2453886.jpg](/.internals/thumbnails/mobile/nintendo/wp2453886.jpg "wp2453886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp2453886.jpg)
 [![wp8687365-gameboy-color-iphone-wallpapers.jpg](/.internals/thumbnails/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg "wp8687365-gameboy-color-iphone-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687365-gameboy-color-iphone-wallpapers.jpg)
 [![wp8687460-gameboy-color-iphone-wallpapers.jpg](/.internals/thumbnails/mobile/nintendo/wp8687460-gameboy-color-iphone-wallpapers.jpg "wp8687460-gameboy-color-iphone-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp8687460-gameboy-color-iphone-wallpapers.jpg)
 [![wp9759104-game-boy-color-wallpapers.png](/.internals/thumbnails/mobile/nintendo/wp9759104-game-boy-color-wallpapers.png "wp9759104-game-boy-color-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/wp9759104-game-boy-color-wallpapers.png)

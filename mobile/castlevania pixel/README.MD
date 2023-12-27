@@ -1,4 +1,4 @@
-# castlevania pixel - 9
+# castlevania pixel - 10
 [![sotn-alchemy_lab_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 
 [![sotn-castle_keep-flippy_relief_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png "sotn-castle_keep-flippy_relief_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png)
@@ -7,7 +7,9 @@
 
 [![sotn-ending_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-ending_enlarged.png "sotn-ending_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-ending_enlarged.png)
 
-[![sotn-entrance_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged.png "sotn-entrance_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged.png)
+[![sotn-entrance_enlarged (1).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(1).png "sotn-entrance_enlarged (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(1).png)
+
+[![sotn-entrance_enlarged (2).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png "sotn-entrance_enlarged (2).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png)
 
 [![sotn-marble_gallery-statue_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
 
