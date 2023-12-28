@@ -2131,8 +2131,6 @@
 /mobile/tmnt/tmnt_leonardo-colors-by_le0arts_da7hjun.jpg
 /mobile/tmnt/tmnt_title_enlarged.png
 /mobile/tmnt/tumblr_m5k6muiyHi1ry28s9o1_640.png
-/mobile/tmnt/zz_set_02_04_michelangelo.jpg
-/mobile/tmnt/zz_set_02_99_shredder.jpg
 /mobile/tolkien/20231223_070550.jpg
 /mobile/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg
 /mobile/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg

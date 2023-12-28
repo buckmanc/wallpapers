@@ -2,12 +2,12 @@
 make sure you're editing the template, doofus
 -->
 
-# 2,190 Wallpapers
+# 2,188 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
 # Table of Contents
-- [mobile](/mobile/README.MD) - 1516
+- [mobile](/mobile/README.MD) - 1514
 - [desktop](/desktop/README.MD) - 433
 - [floaters](/floaters/README.MD) - 241
 

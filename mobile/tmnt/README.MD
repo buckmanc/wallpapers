@@ -1,4 +1,4 @@
-# tmnt - 73
+# tmnt - 71
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
 
 [![00_idw_30th.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_30th.jpg "00_idw_30th.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/00_idw_30th.jpg)
@@ -149,10 +149,6 @@ Tmnt Leonardo Colors by Le0arts Da7hjun
 [![tmnt_title_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_title_enlarged.png "tmnt_title_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tmnt_title_enlarged.png)
 
 [![tumblr_m5k6muiyHi1ry28s9o1_640.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tumblr_m5k6muiyHi1ry28s9o1_640.png "tumblr_m5k6muiyHi1ry28s9o1_640.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/tumblr_m5k6muiyHi1ry28s9o1_640.png)
-
-[![zz_set_02_04_michelangelo.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_04_michelangelo.jpg "zz_set_02_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_04_michelangelo.jpg)
-
-[![zz_set_02_99_shredder.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_99_shredder.jpg "zz_set_02_99_shredder.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tmnt/zz_set_02_99_shredder.jpg)
 
 
 
