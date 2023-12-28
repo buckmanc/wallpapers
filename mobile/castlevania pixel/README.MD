@@ -1,4 +1,4 @@
-# castlevania pixel - 10
+# castlevania pixel - 13
 [![sotn-alchemy_lab_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 
 [![sotn-castle_keep-flippy_relief_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png "sotn-castle_keep-flippy_relief_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-castle_keep-flippy_relief_enlarged.png)
@@ -11,7 +11,13 @@
 
 [![sotn-entrance_enlarged (2).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png "sotn-entrance_enlarged (2).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-entrance_enlarged%20(2).png)
 
+[![sotn-longlibrary-lesserdemonbackground_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged.png "sotn-longlibrary-lesserdemonbackground_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged.png)
+
+[![sotn-marblegallery-stainedglass_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marblegallery-stainedglass_enlarged.png "sotn-marblegallery-stainedglass_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marblegallery-stainedglass_enlarged.png)
+
 [![sotn-marble_gallery-statue_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
+
+[![sotn-olroxsquarters-lair_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png "sotn-olroxsquarters-lair_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png)
 
 [![sotn-zz-magic_missile_out_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-zz-magic_missile_out_enlarged.png "sotn-zz-magic_missile_out_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania%20pixel/sotn-zz-magic_missile_out_enlarged.png)
 

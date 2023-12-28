@@ -1,6 +1,6 @@
-# desktop - 431
+# desktop - 433
 - [castlevania](#castlevania) - 5
-- [castlevania pixel](#castlevania-pixel) - 6
+- [castlevania pixel](#castlevania-pixel) - 8
 - [forests](#forests) - 113
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
@@ -32,13 +32,15 @@
 
 <a id="castlevania-pixel"></a>
 
-## [castlevania pixel](/desktop/castlevania%20pixel/README.MD) - 6
+## [castlevania pixel](/desktop/castlevania%20pixel/README.MD) - 8
 [![sotn-alchemy_lab_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 [![sotn-castle_keep-dining_room_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png "sotn-castle_keep-dining_room_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png)
 [![sotn-castle_keep-dining_room_with_a_guest_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_with_a_guest_enlarged.png "sotn-castle_keep-dining_room_with_a_guest_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_with_a_guest_enlarged.png)
 [![sotn-chapel-painting_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-chapel-painting_enlarged.png "sotn-chapel-painting_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-chapel-painting_enlarged.png)
 [![sotn-entrance_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-entrance_enlarged.png "sotn-entrance_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-entrance_enlarged.png)
+[![sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png "sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png)
 [![sotn-marble_gallery-statue_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
+[![sotn-olroxsquarters-lair_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png "sotn-olroxsquarters-lair_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png)
 
 <a id="forests"></a>
 

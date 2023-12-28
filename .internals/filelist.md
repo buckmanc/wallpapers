@@ -8,7 +8,9 @@
 /desktop/castlevania pixel/sotn-castle_keep-dining_room_with_a_guest_enlarged.png
 /desktop/castlevania pixel/sotn-chapel-painting_enlarged.png
 /desktop/castlevania pixel/sotn-entrance_enlarged.png
+/desktop/castlevania pixel/sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png
 /desktop/castlevania pixel/sotn-marble_gallery-statue_enlarged.png
+/desktop/castlevania pixel/sotn-olroxsquarters-lair_enlarged.png
 /desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg
 /desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg
 /desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg
@@ -784,7 +786,10 @@
 /mobile/castlevania pixel/sotn-ending_enlarged.png
 /mobile/castlevania pixel/sotn-entrance_enlarged (1).png
 /mobile/castlevania pixel/sotn-entrance_enlarged (2).png
+/mobile/castlevania pixel/sotn-longlibrary-lesserdemonbackground_enlarged.png
+/mobile/castlevania pixel/sotn-marblegallery-stainedglass_enlarged.png
 /mobile/castlevania pixel/sotn-marble_gallery-statue_enlarged.png
+/mobile/castlevania pixel/sotn-olroxsquarters-lair_enlarged.png
 /mobile/castlevania pixel/sotn-zz-magic_missile_out_enlarged.png
 /mobile/castlevania pixel/sotn-zz-pentagram_out_enlarged.png
 /mobile/castlevania pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png
@@ -1200,31 +1205,31 @@
 /mobile/mega man/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg
 /mobile/mega man/zero_and_dr_wily_mega_man_by_hoshi_mikan.png
 /mobile/mega man/__zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg
-/mobile/mega man pixel/gbmm1-wily_castle_w1_enlarged.webp
-/mobile/mega man pixel/gbmm2-wily_castle_w2_enlarged.webp
-/mobile/mega man pixel/gbmm3-wily_castle_w3_enlarged.webp
-/mobile/mega man pixel/gbmm4-wilybattleship_enlarged.webp
-/mobile/mega man pixel/mm02-wily_castle_2_enlarged.webp
-/mobile/mega man pixel/mm03-wily_castle_3_enlarged.webp
-/mobile/mega man pixel/mm04-cossack_castle__enlarged.webp
-/mobile/mega man pixel/mm04-wily_castle_4_enlarged.webp
-/mobile/mega man pixel/mm05-proto_castle__enlarged.webp
-/mobile/mega man pixel/mm05-wily_castle_5_enlarged.webp
-/mobile/mega man pixel/mm06-wily_castle_6_enlarged.webp
-/mobile/mega man pixel/mm06-x_castle__enlarged.webp
-/mobile/mega man pixel/mm07-wily_castle_7_enlarged.webp
-/mobile/mega man pixel/mm07-wily-mm7-wilycapsule_enlarged.webp
-/mobile/mega man pixel/mm09-wily_castle_9_enlarged.webp
-/mobile/mega man pixel/mm10-wily_castle_10_enlarged.webp
-/mobile/mega man pixel/mms-wily_castle_s_enlarged.webp
-/mobile/mega man pixel/mmww-wilytowerww_enlarged.webp
+/mobile/mega man pixel/gbmm1-wily_castle_w1_enlarged.png
+/mobile/mega man pixel/gbmm2-wily_castle_w2_enlarged.png
+/mobile/mega man pixel/gbmm3-wily_castle_w3_enlarged.png
+/mobile/mega man pixel/gbmm4-wilybattleship_enlarged.png
+/mobile/mega man pixel/mm02-wily_castle_2_enlarged.png
+/mobile/mega man pixel/mm03-wily_castle_3_enlarged.png
+/mobile/mega man pixel/mm04-cossack_castle__enlarged.png
+/mobile/mega man pixel/mm04-wily_castle_4_enlarged.png
+/mobile/mega man pixel/mm05-proto_castle__enlarged.png
+/mobile/mega man pixel/mm05-wily_castle_5_enlarged.png
+/mobile/mega man pixel/mm06-wily_castle_6_enlarged.png
+/mobile/mega man pixel/mm06-x_castle__enlarged.png
+/mobile/mega man pixel/mm07-wily_castle_7_enlarged.png
+/mobile/mega man pixel/mm07-wily-mm7-wilycapsule_enlarged.png
+/mobile/mega man pixel/mm09-wily_castle_9_enlarged.png
+/mobile/mega man pixel/mm10-wily_castle_10_enlarged.png
+/mobile/mega man pixel/mms-wily_castle_s_enlarged.png
+/mobile/mega man pixel/mmww-wilytowerww_enlarged.png
 /mobile/mega man pixel/mmx1_highway_bg_1_enlarged.png
 /mobile/mega man pixel/mmx3_blizzard_buffalo_bg_enlarged.png
 /mobile/mega man pixel/mmx3_doppler_bg_enlarged.png
 /mobile/mega man pixel/mmx3_intro_city_bg_enlarged.png
 /mobile/mega man pixel/mmx3_vile_bg_2_enlarged.png
 /mobile/mega man pixel/mmx3_vile_bg_enlarged.png
-/mobile/mega man pixel/pcmm3-wilyfor3pc_enlarged.webp
+/mobile/mega man pixel/pcmm3-wilyfor3pc_enlarged.png
 /mobile/metroid/013ajqkptu571.jpg
 /mobile/metroid/07c8a8854a5f5030deeaa82589d5e6516aae134d.jpg
 /mobile/metroid/1004066.png

@@ -1,4 +1,4 @@
-# castlevania pixel - 6
+# castlevania pixel - 8
 [![sotn-alchemy_lab_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 
 [![sotn-castle_keep-dining_room_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png "sotn-castle_keep-dining_room_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png)
@@ -9,7 +9,11 @@
 
 [![sotn-entrance_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-entrance_enlarged.png "sotn-entrance_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-entrance_enlarged.png)
 
+[![sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png "sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-longlibrary-lesserdemonbackground_enlarged_landscape.png)
+
 [![sotn-marble_gallery-statue_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
+
+[![sotn-olroxsquarters-lair_enlarged.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png "sotn-olroxsquarters-lair_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png)
 
 
 
