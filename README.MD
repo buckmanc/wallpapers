@@ -19,18 +19,21 @@ Long press / right click > save link. Just don't save the thumbnail by mistake!
 
 ## Shallow Clone
 
-I recommend making a shallow clone of this repo as git keeps a history of all images. A shallow [update script](update.sh) is included for ease of use and scheduling.
+If using Git, I recommend making a shallow clone of this repo to pull only the current images and not the full history. A shallow [update script](update.sh) is included for ease of use and scheduling.
 
 ```shell
 git clone --depth 1 https://github.com/buckmanc/wallpapers
 ```
+
 # Attribution
 
 I've added attribution where I can. Feel free to contact me or submit a pull request to add missing attribution.
 
 # Aesthetic Decisions
 
-Homescreen / desktop wallpapers underly icons, windows, and active tasks (read: chaos), so they should be spacious and calming. Lock screens are cleaner and less chaotic, providing an opportunity for more stand-out designs.
+- **Desktop/homescreen: chill**
+- **Lockscreen: exciting**
+- **Terminal: elegant and subdued**
 
 # Shoutouts
 
