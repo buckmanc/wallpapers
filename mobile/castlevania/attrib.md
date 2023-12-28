@@ -12,7 +12,6 @@
 00_ak_cv_artbook21.jpg from Santa Lilio Sangre by Ayami Kojima
 00_ak_cv_castlevania-harmony-of-dissonance.jpg CastleVania Harmony of Dissonance by Ayami Kojima
 00_ak_cv_manga_artbook26.jpg from Santa Lilio Sangre by Ayami Kojima
-00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg 00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami  157cb87e302e85fc71bdee9fc0c53ef9
 00_ak_og_postcard01.jpg postcard by Ayami Kojima
 00_ak_og_postcard02.jpg postcard by Ayami Kojima
 14 - pdydhcq.jpg CastleVania Portrait of Ruin by Fumi Ishikaw
@@ -34,6 +33,7 @@ __alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405
 __alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg   Alucard Castlevania and 1 More Drawn by Nigelgraz  4518ac23f2839609ba33642dc0579f1f
 __alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg   Alucard Castlevania and 1 More Drawn by Nigelgraz  69e0aeacbd21aa926397336178e1c040
 an_rf_art_nouveau_alucard_by_ranefea.jpg An Rf Art Nouveau Alucard by Ranefea
+bye.jpg 00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami  157cb87e302e85fc71bdee9fc0c53ef9
 Camilla by Donsveertje.png Camilla by Donsveertje
 Carmilla by Donsveertje.png Carmilla by Donsveertje
 castle_dracula's_castle_by_ilo275.jpg Castle Dracula's Castle by Ilo275

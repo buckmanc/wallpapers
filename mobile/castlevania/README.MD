@@ -1,4 +1,4 @@
-# castlevania - 109
+# castlevania - 108
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -75,9 +75,6 @@ from Santa Lilio Sangre by Ayami Kojima
 [![00_ak_cv_mathias_cronqvist.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_mathias_cronqvist.png "00_ak_cv_mathias_cronqvist.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_mathias_cronqvist.png)
 
 [![00_ak_cv_matthias_cronqvist_02.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg "00_ak_cv_matthias_cronqvist_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg)
-
-[![00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami 157cb87e302e85fc71bdee9fc0c53ef9](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg "00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami 157cb87e302e85fc71bdee9fc0c53ef9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg)\
-00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami 157cb87e302e85fc71bdee9fc0c53ef9
 
 [![00_ak_og_030-color.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_030-color.jpg "00_ak_og_030-color.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_030-color.jpg)
 

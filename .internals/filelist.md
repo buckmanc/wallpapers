@@ -702,7 +702,6 @@
 /mobile/castlevania/00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg
 /mobile/castlevania/00_ak_cv_mathias_cronqvist.png
 /mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg
-/mobile/castlevania/00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg
 /mobile/castlevania/00_ak_og_030-color.jpg
 /mobile/castlevania/00_ak_og_045-color.jpg
 /mobile/castlevania/00_ak_og_072-color.jpg

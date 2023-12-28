@@ -1,5 +1,5 @@
-# mobile - 1,514
-- [castlevania](#castlevania) - 109
+# mobile - 1,513
+- [castlevania](#castlevania) - 108
 - [castlevania pixel](#castlevania-pixel) - 10
 - [dan mumford](#dan-mumford) - 43
 - [elden ring](#elden-ring) - 19
@@ -34,7 +34,7 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/README.MD) - 109
+## [castlevania](/mobile/castlevania/README.MD) - 108
 [![00_ak_cv_09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![CastleVania Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![CastleVania Dracula X Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -67,7 +67,6 @@
 [![00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg "00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_manga_ee80f1b6e244af88b37313b7f9c67d33.jpg)
 [![00_ak_cv_mathias_cronqvist.png](/.internals/thumbnails/mobile/castlevania/00_ak_cv_mathias_cronqvist.png "00_ak_cv_mathias_cronqvist.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_mathias_cronqvist.png)
 [![00_ak_cv_matthias_cronqvist_02.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg "00_ak_cv_matthias_cronqvist_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_matthias_cronqvist_02.jpg)
-[![00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami 157cb87e302e85fc71bdee9fc0c53ef9](/.internals/thumbnails/mobile/castlevania/00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg "00 Ak Cv Simon Belmont and Dracula Castlevania and 1 More Drawn by Kojima Ayami 157cb87e302e85fc71bdee9fc0c53ef9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_simon_belmont_and_dracula_castlevania_and_1_more_drawn_by_kojima_ayami__157cb87e302e85fc71bdee9fc0c53ef9.jpg)
 [![00_ak_og_030-color.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_og_030-color.jpg "00_ak_og_030-color.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_030-color.jpg)
 [![00_ak_og_045-color.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_og_045-color.jpg "00_ak_og_045-color.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_045-color.jpg)
 [![00_ak_og_072-color.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_og_072-color.jpg "00_ak_og_072-color.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_og_072-color.jpg)
