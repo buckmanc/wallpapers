@@ -9,20 +9,20 @@ quoteRe() {
 }
 
 path_root="$(git rev-parse --show-toplevel)"
+branchName="$(git branch --show-current)"
 raw_root="https://raw.githubusercontent.com/buckmanc/Wallpapers/main"
 
 tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
-fileListFile="${path_root}/.internals/filelist.md"
+fileListFile="${path_root}/.internals/filelist/${branchName}.log"
 
 mkdir -p "$thumbnails_dir"
 mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
 rm "$tocMD" > /dev/null 2>&1 || true
-rm "$fileListFile" > /dev/null 2>&1 || true
 
 # TODO fix this up, support others
 if [[ -f "$HOME/bin/find-images" ]]
@@ -125,6 +125,14 @@ then
 	echo "done!"
 fi
 
+# do weird branch specific stuff
+if [[ "$branchName" != "main" ]]
+then
+
+	echo "todo"
+
+fi
+
 
 echo "--updating thumbnails..."
 
@@ -143,7 +151,7 @@ echo "$imgFilesAll" | while read -r src; do
 	target_dir="$(dirname "$target")"
 	mkdir -p "$target_dir"
 
-	echo    "${src#"$path_root"}" >> "$fileListFile"
+		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
 		if [[ "$src" == *"/mobile/"* ]]; then
@@ -175,6 +183,8 @@ echo "$imgFilesAll" | while read -r src; do
 		# resize images, then crop to the desired resolution
 		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
 
+		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
+
 		echo ""
 	else
 		mv "$thumbnail_old" "$target"
@@ -183,6 +193,8 @@ echo "$imgFilesAll" | while read -r src; do
 done
 
 rm -rf "$thumbnails_old_dir"
+# sort the file list to contain only the most recent entry per file
+cat "$fileListFile" | sort -t~ -k1,2r | sort -t~ -k1,1 -u | sponge "$fileListFile"
 
 echo ""
 
@@ -380,6 +392,8 @@ done
 tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
 rm "$tocMD"
 
+# TODO add some variables for repo size
+# ex, "the whole checked out repo is x size, so you should do a shallow clone which is y size
 readmeTemplate="$(cat "$readmeTemplatePath")"
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 

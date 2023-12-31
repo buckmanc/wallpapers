@@ -1,7 +1,9 @@
-# the legend of zelda - 198
+# the legend of zelda - 196
 [![136703.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
 
 [![20231209_105546.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
+
+[![38e34d7cfb1e9bf0b092208c104087d0.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg "38e34d7cfb1e9bf0b092208c104087d0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg)
 
 [![3b1d67ef-679d-4a1a-9d4e-3fc54ebecc29.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/3b1d67ef-679d-4a1a-9d4e-3fc54ebecc29.jpeg "3b1d67ef-679d-4a1a-9d4e-3fc54ebecc29.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/3b1d67ef-679d-4a1a-9d4e-3fc54ebecc29.jpeg)
 
@@ -202,8 +204,6 @@ It S Dangerous To Go Alone by Colin Morella
 
 [![peakpx (2).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(2).jpg "peakpx (2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(2).jpg)
 
-[![peakpx (42).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(42).jpg "peakpx (42).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(42).jpg)
-
 [![peakpx (4).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(4).jpg "peakpx (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(4).jpg)
 
 [![peakpx (7).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(7).jpg "peakpx (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(7).jpg)
@@ -272,8 +272,6 @@ Practice by Shirley Gong
 
 [![pxfuel (4).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(4).jpg "pxfuel (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(4).jpg)
 
-[![pxfuel (6).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(6).jpg "pxfuel (6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(6).jpg)
-
 [![pxfuel (7).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(7).jpg "pxfuel (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/pxfuel%20(7).jpg)
 
 [![Rauru.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Rauru.jpeg "Rauru.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Rauru.jpeg)
@@ -291,6 +289,8 @@ Practice by Shirley Gong
 [![sg_20231208_223625.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_20231208_223625.jpg "sg_20231208_223625.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_20231208_223625.jpg)
 
 [![sg_a04b8af9-f2b2-4de5-8e51-ba1b426cc22c.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_a04b8af9-f2b2-4de5-8e51-ba1b426cc22c.jpeg "sg_a04b8af9-f2b2-4de5-8e51-ba1b426cc22c.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_a04b8af9-f2b2-4de5-8e51-ba1b426cc22c.jpeg)
+
+[![sg_bbcnhlzvev771_fitted.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_bbcnhlzvev771_fitted.png "sg_bbcnhlzvev771_fitted.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_bbcnhlzvev771_fitted.png)
 
 [![sg_Clipped_image_20231208_223158.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_Clipped_image_20231208_223158.png "sg_Clipped_image_20231208_223158.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_Clipped_image_20231208_223158.png)
 
@@ -353,18 +353,6 @@ Sg Ss Botw Revali Stained Glass by Sarcastic Sketches
 [![Sg Ss Botw Urbosa Stained Glass by Sarcastic Sketches](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_botw_urbosa_stained_glass_by_sarcastic_sketches.png "Sg Ss Botw Urbosa Stained Glass by Sarcastic Sketches")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_botw_urbosa_stained_glass_by_sarcastic_sketches.png)\
 Sg Ss Botw Urbosa Stained Glass by Sarcastic Sketches
 
-[![Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_01.png "Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_01.png)\
-Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 01
-
-[![Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 02](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_02.png "Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 02")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_02.png)\
-Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 02
-
-[![Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 03](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_03.png "Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 03")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_03.png)\
-Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 03
-
-[![Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 04](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_04.png "Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 04")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_champions_ballad_stained_glass_by_sarcastic_sketches_177349880315_04.png)\
-Sg Ss Champions Ballad Stained Glass by Sarcastic Sketches 177349880315 04
-
 [![Sg Ss Gannon Stained Glass by Sarcastic Sketches 178671212525 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_gannon_stained_glass_by_sarcastic_sketches_178671212525_01.png "Sg Ss Gannon Stained Glass by Sarcastic Sketches 178671212525 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sg_ss_gannon_stained_glass_by_sarcastic_sketches_178671212525_01.png)\
 Sg Ss Gannon Stained Glass by Sarcastic Sketches 178671212525 01
 
@@ -421,9 +409,16 @@ Sg Ss Zelda Totk Stained Glass by Sarcastic Sketches 617385527223648256 01
 
 [![sword_alttp_sacred_grove_artwork.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_alttp_sacred_grove_artwork.png "sword_alttp_sacred_grove_artwork.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_alttp_sacred_grove_artwork.png)
 
+[![sword_peakpx_(42).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_peakpx_(42).jpg "sword_peakpx_(42).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_peakpx_(42).jpg)
+
 [![sword_pxfuel_(25).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(25).jpg "sword_pxfuel_(25).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(25).jpg)
 
 [![sword_pxfuel_(2).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(2).jpg "sword_pxfuel_(2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(2).jpg)
+
+[![sword_pxfuel_(6).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(6).jpg "sword_pxfuel_(6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_pxfuel_(6).jpg)
+
+[![The Master Sword by Billy Lundevall](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_the_master_sword_by_billy_lundevall.png "The Master Sword by Billy Lundevall")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/sword_the_master_sword_by_billy_lundevall.png)\
+The Master Sword by Billy Lundevall
 
 [![Tears by Quirkilicious Dg2hz6t](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tears_by_quirkilicious_dg2hz6t.jpg "Tears by Quirkilicious Dg2hz6t")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tears_by_quirkilicious_dg2hz6t.jpg)\
 Tears by Quirkilicious Dg2hz6t
@@ -463,9 +458,6 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a
 
 [![The Legend Of Zelda The Pig by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.jpg "The Legend Of Zelda The Pig by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.jpg)\
 The Legend Of Zelda The Pig by Nick Derington
-
-[![The Master Sword by Billy Lundevall](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20master%20sword%20by%20Billy%20lundevall.png "The Master Sword by Billy Lundevall")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20master%20sword%20by%20Billy%20lundevall.png)\
-The Master Sword by Billy Lundevall
 
 [![thomas-chamberlain-keen-xiabingshort.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/thomas-chamberlain-keen-xiabingshort.jpg "thomas-chamberlain-keen-xiabingshort.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/thomas-chamberlain-keen-xiabingshort.jpg)
 

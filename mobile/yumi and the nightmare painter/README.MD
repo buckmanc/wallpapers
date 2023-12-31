@@ -1,9 +1,12 @@
-# yumi and the nightmare painter - 11
+# yumi and the nightmare painter - 12
 [![Backlit by Wonder by Aliya Chen](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)\
 Backlit by Wonder by Aliya Chen
 
 [![Defending Kilahito by Aliya Chen](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg "Defending Kilahito by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg)\
 Defending Kilahito by Aliya Chen
+
+[![Design With Hoid Statue by Botanicaxu](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg)\
+Design With Hoid Statue by Botanicaxu
 
 [![Learning To Paint by Aliya Chen](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg "Learning To Paint by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg)\
 Learning To Paint by Aliya Chen

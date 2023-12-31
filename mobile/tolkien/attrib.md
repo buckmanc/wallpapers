@@ -1,3 +1,4 @@
+anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview
 __ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3e156949f95b5291ff786244e1c14884.jpg   Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark  3e156949f95b5291ff786244e1c14884
 __ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__3f34c5b46ed4fea60c6ed444bdc88bc4.png   Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark  3f34c5b46ed4fea60c6ed444bdc88bc4
 __ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg   Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark  A91679bcd5a09846f4b3286e67abdbde
@@ -7,6 +8,7 @@ __beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliand
 beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre
 __boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__c4ea84864451a904cd6a8f6d8668b06e.jpg   Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark  C4ea84864451a904cd6a8f6d8668b06e
 boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
+__ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg   Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark  920be98944a076c6a031b5aba6ef39c7
 fellbeast_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark_cropped.jpg Fellbeast and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark Cropped
 __fellbeast_witch_king_of_angmar_and_eowyn_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul__b632a1422735f777fd289a77d797cd07.jpg   Fellbeast Witch King Of Angmar and Eowyn Tolkien S Legendarium and 1 More Drawn by Kalmahul  B632a1422735f777fd289a77d797cd07
 fellbeast_witch_king_of_angmar_and_eowyn_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg Fellbeast Witch King Of Angmar and Eowyn Tolkien S Legendarium and 1 More Drawn by Kalmahul

@@ -1,4 +1,9 @@
-# tolkien - 28
+# tolkien - 30
+[![anato-finnstark-f.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-f.jpg "anato-finnstark-f.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-f.jpg)
+
+[![Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg "Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg)\
+Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview
+
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)\
  Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde
 

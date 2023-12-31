@@ -1,4 +1,4 @@
-# stormlight - 61
+# stormlight - 60
 [![00 Dalinar by Petar Penev
 Dalinar by Petar Penev](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/00_dalinar_by_petar_penev.jpg "00 Dalinar by Petar Penev
 Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/00_dalinar_by_petar_penev.jpg)\
@@ -40,9 +40,6 @@ Abandoning The Oathpact by Micah Epstein
 
 [![Chasm Fiend Hunt by Randy Vargas](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)\
 Chasm Fiend Hunt by Randy Vargas
-
-[![Design With Hoid Statue by Botanicaxu](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/Design_with_Hoid_statue_by_Botanicaxu.jpg)\
-Design With Hoid Statue by Botanicaxu
 
 [![Eshonai by Antti Hakosaari](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/eshonai_by_antti_hakosaari.jpg)\
 Eshonai by Antti Hakosaari

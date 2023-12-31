@@ -1,4 +1,4 @@
-# nintendo - 41
+# nintendo - 46
 [![1445886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg)
 
 [![1996 Green pocket gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg)
@@ -23,6 +23,16 @@ Advent Of The Deliverer by Gigi D G
 [![e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg "e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg)
 
 [![Game_Boy_Play_It_Loud!_Transparent_American_Edition.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Game_Boy_Play_It_Loud!_Transparent_American_Edition.png "Game_Boy_Play_It_Loud!_Transparent_American_Edition.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Game_Boy_Play_It_Loud!_Transparent_American_Edition.png)
+
+[![imgur_NcYLfqf_008_LLOO22v.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_008_LLOO22v.png "imgur_NcYLfqf_008_LLOO22v.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_008_LLOO22v.png)
+
+[![imgur_NcYLfqf_010_vW9bTlW.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_010_vW9bTlW.png "imgur_NcYLfqf_010_vW9bTlW.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_010_vW9bTlW.png)
+
+[![imgur_NcYLfqf_012_IJbTVEo.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_012_IJbTVEo.png "imgur_NcYLfqf_012_IJbTVEo.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_012_IJbTVEo.png)
+
+[![imgur_NcYLfqf_016_xziHOyN.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_016_xziHOyN.png "imgur_NcYLfqf_016_xziHOyN.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_016_xziHOyN.png)
+
+[![imgur_NcYLfqf_024_TVw6m8Q.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_024_TVw6m8Q.png "imgur_NcYLfqf_024_TVw6m8Q.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/imgur_NcYLfqf_024_TVw6m8Q.png)
 
 [![link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg "link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/link_pikachu_princess_zelda_inkling_inkling_girl_and_80_more_pokemon_and_49_more__7b3766002b08a1eff8a132d03884931d.jpg)
 

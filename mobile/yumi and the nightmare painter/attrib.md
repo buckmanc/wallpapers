@@ -1,5 +1,6 @@
 Backlit_by_Wonder_by_Aliya_Chen.jpg Backlit by Wonder by Aliya Chen
 Defending_Kilahito_by_Aliya_Chen.jpg Defending Kilahito by Aliya Chen
+Design_with_Hoid_statue_by_Botanicaxu.jpg Design With Hoid Statue by Botanicaxu
 Learning_to_Paint_by_Aliya_Chen.jpg Learning To Paint by Aliya Chen
 Painter's_Portfolio_by_Aliya_Chen.jpg Painter's Portfolio by Aliya Chen
 Recognition_by_Aliya_Chen.jpg Recognition by Aliya Chen

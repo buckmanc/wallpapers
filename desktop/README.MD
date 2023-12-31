@@ -1,21 +1,21 @@
-# desktop - 433
+# desktop - 440
 - [castlevania](#castlevania) - 5
-- [castlevania pixel](#castlevania-pixel) - 8
+- [castlevania pixel](#castlevania-pixel) - 11
 - [forests](#forests) - 113
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
-- [misc](#misc) - 53
+- [misc](#misc) - 54
 - [mistborn](#mistborn) - 4
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
 - [skyrim art](#skyrim-art) - 5
-- [soulsborne](#soulsborne) - 9
+- [soulsborne](#soulsborne) - 10
 - [space](#space) - 94
 - [stormlight](#stormlight) - 5
 - [synthwave](#synthwave) - 27
 - [the legend of zelda](#the-legend-of-zelda) - 9
 - [tmnt](#tmnt) - 15
-- [tolkien](#tolkien) - 28
+- [tolkien](#tolkien) - 30
 - [tomb raider 2013](#tomb-raider-) - 11
 - [vector vistas](#vector-vistas) - 10
 - [villages](#villages) - 5
@@ -32,7 +32,10 @@
 
 <a id="castlevania-pixel"></a>
 
-## [castlevania pixel](/desktop/castlevania%20pixel/README.MD) - 8
+## [castlevania pixel](/desktop/castlevania%20pixel/README.MD) - 11
+[![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png)
+[![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
+[![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)
 [![sotn-alchemy_lab_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png "sotn-alchemy_lab_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-alchemy_lab_enlarged.png)
 [![sotn-castle_keep-dining_room_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png "sotn-castle_keep-dining_room_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_enlarged.png)
 [![sotn-castle_keep-dining_room_with_a_guest_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_with_a_guest_enlarged.png "sotn-castle_keep-dining_room_with_a_guest_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania%20pixel/sotn-castle_keep-dining_room_with_a_guest_enlarged.png)
@@ -182,7 +185,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 53
+## [misc](/desktop/misc/README.MD) - 54
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85d07c8f13648b7b_BatSwarm.jpg](/.internals/thumbnails/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
@@ -234,6 +237,7 @@
 [![d7280cd31da873dc_1380707.jpg](/.internals/thumbnails/desktop/misc/d7280cd31da873dc_1380707.jpg "d7280cd31da873dc_1380707.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d7280cd31da873dc_1380707.jpg)
 [![D8fb9b191d0770e0 Forest Spirit by J Witless](/.internals/thumbnails/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png "D8fb9b191d0770e0 Forest Spirit by J Witless")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png)
 [![db9869b0316366b6_red moon mountains tree.jpg](/.internals/thumbnails/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg "db9869b0316366b6_red moon mountains tree.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg)
+[![dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg](/.internals/thumbnails/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg "dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg)
 [![E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e](/.internals/thumbnails/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png "E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png)
 [![f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg](/.internals/thumbnails/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg "f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg)
 
@@ -291,8 +295,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="soulsborne"></a>
 
-## [soulsborne](/desktop/soulsborne/README.MD) - 9
+## [soulsborne](/desktop/soulsborne/README.MD) - 10
 [![1113054.jpg](/.internals/thumbnails/desktop/soulsborne/1113054.jpg "1113054.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/1113054.jpg)
+[![anato-finnstark-web-petit (7).jpg](/.internals/thumbnails/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg "anato-finnstark-web-petit (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg)
 [![ Ashen One Dark Souls and 1 More Drawn by Anato Finnstark 2194c10686a62e9e6216b308a84107a7](/.internals/thumbnails/desktop/soulsborne/__ashen_one_dark_souls_and_1_more_drawn_by_anato_finnstark__2194c10686a62e9e6216b308a84107a7.png " Ashen One Dark Souls and 1 More Drawn by Anato Finnstark 2194c10686a62e9e6216b308a84107a7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/__ashen_one_dark_souls_and_1_more_drawn_by_anato_finnstark__2194c10686a62e9e6216b308a84107a7.png)
 [![ Bloodborne Drawn by Anato Finnstark B2cb63fa0a937009c4e5c3755fd3396c](/.internals/thumbnails/desktop/soulsborne/__bloodborne_drawn_by_anato_finnstark__b2cb63fa0a937009c4e5c3755fd3396c.png " Bloodborne Drawn by Anato Finnstark B2cb63fa0a937009c4e5c3755fd3396c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/__bloodborne_drawn_by_anato_finnstark__b2cb63fa0a937009c4e5c3755fd3396c.png)
 [![ Dark Souls Drawn by Anato Finnstark 88ed595b0374002de60f8ae6004442b7](/.internals/thumbnails/desktop/soulsborne/__dark_souls_drawn_by_anato_finnstark__88ed595b0374002de60f8ae6004442b7.png " Dark Souls Drawn by Anato Finnstark 88ed595b0374002de60f8ae6004442b7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/__dark_souls_drawn_by_anato_finnstark__88ed595b0374002de60f8ae6004442b7.png)
@@ -474,7 +479,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="tolkien"></a>
 
-## [tolkien](/desktop/tolkien/README.MD) - 28
+## [tolkien](/desktop/tolkien/README.MD) - 30
+[![anato-finnstark-f.jpg](/.internals/thumbnails/desktop/tolkien/anato-finnstark-f.jpg "anato-finnstark-f.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-f.jpg)
+[![Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview](/.internals/thumbnails/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg "Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg)
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)
 [![Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)

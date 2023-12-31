@@ -1,4 +1,4 @@
-# elden ring - 19
+# elden ring - 20
 [![1466574cb6634d178b56229b9926ef7afc373761.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/1466574cb6634d178b56229b9926ef7afc373761.jpg "1466574cb6634d178b56229b9926ef7afc373761.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/1466574cb6634d178b56229b9926ef7afc373761.jpg)
 
 [![35e162dfcb3d720e62376a211988dffcddca77f4.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/35e162dfcb3d720e62376a211988dffcddca77f4.jpg "35e162dfcb3d720e62376a211988dffcddca77f4.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/35e162dfcb3d720e62376a211988dffcddca77f4.jpg)
@@ -10,6 +10,8 @@
 [![776c16b0ccd56baff826e35aa6b8c3f950da7019.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/776c16b0ccd56baff826e35aa6b8c3f950da7019.jpg "776c16b0ccd56baff826e35aa6b8c3f950da7019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/776c16b0ccd56baff826e35aa6b8c3f950da7019.jpg)
 
 [![8bee4a227e1e9faee1a591c603fe2d60fa6bd346.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/8bee4a227e1e9faee1a591c603fe2d60fa6bd346.jpg "8bee4a227e1e9faee1a591c603fe2d60fa6bd346.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/8bee4a227e1e9faee1a591c603fe2d60fa6bd346.jpg)
+
+[![anato-finnstark-blaidd-hd-wallpaper.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/anato-finnstark-blaidd-hd-wallpaper.jpg "anato-finnstark-blaidd-hd-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/anato-finnstark-blaidd-hd-wallpaper.jpg)
 
 [![A Princess and Her Vassal by Quirkilicious Df3fi0i](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/a_princess_and_her_vassal_by_quirkilicious_df3fi0i.jpg "A Princess and Her Vassal by Quirkilicious Df3fi0i")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/elden%20ring/a_princess_and_her_vassal_by_quirkilicious_df3fi0i.jpg)\
 A Princess and Her Vassal by Quirkilicious Df3fi0i
