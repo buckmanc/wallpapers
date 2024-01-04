@@ -35,7 +35,7 @@ then
 fi
 
 find-images() {
-	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*'
+	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
 	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.*'
@@ -203,16 +203,17 @@ echo "--updating readme md's..."
 homeReadmePath="${path_root}/README.MD"
 rootReadmePath="${path_root}/README_ALL.MD"
 
-directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
+directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test' -not -path '*/all')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
 iMdSkip=0
 while read -r dir; do
 	((iDir++)) || true
-	friendlyDirName="${dir/"$path_root"}"
-	# printf -v dirStatus '\033[2K%4d/%d: %s' "$iDir" "$totalDirs" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
 	printf -v dirStatus '\033[2K%3d/%d:' "$iDir" "$totalDirs"
+	friendlyDirName="${dir/"$path_root"}"
+	thumbDir="$path_root/.internals/thumbnails/$friendlyDirName"
+	symlinkDir="$dir/all"
 
 	dirReadmePath="$dir/README.MD"
 	# don't overwrite the real root readme
@@ -221,11 +222,31 @@ while read -r dir; do
 		dirReadmePath="$rootReadmePath"
 	fi
 
+	# TODO also need to account for new files added, which could have old mod times
+	# dirChangeEpoch="$(du "$dir" --time --max-depth 0 --time-style=+%s | cut -f2)"
+	# thumbDirChangeEpoch="$(du "$thumbDir" --time --max-depth 0 --time-style=+%s | cut -f2)"
+	# mdChangeEpoch="$(du "$dirReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2)"
+        #
+	# if [[ "$dirChangeEpoch" -lt "$mdChangeEpoch" && "$thumbDirChangeEpoch" -lt "$mdChangeEpoch" ]]
+	# then
+	# 	continue
+	# fi
+
+	bottomLevelDir="$(bottom-level-dir "$dir")"
+
+	if [[ -d "$symlinkDir" ]]
+	then
+		rm -r "$symlinkDir"
+	fi
+
+	if [[ "$bottomLevelDir" != 1 && "$dir" != "$path_root" ]]
+	then
+		mkdir -p "$symlinkDir"
+	fi
+
 	imgFiles="$(find-images "$dir" -not -path '*/.*' -not -path '*/scripts')"
 	i=0
 	totalDirImages=$(echo "$imgFiles" | wc -l)
-
-	bottomLevelDir="$(bottom-level-dir "$dir")"
 
 	mdText=''
 	mdText+="# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")"$'\n'
@@ -241,7 +262,7 @@ while read -r dir; do
 		fi
 		customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
 		imgFolderPathReggie="$(quoteRe "${subDir}/")"
-		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie")"
+		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie" | numfmt --grouping)"
 		mdText+="$folderToc"$'\n'
 	done < <( echo "$subDirs" )
 
@@ -271,6 +292,14 @@ while read -r dir; do
 		fi
 
 		thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
+		symlinkDest="$symlinkDir/$(echo "${imgPath#"$dir"}" | sed -e 's|^/||g' -e 's|[/ ]|_|g')"
+		symlinkTarget="..${imgPath#"$dir"}"
+
+		# this really should be its own section but it overlaps nicely here
+		if [[ -d "$symlinkDir" ]]
+		then
+			ln -s -T "$symlinkTarget" "$symlinkDest"
+		fi
 
 		thumbnailUrl="${thumbnailPath/#"$path_root"/}"
 		thumbnailUrl="${thumbnailUrl// /%20}"
@@ -386,17 +415,21 @@ rootDirs="$(echo "$imgFilesAll" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/
 
 echo "$rootDirs" | while read -r rootDir
 do
-	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l)" >> "$tocMD"
+	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
 	# echo $'\n' >> "$tocMD"
 done
 tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
 rm "$tocMD"
 
-# TODO add some variables for repo size
-# ex, "the whole checked out repo is x size, so you should do a shallow clone which is y size
+if [[ -d "$path_root/mobile" ]]
+then
+	mobileSize="$(du "$path_root/mobile" --max-depth 0 --human-readable | cut -f1)"
+fi
+
 readmeTemplate="$(cat "$readmeTemplatePath")"
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
+readmeTemplate="${readmeTemplate/\{mobile size\}/"$mobileSize"}" 
 readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
 
 # only write if changed

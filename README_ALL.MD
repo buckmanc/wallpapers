@@ -1,4 +1,4 @@
-# Wallpapers - 2,271
+# Wallpapers - 2,238
 - [desktop/castlevania](#desktop-castlevania) - 5
 - [desktop/castlevania pixel](#desktop-castlevania-pixel) - 11
 - [desktop/forests](#desktop-forests) - 113
@@ -54,10 +54,6 @@
 - [mobile/tmnt](#mobile-tmnt) - 71
 - [mobile/tolkien](#mobile-tolkien) - 54
 - [mobile/yumi and the nightmare painter](#mobile-yumi-and-the-nightmare-painter) - 12
-- [temp need transparency](#temp-need-transparency) - 3
-- [temp pixel want](#temp-pixel-want) - 12
-- [temp pixel want enlarged](#temp-pixel-want-enlarged) - 3
-- [temp workspace](#temp-workspace) - 15
 
 <a id="desktop-castlevania"></a>
 
@@ -2760,55 +2756,6 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
-
-<a id="temp-need-transparency"></a>
-
-## [temp need transparency](/temp%20need%20transparency/README.MD) - 3
-[![PlayStation - Castlevania Symphony of the Night - Magic Missile.png](/.internals/thumbnails/temp%20need%20transparency/PlayStation%20-%20Castlevania%20Symphony%20of%20the%20Night%20-%20Magic%20Missile.png "PlayStation - Castlevania Symphony of the Night - Magic Missile.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20need%20transparency/PlayStation%20-%20Castlevania%20Symphony%20of%20the%20Night%20-%20Magic%20Missile.png)
-[![PlayStation - Castlevania Symphony of the Night - Shield Rod Effects - sword.png](/.internals/thumbnails/temp%20need%20transparency/PlayStation%20-%20Castlevania%20Symphony%20of%20the%20Night%20-%20Shield%20Rod%20Effects%20-%20sword.png "PlayStation - Castlevania Symphony of the Night - Shield Rod Effects - sword.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20need%20transparency/PlayStation%20-%20Castlevania%20Symphony%20of%20the%20Night%20-%20Shield%20Rod%20Effects%20-%20sword.png)
-[![SotN - Pentagram.png](/.internals/thumbnails/temp%20need%20transparency/SotN%20-%20Pentagram.png "SotN - Pentagram.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20need%20transparency/SotN%20-%20Pentagram.png)
-
-<a id="temp-pixel-want"></a>
-
-## [temp pixel want](/temp%20pixel%20want/README.MD) - 12
-[![sm_zebes.png](/.internals/thumbnails/temp%20pixel%20want/sm_zebes.png "sm_zebes.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sm_zebes.png)
-[![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-celltower_enlarged.png)
-[![sotn-abandonedmine-celltower.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-celltower.png "sotn-abandonedmine-celltower.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-celltower.png)
-[![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-nudeypillars_enlarged.png)
-[![sotn-abandonedmine-nudeypillars.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-nudeypillars.png "sotn-abandonedmine-nudeypillars.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-nudeypillars.png)
-[![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-wallskulls_enlarged.png)
-[![sotn-abandonedmine-wallskulls.png](/.internals/thumbnails/temp%20pixel%20want/sotn-abandonedmine-wallskulls.png "sotn-abandonedmine-wallskulls.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-abandonedmine-wallskulls.png)
-[![sotn-entrance.png](/.internals/thumbnails/temp%20pixel%20want/sotn-entrance.png "sotn-entrance.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-entrance.png)
-[![sotn-longlibrary-lesserdemonbackground.png](/.internals/thumbnails/temp%20pixel%20want/sotn-longlibrary-lesserdemonbackground.png "sotn-longlibrary-lesserdemonbackground.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-longlibrary-lesserdemonbackground.png)
-[![sotn-marblegallery-stainedglass.png](/.internals/thumbnails/temp%20pixel%20want/sotn-marblegallery-stainedglass.png "sotn-marblegallery-stainedglass.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-marblegallery-stainedglass.png)
-[![sotn-nightmare.png](/.internals/thumbnails/temp%20pixel%20want/sotn-nightmare.png "sotn-nightmare.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-nightmare.png)
-[![sotn-olroxsquarters-lair.png](/.internals/thumbnails/temp%20pixel%20want/sotn-olroxsquarters-lair.png "sotn-olroxsquarters-lair.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want/sotn-olroxsquarters-lair.png)
-
-<a id="temp-pixel-want-enlarged"></a>
-
-## [temp pixel want enlarged](/temp%20pixel%20want%20enlarged/README.MD) - 3
-[![sm_intro_the_last_metroid_enlarged.png](/.internals/thumbnails/temp%20pixel%20want%20enlarged/sm_intro_the_last_metroid_enlarged.png "sm_intro_the_last_metroid_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want%20enlarged/sm_intro_the_last_metroid_enlarged.png)
-[![sotn-entrance_enlarged.png](/.internals/thumbnails/temp%20pixel%20want%20enlarged/sotn-entrance_enlarged.png "sotn-entrance_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want%20enlarged/sotn-entrance_enlarged.png)
-[![sotn-nightmare_enlarged.png](/.internals/thumbnails/temp%20pixel%20want%20enlarged/sotn-nightmare_enlarged.png "sotn-nightmare_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20pixel%20want%20enlarged/sotn-nightmare_enlarged.png)
-
-<a id="temp-workspace"></a>
-
-## [temp workspace](/temp%20workspace/README.MD) - 15
-[![30076_closer_buildings.png](/.internals/thumbnails/temp%20workspace/30076_closer_buildings.png "30076_closer_buildings.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/30076_closer_buildings.png)
-[![30076.png](/.internals/thumbnails/temp%20workspace/30076.png "30076.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/30076.png)
-[![3899_2.png](/.internals/thumbnails/temp%20workspace/3899_2.png "3899_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/3899_2.png)
-[![MegaManX-Highway.png](/.internals/thumbnails/temp%20workspace/MegaManX-Highway.png "MegaManX-Highway.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/MegaManX-Highway.png)
-[![sotn-olroxslair-fountain.png](/.internals/thumbnails/temp%20workspace/sotn-olroxslair-fountain.png "sotn-olroxslair-fountain.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/sotn-olroxslair-fountain.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215207.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215207.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215207.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215207.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215212.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215212.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215212.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215212.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215218.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215218.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215218.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215218.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215224.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215224.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215224.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215224.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215501.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215501.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215501.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215501.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215558.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215558.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215558.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215558.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215602.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215602.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215602.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215602.png)
-[![Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215606.png](/.internals/thumbnails/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215606.png "Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!]-231209-215606.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20(U)%20[!]-231209-215606.png)
-[![The Mirror Of Twilight by Thewhitemaiden D4o6oc0 Out](/.internals/thumbnails/temp%20workspace/the_mirror_of_twilight_by_thewhitemaiden_d4o6oc0_out.png "The Mirror Of Twilight by Thewhitemaiden D4o6oc0 Out")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/the_mirror_of_twilight_by_thewhitemaiden_d4o6oc0_out.png)
-[![The Mirror Of Twilight by Thewhitemaiden D4o6oc0](/.internals/thumbnails/temp%20workspace/the_mirror_of_twilight_by_thewhitemaiden_d4o6oc0.png "The Mirror Of Twilight by Thewhitemaiden D4o6oc0")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/temp%20workspace/the_mirror_of_twilight_by_thewhitemaiden_d4o6oc0.png)
 
 
 [back to top](#)
