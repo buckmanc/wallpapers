@@ -1,4 +1,4 @@
-# misc - 54
+# misc - 58
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 
 [![856a7e192aa7d01f_towashi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -14,6 +14,9 @@
 [![8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg "8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg)
 
 [![8cccd899598d5d9c_peakpx.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cccd899598d5d9c_peakpx.jpg "8cccd899598d5d9c_peakpx.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cccd899598d5d9c_peakpx.jpg)
+
+[![8ccdf389c931c99c Broken Aero Vista Black by Somrat 1920x1200](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg "8ccdf389c931c99c Broken Aero Vista Black by Somrat 1920x1200")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg)\
+8ccdf389c931c99c Broken Aero Vista Black by Somrat 1920x1200
 
 [![90914f3d9c27b6e1_neon-shacks-nord.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png "90914f3d9c27b6e1_neon-shacks-nord.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png)
 
@@ -40,6 +43,8 @@
 
 [![98ec6793c46c9b85_firefox_nebula_1920_1200.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/98ec6793c46c9b85_firefox_nebula_1920_1200.jpg "98ec6793c46c9b85_firefox_nebula_1920_1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/98ec6793c46c9b85_firefox_nebula_1920_1200.jpg)
 
+[![999766785e23e90c_horror - 3872x2592.JPG](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999766785e23e90c_horror%20-%203872x2592.JPG "999766785e23e90c_horror - 3872x2592.JPG")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999766785e23e90c_horror%20-%203872x2592.JPG)
+
 [![999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg "999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg)
 
 [![999c66639b98cd26_pxfuel (41).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999c66639b98cd26_pxfuel%20(41).jpg "999c66639b98cd26_pxfuel (41).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999c66639b98cd26_pxfuel%20(41).jpg)
@@ -52,7 +57,12 @@
 
 [![9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg "9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg)
 
+[![a585b290d4edacec_Charles Bridge in Prague.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg "a585b290d4edacec_Charles Bridge in Prague.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg)
+
 [![a5f75a4abda14914_914910.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a5f75a4abda14914_914910.jpg "a5f75a4abda14914_914910.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a5f75a4abda14914_914910.jpg)
+
+[![Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg "Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg)\
+Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn
 
 [![ae516a9da152c7a9_ign_megumin_dark.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png "ae516a9da152c7a9_ign_megumin_dark.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png)
 

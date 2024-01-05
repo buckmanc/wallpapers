@@ -1,11 +1,12 @@
-# Wallpapers - 2,238
+# Wallpapers - 2,277
 - [desktop/castlevania](#desktop-castlevania) - 5
 - [desktop/castlevania pixel](#desktop-castlevania-pixel) - 11
 - [desktop/forests](#desktop-forests) - 113
 - [desktop/mega man pixel](#desktop-mega-man-pixel) - 5
 - [desktop/metroid](#desktop-metroid) - 8
-- [desktop/misc](#desktop-misc) - 54
+- [desktop/misc](#desktop-misc) - 58
 - [desktop/mistborn](#desktop-mistborn) - 4
+- [desktop/music](#desktop-music) - 2
 - [desktop/sea of thieves](#desktop-sea-of-thieves) - 13
 - [desktop/shovel knight](#desktop-shovel-knight) - 2
 - [desktop/skyrim art](#desktop-skyrim-art) - 5
@@ -54,6 +55,7 @@
 - [mobile/tmnt](#mobile-tmnt) - 71
 - [mobile/tolkien](#mobile-tolkien) - 54
 - [mobile/yumi and the nightmare painter](#mobile-yumi-and-the-nightmare-painter) - 12
+- [terminal/matching grey](#terminal-matching-grey) - 33
 
 <a id="desktop-castlevania"></a>
 
@@ -219,7 +221,7 @@
 
 <a id="desktop-misc"></a>
 
-## [desktop/misc](/desktop/misc/README.MD) - 54
+## [desktop/misc](/desktop/misc/README.MD) - 58
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85d07c8f13648b7b_BatSwarm.jpg](/.internals/thumbnails/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
@@ -228,6 +230,7 @@
 [![8c1781f9a51fc94d_landscape bw.png](/.internals/thumbnails/desktop/misc/8c1781f9a51fc94d_landscape%20bw.png "8c1781f9a51fc94d_landscape bw.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8c1781f9a51fc94d_landscape%20bw.png)
 [![8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg "8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg)
 [![8cccd899598d5d9c_peakpx.jpg](/.internals/thumbnails/desktop/misc/8cccd899598d5d9c_peakpx.jpg "8cccd899598d5d9c_peakpx.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cccd899598d5d9c_peakpx.jpg)
+[![8ccdf389c931c99c Broken Aero Vista   Black   by Somrat   1920x1200](/.internals/thumbnails/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg "8ccdf389c931c99c Broken Aero Vista   Black   by Somrat   1920x1200")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg)
 [![90914f3d9c27b6e1_neon-shacks-nord.png](/.internals/thumbnails/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png "90914f3d9c27b6e1_neon-shacks-nord.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png)
 [![9191727263d39b99_Stargate - 1220x604.jpg](/.internals/thumbnails/desktop/misc/9191727263d39b99_Stargate%20-%201220x604.jpg "9191727263d39b99_Stargate - 1220x604.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9191727263d39b99_Stargate%20-%201220x604.jpg)
 [![92c93d69e5926d92 Johan Christian Dahl View Of Dresden by Moonlight](/.internals/thumbnails/desktop/misc/92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg "92c93d69e5926d92 Johan Christian Dahl View Of Dresden by Moonlight")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/92c93d69e5926d92_Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg)
@@ -240,13 +243,16 @@
 [![96b6689967359863_dark_forest.png](/.internals/thumbnails/desktop/misc/96b6689967359863_dark_forest.png "96b6689967359863_dark_forest.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/96b6689967359863_dark_forest.png)
 [![989baa9a9694339b_colors.jpg](/.internals/thumbnails/desktop/misc/989baa9a9694339b_colors.jpg "989baa9a9694339b_colors.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/989baa9a9694339b_colors.jpg)
 [![98ec6793c46c9b85_firefox_nebula_1920_1200.jpg](/.internals/thumbnails/desktop/misc/98ec6793c46c9b85_firefox_nebula_1920_1200.jpg "98ec6793c46c9b85_firefox_nebula_1920_1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/98ec6793c46c9b85_firefox_nebula_1920_1200.jpg)
+[![999766785e23e90c_horror - 3872x2592.JPG](/.internals/thumbnails/desktop/misc/999766785e23e90c_horror%20-%203872x2592.JPG "999766785e23e90c_horror - 3872x2592.JPG")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999766785e23e90c_horror%20-%203872x2592.JPG)
 [![999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg](/.internals/thumbnails/desktop/misc/999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg "999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999b1b9c6a1436da_halloween-night-full-moon-jack-o-lantern-pumpkin-4k-wallpaper-uhdpaper.com-704@1@m.jpg)
 [![999c66639b98cd26_pxfuel (41).jpg](/.internals/thumbnails/desktop/misc/999c66639b98cd26_pxfuel%20(41).jpg "999c66639b98cd26_pxfuel (41).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/999c66639b98cd26_pxfuel%20(41).jpg)
 [![99c6666599ce8333_pxfuel (29).jpg](/.internals/thumbnails/desktop/misc/99c6666599ce8333_pxfuel%20(29).jpg "99c6666599ce8333_pxfuel (29).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/99c6666599ce8333_pxfuel%20(29).jpg)
 [![99cd26679d09c176_wallhaven-zyxvqy.jpg](/.internals/thumbnails/desktop/misc/99cd26679d09c176_wallhaven-zyxvqy.jpg "99cd26679d09c176_wallhaven-zyxvqy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/99cd26679d09c176_wallhaven-zyxvqy.jpg)
 [![99ce663199ce6631_puppy.jpg](/.internals/thumbnails/desktop/misc/99ce663199ce6631_puppy.jpg "99ce663199ce6631_puppy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/99ce663199ce6631_puppy.jpg)
 [![9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg](/.internals/thumbnails/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg "9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg)
+[![a585b290d4edacec_Charles Bridge in Prague.jpg](/.internals/thumbnails/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg "a585b290d4edacec_Charles Bridge in Prague.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg)
 [![a5f75a4abda14914_914910.jpg](/.internals/thumbnails/desktop/misc/a5f75a4abda14914_914910.jpg "a5f75a4abda14914_914910.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a5f75a4abda14914_914910.jpg)
+[![Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn](/.internals/thumbnails/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg "Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg)
 [![ae516a9da152c7a9_ign_megumin_dark.png](/.internals/thumbnails/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png "ae516a9da152c7a9_ign_megumin_dark.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png)
 [![b3d2c94943077c3d_4k-keyboard.jpg](/.internals/thumbnails/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg "b3d2c94943077c3d_4k-keyboard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg)
 [![b6b44a496f6f0c13_shiny-colors.png](/.internals/thumbnails/desktop/misc/b6b44a496f6f0c13_shiny-colors.png "b6b44a496f6f0c13_shiny-colors.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b6b44a496f6f0c13_shiny-colors.png)
@@ -288,6 +294,12 @@ The Alloy of Law Cover by Marc Simonetti")](https://raw.githubusercontent.com/bu
 Era 2 Triptych by Marc Simonetti](/.internals/thumbnails/desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg "00 Cover Zz Era 2 by Marc Simonetti
 Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg)
 [![Cognitive Realm by Ricky Ho](/.internals/thumbnails/desktop/mistborn/cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/mistborn/cognitive-realm-by-ricky-ho.jpg)
+
+<a id="desktop-music"></a>
+
+## [desktop/music](/desktop/music/README.MD) - 2
+[![Living Tombstone - Spotify.jpg](/.internals/thumbnails/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)
+[![So This Is Suffering Spotify header.jpg](/.internals/thumbnails/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 
 <a id="desktop-sea-of-thieves"></a>
 
@@ -2756,6 +2768,43 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
+
+<a id="terminal-matching-grey"></a>
+
+## [terminal/matching grey](/terminal/matching%20grey/README.MD) - 33
+[![corner_knot.png](/.internals/thumbnails/terminal/matching%20grey/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png)
+[![cosmere-ghostbloods.png](/.internals/thumbnails/terminal/matching%20grey/cosmere-ghostbloods.png "cosmere-ghostbloods.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere-ghostbloods.png)
+[![Cosmere.png](/.internals/thumbnails/terminal/matching%20grey/Cosmere.png "Cosmere.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/Cosmere.png)
+[![fma-flamel.png](/.internals/thumbnails/terminal/matching%20grey/fma-flamel.png "fma-flamel.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fma-flamel.png)
+[![fma-ouroboros.png](/.internals/thumbnails/terminal/matching%20grey/fma-ouroboros.png "fma-ouroboros.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fma-ouroboros.png)
+[![magic_circle_1.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_1.png "magic_circle_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_1.png)
+[![magic_circle_2.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_2.png "magic_circle_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_2.png)
+[![magic_circle_3.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_3.png "magic_circle_3.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_3.png)
+[![magic_circle_4.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_4.png "magic_circle_4.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_4.png)
+[![magic_circle_5.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_5.png "magic_circle_5.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_5.png)
+[![magic_circle_6.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_6.png "magic_circle_6.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_6.png)
+[![magic_circle_fma.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_fma.png "magic_circle_fma.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_fma.png)
+[![mountain.png](/.internals/thumbnails/terminal/matching%20grey/mountain.png "mountain.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mountain.png)
+[![painted_heart.png](/.internals/thumbnails/terminal/matching%20grey/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png)
+[![samus_helm.png](/.internals/thumbnails/terminal/matching%20grey/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/samus_helm.png)
+[![skyrim.png](/.internals/thumbnails/terminal/matching%20grey/skyrim.png "skyrim.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyrim.png)
+[![Skyward Sword S Gate Of Time by Tamalesyatole D57536l](/.internals/thumbnails/terminal/matching%20grey/skyward_sword_s_gate_of_time_by_tamalesyatole_d57536l.png "Skyward Sword S Gate Of Time by Tamalesyatole D57536l")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyward_sword_s_gate_of_time_by_tamalesyatole_d57536l.png)
+[![small_knots_1.png](/.internals/thumbnails/terminal/matching%20grey/small_knots_1.png "small_knots_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/small_knots_1.png)
+[![small_knots_2.png](/.internals/thumbnails/terminal/matching%20grey/small_knots_2.png "small_knots_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/small_knots_2.png)
+[![small_star.png](/.internals/thumbnails/terminal/matching%20grey/small_star.png "small_star.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/small_star.png)
+[![stargate-milkyway.png](/.internals/thumbnails/terminal/matching%20grey/stargate-milkyway.png "stargate-milkyway.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-milkyway.png)
+[![stargate-pegasus.png](/.internals/thumbnails/terminal/matching%20grey/stargate-pegasus.png "stargate-pegasus.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-pegasus.png)
+[![stormlight.png](/.internals/thumbnails/terminal/matching%20grey/stormlight.png "stormlight.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight.png)
+[![stormlight-simple.png](/.internals/thumbnails/terminal/matching%20grey/stormlight-simple.png "stormlight-simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight-simple.png)
+[![triforce-outline.png](/.internals/thumbnails/terminal/matching%20grey/triforce-outline.png "triforce-outline.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-outline.png)
+[![triforce-simple.png](/.internals/thumbnails/terminal/matching%20grey/triforce-simple.png "triforce-simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-simple.png)
+[![triforce-splot.png](/.internals/thumbnails/terminal/matching%20grey/triforce-splot.png "triforce-splot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-splot.png)
+[![triforce-stabby_wingaling.png](/.internals/thumbnails/terminal/matching%20grey/triforce-stabby_wingaling.png "triforce-stabby_wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-stabby_wingaling.png)
+[![triforce-wingaling.png](/.internals/thumbnails/terminal/matching%20grey/triforce-wingaling.png "triforce-wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-wingaling.png)
+[![vault_boy.png](/.internals/thumbnails/terminal/matching%20grey/vault_boy.png "vault_boy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vault_boy.png)
+[![zelda-botw_sheikah_eye.png](/.internals/thumbnails/terminal/matching%20grey/zelda-botw_sheikah_eye.png "zelda-botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_sheikah_eye.png)
+[![zelda-botw_stabby_z.png](/.internals/thumbnails/terminal/matching%20grey/zelda-botw_stabby_z.png "zelda-botw_stabby_z.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_stabby_z.png)
+[![zelda-hylian_shield.png](/.internals/thumbnails/terminal/matching%20grey/zelda-hylian_shield.png "zelda-hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-hylian_shield.png)
 
 
 [back to top](#)
