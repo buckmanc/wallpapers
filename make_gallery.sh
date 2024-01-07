@@ -203,7 +203,7 @@ echo "--updating readme md's..."
 homeReadmePath="${path_root}/README.MD"
 rootReadmePath="${path_root}/README_ALL.MD"
 
-directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test' -not -path '*/all')"
+directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
@@ -213,7 +213,6 @@ while read -r dir; do
 	printf -v dirStatus '\033[2K%3d/%d:' "$iDir" "$totalDirs"
 	friendlyDirName="${dir/"$path_root"}"
 	thumbDir="$path_root/.internals/thumbnails/$friendlyDirName"
-	symlinkDir="$dir/all"
 
 	dirReadmePath="$dir/README.MD"
 	# don't overwrite the real root readme
@@ -233,16 +232,6 @@ while read -r dir; do
 	# fi
 
 	bottomLevelDir="$(bottom-level-dir "$dir")"
-
-	if [[ -d "$symlinkDir" ]]
-	then
-		rm -r "$symlinkDir"
-	fi
-
-	if [[ "$bottomLevelDir" != 1 && "$dir" != "$path_root" ]]
-	then
-		mkdir -p "$symlinkDir"
-	fi
 
 	imgFiles="$(find-images "$dir" -not -path '*/.*' -not -path '*/scripts')"
 	i=0
@@ -292,15 +281,6 @@ while read -r dir; do
 		fi
 
 		thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
-		symlinkDest="$symlinkDir/$(echo "${imgPath#"$dir"}" | sed -e 's|^/||g' -e 's|[/ ]|_|g')"
-		symlinkTarget="..${imgPath#"$dir"}"
-
-		# this really should be its own section but it overlaps nicely here
-		if [[ -d "$symlinkDir" ]]
-		then
-			ln -s -T "$symlinkTarget" "$symlinkDest"
-		fi
-
 		thumbnailUrl="${thumbnailPath/#"$path_root"/}"
 		thumbnailUrl="${thumbnailUrl// /%20}"
 		imageUrl="$raw_root${imgPath/#"$path_root"/}"
