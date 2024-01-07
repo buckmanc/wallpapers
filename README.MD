@@ -2,7 +2,7 @@
 make sure you're editing the template, doofus
 -->
 
-# 2,303 Wallpapers
+# 2,306 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -10,7 +10,7 @@ A simple repo to house my wallpapers for ease of use and automation.
 - [mobile](/mobile/README.MD) - 1,562
 - [desktop](/desktop/README.MD) - 446
 - [floaters](/floaters/README.MD) - 250
-- [terminal](/terminal/README.MD) - 45
+- [terminal](/terminal/README.MD) - 48
 
 # Usage
 
