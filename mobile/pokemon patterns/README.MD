@@ -1,4 +1,4 @@
-# pokemon patterns - 38
+# pokemon patterns - 40
 [![05a9439a-130a-4dc6-a58f-d69492c57c43.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/05a9439a-130a-4dc6-a58f-d69492c57c43.jpeg "05a9439a-130a-4dc6-a58f-d69492c57c43.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/05a9439a-130a-4dc6-a58f-d69492c57c43.jpeg)
 
 [![_21_pumpkaboo-wallpaper_I-realized-I-had-quite-a-collection-of-tileable-Pokemon-.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/_21_pumpkaboo-wallpaper_I-realized-I-had-quite-a-collection-of-tileable-Pokemon-.jpg "_21_pumpkaboo-wallpaper_I-realized-I-had-quite-a-collection-of-tileable-Pokemon-.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/_21_pumpkaboo-wallpaper_I-realized-I-had-quite-a-collection-of-tileable-Pokemon-.jpg)
@@ -36,6 +36,9 @@ Spooky Baby Pokemon by Donsveertje
 
 [![Spooky Ghastly Haunter Gengar by Donsveertje](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/Spooky%20ghastly%20haunter%20Gengar%20by%20Donsveertje.png "Spooky Ghastly Haunter Gengar by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/Spooky%20ghastly%20haunter%20Gengar%20by%20Donsveertje.png)\
 Spooky Ghastly Haunter Gengar by Donsveertje
+
+[![Starly Pokemon Drawn by Ekm D2e0c062157aaf8b7da30f10a7da84ae](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/starly_pokemon_drawn_by_ekm__d2e0c062157aaf8b7da30f10a7da84ae.png "Starly Pokemon Drawn by Ekm D2e0c062157aaf8b7da30f10a7da84ae")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/starly_pokemon_drawn_by_ekm__d2e0c062157aaf8b7da30f10a7da84ae.png)\
+Starly Pokemon Drawn by Ekm D2e0c062157aaf8b7da30f10a7da84ae
 
 [![Star Salts D8fzUirUwAALjaq by Star Salts](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/star_salts_D8fzUirUwAALjaq_by_Star_Salts.jpeg "Star Salts D8fzUirUwAALjaq by Star Salts")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/star_salts_D8fzUirUwAALjaq_by_Star_Salts.jpeg)\
 Star Salts D8fzUirUwAALjaq by Star Salts
@@ -93,6 +96,9 @@ Star Salts Fxa6JtPacAM4tQX by Star Salts
 
 [![Star Salts FzBs3sMaUAICDf2 by Star Salts](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/star_salts_FzBs3sMaUAICDf2_by_Star_Salts.jpeg "Star Salts FzBs3sMaUAICDf2 by Star Salts")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/star_salts_FzBs3sMaUAICDf2_by_Star_Salts.jpeg)\
 Star Salts FzBs3sMaUAICDf2 by Star Salts
+
+[![Wooloo Pokemon Drawn by Ekm 540bd23c4eb2dc1154e87b42ea37fcfb](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wooloo_pokemon_drawn_by_ekm__540bd23c4eb2dc1154e87b42ea37fcfb.png "Wooloo Pokemon Drawn by Ekm 540bd23c4eb2dc1154e87b42ea37fcfb")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wooloo_pokemon_drawn_by_ekm__540bd23c4eb2dc1154e87b42ea37fcfb.png)\
+Wooloo Pokemon Drawn by Ekm 540bd23c4eb2dc1154e87b42ea37fcfb
 
 [![wp4792132-wooloo-hd-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wp4792132-wooloo-hd-wallpapers.jpg "wp4792132-wooloo-hd-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wp4792132-wooloo-hd-wallpapers.jpg)
 
