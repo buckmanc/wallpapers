@@ -1,5 +1,5 @@
-# mobile - 1,557
-- [castlevania](#castlevania) - 108
+# mobile - 1,562
+- [castlevania](#castlevania) - 109
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
 - [elden ring](#elden-ring) - 20
@@ -7,7 +7,7 @@
 - [gideon the ninth](#gideon-the-ninth) - 7
 - [kirby](#kirby) - 5
 - [leaves](#leaves) - 19
-- [mario](#mario) - 80
+- [mario](#mario) - 81
 - [mega man](#mega-man) - 227
 - [mega man pixel](#mega-man-pixel) - 25
 - [metroid](#metroid) - 156
@@ -23,7 +23,7 @@
 - [pokemon patterns](#pokemon-patterns) - 38
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 9
-- [soulsborne](#soulsborne) - 22
+- [soulsborne](#soulsborne) - 25
 - [star trek](#star-trek) - 5
 - [stormlight](#stormlight) - 60
 - [the legend of zelda](#the-legend-of-zelda) - 196
@@ -34,7 +34,7 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/README.MD) - 108
+## [castlevania](/mobile/castlevania/README.MD) - 109
 [![00_ak_cv_09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![CastleVania Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![CastleVania Dracula X Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -118,6 +118,7 @@ Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpap
 [![ Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b](/.internals/thumbnails/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg " Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg)
 [![CastleVania Order of Ecclesia by Masaki Hirooka](/.internals/thumbnails/mobile/castlevania/dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)
 [![ESRnAXvU0AIU6M0.jpeg](/.internals/thumbnails/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg "ESRnAXvU0AIU6M0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg)
+[![FXyejMUUcAAxjjz_no_bg.png](/.internals/thumbnails/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png "FXyejMUUcAAxjjz_no_bg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png)
 [![Lisa Tepes by Katie Silva
 Portrait Lisa Tepes by Katie Silva](/.internals/thumbnails/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg "Lisa Tepes by Katie Silva
 Portrait Lisa Tepes by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg)
@@ -304,7 +305,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="mario"></a>
 
-## [mario](/mobile/mario/README.MD) - 80
+## [mario](/mobile/mario/README.MD) - 81
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
 [![20231211_115019.jpg](/.internals/thumbnails/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
 [![20231220_213840.jpg](/.internals/thumbnails/mobile/mario/20231220_213840.jpg "20231220_213840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg)
@@ -341,6 +342,7 @@ Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample A
 [![Mario Print by Matt Kaufenberg](/.internals/thumbnails/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg "Mario Print by Matt Kaufenberg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg)
 [![Mario The Lizard by Nick Derington](/.internals/thumbnails/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg)
 [![mario-wallpaper-laptop.jpg](/.internals/thumbnails/mobile/mario/mario-wallpaper-laptop.jpg "mario-wallpaper-laptop.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario-wallpaper-laptop.jpg)
+[![next-level-ramen.png](/.internals/thumbnails/mobile/mario/next-level-ramen.png "next-level-ramen.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/next-level-ramen.png)
 [![Ox DE96rKvUIAAiwfS by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png "Ox DE96rKvUIAAiwfS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png)
 [![Ox DEugydnUIAAu84j by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DEugydnUIAAu84j_by_oxfruit.png "Ox DEugydnUIAAu84j by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DEugydnUIAAu84j_by_oxfruit.png)
 [![Ox DEugzC4UMAAIrDw by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DEugzC4UMAAIrDw_by_oxfruit.png "Ox DEugzC4UMAAIrDw by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DEugzC4UMAAIrDw_by_oxfruit.png)
@@ -1418,7 +1420,7 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 <a id="soulsborne"></a>
 
-## [soulsborne](/mobile/soulsborne/README.MD) - 22
+## [soulsborne](/mobile/soulsborne/README.MD) - 25
 [![1113054.jpg](/.internals/thumbnails/mobile/soulsborne/1113054.jpg "1113054.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/1113054.jpg)
 [![999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg](/.internals/thumbnails/mobile/soulsborne/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg "999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg)
 [![Anato Finnstark Lady Maria Bloodborne by Anatofinnstark Dclx63u](/.internals/thumbnails/mobile/soulsborne/anato-finnstark-lady-maria-bloodborne-by-anatofinnstark-dclx63u.jpg "Anato Finnstark Lady Maria Bloodborne by Anatofinnstark Dclx63u")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/anato-finnstark-lady-maria-bloodborne-by-anatofinnstark-dclx63u.jpg)
@@ -1440,6 +1442,9 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 [![FPRYMqlXIAE9TfM.jpeg](/.internals/thumbnails/mobile/soulsborne/FPRYMqlXIAE9TfM.jpeg "FPRYMqlXIAE9TfM.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/FPRYMqlXIAE9TfM.jpeg)
 [![ Hunter Bloodborne Drawn by Anato Finnstark 67964a313dea81ea6f132b3fe8f650b6](/.internals/thumbnails/mobile/soulsborne/__hunter_bloodborne_drawn_by_anato_finnstark__67964a313dea81ea6f132b3fe8f650b6.jpg " Hunter Bloodborne Drawn by Anato Finnstark 67964a313dea81ea6f132b3fe8f650b6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__hunter_bloodborne_drawn_by_anato_finnstark__67964a313dea81ea6f132b3fe8f650b6.jpg)
 [![ Hunter Bloodborne Drawn by Anato Finnstark B7d03eb143dfbbc02ce192078da9d85d](/.internals/thumbnails/mobile/soulsborne/__hunter_bloodborne_drawn_by_anato_finnstark__b7d03eb143dfbbc02ce192078da9d85d.jpg " Hunter Bloodborne Drawn by Anato Finnstark B7d03eb143dfbbc02ce192078da9d85d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__hunter_bloodborne_drawn_by_anato_finnstark__b7d03eb143dfbbc02ce192078da9d85d.jpg)
+[![pavel-goloviy-flamelurker-chamber-concept.jpg](/.internals/thumbnails/mobile/soulsborne/pavel-goloviy-flamelurker-chamber-concept.jpg "pavel-goloviy-flamelurker-chamber-concept.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/pavel-goloviy-flamelurker-chamber-concept.jpg)
+[![pavel-goloviy-fools-idol-church-concept.jpg](/.internals/thumbnails/mobile/soulsborne/pavel-goloviy-fools-idol-church-concept.jpg "pavel-goloviy-fools-idol-church-concept.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/pavel-goloviy-fools-idol-church-concept.jpg)
+[![pavel-goloviy-gothic-entrance-concept.jpg](/.internals/thumbnails/mobile/soulsborne/pavel-goloviy-gothic-entrance-concept.jpg "pavel-goloviy-gothic-entrance-concept.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/pavel-goloviy-gothic-entrance-concept.jpg)
 [![wallpaper_demons_souls_2020_03_1920x1080.jpg](/.internals/thumbnails/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg "wallpaper_demons_souls_2020_03_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg)
 
 <a id="star-trek"></a>
