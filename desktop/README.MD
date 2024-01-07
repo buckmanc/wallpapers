@@ -1,10 +1,10 @@
-# desktop - 446
+# desktop - 451
 - [castlevania](#castlevania) - 5
 - [castlevania pixel](#castlevania-pixel) - 11
 - [forests](#forests) - 113
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
-- [misc](#misc) - 58
+- [misc](#misc) - 62
 - [mistborn](#mistborn) - 4
 - [music](#music) - 2
 - [sea of thieves](#sea-of-thieves) - 13
@@ -13,7 +13,7 @@
 - [soulsborne](#soulsborne) - 10
 - [space](#space) - 94
 - [stormlight](#stormlight) - 5
-- [synthwave](#synthwave) - 27
+- [synthwave](#synthwave) - 28
 - [the legend of zelda](#the-legend-of-zelda) - 9
 - [tmnt](#tmnt) - 15
 - [tolkien](#tolkien) - 30
@@ -186,12 +186,14 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 58
+## [misc](/desktop/misc/README.MD) - 62
+[![84a0af973d6a926d_1279640.jpg](/.internals/thumbnails/desktop/misc/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/84a0af973d6a926d_1279640.jpg)
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85d07c8f13648b7b_BatSwarm.jpg](/.internals/thumbnails/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
 [![89059525c7bde783_SM3DWBF_Bowser_Art.jpg](/.internals/thumbnails/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg "89059525c7bde783_SM3DWBF_Bowser_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg)
 [![89c8b1623675b7c5_peakpx (8).jpg](/.internals/thumbnails/desktop/misc/89c8b1623675b7c5_peakpx%20(8).jpg "89c8b1623675b7c5_peakpx (8).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/89c8b1623675b7c5_peakpx%20(8).jpg)
+[![8a711c99bb9839d6_pxfuel (9).jpg](/.internals/thumbnails/desktop/misc/8a711c99bb9839d6_pxfuel%20(9).jpg "8a711c99bb9839d6_pxfuel (9).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8a711c99bb9839d6_pxfuel%20(9).jpg)
 [![8c1781f9a51fc94d_landscape bw.png](/.internals/thumbnails/desktop/misc/8c1781f9a51fc94d_landscape%20bw.png "8c1781f9a51fc94d_landscape bw.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8c1781f9a51fc94d_landscape%20bw.png)
 [![8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg "8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg)
 [![8cccd899598d5d9c_peakpx.jpg](/.internals/thumbnails/desktop/misc/8cccd899598d5d9c_peakpx.jpg "8cccd899598d5d9c_peakpx.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8cccd899598d5d9c_peakpx.jpg)
@@ -217,11 +219,13 @@
 [![9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg](/.internals/thumbnails/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg "9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg)
 [![a585b290d4edacec_Charles Bridge in Prague.jpg](/.internals/thumbnails/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg "a585b290d4edacec_Charles Bridge in Prague.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg)
 [![a5f75a4abda14914_914910.jpg](/.internals/thumbnails/desktop/misc/a5f75a4abda14914_914910.jpg "a5f75a4abda14914_914910.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a5f75a4abda14914_914910.jpg)
+[![a64979a659ae49b4_pxfuel (3).jpg](/.internals/thumbnails/desktop/misc/a64979a659ae49b4_pxfuel%20(3).jpg "a64979a659ae49b4_pxfuel (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a64979a659ae49b4_pxfuel%20(3).jpg)
 [![Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn](/.internals/thumbnails/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg "Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ad4a5ada2ad6542b_mega_man_2_wallpaper_by_mlsterben-d4xl0fn.jpg)
 [![ae516a9da152c7a9_ign_megumin_dark.png](/.internals/thumbnails/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png "ae516a9da152c7a9_ign_megumin_dark.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ae516a9da152c7a9_ign_megumin_dark.png)
 [![b3d2c94943077c3d_4k-keyboard.jpg](/.internals/thumbnails/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg "b3d2c94943077c3d_4k-keyboard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg)
 [![b6b44a496f6f0c13_shiny-colors.png](/.internals/thumbnails/desktop/misc/b6b44a496f6f0c13_shiny-colors.png "b6b44a496f6f0c13_shiny-colors.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b6b44a496f6f0c13_shiny-colors.png)
 [![c383cc8d9e1e0d67_john-towner-JgOeRuGD_Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/c383cc8d9e1e0d67_john-towner-JgOeRuGD_Y4-unsplash.jpg "c383cc8d9e1e0d67_john-towner-JgOeRuGD_Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c383cc8d9e1e0d67_john-towner-JgOeRuGD_Y4-unsplash.jpg)
+[![c3c3303c3c3cf8c7_pxfuel (16).jpg](/.internals/thumbnails/desktop/misc/c3c3303c3c3cf8c7_pxfuel%20(16).jpg "c3c3303c3c3cf8c7_pxfuel (16).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c3c3303c3c3cf8c7_pxfuel%20(16).jpg)
 [![c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg](/.internals/thumbnails/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg "c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg)
 [![c4c66f6d307bd230_pxfuel (23).jpg](/.internals/thumbnails/desktop/misc/c4c66f6d307bd230_pxfuel%20(23).jpg "c4c66f6d307bd230_pxfuel (23).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4c66f6d307bd230_pxfuel%20(23).jpg)
 [![c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg](/.internals/thumbnails/desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg "c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c61c2bc836b750af_colorful-abstract-background-digital-art-4k-wallpaper-uhdpaper.com-724@1@l.jpg)
@@ -427,7 +431,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="synthwave"></a>
 
-## [synthwave](/desktop/synthwave/README.MD) - 27
+## [synthwave](/desktop/synthwave/README.MD) - 28
 [![1188016.jpg](/.internals/thumbnails/desktop/synthwave/1188016.jpg "1188016.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/1188016.jpg)
 [![17740155_159Z_2107.w026.n002.628B.p1.628.jpg](/.internals/thumbnails/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg "17740155_159Z_2107.w026.n002.628B.p1.628.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg)
 [![5236169.jpg](/.internals/thumbnails/desktop/synthwave/5236169.jpg "5236169.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/5236169.jpg)
@@ -437,6 +441,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg](/.internals/thumbnails/desktop/synthwave/moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg "moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/moon-night-minimalist-scenery-synthwave-uhdpaper.com-4K-6.2182.jpg)
 [![palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg](/.internals/thumbnails/desktop/synthwave/palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg "palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg)
 [![peakpx (7).jpg](/.internals/thumbnails/desktop/synthwave/peakpx%20(7).jpg "peakpx (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/peakpx%20(7).jpg)
+[![pxfuel (20) (1).jpg](/.internals/thumbnails/desktop/synthwave/pxfuel%20(20)%20(1).jpg "pxfuel (20) (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20)%20(1).jpg)
 [![pxfuel (20).jpg](/.internals/thumbnails/desktop/synthwave/pxfuel%20(20).jpg "pxfuel (20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20).jpg)
 [![RDT_20231106_004554839560427587957369.jpg](/.internals/thumbnails/desktop/synthwave/RDT_20231106_004554839560427587957369.jpg "RDT_20231106_004554839560427587957369.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/RDT_20231106_004554839560427587957369.jpg)
 [![retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg](/.internals/thumbnails/desktop/synthwave/retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg "retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/retrowave-car-night-scenery-palm-trees-uhdpaper.com-4K-4.3065.jpg)

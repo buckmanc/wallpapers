@@ -1,4 +1,4 @@
-# synthwave - 27
+# synthwave - 28
 [![1188016.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/1188016.jpg "1188016.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/1188016.jpg)
 
 [![17740155_159Z_2107.w026.n002.628B.p1.628.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg "17740155_159Z_2107.w026.n002.628B.p1.628.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg)
@@ -16,6 +16,8 @@
 [![palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg "palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/palm-tree-retrowave-uhdpaper.com-4K-8.1513.jpg)
 
 [![peakpx (7).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/peakpx%20(7).jpg "peakpx (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/peakpx%20(7).jpg)
+
+[![pxfuel (20) (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20)%20(1).jpg "pxfuel (20) (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20)%20(1).jpg)
 
 [![pxfuel (20).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20).jpg "pxfuel (20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/synthwave/pxfuel%20(20).jpg)
 
