@@ -17,10 +17,7 @@ thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
 fileListFile="${path_root}/.internals/filelist/${branchName}.log"
-
-mkdir -p "$thumbnails_dir"
-mv "$thumbnails_dir" "$thumbnails_old_dir"
-mkdir -p "$thumbnails_dir"
+fileListFileMain="${path_root}/.internals/filelist/main.log"
 
 rm "$tocMD" > /dev/null 2>&1 || true
 
@@ -29,9 +26,9 @@ if [[ -f "$HOME/bin/find-images" ]]
 then
 	cp "$HOME/bin/find-images" "$path_root/scripts/find-images"
 fi
-if [[ -f "$HOME/bin/wallpaper-fitter" ]]
+if [[ -f "$HOME/bin/wallpaper-magick" ]]
 then
-	cp "$HOME/bin/wallpaper-fitter" "$path_root/scripts/wallpaper-fitter"
+	cp "$HOME/bin/wallpaper-magick" "$path_root/scripts/wallpaper-magick"
 fi
 
 find-images() {
@@ -43,8 +40,8 @@ find-images-main() {
 find-mod-time() {
 	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
 }
-wallpaper-fitter(){
-	"$path_root/scripts/wallpaper-fitter" "$@"
+wallpaper-magick(){
+	"$path_root/scripts/wallpaper-magick" "$@"
 }
 bottom-level-dir(){
 	if [[ "$(find-images "$1" -maxdepth 1 | wc -l)" -gt 0 ]]
@@ -71,14 +68,18 @@ echo "$imagesToFit" | while read -r src; do
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImagesToFit" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 	target="${src/#"$fitDir"/"$path_root"}"
+
 	# # temp fix: if jpeg target exists, burn it
 	# if [[ -f "$target" ]] && echo "$target" | grep -Piq "\.jpe?g$"
 	# then
 	# 	rm "$target"
 	# fi
 	# swap jpegs to pngs to avoid a greyscaling bug
+
 	target="$(echo "$target" | perl -pe 's/\.jpe?g$/.png/g')"
+	thumbnailPath="${target/#"$path_root"/"$thumbnails_dir"}"
 	targetDir="$(dirname "$target")"
+
 	if [[ -f "$target" ]]
 	then
 		echo -en '\r'
@@ -87,18 +88,30 @@ echo "$imagesToFit" | while read -r src; do
 
 	if echo "$src" | grep -iq "$fitDir/desktop"
 	then
-		args="--landscape"
+		args="-m landscape"
 	else
-		args="--portrait"
+		args="-m portrait"
 	fi
 
 	if echo "$src" | grep -iq "album cover art"
 	then
-		args+=" --blur"
+		args+=" -b"
 	fi
 
 	mkdir -p "$targetDir"
-	wallpaper-fitter "$src" "$target" "$args"
+	wallpaper-magick -i "$src" -o "$target" $args > /dev/null
+
+	if [[ ! -f "$target" ]]
+	then
+		echo "failed to create target image"
+		exit 1
+	fi
+
+	if [[ -f "$thumbnailPath" ]]
+	then
+		rm "$thumbnailPath"
+	fi
+
 	echo ""
 done
 
@@ -136,6 +149,11 @@ fi
 
 echo "--updating thumbnails..."
 
+mkdir -p "$thumbnails_dir"
+mv "$thumbnails_dir" "$thumbnails_old_dir"
+mkdir -p "$thumbnails_dir"
+
+
 imgFilesAll="$(find-images-main)"
 i=0
 totalImages=$(echo "$imgFilesAll" | wc -l)
@@ -150,8 +168,6 @@ echo "$imgFilesAll" | while read -r src; do
 
 	target_dir="$(dirname "$target")"
 	mkdir -p "$target_dir"
-
-		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
 		if [[ "$src" == *"/mobile/"* ]]; then
@@ -203,10 +219,12 @@ echo "--updating readme md's..."
 homeReadmePath="${path_root}/README.MD"
 rootReadmePath="${path_root}/README_ALL.MD"
 
-directories="$(find "$path_root" -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
+# min depth > 0 disables the generation of readme_all / rootReadmePath
+directories="$(find "$path_root" -mindepth 1 -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
+iMdUnchanged=0
 iMdSkip=0
 while read -r dir; do
 	((iDir++)) || true
@@ -215,21 +233,32 @@ while read -r dir; do
 	thumbDir="$path_root/.internals/thumbnails/$friendlyDirName"
 
 	dirReadmePath="$dir/README.MD"
+	dirHtmlReadmePath="$dir/README.html"
 	# don't overwrite the real root readme
 	if [[ "$dirReadmePath" == "$homeReadmePath" ]]
 	then
 		dirReadmePath="$rootReadmePath"
 	fi
 
-	# TODO also need to account for new files added, which could have old mod times
-	# dirChangeEpoch="$(du "$dir" --time --max-depth 0 --time-style=+%s | cut -f2)"
-	# thumbDirChangeEpoch="$(du "$thumbDir" --time --max-depth 0 --time-style=+%s | cut -f2)"
-	# mdChangeEpoch="$(du "$dirReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2)"
-        #
-	# if [[ "$dirChangeEpoch" -lt "$mdChangeEpoch" && "$thumbDirChangeEpoch" -lt "$mdChangeEpoch" ]]
-	# then
-	# 	continue
-	# fi
+	dirChangeEpoch="$(du "$dir" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
+	mdChangeEpoch="$(du "$dirReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
+	htmlChangeEpoch="$(du "$dirHtmlReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
+
+	if [[ "$mdChangeEpoch" -lt "$htmlChangeEpoch" ]]
+	then
+		mdChangeEpoch="$htmlChangeEpoch"
+	fi
+
+	# echo ""
+	# echo "dirChangeEpoch:      $dirChangeEpoch"
+	# echo "mdChangeEpoch:       $mdChangeEpoch"
+
+	if [[ "$dirChangeEpoch" != 0 && "$mdChangeEpoch" != 0 && "$dirChangeEpoch" -le "$mdChangeEpoch" ]]
+	then
+		iMdSkip=$(($iMdSkip+ 1))
+		echo -en '\r'
+		continue
+	fi
 
 	bottomLevelDir="$(bottom-level-dir "$dir")"
 
@@ -266,8 +295,9 @@ while read -r dir; do
 		dirAttribPath="$imgDir/attrib.md"
 		if [ -f "$dirAttribPath" ]
 		then
-			# sort the attrib files
-			sort -u -o "$dirAttribPath" "$dirAttribPath"
+			# not sorting attrib file to improve performance
+			# if manually editing you'll just have to sort it yourself
+			# or not
 			attrib="$(grep -iPo "(?<=$(quoteRe "$imgFilename")\s).+$" "$dirAttribPath" | sed 's/ \+/ /g')" || true
 		fi
 
@@ -350,7 +380,7 @@ while read -r dir; do
 
 		fi
 
-	echo -en '\r'
+		echo -en '\r'
 	
 	# if [[ "$i" -gt 50 ]]
 	# then
@@ -382,12 +412,18 @@ while read -r dir; do
 		# echo "mdText:    $(echo "$mdText" | wc)"
 		# echo "mdTextOld: $(echo "$mdTextOld" | wc)"
 	else
-		iMdSkip=$(($iMdSkip + 1))
+		# gotta update the mod time
+		# if we got here then readme mod time < dir mod time
+		# so we need to update the mod time to avoid having to reconstruct (but not write) the file perpetually
+		touch "$dirReadmePath"
+		iMdUnchanged=$(($iMdUnchanged + 1))
 	fi
+
 done < <( echo "$directories" )
 
 echo
-echo "$iMdSkip/$totalDirs md files unchanged"
+echo "$iMdSkip/$totalDirs md files skipped"
+echo "$iMdUnchanged/$totalDirs md files unchanged"
 
 # build the root table of contents
 pathRootEscaped="$(quoteRe "$path_root/")"

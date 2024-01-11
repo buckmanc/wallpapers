@@ -70,11 +70,11 @@ Jirachi Minior Minior Minior Minior Pokemon Drawn by Ekm 81b08346ab51998b6333513
 [![Jirachi Pokemon Drawn by Ekm B3bc41ac838c5e43a422822a6f7a7e5a](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/jirachi_pokemon_drawn_by_ekm__b3bc41ac838c5e43a422822a6f7a7e5a.png "Jirachi Pokemon Drawn by Ekm B3bc41ac838c5e43a422822a6f7a7e5a")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/jirachi_pokemon_drawn_by_ekm__b3bc41ac838c5e43a422822a6f7a7e5a.png)\
 Jirachi Pokemon Drawn by Ekm B3bc41ac838c5e43a422822a6f7a7e5a
 
-[![Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d Cropped](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_another_lil_sprouts_set__drawn_by_leaphere__cfd7b2a4843c8b6aa759ed0e04c8222d_cropped.png "Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d Cropped")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_another_lil_sprouts_set__drawn_by_leaphere__cfd7b2a4843c8b6aa759ed0e04c8222d_cropped.png)\
-Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d Cropped
+[![Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_another_lil_sprouts_set__drawn_by_leaphere__cfd7b2a4843c8b6aa759ed0e04c8222d.png "Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_another_lil_sprouts_set__drawn_by_leaphere__cfd7b2a4843c8b6aa759ed0e04c8222d.png)\
+Leaphere Another Lil Sprouts Set Drawn by Leaphere Cfd7b2a4843c8b6aa759ed0e04c8222d
 
-[![Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496 Cropped](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_Pokebuds__drawn_by_leaphere__5436d5f0d0548e99d2403451d3e3e496_cropped.png "Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496 Cropped")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_Pokebuds__drawn_by_leaphere__5436d5f0d0548e99d2403451d3e3e496_cropped.png)\
-Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496 Cropped
+[![Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_Pokebuds__drawn_by_leaphere__5436d5f0d0548e99d2403451d3e3e496.png "Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/leaphere_Pokebuds__drawn_by_leaphere__5436d5f0d0548e99d2403451d3e3e496.png)\
+Leaphere Pokebuds Drawn by Leaphere 5436d5f0d0548e99d2403451d3e3e496
 
 [![Mareep.full.2586751.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Mareep.full.2586751.png "Mareep.full.2586751.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Mareep.full.2586751.png)
 
