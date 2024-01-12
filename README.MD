@@ -2,15 +2,21 @@
 make sure you're editing the template, doofus
 -->
 
+![desktop wallpapers](.internals/headers/desktop.png)
+
 # 2,364 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
+
+![mobile wallpapers](.internals/headers/mobile.png)
 
 # Table of Contents
 - [mobile](/mobile/README.MD) - 1,615
 - [desktop](/desktop/README.MD) - 451
 - [floaters](/floaters/README.MD) - 250
 - [terminal](/terminal/README.MD) - 48
+
+![floaters wallpapers](.internals/headers/floaters.png)
 
 # Usage
 
@@ -39,6 +45,8 @@ git sparse-checkout set ./desktop ./terminal ./scripts
 git checkout main
 
 ```
+
+![terminal wallpapers](.internals/headers/terminal.png)
 
 # Attribution
 

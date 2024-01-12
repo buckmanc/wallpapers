@@ -2,12 +2,18 @@
 make sure you're editing the template, doofus
 -->
 
+![desktop wallpapers](.internals/headers/desktop.png)
+
 # {total} Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
+![mobile wallpapers](.internals/headers/mobile.png)
+
 # Table of Contents
 {table of contents}
+
+![floaters wallpapers](.internals/headers/floaters.png)
 
 # Usage
 
@@ -36,6 +42,8 @@ git sparse-checkout set ./desktop ./terminal ./scripts
 git checkout main
 
 ```
+
+![terminal wallpapers](.internals/headers/terminal.png)
 
 # Attribution
 
