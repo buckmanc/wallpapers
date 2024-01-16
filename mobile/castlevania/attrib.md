@@ -15,7 +15,7 @@
 00_ak_og_postcard01.jpg postcard by Ayami Kojima
 00_ak_og_postcard02.jpg postcard by Ayami Kojima
 14 - pdydhcq.jpg CastleVania Portrait of Ruin by Fumi Ishikaw
-15 - NKpvJxO.jpg CastleVania Portrait of Ruin by Fumi Ishikaw
+bye.jpg CastleVania Portrait of Ruin by Fumi Ishikaw
 16 - uBD0R8V.jpg CastleVania Order of Ecclesia by Masaki Hirooka
 17 - 9WN4MMr.png CastleVania Order of Ecclesia by Masaki Hirooka
 19 - Lvc2HYV.jpg
@@ -60,3 +60,7 @@ __trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2
 zz_castle_castlevania-by-roma-timbreza.jpg Castlevania by Roma Timbreza
 zz_castle_castlevania-by-roma-timbreza.jpg Zz Castle Castlevania by Roma Timbreza
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
+15 - Portrait of Ruin poster by Fumi Ishikawa.jpg 15   Portrait Of Ruin Poster by Fumi Ishikawa
+Isaac and Friend by Katie Silva.jpg Isaac and Friend by Katie Silva
+Lindenfield banner by Katie silva.jpg Lindenfield Banner by Katie Silva
+Portrait.of.Ruin by Daburoku.jpg Portrait

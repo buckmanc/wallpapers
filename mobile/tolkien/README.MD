@@ -1,11 +1,15 @@
-# tolkien - 54
+# tolkien - 88
+[![1876125.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/1876125.jpg)
+
 [![20231223_070550.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20231223_070550.jpg)
 
-[![7q2icl9fbjv31.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/7q2icl9fbjv31.png "7q2icl9fbjv31.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/7q2icl9fbjv31.png)
+[![20240115_120226.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20240115_120226.jpg "20240115_120226.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20240115_120226.jpg)
+
+[![3EvHLoB.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/3EvHLoB.jpeg "3EvHLoB.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/3EvHLoB.jpeg)
+
+[![89679427_2435901486722959_5961990092219274561_n.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/89679427_2435901486722959_5961990092219274561_n.jpg "89679427_2435901486722959_5961990092219274561_n.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/89679427_2435901486722959_5961990092219274561_n.jpg)
 
 [![anato-finnstark-1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-1.jpg "anato-finnstark-1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-1.jpg)
-
-[![anato-finnstark-4.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-4.jpg "anato-finnstark-4.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-4.jpg)
 
 [![anato-finnstark-anato-finnstark-web-petit-9.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-anato-finnstark-web-petit-9.jpg "anato-finnstark-anato-finnstark-web-petit-9.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/anato-finnstark-anato-finnstark-web-petit-9.jpg)
 
@@ -37,6 +41,12 @@ Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 [![ Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/__ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg " Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/__ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg)\
  Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7
 
+[![EowynandNazgul-donato-1000.jpg.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/EowynandNazgul-donato-1000.jpg.jpg "EowynandNazgul-donato-1000.jpg.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/EowynandNazgul-donato-1000.jpg.jpg)
+
+[![FallofGondolin-donato-3300-0318.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FallofGondolin-donato-3300-0318.jpg "FallofGondolin-donato-3300-0318.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FallofGondolin-donato-3300-0318.jpg)
+
+[![fd19fdf06bab43e5f2d695f64104a3e2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fd19fdf06bab43e5f2d695f64104a3e2.jpg "fd19fdf06bab43e5f2d695f64104a3e2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fd19fdf06bab43e5f2d695f64104a3e2.jpg)
+
 [![Fellbeast and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark Cropped](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fellbeast_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark_cropped.jpg "Fellbeast and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark Cropped")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fellbeast_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark_cropped.jpg)\
 Fellbeast and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark Cropped
 
@@ -45,6 +55,10 @@ Fellbeast Witch King Of Angmar and Eowyn Tolkien S Legendarium and 1 More Drawn 
 
 [![Fellbeast Witch King Of Angmar and Mumakil Tolkien S Legendarium and 1 More Drawn by Kalmahul](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fellbeast_witch_king_of_angmar_and_mumakil_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Fellbeast Witch King Of Angmar and Mumakil Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/fellbeast_witch_king_of_angmar_and_mumakil_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)\
 Fellbeast Witch King Of Angmar and Mumakil Tolkien S Legendarium and 1 More Drawn by Kalmahul
+
+[![FjQFcjt.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FjQFcjt.jpeg "FjQFcjt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FjQFcjt.jpeg)
+
+[![FPqsp1MWQAUBL9w.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FPqsp1MWQAUBL9w.jpeg "FPqsp1MWQAUBL9w.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FPqsp1MWQAUBL9w.jpeg)
 
 [![ Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg " Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg)\
  Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f
@@ -64,11 +78,17 @@ Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnst
 [![Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)\
 Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul
 
+[![GoodMorning-donato-1200-0420.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg "GoodMorning-donato-1200-0420.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg)
+
+[![KC3bmGP.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/KC3bmGP.jpeg)
+
 [![Legolas and Thranduil Tolkien S Legendarium and 1 More Drawn by Kagalin](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_and_thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kagalin.jpg "Legolas and Thranduil Tolkien S Legendarium and 1 More Drawn by Kagalin")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_and_thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kagalin.jpg)\
 Legolas and Thranduil Tolkien S Legendarium and 1 More Drawn by Kagalin
 
 [![Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)\
 Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon
+
+[![LegolasinMirkwood-oil-donato-0512.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/LegolasinMirkwood-oil-donato-0512.jpg "LegolasinMirkwood-oil-donato-0512.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/LegolasinMirkwood-oil-donato-0512.jpg)
 
 [![Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg "Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg)\
 Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika
@@ -133,6 +153,14 @@ Nazgul Tolkien S Legendarium and 1 More Drawn by Denis Istomin
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg "Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg)\
 Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert
 
+[![pxfuel (10).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(10).jpg "pxfuel (10).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(10).jpg)
+
+[![pxfuel (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(1).jpg "pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(1).jpg)
+
+[![pxfuel (7).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(7).jpg "pxfuel (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel%20(7).jpg)
+
+[![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/pxfuel.jpg)
+
 [![Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)\
 Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul
 
@@ -145,11 +173,58 @@ Sauron and Isildur Tolkien S Legendarium and 1 More Drawn by Anato Finnstark Cro
 [![Sauron Tolkien S Legendarium Drawn by Akreon](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg "Sauron Tolkien S Legendarium Drawn by Akreon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg)\
 Sauron Tolkien S Legendarium Drawn by Akreon
 
+[![ Silmarillion Deep Sea by Wavesheep D7fxpnk](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_deep_sea_by_wavesheep_d7fxpnk.jpg " Silmarillion Deep Sea by Wavesheep D7fxpnk")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_deep_sea_by_wavesheep_d7fxpnk.jpg)\
+ Silmarillion Deep Sea by Wavesheep D7fxpnk
+
+[![ Silmarillion Sauron by Wavesheep D7fs3j0](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_sauron_by_wavesheep_d7fs3j0.jpg " Silmarillion Sauron by Wavesheep D7fs3j0")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_sauron_by_wavesheep_d7fs3j0.jpg)\
+ Silmarillion Sauron by Wavesheep D7fs3j0
+
+[![ Silmarillion Ulmo by Wavesheep D7fa2l6](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_ulmo_by_wavesheep_d7fa2l6.jpg " Silmarillion Ulmo by Wavesheep D7fa2l6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/_silmarillion_ulmo_by_wavesheep_d7fa2l6.jpg)\
+ Silmarillion Ulmo by Wavesheep D7fa2l6
+
 [![Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)\
 Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 
+[![ted-nasmith--eaerendil-the-mariner.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.webp "ted-nasmith--eaerendil-the-mariner.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.webp)
+
+[![ted-nasmith--the-king-of-the-oathbreakers.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.webp "ted-nasmith--the-king-of-the-oathbreakers.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.webp)
+
+[![ted-nasmith--tuor-and-ulmo.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg "ted-nasmith--tuor-and-ulmo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg)
+
+[![ted-nasmith--tuor-at-vinyamar.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.webp "ted-nasmith--tuor-at-vinyamar.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.webp)
+
 [![Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg "Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg)\
 Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre
+
+[![Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg "Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg)\
+Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1
+
+[![VAHm5WL.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/VAHm5WL.jpeg "VAHm5WL.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/VAHm5WL.jpeg)
+
+[![warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp "warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp)
+
+[![yYYubyR.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/yYYubyR.jpeg "yYYubyR.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/yYYubyR.jpeg)
+
+[![Zirak-zigil-donato-1200-0994.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/Zirak-zigil-donato-1200-0994.jpg "Zirak-zigil-donato-1200-0994.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/Zirak-zigil-donato-1200-0994.jpg)
+
+[![zz_dd_7q2icl9fbjv31.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_7q2icl9fbjv31.png "zz_dd_7q2icl9fbjv31.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_7q2icl9fbjv31.png)
+
+[![zz_dd_8AvMhBk.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_8AvMhBk.jpeg "zz_dd_8AvMhBk.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_8AvMhBk.jpeg)
+
+[![zz_dd_ann-jean-durinsgate.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_ann-jean-durinsgate.jpg "zz_dd_ann-jean-durinsgate.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_ann-jean-durinsgate.jpg)
+
+[![Zz Dd Password Into Moria by Ted Nasmith](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_Password_into_Moria%20by%20Ted%20nasmith.jpg "Zz Dd Password Into Moria by Ted Nasmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_Password_into_Moria%20by%20Ted%20nasmith.jpg)\
+Zz Dd Password Into Moria by Ted Nasmith
+
+[![zz_dd_pxfuel_(6).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_pxfuel_(6).jpg "zz_dd_pxfuel_(6).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_pxfuel_(6).jpg)
+
+[![Zz Dd The Mines Of Moria by Alan Lee](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_the%20mines%20of%20moria%20by%20alan%20lee.jpg "Zz Dd The Mines Of Moria by Alan Lee")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_the%20mines%20of%20moria%20by%20alan%20lee.jpg)\
+Zz Dd The Mines Of Moria by Alan Lee
+
+[![zz_dd_WallsofMoria-donato-1500.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_WallsofMoria-donato-1500.jpg "zz_dd_WallsofMoria-donato-1500.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_WallsofMoria-donato-1500.jpg)
+
+[![Zz Dd West Door Of Moria by Aegeri](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_west_door_of_moria_by_aegeri.jpg "Zz Dd West Door Of Moria by Aegeri")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_west_door_of_moria_by_aegeri.jpg)\
+Zz Dd West Door Of Moria by Aegeri
 
 
 

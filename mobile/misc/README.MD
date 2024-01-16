@@ -1,4 +1,4 @@
-# misc - 73
+# misc - 76
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -8,6 +8,9 @@
 [![84394ed7798e99c4_pxfuel (25).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/84394ed7798e99c4_pxfuel%20(25).jpg "84394ed7798e99c4_pxfuel (25).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/84394ed7798e99c4_pxfuel%20(25).jpg)
 
 [![854a75b84eb84bbc_pxfuel (23).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/854a75b84eb84bbc_pxfuel%20(23).jpg "854a75b84eb84bbc_pxfuel (23).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/854a75b84eb84bbc_pxfuel%20(23).jpg)
+
+[![85a56a9e966659d1 The Witcher and 1 More Drawn by Manuel Castanon Fa018b8b4c288ab6c513146768b1f51c](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/85a56a9e966659d1___the_witcher_and_1_more_drawn_by_manuel_castanon__fa018b8b4c288ab6c513146768b1f51c.jpg "85a56a9e966659d1 The Witcher and 1 More Drawn by Manuel Castanon Fa018b8b4c288ab6c513146768b1f51c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/85a56a9e966659d1___the_witcher_and_1_more_drawn_by_manuel_castanon__fa018b8b4c288ab6c513146768b1f51c.jpg)\
+85a56a9e966659d1 The Witcher and 1 More Drawn by Manuel Castanon Fa018b8b4c288ab6c513146768b1f51c
 
 [![864bd934f270e696 Acerezak The Eternal by Inkeyjay](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/864bd934f270e696_Acerezak%20the%20Eternal%20by%20inkeyjay.jpg "864bd934f270e696 Acerezak The Eternal by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/864bd934f270e696_Acerezak%20the%20Eternal%20by%20inkeyjay.jpg)\
 864bd934f270e696 Acerezak The Eternal by Inkeyjay
@@ -29,13 +32,15 @@
 
 [![8dcd7272cd8d2c32_pxfuel (34).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8dcd7272cd8d2c32_pxfuel%20(34).jpg "8dcd7272cd8d2c32_pxfuel (34).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8dcd7272cd8d2c32_pxfuel%20(34).jpg)
 
+[![8e3c678ecd74258a_pxfuel (3).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8e3c678ecd74258a_pxfuel%20(3).jpg "8e3c678ecd74258a_pxfuel (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8e3c678ecd74258a_pxfuel%20(3).jpg)
+
 [![908c6f7390ccce3b_peakpx(21).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/908c6f7390ccce3b_peakpx(21).jpg "908c6f7390ccce3b_peakpx(21).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/908c6f7390ccce3b_peakpx(21).jpg)
+
+[![916e6e91296e93b1_U8Ho1S9.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/916e6e91296e93b1_U8Ho1S9.jpeg "916e6e91296e93b1_U8Ho1S9.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/916e6e91296e93b1_U8Ho1S9.jpeg)
 
 [![91d86c2cd0f16e3e_peakpx(11).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg "91d86c2cd0f16e3e_peakpx(11).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg)
 
 [![932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg "932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg)
-
-[![94953881377ddd58_peakpx(20).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94953881377ddd58_peakpx(20).jpg "94953881377ddd58_peakpx(20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94953881377ddd58_peakpx(20).jpg)
 
 [![94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg "94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg)
 
@@ -78,12 +83,12 @@
 [![9e49693438b333cd Iwilding Napstablook3 by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e49693438b333cd_iwilding_Napstablook3_by_ian_wilding.png "9e49693438b333cd Iwilding Napstablook3 by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e49693438b333cd_iwilding_Napstablook3_by_ian_wilding.png)\
 9e49693438b333cd Iwilding Napstablook3 by Ian Wilding
 
-[![9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e6c6193692c9679_iwilding_darksouls1_by_ian_wilding.jpg "9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e6c6193692c9679_iwilding_darksouls1_by_ian_wilding.jpg)\
-9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding
-
 [![9e96c8b2b130ac7d_peakpx(10).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg "9e96c8b2b130ac7d_peakpx(10).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg)
 
 [![9fd8602587ea383d_Magic Sunset.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
+
+[![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)\
+Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
 
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
 
@@ -109,6 +114,9 @@ C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay
 
 [![c6e0383f96384dc7_Luna.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c6e0383f96384dc7_Luna.jpg "c6e0383f96384dc7_Luna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c6e0383f96384dc7_Luna.jpg)
 
+[![C9cd26933c333336 Evilbook Illustration by Ann Jean](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9cd26933c333336_evilbook%20illustration%20by%20ann%20jean.jpg "C9cd26933c333336 Evilbook Illustration by Ann Jean")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9cd26933c333336_evilbook%20illustration%20by%20ann%20jean.jpg)\
+C9cd26933c333336 Evilbook Illustration by Ann Jean
+
 [![c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg "c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9e2670547993c7a_4c5d31900186b31f65ec4315a828474e.jpg)
 
 [![cc0bc719e339f438_billy-lundevall-handle-low.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/cc0bc719e339f438_billy-lundevall-handle-low.jpg "cc0bc719e339f438_billy-lundevall-handle-low.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/cc0bc719e339f438_billy-lundevall-handle-low.jpg)
@@ -122,6 +130,8 @@ C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay
 [![ce3971cf3820c63d_Night Creepy.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ce3971cf3820c63d_Night%20Creepy.jpg "ce3971cf3820c63d_Night Creepy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ce3971cf3820c63d_Night%20Creepy.jpg)
 
 [![ce869d1973e2ce09_Castle.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ce869d1973e2ce09_Castle.jpg "ce869d1973e2ce09_Castle.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/ce869d1973e2ce09_Castle.jpg)
+
+[![cec6313998c6c7c6_QQjCLXq.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg "cec6313998c6c7c6_QQjCLXq.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg)
 
 [![D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg "D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg)\
 D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek
@@ -154,8 +164,6 @@ E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990
 [![f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg "f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg)
 
 [![fb0f04b26bdd32c0_pxfuel (18).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg "fb0f04b26bdd32c0_pxfuel (18).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg)
-
-[![fb0f04b26bdd32c0_pxfuel (39).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(39).jpg "fb0f04b26bdd32c0_pxfuel (39).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(39).jpg)
 
 [![fddc8202237ddc8c_pxfuel (31).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fddc8202237ddc8c_pxfuel%20(31).jpg "fddc8202237ddc8c_pxfuel (31).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/fddc8202237ddc8c_pxfuel%20(31).jpg)
 

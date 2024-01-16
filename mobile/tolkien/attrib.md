@@ -77,3 +77,10 @@ __thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kazuki_mendou__b12d9c80f20
 thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kazuki_mendou.jpg Thranduil Tolkien S Legendarium and 1 More Drawn by Kazuki Mendou
 __turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre__d6ec2e233922ca6154213252838ada1f.jpg   Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre  D6ec2e233922ca6154213252838ada1f
 turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre
+_silmarillion_deep_sea_by_wavesheep_d7fxpnk.jpg  Silmarillion Deep Sea by Wavesheep D7fxpnk
+_silmarillion_sauron_by_wavesheep_d7fs3j0.jpg  Silmarillion Sauron by Wavesheep D7fs3j0
+_silmarillion_ulmo_by_wavesheep_d7fa2l6.jpg  Silmarillion Ulmo by Wavesheep D7fa2l6
+ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1
+zz_dd_Password_into_Moria by Ted nasmith.jpg Zz Dd Password Into Moria by Ted Nasmith
+zz_dd_the mines of moria by alan lee.jpg Zz Dd The Mines Of Moria by Alan Lee
+zz_dd_west_door_of_moria_by_aegeri.jpg Zz Dd West Door Of Moria by Aegeri

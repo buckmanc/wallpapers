@@ -1,22 +1,23 @@
-# desktop - 451
+# desktop - 496
 - [castlevania](#castlevania) - 5
 - [castlevania pixel](#castlevania-pixel) - 11
 - [forests](#forests) - 113
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
-- [misc](#misc) - 62
+- [ming fan concept art](#ming-fan-concept-art) - 28
+- [misc](#misc) - 61
 - [mistborn](#mistborn) - 4
 - [music](#music) - 2
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
 - [skyrim art](#skyrim-art) - 5
-- [soulsborne](#soulsborne) - 10
+- [soulsborne](#soulsborne) - 11
 - [space](#space) - 94
 - [stormlight](#stormlight) - 5
 - [synthwave](#synthwave) - 28
 - [the legend of zelda](#the-legend-of-zelda) - 9
 - [tmnt](#tmnt) - 15
-- [tolkien](#tolkien) - 30
+- [tolkien](#tolkien) - 47
 - [tomb raider 2013](#tomb-raider-) - 11
 - [vector vistas](#vector-vistas) - 10
 - [villages](#villages) - 5
@@ -184,10 +185,41 @@
 [![Tallon Overworld by Noble6design D9m6z0a Fullview](/.internals/thumbnails/desktop/metroid/tallon_overworld_by_noble6design_d9m6z0a-fullview.jpg "Tallon Overworld by Noble6design D9m6z0a Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/tallon_overworld_by_noble6design_d9m6z0a-fullview.jpg)
 [![wp2750407-super-metriod-wallpaper.jpg](/.internals/thumbnails/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg "wp2750407-super-metriod-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg)
 
+<a id="ming-fan-concept-art"></a>
+
+## [ming fan concept art](/desktop/ming%20fan%20concept%20art/README.MD) - 28
+[![desktopwallpapers.org.ua_13483.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/desktopwallpapers.org.ua_13483.jpg "desktopwallpapers.org.ua_13483.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/desktopwallpapers.org.ua_13483.jpg)
+[![Fan_Ming_Art_013b.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_013b.jpg "Fan_Ming_Art_013b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_013b.jpg)
+[![Fan_Ming_Art_04b.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_04b.jpg "Fan_Ming_Art_04b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_04b.jpg)
+[![ming-fan-001ymalzgy6k8dq6oml27-amp.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-001ymalzgy6k8dq6oml27-amp.jpg "ming-fan-001ymalzgy6k8dq6oml27-amp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-001ymalzgy6k8dq6oml27-amp.jpg)
+[![ming-fan-0c3bb25d2c8355b07cf467057a21110a.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-0c3bb25d2c8355b07cf467057a21110a.jpg "ming-fan-0c3bb25d2c8355b07cf467057a21110a.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-0c3bb25d2c8355b07cf467057a21110a.jpg)
+[![ming-fan-1500.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-1500.jpg "ming-fan-1500.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-1500.jpg)
+[![ming-fan-17.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-17.jpg "ming-fan-17.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-17.jpg)
+[![ming-fan- (1).jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-%20(1).jpg "ming-fan- (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-%20(1).jpg)
+[![ming-fan-20.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-20.jpg "ming-fan-20.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-20.jpg)
+[![ming-fan-2.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-2.jpg "ming-fan-2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-2.jpg)
+[![ming-fan- (2).jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-%20(2).jpg "ming-fan- (2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-%20(2).jpg)
+[![ming-fan- (3).jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-%20(3).jpg "ming-fan- (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-%20(3).jpg)
+[![ming-fan- (4).jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-%20(4).jpg "ming-fan- (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-%20(4).jpg)
+[![ming-fan-50cca6f1788538a68202cd8ee534cb9e.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-50cca6f1788538a68202cd8ee534cb9e.jpg "ming-fan-50cca6f1788538a68202cd8ee534cb9e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-50cca6f1788538a68202cd8ee534cb9e.jpg)
+[![ming-fan-5.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-5.jpg "ming-fan-5.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-5.jpg)
+[![ming-fan-7205f94fc43a539948a4f1e910af61d2.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-7205f94fc43a539948a4f1e910af61d2.jpg "ming-fan-7205f94fc43a539948a4f1e910af61d2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-7205f94fc43a539948a4f1e910af61d2.jpg)
+[![ming-fan-7.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-7.jpg "ming-fan-7.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-7.jpg)
+[![ming-fan-87821d51293cbff90a35641c9cd2320d.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-87821d51293cbff90a35641c9cd2320d.jpg "ming-fan-87821d51293cbff90a35641c9cd2320d.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-87821d51293cbff90a35641c9cd2320d.jpg)
+[![ming-fan-c1885856b178807fff63bf9bc77ae178.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-c1885856b178807fff63bf9bc77ae178.jpg "ming-fan-c1885856b178807fff63bf9bc77ae178.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-c1885856b178807fff63bf9bc77ae178.jpg)
+[![ming-fan-img-0017.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-img-0017.jpg "ming-fan-img-0017.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-img-0017.jpg)
+[![ming-fan-img-0023.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-img-0023.jpg "ming-fan-img-0023.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-img-0023.jpg)
+[![ming-fan-img-0033.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-img-0033.jpg "ming-fan-img-0033.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-img-0033.jpg)
+[![ming-fan-img-0358.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-img-0358.jpg "ming-fan-img-0358.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-img-0358.jpg)
+[![ming-fan-img-0360.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-img-0360.jpg "ming-fan-img-0360.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-img-0360.jpg)
+[![ming-fan-.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-.jpg "ming-fan-.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-.jpg)
+[![ming-fan-r3.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-r3.jpg "ming-fan-r3.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-r3.jpg)
+[![ming-fan-zzz.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-zzz.jpg "ming-fan-zzz.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/ming-fan-zzz.jpg)
+[![Unknown by Ming Fan](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/unknown%20by%20ming%20fan.jpeg "Unknown by Ming Fan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/ming%20fan%20concept%20art/unknown%20by%20ming%20fan.jpeg)
+
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 62
-[![84a0af973d6a926d_1279640.jpg](/.internals/thumbnails/desktop/misc/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/84a0af973d6a926d_1279640.jpg)
+## [misc](/desktop/misc/README.MD) - 61
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85d07c8f13648b7b_BatSwarm.jpg](/.internals/thumbnails/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
@@ -310,8 +342,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="soulsborne"></a>
 
-## [soulsborne](/desktop/soulsborne/README.MD) - 10
+## [soulsborne](/desktop/soulsborne/README.MD) - 11
 [![1113054.jpg](/.internals/thumbnails/desktop/soulsborne/1113054.jpg "1113054.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/1113054.jpg)
+[![20240113_095357.jpg](/.internals/thumbnails/desktop/soulsborne/20240113_095357.jpg "20240113_095357.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/20240113_095357.jpg)
 [![anato-finnstark-web-petit (7).jpg](/.internals/thumbnails/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg "anato-finnstark-web-petit (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg)
 [![ Ashen One Dark Souls and 1 More Drawn by Anato Finnstark 2194c10686a62e9e6216b308a84107a7](/.internals/thumbnails/desktop/soulsborne/__ashen_one_dark_souls_and_1_more_drawn_by_anato_finnstark__2194c10686a62e9e6216b308a84107a7.png " Ashen One Dark Souls and 1 More Drawn by Anato Finnstark 2194c10686a62e9e6216b308a84107a7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/__ashen_one_dark_souls_and_1_more_drawn_by_anato_finnstark__2194c10686a62e9e6216b308a84107a7.png)
 [![ Bloodborne Drawn by Anato Finnstark B2cb63fa0a937009c4e5c3755fd3396c](/.internals/thumbnails/desktop/soulsborne/__bloodborne_drawn_by_anato_finnstark__b2cb63fa0a937009c4e5c3755fd3396c.png " Bloodborne Drawn by Anato Finnstark B2cb63fa0a937009c4e5c3755fd3396c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/soulsborne/__bloodborne_drawn_by_anato_finnstark__b2cb63fa0a937009c4e5c3755fd3396c.png)
@@ -495,20 +528,34 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="tolkien"></a>
 
-## [tolkien](/desktop/tolkien/README.MD) - 30
+## [tolkien](/desktop/tolkien/README.MD) - 47
+[![1ZlXSLP.jpeg](/.internals/thumbnails/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg)
+[![20240113_094430.jpg](/.internals/thumbnails/desktop/tolkien/20240113_094430.jpg "20240113_094430.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg)
+[![3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg](/.internals/thumbnails/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg "3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg)
+[![570361_tauriel_les_mirkvud_liholese_hobbit-pustosh-smauga_2866x1200_(www.GdeFon.ru).jpg](/.internals/thumbnails/desktop/tolkien/570361_tauriel_les_mirkvud_liholese_hobbit-pustosh-smauga_2866x1200_(www.GdeFon.ru).jpg "570361_tauriel_les_mirkvud_liholese_hobbit-pustosh-smauga_2866x1200_(www.GdeFon.ru).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/570361_tauriel_les_mirkvud_liholese_hobbit-pustosh-smauga_2866x1200_(www.GdeFon.ru).jpg)
+[![5feF7d6.jpeg](/.internals/thumbnails/desktop/tolkien/5feF7d6.jpeg "5feF7d6.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/5feF7d6.jpeg)
+[![758011.jpg](/.internals/thumbnails/desktop/tolkien/758011.jpg "758011.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/758011.jpg)
+[![838362.jpg](/.internals/thumbnails/desktop/tolkien/838362.jpg "838362.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/838362.jpg)
 [![anato-finnstark-f.jpg](/.internals/thumbnails/desktop/tolkien/anato-finnstark-f.jpg "anato-finnstark-f.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-f.jpg)
 [![Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview](/.internals/thumbnails/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg "Anato Finnstark One Ring To Rule Them All Lotr by Anatofinnstark Dd5q6ud Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/anato-finnstark-one-ring-to-rule-them-all-lotr-by-anatofinnstark-dd5q6ud-fullview.jpg)
+[![ Ancalagon and Earendil Tolkien S Legendarium and 1 More Drawn by Manuel Castanon 20c811678d296d68851769a0527af000](/.internals/thumbnails/desktop/tolkien/__ancalagon_and_earendil_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon__20c811678d296d68851769a0527af000.jpg " Ancalagon and Earendil Tolkien S Legendarium and 1 More Drawn by Manuel Castanon 20c811678d296d68851769a0527af000")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/__ancalagon_and_earendil_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon__20c811678d296d68851769a0527af000.jpg)
 [![ Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg " Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark A91679bcd5a09846f4b3286e67abdbde")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__a91679bcd5a09846f4b3286e67abdbde.jpg)
 [![Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
+[![art-nick-deligaris-the-lord.jpg](/.internals/thumbnails/desktop/tolkien/art-nick-deligaris-the-lord.jpg "art-nick-deligaris-the-lord.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/art-nick-deligaris-the-lord.jpg)
 [![Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
+[![d898qs8-7e99d43e-24fa-43eb-bc02-951cff960b32.jpg](/.internals/thumbnails/desktop/tolkien/d898qs8-7e99d43e-24fa-43eb-bc02-951cff960b32.jpg "d898qs8-7e99d43e-24fa-43eb-bc02-951cff960b32.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/d898qs8-7e99d43e-24fa-43eb-bc02-951cff960b32.jpg)
+[![FellowshipinHollin-donato-1500-copy-3000x1622.jpg](/.internals/thumbnails/desktop/tolkien/FellowshipinHollin-donato-1500-copy-3000x1622.jpg "FellowshipinHollin-donato-1500-copy-3000x1622.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/FellowshipinHollin-donato-1500-copy-3000x1622.jpg)
+[![FOgIiMs.jpeg](/.internals/thumbnails/desktop/tolkien/FOgIiMs.jpeg "FOgIiMs.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/FOgIiMs.jpeg)
 [![ Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg " Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg)
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
 [![Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
+[![KC3bmGP.jpeg](/.internals/thumbnails/desktop/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/KC3bmGP.jpeg)
 [![Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/desktop/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer](/.internals/thumbnails/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg)
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
+[![n9hxJSB.jpeg](/.internals/thumbnails/desktop/tolkien/n9hxJSB.jpeg "n9hxJSB.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/n9hxJSB.jpeg)
 [![Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul Fellbeast and Khamul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_fellbeast_and_khamul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Fellbeast and Khamul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_fellbeast_and_khamul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
@@ -524,8 +571,11 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png "Nazgul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Denis Istomin](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_denis_istomin.png "Nazgul Tolkien S Legendarium and 1 More Drawn by Denis Istomin")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_denis_istomin.png)
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg "Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg)
+[![omer-tunc-1-1.jpg](/.internals/thumbnails/desktop/tolkien/omer-tunc-1-1.jpg "omer-tunc-1-1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/omer-tunc-1-1.jpg)
+[![pxfuel (8).jpg](/.internals/thumbnails/desktop/tolkien/pxfuel%20(8).jpg "pxfuel (8).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/pxfuel%20(8).jpg)
 [![Sauron Tolkien S Legendarium Drawn by Akreon](/.internals/thumbnails/desktop/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg "Sauron Tolkien S Legendarium Drawn by Akreon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg)
 [![Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
+[![vDuSCPs.jpeg](/.internals/thumbnails/desktop/tolkien/vDuSCPs.jpeg "vDuSCPs.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/vDuSCPs.jpeg)
 
 <a id="tomb-raider-"></a>
 

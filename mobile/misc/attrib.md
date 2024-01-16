@@ -16,3 +16,6 @@ e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990
 mega_sharjk_attack_by_by_dominik_broniek.jpg Mega Sharjk Attack by By Dominik Broniek
 The Eldritch Tutor by Dies Vitae.jpeg The Eldritch Tutor by Dies Vitae
 the_moon_by_ari_ibarra.jpg The Moon by Ari Ibarra
+85a56a9e966659d1___the_witcher_and_1_more_drawn_by_manuel_castanon__fa018b8b4c288ab6c513146768b1f51c.jpg 85a56a9e966659d1   The Witcher and 1 More Drawn by Manuel Castanon  Fa018b8b4c288ab6c513146768b1f51c
+acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
+c9cd26933c333336_evilbook illustration by ann jean.jpg C9cd26933c333336 Evilbook Illustration by Ann Jean

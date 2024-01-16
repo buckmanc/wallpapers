@@ -1,4 +1,4 @@
-# kirby - 60
+# kirby - 62
 [![1188727.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/1188727.jpg "1188727.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/1188727.jpg)
 
 [![20240107_085859.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/20240107_085859.jpg "20240107_085859.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/20240107_085859.jpg)
@@ -14,6 +14,8 @@
 [![70959531_p13.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p13.png "70959531_p13.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p13.png)
 
 [![70959531_p2 (1).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p2%20(1).png "70959531_p2 (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p2%20(1).png)
+
+[![84a0af973d6a926d_1279640.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/84a0af973d6a926d_1279640.jpg)
 
 [![E8gYy--UUAIoijx.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/E8gYy--UUAIoijx.png "E8gYy--UUAIoijx.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/E8gYy--UUAIoijx.png)
 
@@ -107,6 +109,9 @@ Iphone 6 Wallpaper Kirby by Shelbobaggins Daafb6r
 
 [![ Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png " Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png)\
  Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d
+
+[![ Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg " Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg)\
+ Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280
 
 [![ Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg " Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/__kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg)\
  Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64

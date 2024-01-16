@@ -1,6 +1,4 @@
-# misc - 62
-[![84a0af973d6a926d_1279640.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/84a0af973d6a926d_1279640.jpg)
-
+# misc - 61
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 
 [![856a7e192aa7d01f_towashi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)

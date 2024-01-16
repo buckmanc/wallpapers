@@ -14,5 +14,5 @@ fi
 find "$input" "$@" -type f |
 file --mime-type -f - |
 grep -F image/ |
-rev | cut -d : -f 2- | rev |
+grep -iPo '^.*(?=:[^:]+$)' |
 sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7

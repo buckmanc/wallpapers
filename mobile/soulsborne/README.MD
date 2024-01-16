@@ -1,7 +1,14 @@
-# soulsborne - 25
+# soulsborne - 29
 [![1113054.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/1113054.jpg "1113054.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/1113054.jpg)
 
+[![1_SMhuDGBWCgZnj3xFN4FpIA.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/1_SMhuDGBWCgZnj3xFN4FpIA.jpg "1_SMhuDGBWCgZnj3xFN4FpIA.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/1_SMhuDGBWCgZnj3xFN4FpIA.jpg)
+
+[![94953881377ddd58_peakpx(20).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/94953881377ddd58_peakpx(20).jpg "94953881377ddd58_peakpx(20).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/94953881377ddd58_peakpx(20).jpg)
+
 [![999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg "999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/999966e2c67c9847_demons-souls-game-2024-4k_1701639807.jpg)
+
+[![9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/9e6c6193692c9679_iwilding_darksouls1_by_ian_wilding.jpg "9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/9e6c6193692c9679_iwilding_darksouls1_by_ian_wilding.jpg)\
+9e6c6193692c9679 Iwilding Darksouls1 by Ian Wilding
 
 [![Anato Finnstark Lady Maria Bloodborne by Anatofinnstark Dclx63u](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/anato-finnstark-lady-maria-bloodborne-by-anatofinnstark-dclx63u.jpg "Anato Finnstark Lady Maria Bloodborne by Anatofinnstark Dclx63u")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/anato-finnstark-lady-maria-bloodborne-by-anatofinnstark-dclx63u.jpg)\
 Anato Finnstark Lady Maria Bloodborne by Anatofinnstark Dclx63u
@@ -25,6 +32,9 @@ Anato Finnstark Yharnam Bloodborne by Anatofinnstark Dctiew9 Fullview
 
 [![C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/c3cc2cb33297cb2c_iwilding_demonssouls_by_ian_wilding.jpg "C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/c3cc2cb33297cb2c_iwilding_demonssouls_by_ian_wilding.jpg)\
 C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding
+
+[![ Chosen Undead Dark Souls and 1 More Drawn by Manuel Castanon A91ef44e3620cd4ff40738068f81b3b9](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__chosen_undead_dark_souls_and_1_more_drawn_by_manuel_castanon__a91ef44e3620cd4ff40738068f81b3b9.jpg " Chosen Undead Dark Souls and 1 More Drawn by Manuel Castanon A91ef44e3620cd4ff40738068f81b3b9")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__chosen_undead_dark_souls_and_1_more_drawn_by_manuel_castanon__a91ef44e3620cd4ff40738068f81b3b9.jpg)\
+ Chosen Undead Dark Souls and 1 More Drawn by Manuel Castanon A91ef44e3620cd4ff40738068f81b3b9
 
 [![ Dark Souls Drawn by Anato Finnstark 88ed595b0374002de60f8ae6004442b7](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__dark_souls_drawn_by_anato_finnstark__88ed595b0374002de60f8ae6004442b7.png " Dark Souls Drawn by Anato Finnstark 88ed595b0374002de60f8ae6004442b7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/soulsborne/__dark_souls_drawn_by_anato_finnstark__88ed595b0374002de60f8ae6004442b7.png)\
  Dark Souls Drawn by Anato Finnstark 88ed595b0374002de60f8ae6004442b7

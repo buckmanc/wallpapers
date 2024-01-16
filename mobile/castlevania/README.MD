@@ -1,4 +1,4 @@
-# castlevania - 109
+# castlevania - 112
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -109,8 +109,8 @@ postcard by Ayami Kojima
 [![CastleVania Portrait of Ruin by Fumi Ishikaw](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/14%20-%20pdydhcq.jpg "CastleVania Portrait of Ruin by Fumi Ishikaw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/14%20-%20pdydhcq.jpg)\
 CastleVania Portrait of Ruin by Fumi Ishikaw
 
-[![CastleVania Portrait of Ruin by Fumi Ishikaw](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20NKpvJxO.jpg "CastleVania Portrait of Ruin by Fumi Ishikaw")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20NKpvJxO.jpg)\
-CastleVania Portrait of Ruin by Fumi Ishikaw
+[![15 Portrait Of Ruin Poster by Fumi Ishikawa](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20Portrait%20of%20Ruin%20poster%20by%20Fumi%20Ishikawa.jpg "15 Portrait Of Ruin Poster by Fumi Ishikawa")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/15%20-%20Portrait%20of%20Ruin%20poster%20by%20Fumi%20Ishikawa.jpg)\
+15 Portrait Of Ruin Poster by Fumi Ishikawa
 
 [![CastleVania Order of Ecclesia by Masaki Hirooka](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/16%20-%20uBD0R8V.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/16%20-%20uBD0R8V.jpg)\
 CastleVania Order of Ecclesia by Masaki Hirooka
@@ -206,11 +206,20 @@ CastleVania Order of Ecclesia by Masaki Hirooka
 
 [![FXyejMUUcAAxjjz_no_bg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png "FXyejMUUcAAxjjz_no_bg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png)
 
+[![Isaac and Friend by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg "Isaac and Friend by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg)\
+Isaac and Friend by Katie Silva
+
+[![Lindenfield Banner by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg "Lindenfield Banner by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg)\
+Lindenfield Banner by Katie Silva
+
 [![Lisa Tepes by Katie Silva
 Portrait Lisa Tepes by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg "Lisa Tepes by Katie Silva
 Portrait Lisa Tepes by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_lisa_tepes_by_katie_silva.jpg)\
 Lisa Tepes by Katie Silva
 Portrait Lisa Tepes by Katie Silva
+
+[![Portrait](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Portrait.of.Ruin%20by%20Daburoku.jpg "Portrait")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Portrait.of.Ruin%20by%20Daburoku.jpg)\
+Portrait
 
 [![Portrait Tepes Family Portrait by Katie Silva
 Tepes Family Portrait by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva
