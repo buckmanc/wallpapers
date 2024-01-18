@@ -19,3 +19,7 @@ the_moon_by_ari_ibarra.jpg The Moon by Ari Ibarra
 85a56a9e966659d1___the_witcher_and_1_more_drawn_by_manuel_castanon__fa018b8b4c288ab6c513146768b1f51c.jpg 85a56a9e966659d1   The Witcher and 1 More Drawn by Manuel Castanon  Fa018b8b4c288ab6c513146768b1f51c
 acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
 c9cd26933c333336_evilbook illustration by ann jean.jpg C9cd26933c333336 Evilbook Illustration by Ann Jean
+a7944a19277cb9b2_raven_altar_by_sandara.jpg A7944a19277cb9b2 Raven Altar by Sandara
+c7d9f9a1594c3898_black angel by sandara.jpg C7d9f9a1594c3898 Black Angel by Sandara
+c9c536762c5b494d_forgotten castle by sandara.jpg C9c536762c5b494d Forgotten Castle by Sandara
+e19e16e32890ff49_walking house by sandara.jpg E19e16e32890ff49 Walking House by Sandara

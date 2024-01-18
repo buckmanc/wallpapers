@@ -1,4 +1,4 @@
-# misc - 76
+# misc - 80
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -87,6 +87,9 @@
 
 [![9fd8602587ea383d_Magic Sunset.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
 
+[![A7944a19277cb9b2 Raven Altar by Sandara](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg "A7944a19277cb9b2 Raven Altar by Sandara")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg)\
+A7944a19277cb9b2 Raven Altar by Sandara
+
 [![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)\
 Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
 
@@ -113,6 +116,12 @@ C5c2ca1e9c5a6a57 Termperance Godkiller by Inkeyjay
 [![c63f39c06e3ad065_pxfuel (58).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c63f39c06e3ad065_pxfuel%20(58).jpg "c63f39c06e3ad065_pxfuel (58).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c63f39c06e3ad065_pxfuel%20(58).jpg)
 
 [![c6e0383f96384dc7_Luna.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c6e0383f96384dc7_Luna.jpg "c6e0383f96384dc7_Luna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c6e0383f96384dc7_Luna.jpg)
+
+[![C7d9f9a1594c3898 Black Angel by Sandara](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c7d9f9a1594c3898_black%20angel%20by%20sandara.jpg "C7d9f9a1594c3898 Black Angel by Sandara")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c7d9f9a1594c3898_black%20angel%20by%20sandara.jpg)\
+C7d9f9a1594c3898 Black Angel by Sandara
+
+[![C9c536762c5b494d Forgotten Castle by Sandara](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9c536762c5b494d_forgotten%20castle%20by%20sandara.jpg "C9c536762c5b494d Forgotten Castle by Sandara")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9c536762c5b494d_forgotten%20castle%20by%20sandara.jpg)\
+C9c536762c5b494d Forgotten Castle by Sandara
 
 [![C9cd26933c333336 Evilbook Illustration by Ann Jean](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9cd26933c333336_evilbook%20illustration%20by%20ann%20jean.jpg "C9cd26933c333336 Evilbook Illustration by Ann Jean")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c9cd26933c333336_evilbook%20illustration%20by%20ann%20jean.jpg)\
 C9cd26933c333336 Evilbook Illustration by Ann Jean
@@ -149,6 +158,9 @@ D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding
 [![d70de486af311927_FLXA97vXoAIBTpW.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
 
 [![dfdda5a232124c4d_pxfuel (40).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
+
+[![E19e16e32890ff49 Walking House by Sandara](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg "E19e16e32890ff49 Walking House by Sandara")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg)\
+E19e16e32890ff49 Walking House by Sandara
 
 [![E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png "E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png)\
 E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01
