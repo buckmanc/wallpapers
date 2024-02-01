@@ -75,3 +75,4 @@ sa_x_and_x_parasite_metroid_drawn_by_kosmonauttihai__f68acffa1d72844a3c3bcf25104
 Super metroid by rokusho1345.png Super Metroid by Rokusho1345
 tallon_overworld_by_noble6design_d9m6z0a-fullview.jpg Tallon Overworld by Noble6design D9m6z0a Fullview
 the_hunter_by_smolb_d37f9em.jpg The Hunter by Smolb D37f9em
+Metroid - The Brain by Nick Derington.png Metroid   The Brain by Nick Derington

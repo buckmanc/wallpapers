@@ -173,7 +173,7 @@ Metroid Prime 3 Corruption Varia Suit by Garymotherpuckingoak D8ec0mg
 
 [![Metroid_Prime_Paintingesque_1920x1200.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg "Metroid_Prime_Paintingesque_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg)
 
-[![Metroid The Brain by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.jpg "Metroid The Brain by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.jpg)\
+[![Metroid The Brain by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png "Metroid The Brain by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png)\
 Metroid The Brain by Nick Derington
 
 [![metroid-the-forest-ee3581bggowaeid2.jpg.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp "metroid-the-forest-ee3581bggowaeid2.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp)

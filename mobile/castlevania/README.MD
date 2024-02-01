@@ -1,4 +1,4 @@
-# castlevania - 112
+# castlevania - 113
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -124,6 +124,10 @@ CastleVania Order of Ecclesia by Masaki Hirooka
 
 [![21 - RIvjANK.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/21%20-%20RIvjANK.jpg "21 - RIvjANK.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/21%20-%20RIvjANK.jpg)
 
+[![496684.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/496684.jpg "496684.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/496684.jpg)
+
+[![69297.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/69297.jpg "69297.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/69297.jpg)
+
 [![Agreus Concept Art by Jorge Benedito](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Agreus%20Concept%20Art%20by%20jorge-benedito.jpg "Agreus Concept Art by Jorge Benedito")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Agreus%20Concept%20Art%20by%20jorge-benedito.jpg)\
 Agreus Concept Art by Jorge Benedito
 
@@ -161,12 +165,6 @@ An Rf Art Nouveau Alucard by Ranefea
 
 [![Carmilla by Donsveertje](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png "Carmilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png)\
 Carmilla by Donsveertje
-
-[![Castle Dracula's Castle by Ilo275
-Dracula's Castle by Ilo275](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg "Castle Dracula's Castle by Ilo275
-Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)\
-Castle Dracula's Castle by Ilo275
-Dracula's Castle by Ilo275
 
 [![Castlevania by Kilian Eng](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania_by_kilian_eng.jpeg "Castlevania by Kilian Eng")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania_by_kilian_eng.jpeg)\
 Castlevania by Kilian Eng
@@ -206,6 +204,9 @@ CastleVania Order of Ecclesia by Masaki Hirooka
 
 [![FXyejMUUcAAxjjz_no_bg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png "FXyejMUUcAAxjjz_no_bg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png)
 
+[![Gabriel by Jose Luis Vaello Bertol](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/gabriel-by-jose-luis-vaello-bertol.jpg "Gabriel by Jose Luis Vaello Bertol")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/gabriel-by-jose-luis-vaello-bertol.jpg)\
+Gabriel by Jose Luis Vaello Bertol
+
 [![Isaac and Friend by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg "Isaac and Friend by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg)\
 Isaac and Friend by Katie Silva
 
@@ -240,13 +241,8 @@ SotN Poster Dracula by Jhony Caballero
 [![SotN Poster Richter by Jhony Caballero](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg "SotN Poster Richter by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg)\
 SotN Poster Richter by Jhony Caballero
 
-[![symbol.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/symbol.jpg "symbol.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/symbol.jpg)
-
 [![The Devil Forgemaster by Al Santos](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg "The Devil Forgemaster by Al Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg)\
 The Devil Forgemaster by Al Santos
-
-[![ Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul 7f055fa10680c659cb2ae2d002ffdaa8](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg " Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul 7f055fa10680c659cb2ae2d002ffdaa8")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg)\
- Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul 7f055fa10680c659cb2ae2d002ffdaa8
 
 [![wp4374297-bloodstained-ritual-of-the-night-wallpapers.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png "wp4374297-bloodstained-ritual-of-the-night-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png)
 
@@ -275,6 +271,9 @@ Zz Castle Castlevania by Roma Timbreza
 [![zz_castle_dead-cells-castlevania_12-08-22.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg "zz_castle_dead-cells-castlevania_12-08-22.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg)
 
 [![zz_castle_dracula's_castle_-_23.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_23.png "zz_castle_dracula's_castle_-_23.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_23.png)
+
+[![Zz Castle Draculas Castle by Ilo275](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_draculas_castle_by_ilo275.jpg "Zz Castle Draculas Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_draculas_castle_by_ilo275.jpg)\
+Zz Castle Draculas Castle by Ilo275
 
 [![zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg "zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg)
 

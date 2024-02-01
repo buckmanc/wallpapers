@@ -49,3 +49,4 @@ __wario_and_waluigi_mario_and_2_more_drawn_by_voodoothur__c02ed1f98e29c4dcf84eac
 wario_and_waluigi_mario_and_2_more_drawn_by_voodoothur__c02ed1f98e29c4dcf84eac6c9cd8fd2f.png Wario and Waluigi Mario and 2 More Drawn by Voodoothur  C02ed1f98e29c4dcf84eac6c9cd8fd2f
 __wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg   Wario Waluigi and Bob Omb Mario Drawn by Datoonie  7c4c8209bbde3650121ca4dafdc5afa1
 wario_waluigi_and_bob_omb_mario_drawn_by_datoonie__7c4c8209bbde3650121ca4dafdc5afa1.jpg Wario Waluigi and Bob Omb Mario Drawn by Datoonie  7c4c8209bbde3650121ca4dafdc5afa1
+Mario - The Lizard by Nick Derington.png Mario   The Lizard by Nick Derington

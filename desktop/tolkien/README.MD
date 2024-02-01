@@ -1,4 +1,4 @@
-# tolkien - 47
+# tolkien - 48
 [![1ZlXSLP.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg)
 
 [![20240113_094430.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg "20240113_094430.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg)
@@ -122,6 +122,8 @@ Sauron Tolkien S Legendarium Drawn by Akreon
 Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 
 [![vDuSCPs.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/vDuSCPs.jpeg "vDuSCPs.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/vDuSCPs.jpeg)
+
+[![wallhaven_q6k5dq_3840x2160.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png "wallhaven_q6k5dq_3840x2160.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png)
 
 
 

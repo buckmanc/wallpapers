@@ -1,4 +1,4 @@
-# misc - 80
+# misc - 81
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -47,6 +47,8 @@
 [![9587277d3c98aa62_woofzilla_88031078_p0.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg "9587277d3c98aa62_woofzilla_88031078_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg)
 
 [![95ea4b94e46b3493_Dark Forest.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg "95ea4b94e46b3493_Dark Forest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg)
+
+[![96636994b66949b5_undefined - Imgur (3).png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/96636994b66949b5_undefined%20-%20Imgur%20(3).png "96636994b66949b5_undefined - Imgur (3).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/96636994b66949b5_undefined%20-%20Imgur%20(3).png)
 
 [![9667659c3c98c663 Iwilding Deadcells by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9667659c3c98c663_iwilding_deadcells_by_ian_wilding.jpg "9667659c3c98c663 Iwilding Deadcells by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9667659c3c98c663_iwilding_deadcells_by_ian_wilding.jpg)\
 9667659c3c98c663 Iwilding Deadcells by Ian Wilding

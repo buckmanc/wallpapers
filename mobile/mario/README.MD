@@ -7,7 +7,7 @@
 
 [![20231220_213919.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213919.jpg "20231220_213919.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213919.jpg)
 
-[![276122836_5207546689276452_264819243623934142_n.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg "276122836_5207546689276452_264819243623934142_n.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg)
+[![276122836_5207546689276452_264819243623934142_n.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.png "276122836_5207546689276452_264819243623934142_n.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.png)
 
 [![3m2a9g0n5uz71.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/3m2a9g0n5uz71.png "3m2a9g0n5uz71.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/3m2a9g0n5uz71.png)
 
@@ -71,7 +71,7 @@ Mario by Woofzilla
 [![Mario Print by Matt Kaufenberg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg "Mario Print by Matt Kaufenberg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg)\
 Mario Print by Matt Kaufenberg
 
-[![Mario The Lizard by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg)\
+[![Mario The Lizard by Nick Derington](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png)\
 Mario The Lizard by Nick Derington
 
 [![mario-wallpaper-laptop.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario-wallpaper-laptop.jpg "mario-wallpaper-laptop.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario-wallpaper-laptop.jpg)

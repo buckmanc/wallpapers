@@ -1,9 +1,9 @@
-# mobile - 1,742
-- [castlevania](#castlevania) - 112
+# mobile - 1,750
+- [castlevania](#castlevania) - 113
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
 - [elden ring](#elden-ring) - 20
-- [frog](#frog) - 12
+- [frog](#frog) - 15
 - [gideon the ninth](#gideon-the-ninth) - 7
 - [kirby](#kirby) - 62
 - [leaves](#leaves) - 19
@@ -13,7 +13,7 @@
 - [mega man pixel](#mega-man-pixel) - 25
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 80
+- [misc](#misc) - 81
 - [misc anato finnstark](#misc-anato-finnstark) - 28
 - [misc cosmere](#misc-cosmere) - 9
 - [misc pixel](#misc-pixel) - 1
@@ -26,7 +26,7 @@
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 9
 - [soulsborne](#soulsborne) - 29
-- [star trek](#star-trek) - 5
+- [star trek](#star-trek) - 8
 - [stormlight](#stormlight) - 60
 - [the legend of zelda](#the-legend-of-zelda) - 196
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
@@ -36,7 +36,7 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/README.MD) - 112
+## [castlevania](/mobile/castlevania/README.MD) - 113
 [![00_ak_cv_09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![CastleVania Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![CastleVania Dracula X Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -90,6 +90,8 @@
 [![19 - Lvc2HYV.jpg](/.internals/thumbnails/mobile/castlevania/19%20-%20Lvc2HYV.jpg "19 - Lvc2HYV.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/19%20-%20Lvc2HYV.jpg)
 [![20 - EkIAgPV.jpg](/.internals/thumbnails/mobile/castlevania/20%20-%20EkIAgPV.jpg "20 - EkIAgPV.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/20%20-%20EkIAgPV.jpg)
 [![21 - RIvjANK.jpg](/.internals/thumbnails/mobile/castlevania/21%20-%20RIvjANK.jpg "21 - RIvjANK.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/21%20-%20RIvjANK.jpg)
+[![496684.jpg](/.internals/thumbnails/mobile/castlevania/496684.jpg "496684.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/496684.jpg)
+[![69297.jpg](/.internals/thumbnails/mobile/castlevania/69297.jpg "69297.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/69297.jpg)
 [![Agreus Concept Art by Jorge Benedito](/.internals/thumbnails/mobile/castlevania/Agreus%20Concept%20Art%20by%20jorge-benedito.jpg "Agreus Concept Art by Jorge Benedito")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Agreus%20Concept%20Art%20by%20jorge-benedito.jpg)
 [![Alucard by Essijuulia](/.internals/thumbnails/mobile/castlevania/Alucard%20by%20essijuulia.jpg "Alucard by Essijuulia")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Alucard%20by%20essijuulia.jpg)
 [![Alucard by Fishyu7](/.internals/thumbnails/mobile/castlevania/alucard%20by%20fishyu7.jpg "Alucard by Fishyu7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard%20by%20fishyu7.jpg)
@@ -103,9 +105,6 @@
 [![An Rf Art Nouveau Alucard by Ranefea](/.internals/thumbnails/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg)
 [![ASVpzIy.jpeg](/.internals/thumbnails/mobile/castlevania/ASVpzIy.jpeg "ASVpzIy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ASVpzIy.jpeg)
 [![Carmilla by Donsveertje](/.internals/thumbnails/mobile/castlevania/Carmilla%20by%20Donsveertje.png "Carmilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png)
-[![Castle Dracula's Castle by Ilo275
-Dracula's Castle by Ilo275](/.internals/thumbnails/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg "Castle Dracula's Castle by Ilo275
-Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castle_dracula's_castle_by_ilo275.jpg)
 [![Castlevania by Kilian Eng](/.internals/thumbnails/mobile/castlevania/castlevania_by_kilian_eng.jpeg "Castlevania by Kilian Eng")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania_by_kilian_eng.jpeg)
 [![Castlevania by Kilian Eng Variant](/.internals/thumbnails/mobile/castlevania/castlevania-by-kilian-eng-variant.jpg "Castlevania by Kilian Eng Variant")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/castlevania-by-kilian-eng-variant.jpg)
 [![Castlevania-HD-wallpaper.png](/.internals/thumbnails/mobile/castlevania/Castlevania-HD-wallpaper.png "Castlevania-HD-wallpaper.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Castlevania-HD-wallpaper.png)
@@ -121,6 +120,7 @@ Dracula's Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpap
 [![CastleVania Order of Ecclesia by Masaki Hirooka](/.internals/thumbnails/mobile/castlevania/dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)
 [![ESRnAXvU0AIU6M0.jpeg](/.internals/thumbnails/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg "ESRnAXvU0AIU6M0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg)
 [![FXyejMUUcAAxjjz_no_bg.png](/.internals/thumbnails/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png "FXyejMUUcAAxjjz_no_bg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png)
+[![Gabriel by Jose Luis Vaello Bertol](/.internals/thumbnails/mobile/castlevania/gabriel-by-jose-luis-vaello-bertol.jpg "Gabriel by Jose Luis Vaello Bertol")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/gabriel-by-jose-luis-vaello-bertol.jpg)
 [![Isaac and Friend by Katie Silva](/.internals/thumbnails/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg "Isaac and Friend by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg)
 [![Lindenfield Banner by Katie Silva](/.internals/thumbnails/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg "Lindenfield Banner by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg)
 [![Lisa Tepes by Katie Silva
@@ -135,9 +135,7 @@ Tepes Family Portrait by Katie Silva")](https://raw.githubusercontent.com/buckma
 [![SotN Poster Alucard by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg "SotN Poster Alucard by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Dracula by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg "SotN Poster Dracula by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Richter by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg "SotN Poster Richter by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg)
-[![symbol.jpg](/.internals/thumbnails/mobile/castlevania/symbol.jpg "symbol.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/symbol.jpg)
 [![The Devil Forgemaster by Al Santos](/.internals/thumbnails/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg "The Devil Forgemaster by Al Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/The%20Devil%20Forgemaster%20by%20Al%20Santos.jpg)
-[![ Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul 7f055fa10680c659cb2ae2d002ffdaa8](/.internals/thumbnails/mobile/castlevania/__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg " Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul 7f055fa10680c659cb2ae2d002ffdaa8")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg)
 [![wp4374297-bloodstained-ritual-of-the-night-wallpapers.png](/.internals/thumbnails/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png "wp4374297-bloodstained-ritual-of-the-night-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png)
 [![wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg](/.internals/thumbnails/mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg "wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg)
 [![zz_castle_anime_02.jpg](/.internals/thumbnails/mobile/castlevania/zz_castle_anime_02.jpg "zz_castle_anime_02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_anime_02.jpg)
@@ -152,6 +150,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![zz_castle_dead_cells_02.webp](/.internals/thumbnails/mobile/castlevania/zz_castle_dead_cells_02.webp "zz_castle_dead_cells_02.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead_cells_02.webp)
 [![zz_castle_dead-cells-castlevania_12-08-22.jpg](/.internals/thumbnails/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg "zz_castle_dead-cells-castlevania_12-08-22.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg)
 [![zz_castle_dracula's_castle_-_23.png](/.internals/thumbnails/mobile/castlevania/zz_castle_dracula's_castle_-_23.png "zz_castle_dracula's_castle_-_23.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_23.png)
+[![Zz Castle Draculas Castle by Ilo275](/.internals/thumbnails/mobile/castlevania/zz_castle_draculas_castle_by_ilo275.jpg "Zz Castle Draculas Castle by Ilo275")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_draculas_castle_by_ilo275.jpg)
 [![zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg](/.internals/thumbnails/mobile/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg "zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg)
 [![zz_castle_e2lqayxwuacvumr.jpg](/.internals/thumbnails/mobile/castlevania/zz_castle_e2lqayxwuacvumr.jpg "zz_castle_e2lqayxwuacvumr.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_e2lqayxwuacvumr.jpg)
 [![zz_castle_grimoire_of_souls.png](/.internals/thumbnails/mobile/castlevania/zz_castle_grimoire_of_souls.png "zz_castle_grimoire_of_souls.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_grimoire_of_souls.png)
@@ -251,7 +250,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="frog"></a>
 
-## [frog](/mobile/frog/README.MD) - 12
+## [frog](/mobile/frog/README.MD) - 15
 [![20231216_133833.jpg](/.internals/thumbnails/mobile/frog/20231216_133833.jpg "20231216_133833.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/20231216_133833.jpg)
 [![A Frog and His Son by Dingzhong Hu](/.internals/thumbnails/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog and His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20and%20his%20son%20by%20Dingzhong%20Hu.jpg)
 [![A Frog Reading To His Son by Dingzhong Hu](/.internals/thumbnails/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg "A Frog Reading To His Son by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/a%20frog%20reading%20to%20his%20son%20by%20Dingzhong%20Hu.jpg)
@@ -263,6 +262,9 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![Frog Wizard by Greenbeedrill888 Dg1y4lx](/.internals/thumbnails/mobile/frog/frog_wizard_by_greenbeedrill888_dg1y4lx.png "Frog Wizard by Greenbeedrill888 Dg1y4lx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/frog_wizard_by_greenbeedrill888_dg1y4lx.png)
 [![FsLSOt4WwAASspt.jpeg](/.internals/thumbnails/mobile/frog/FsLSOt4WwAASspt.jpeg "FsLSOt4WwAASspt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/FsLSOt4WwAASspt.jpeg)
 [![il_1080xN.4211184424_2ixp.jpg](/.internals/thumbnails/mobile/frog/il_1080xN.4211184424_2ixp.jpg "il_1080xN.4211184424_2ixp.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/il_1080xN.4211184424_2ixp.jpg)
+[![pxfuel (2) (1).png](/.internals/thumbnails/mobile/frog/pxfuel%20(2)%20(1).png "pxfuel (2) (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/pxfuel%20(2)%20(1).png)
+[![pxfuel (2).png](/.internals/thumbnails/mobile/frog/pxfuel%20(2).png "pxfuel (2).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/pxfuel%20(2).png)
+[![pxfuel (3).jpg](/.internals/thumbnails/mobile/frog/pxfuel%20(3).jpg "pxfuel (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/pxfuel%20(3).jpg)
 [![Wizard Frog by Dingzhong Hu](/.internals/thumbnails/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png "Wizard Frog by Dingzhong Hu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/frog/wizard%20frog%20by%20Dingzhong%20Hu.png)
 
 <a id="gideon-the-ninth"></a>
@@ -372,7 +374,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![20231211_115019.jpg](/.internals/thumbnails/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
 [![20231220_213840.jpg](/.internals/thumbnails/mobile/mario/20231220_213840.jpg "20231220_213840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg)
 [![20231220_213919.jpg](/.internals/thumbnails/mobile/mario/20231220_213919.jpg "20231220_213919.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213919.jpg)
-[![276122836_5207546689276452_264819243623934142_n.jpg](/.internals/thumbnails/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg "276122836_5207546689276452_264819243623934142_n.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.jpg)
+[![276122836_5207546689276452_264819243623934142_n.png](/.internals/thumbnails/mobile/mario/276122836_5207546689276452_264819243623934142_n.png "276122836_5207546689276452_264819243623934142_n.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/276122836_5207546689276452_264819243623934142_n.png)
 [![3m2a9g0n5uz71.png](/.internals/thumbnails/mobile/mario/3m2a9g0n5uz71.png "3m2a9g0n5uz71.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/3m2a9g0n5uz71.png)
 [![6ded0e26843503.5635b4c47d79b.jpg](/.internals/thumbnails/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg "6ded0e26843503.5635b4c47d79b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg)
 [![98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg](/.internals/thumbnails/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg "98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg)
@@ -402,7 +404,7 @@ Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample A
 [![Mario by Woofzilla](/.internals/thumbnails/mobile/mario/mario_by_woofzilla.jpg "Mario by Woofzilla")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario_by_woofzilla.jpg)
 [![Mario_ Luigi.jpeg](/.internals/thumbnails/mobile/mario/Mario_%20Luigi.jpeg "Mario_ Luigi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario_%20Luigi.jpeg)
 [![Mario Print by Matt Kaufenberg](/.internals/thumbnails/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg "Mario Print by Matt Kaufenberg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg)
-[![Mario The Lizard by Nick Derington](/.internals/thumbnails/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.jpg)
+[![Mario The Lizard by Nick Derington](/.internals/thumbnails/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png)
 [![mario-wallpaper-laptop.jpg](/.internals/thumbnails/mobile/mario/mario-wallpaper-laptop.jpg "mario-wallpaper-laptop.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario-wallpaper-laptop.jpg)
 [![next-level-ramen.png](/.internals/thumbnails/mobile/mario/next-level-ramen.png "next-level-ramen.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/next-level-ramen.png)
 [![Ox DE96rKvUIAAiwfS by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png "Ox DE96rKvUIAAiwfS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png)
@@ -848,7 +850,7 @@ Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da4963
 [![Metroid Prime 3 Corruption Varia Suit by Garymotherpuckingoak D8ec0mg](/.internals/thumbnails/mobile/metroid/metroid_prime_3__corruption___varia_suit_by_garymotherpuckingoak_d8ec0mg.png "Metroid Prime 3 Corruption Varia Suit by Garymotherpuckingoak D8ec0mg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid_prime_3__corruption___varia_suit_by_garymotherpuckingoak_d8ec0mg.png)
 [![Metroid_Prime_Falcon_Zero_1920x1080.jpg](/.internals/thumbnails/mobile/metroid/Metroid_Prime_Falcon_Zero_1920x1080.jpg "Metroid_Prime_Falcon_Zero_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid_Prime_Falcon_Zero_1920x1080.jpg)
 [![Metroid_Prime_Paintingesque_1920x1200.jpg](/.internals/thumbnails/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg "Metroid_Prime_Paintingesque_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg)
-[![Metroid The Brain by Nick Derington](/.internals/thumbnails/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.jpg "Metroid The Brain by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.jpg)
+[![Metroid The Brain by Nick Derington](/.internals/thumbnails/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png "Metroid The Brain by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png)
 [![metroid-the-forest-ee3581bggowaeid2.jpg.webp](/.internals/thumbnails/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp "metroid-the-forest-ee3581bggowaeid2.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp)
 [![mfend_d_enlarged.png](/.internals/thumbnails/mobile/metroid/mfend_d_enlarged.png "mfend_d_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/mfend_d_enlarged.png)
 [![mf_metroid.png](/.internals/thumbnails/mobile/metroid/mf_metroid.png "mf_metroid.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/metroid/mf_metroid.png)
@@ -1011,7 +1013,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc"></a>
 
-## [misc](/mobile/misc/README.MD) - 80
+## [misc](/mobile/misc/README.MD) - 81
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](/.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](/.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1035,6 +1037,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg](/.internals/thumbnails/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg "94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg)
 [![9587277d3c98aa62_woofzilla_88031078_p0.jpg](/.internals/thumbnails/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg "9587277d3c98aa62_woofzilla_88031078_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg)
 [![95ea4b94e46b3493_Dark Forest.jpg](/.internals/thumbnails/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg "95ea4b94e46b3493_Dark Forest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg)
+[![96636994b66949b5_undefined - Imgur (3).png](/.internals/thumbnails/mobile/misc/96636994b66949b5_undefined%20-%20Imgur%20(3).png "96636994b66949b5_undefined - Imgur (3).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/96636994b66949b5_undefined%20-%20Imgur%20(3).png)
 [![9667659c3c98c663 Iwilding Deadcells by Ian Wilding](/.internals/thumbnails/mobile/misc/9667659c3c98c663_iwilding_deadcells_by_ian_wilding.jpg "9667659c3c98c663 Iwilding Deadcells by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9667659c3c98c663_iwilding_deadcells_by_ian_wilding.jpg)
 [![969669696992b789_peakpx(22).jpg](/.internals/thumbnails/mobile/misc/969669696992b789_peakpx(22).jpg "969669696992b789_peakpx(22).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/969669696992b789_peakpx(22).jpg)
 [![96e069cd37b2d229_LoveLife.jpg](/.internals/thumbnails/mobile/misc/96e069cd37b2d229_LoveLife.jpg "96e069cd37b2d229_LoveLife.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/96e069cd37b2d229_LoveLife.jpg)
@@ -1605,12 +1608,15 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 <a id="star-trek"></a>
 
-## [star trek](/mobile/star%20trek/README.MD) - 5
+## [star trek](/mobile/star%20trek/README.MD) - 8
 [![a5128a13f325536c9958b5c7fdef096c.gif](/.internals/thumbnails/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif "a5128a13f325536c9958b5c7fdef096c.gif")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif)
 [![LCARS-2021-iPhone-XR-11-12-Picard.png](/.internals/thumbnails/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png "LCARS-2021-iPhone-XR-11-12-Picard.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png)
 [![LCARS_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_iPhoneXsMax.png "LCARS_iPhoneXsMax.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/LCARS_iPhoneXsMax.png)
 [![LCARS_TNG_Janeway_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png "LCARS_TNG_Janeway_iPhoneXsMax.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png)
 [![Star Trek Red Alert Best ever version mobile.png](/.internals/thumbnails/mobile/star%20trek/Star%20Trek%20Red%20Alert%20Best%20ever%20version%20mobile.png "Star Trek Red Alert Best ever version mobile.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/Star%20Trek%20Red%20Alert%20Best%20ever%20version%20mobile.png)
+[![wallhaven_49le78_2400x3840.jpg](/.internals/thumbnails/mobile/star%20trek/wallhaven_49le78_2400x3840.jpg "wallhaven_49le78_2400x3840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/wallhaven_49le78_2400x3840.jpg)
+[![wallhaven_5dk925_1920x1199.jpg](/.internals/thumbnails/mobile/star%20trek/wallhaven_5dk925_1920x1199.jpg "wallhaven_5dk925_1920x1199.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/wallhaven_5dk925_1920x1199.jpg)
+[![wallhaven_yjl1lg_1920x1080.jpg](/.internals/thumbnails/mobile/star%20trek/wallhaven_yjl1lg_1920x1080.jpg "wallhaven_yjl1lg_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/star%20trek/wallhaven_yjl1lg_1920x1080.jpg)
 
 <a id="stormlight"></a>
 
@@ -1926,7 +1932,7 @@ Zz09 Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wa
 [![ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a
 The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/the_legend_of_zelda_drawn_by_photia__0c355efd126321e267d936a00972e51a.jpg " The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a
 The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/the_legend_of_zelda_drawn_by_photia__0c355efd126321e267d936a00972e51a.jpg)
-[![The Legend Of Zelda The Pig by Nick Derington](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.jpg "The Legend Of Zelda The Pig by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.jpg)
+[![The Legend Of Zelda The Pig by Nick Derington](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.png "The Legend Of Zelda The Pig by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/The%20Legend%20Of%20Zelda%20-%20The%20Pig%20by%20Nick%20Derington.png)
 [![thomas-chamberlain-keen-xiabingshort.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/thomas-chamberlain-keen-xiabingshort.jpg "thomas-chamberlain-keen-xiabingshort.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/thomas-chamberlain-keen-xiabingshort.jpg)
 [![totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg "totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/totk-nintendo-released-a-few-totk-themed-mobile-wallpapers-v0-iw1l6pi145cb1.jpg)
 [![tumblr_15b71d01ae2dc832866fff3069fb4c8b_37e47a30_1280.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/tumblr_15b71d01ae2dc832866fff3069fb4c8b_37e47a30_1280.jpg "tumblr_15b71d01ae2dc832866fff3069fb4c8b_37e47a30_1280.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_15b71d01ae2dc832866fff3069fb4c8b_37e47a30_1280.jpg)

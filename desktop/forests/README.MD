@@ -1,4 +1,4 @@
-# forests - 113
+# forests - 115
 [![81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg "81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg)
 
 [![843b6a947bc23d63_istockphoto-1313980280-640x640.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg "843b6a947bc23d63_istockphoto-1313980280-640x640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg)
@@ -166,6 +166,8 @@
 
 [![ca8a0b3d74d0c797_sad-n-dark-20.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg "ca8a0b3d74d0c797_sad-n-dark-20.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg)
 
+[![cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg "cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg)
+
 [![cc1b33cccc3b91cc_bye01.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc1b33cccc3b91cc_bye01.jpg "cc1b33cccc3b91cc_bye01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc1b33cccc3b91cc_bye01.jpg)
 
 [![cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg "cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg)
@@ -219,6 +221,8 @@
 [![dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg "dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg)
 
 [![ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg "ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg)
+
+[![ddfd0022fed91886_fog-forest-during-autumn.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ddfd0022fed91886_fog-forest-during-autumn.jpg "ddfd0022fed91886_fog-forest-during-autumn.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ddfd0022fed91886_fog-forest-during-autumn.jpg)
 
 [![e03f1bc627689627_RycKnX9-dark-forest-background.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg "e03f1bc627689627_RycKnX9-dark-forest-background.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg)
 

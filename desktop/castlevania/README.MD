@@ -1,4 +1,8 @@
-# castlevania - 5
+# castlevania - 7
+[![446349.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446349.png "446349.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446349.png)
+
+[![446389.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446389.jpg "446389.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446389.jpg)
+
 [![castlevania_lords_of_shadows.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg)
 
 [![zz_castle_bloodstained_titlescreen.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg)

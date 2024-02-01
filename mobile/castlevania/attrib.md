@@ -56,11 +56,14 @@ SotN Poster - Alucard by Jhony Caballero.jpg SotN Poster   Alucard by Jhony Caba
 SotN Poster - Dracula by Jhony Caballero.jpg SotN Poster   Dracula by Jhony Caballero
 SotN Poster - Richter by Jhony Caballero.jpg SotN Poster   Richter by Jhony Caballero
 The Devil Forgemaster by Al Santos.jpg The Devil Forgemaster by Al Santos
-__trevor_c_belmont_castlevania_and_1_more_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg   Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul  7f055fa10680c659cb2ae2d002ffdaa8
+zz_castle_drawn_by_kalmahul__7f055fa10680c659cb2ae2d002ffdaa8.jpg   Trevor C Belmont Castlevania and 1 More Drawn by Kalmahul  7f055fa10680c659cb2ae2d002ffdaa8
 zz_castle_castlevania-by-roma-timbreza.jpg Castlevania by Roma Timbreza
 zz_castle_castlevania-by-roma-timbreza.jpg Zz Castle Castlevania by Roma Timbreza
-zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
+bye2.jpg Zz Castlevania by Ömer Tunç
 15 - Portrait of Ruin poster by Fumi Ishikawa.jpg 15   Portrait Of Ruin Poster by Fumi Ishikawa
 Isaac and Friend by Katie Silva.jpg Isaac and Friend by Katie Silva
 Lindenfield banner by Katie silva.jpg Lindenfield Banner by Katie Silva
 Portrait.of.Ruin by Daburoku.jpg Portrait
+gabriel-by-jose-luis-vaello-bertol.jpg Gabriel by Jose Luis Vaello Bertol
+zz_castle_draculas_castle_by_ilo275.jpg Zz Castle Draculas Castle by Ilo275
+zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
