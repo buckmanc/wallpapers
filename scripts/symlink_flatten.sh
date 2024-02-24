@@ -26,11 +26,18 @@ mkdir -p "$destDir"
 cd "$destDir"
 
 gitRoot="$(git rev-parse --show-toplevel)"
+files="$("$gitRoot/scripts/find-images" "$sourceDir" -not -type l)"
+total="$(echo "$files" | wc -l)"
+i=0
 
-"$gitRoot/scripts/find-images" "$sourceDir" -not -type l | while read -r src
+while read -r src
 do
+  ((i++))
+  printf '\r\033[2K%s%4d/%d' "symlinking: " "$i" "$total" | cut -c "-$COLUMNS" | tr -d $'\n'
+
   destFileName="$(echo ${src#"$sourceDir/"} | perl -pe 's|\.{2,10}|_|g' | perl -pe 's|[/ _()]+|_|g')"
   linkDest="$destDir/$destFileName"
-  echo "linking $src"
   ln -s -T "$src" "$linkDest"
-done
+done < <( echo "$files" )
+
+echo
