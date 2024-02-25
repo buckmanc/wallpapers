@@ -30,9 +30,13 @@ optVerbose=0
 optAlphaMask=0
 rotateDegrees=0
 defaultColor="grey24"
+defaultIconColor="white"
 defaultBg="black"
 defaultLength="4000"
 maxRes="4000x4000>^"
+
+imageOutlinePath="$HOME/bin/image-outline"
+centerTrimPath="$HOME/bin/centertrim"
 
 while getopts ":t:f:i:o:g:s:m:r:bvha" opt
 do
@@ -110,6 +114,11 @@ then
 	# echo "adjusting geoOffset: $geoOffset"
 fi
 
+if [[ "$mode" == "icon" ]]
+then
+	defaultColor="$defaultIconColor"
+fi
+
 inPathExt="${inPath##*.}"
 inPathExt="${inPathExt,,}"
 outPathExt="${outPath##*.}"
@@ -144,9 +153,9 @@ fi
 
 # thanks Fred
 # https://www.fmwconcepts.com/imagemagick/centertrim/index.php
-if [[ -f "$HOME/bin/centertrim" ]]
+if [[ -f "$centerTrimPath" ]]
 then
-	"$HOME/bin/centertrim" "$inPathTemp" "$inPathTemp"
+	"$centerTrimPath" "$inPathTemp" "$inPathTemp"
 fi
 
 if [[ "$rotateDegrees" -gt 0 ]]
@@ -261,6 +270,14 @@ then
 	heightOffsetOutputPercMaterialized="$(echo "${targetHeight} * ${heightOffsetOutputPerc}" | bc -l)"
 
 	offset="+$(echo "${widthOffsetInputPercMaterialized} + ${widthOffsetOutputPercMaterialized}" | bc -l)+$(echo "${heightOffsetInputPercMaterialized} + ${heightOffsetOutputPercMaterialized}" | bc -l)"
+elif [[ "$mode" == "icon" ]]
+then
+	gravity="center"
+	# image-outline adds 3px on each side, so shooting for a final 256
+	# TODO make this more resilient to change
+	targetWidth="250"
+	targetHeight="250"
+	convert "$inPathTemp" -resize "${targetWidth}x${targetHeight}" "$inPathTemp"
 else
 	echo "unrecognized mode: $mode"
 	exit 1
@@ -317,6 +334,11 @@ else
 	# final output
 	convert -gravity "$gravity" "$bgOutPath" "$inPathTemp" -geometry "${offset}" -composite -resize "$maxRes" "PNG64:$outPath"
 fi 
+
+if [[ "$mode" == "icon" && -f "$imageOutlinePath" ]]
+then
+	"$imageOutlinePath" "$outPath" "$outPath"
+fi
 
 colorProfileOut="$(identify -format '%r' "$outPath")"
 if [[ "$optVerbose" == 1 ]]

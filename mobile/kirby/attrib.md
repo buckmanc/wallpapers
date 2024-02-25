@@ -41,3 +41,8 @@ __kirby_meta_knight_waddle_dee_and_ghost_kirby_kirby_drawn_by_harukui__7748fe1ee
 __kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png   Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan  C3ccb08d398c37c1b607c236eacc9c2d
 __kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg   Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot  B4fe025c637d9ae5204b0e3556b0fd64
 __kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg   Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi  E6ea7eb69c2b42707184d609addf6280
+bee_kirby_by_x_xasm.jpg Bee Kirby by X Xasm
+pattern_bee_kirby_by_x_xasm.jpg Bee Kirby Pattern by X Xasm
+cone_kirby_by_x_xasm.png Cone Kirby by X Xasm
+pattern_lemon_kirby_by_x_xasm.jpg Lemon Kirby Pattern by X Xasm
+vacation_kirby_by_x_xasm.png Vacation Kirby by X Xasm

@@ -1,4 +1,4 @@
-# tolkien - 88
+# tolkien - 91
 [![1876125.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/1876125.jpg)
 
 [![20231223_070550.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20231223_070550.jpg)
@@ -58,8 +58,6 @@ Fellbeast Witch King Of Angmar and Mumakil Tolkien S Legendarium and 1 More Draw
 
 [![FjQFcjt.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FjQFcjt.jpeg "FjQFcjt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FjQFcjt.jpeg)
 
-[![FPqsp1MWQAUBL9w.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FPqsp1MWQAUBL9w.jpeg "FPqsp1MWQAUBL9w.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/FPqsp1MWQAUBL9w.jpeg)
-
 [![ Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg " Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__d8e6f65b4fcf9e918d701a6736b3fd8f.jpg)\
  Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Anato Finnstark D8e6f65b4fcf9e918d701a6736b3fd8f
 
@@ -79,6 +77,12 @@ Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnst
 Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul
 
 [![GoodMorning-donato-1200-0420.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg "GoodMorning-donato-1200-0420.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg)
+
+[![justin-gerard-06-tgk-v1-x6-01.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg "justin-gerard-06-tgk-v1-x6-01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg)
+
+[![justin-gerard-justin-gerard-b-l2017-n01x12.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg "justin-gerard-justin-gerard-b-l2017-n01x12.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg)
+
+[![justin-gerard-justin-gerard-bln07-10e.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg "justin-gerard-justin-gerard-bln07-10e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg)
 
 [![KC3bmGP.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/KC3bmGP.jpeg)
 
@@ -212,6 +216,8 @@ Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1
 [![zz_dd_8AvMhBk.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_8AvMhBk.jpeg "zz_dd_8AvMhBk.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_8AvMhBk.jpeg)
 
 [![zz_dd_ann-jean-durinsgate.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_ann-jean-durinsgate.jpg "zz_dd_ann-jean-durinsgate.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_ann-jean-durinsgate.jpg)
+
+[![zz_dd_fpqsp1mwqaubl9w.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_fpqsp1mwqaubl9w.jpeg "zz_dd_fpqsp1mwqaubl9w.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_fpqsp1mwqaubl9w.jpeg)
 
 [![Zz Dd Password Into Moria by Ted Nasmith](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_Password_into_Moria%20by%20Ted%20nasmith.jpg "Zz Dd Password Into Moria by Ted Nasmith")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/zz_dd_Password_into_Moria%20by%20Ted%20nasmith.jpg)\
 Zz Dd Password Into Moria by Ted Nasmith

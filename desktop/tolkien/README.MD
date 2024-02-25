@@ -1,4 +1,4 @@
-# tolkien - 48
+# tolkien - 51
 [![1ZlXSLP.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg)
 
 [![20240113_094430.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg "20240113_094430.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg)
@@ -52,6 +52,12 @@ Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul
 
 [![Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)\
 Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul
+
+[![justin-gerard-07-stm-v1-x09c-01.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-07-stm-v1-x09c-01.jpg "justin-gerard-07-stm-v1-x09c-01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-07-stm-v1-x09c-01.jpg)
+
+[![justin-gerard-justin-gerard-b-l2017-n16-12e.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-b-l2017-n16-12e.jpg "justin-gerard-justin-gerard-b-l2017-n16-12e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-b-l2017-n16-12e.jpg)
+
+[![justin-gerard-justin-gerard-bln07-10e.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg "justin-gerard-justin-gerard-bln07-10e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg)
 
 [![KC3bmGP.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/KC3bmGP.jpeg)
 

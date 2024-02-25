@@ -1,7 +1,8 @@
-# desktop - 550
+# desktop - 556
 - [castlevania](#castlevania) - 7
 - [castlevania pixel](#castlevania-pixel) - 11
 - [forests](#forests) - 115
+- [justin gerard](#justin-gerard) - 3
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
@@ -20,7 +21,7 @@
 - [synthwave](#synthwave) - 28
 - [the legend of zelda](#the-legend-of-zelda) - 9
 - [tmnt](#tmnt) - 15
-- [tolkien](#tolkien) - 48
+- [tolkien](#tolkien) - 51
 - [tomb raider 2013](#tomb-raider-) - 11
 - [vector vistas](#vector-vistas) - 12
 - [villages](#villages) - 5
@@ -170,6 +171,13 @@
 [![e03f1bc627689627_RycKnX9-dark-forest-background.jpg](/.internals/thumbnails/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg "e03f1bc627689627_RycKnX9-dark-forest-background.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg)
 [![f9f9d9d9f0b09080_WTDOBJB.jpg](/.internals/thumbnails/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg "f9f9d9d9f0b09080_WTDOBJB.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg)
 [![fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg](/.internals/thumbnails/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg "fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg)
+
+<a id="justin-gerard"></a>
+
+## [justin gerard](/desktop/justin%20gerard/README.MD) - 3
+[![justin-gerard-2305-v2x02-a-300m.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg "justin-gerard-2305-v2x02-a-300m.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg)
+[![justin-gerard-dh1900-n37v1x05-300m.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-dh1900-n37v1x05-300m.jpg "justin-gerard-dh1900-n37v1x05-300m.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/justin%20gerard/justin-gerard-dh1900-n37v1x05-300m.jpg)
+[![justin-gerard-dh1901-n32-v1x05a-72web.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg "justin-gerard-dh1901-n32-v1x05a-72web.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg)
 
 <a id="mega-man-pixel"></a>
 
@@ -594,7 +602,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="tolkien"></a>
 
-## [tolkien](/desktop/tolkien/README.MD) - 48
+## [tolkien](/desktop/tolkien/README.MD) - 51
 [![1ZlXSLP.jpeg](/.internals/thumbnails/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/1ZlXSLP.jpeg)
 [![20240113_094430.jpg](/.internals/thumbnails/desktop/tolkien/20240113_094430.jpg "20240113_094430.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/20240113_094430.jpg)
 [![3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg](/.internals/thumbnails/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg "3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg)
@@ -617,6 +625,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
 [![Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Frodo Baggins and Samwise Gamgee Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/gandalf_frodo_baggins_and_samwise_gamgee_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
+[![justin-gerard-07-stm-v1-x09c-01.jpg](/.internals/thumbnails/desktop/tolkien/justin-gerard-07-stm-v1-x09c-01.jpg "justin-gerard-07-stm-v1-x09c-01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-07-stm-v1-x09c-01.jpg)
+[![justin-gerard-justin-gerard-b-l2017-n16-12e.jpg](/.internals/thumbnails/desktop/tolkien/justin-gerard-justin-gerard-b-l2017-n16-12e.jpg "justin-gerard-justin-gerard-b-l2017-n16-12e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-b-l2017-n16-12e.jpg)
+[![justin-gerard-justin-gerard-bln07-10e.jpg](/.internals/thumbnails/desktop/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg "justin-gerard-justin-gerard-bln07-10e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg)
 [![KC3bmGP.jpeg](/.internals/thumbnails/desktop/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/KC3bmGP.jpeg)
 [![Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/desktop/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer](/.internals/thumbnails/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg)

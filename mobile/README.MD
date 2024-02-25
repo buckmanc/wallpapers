@@ -1,12 +1,14 @@
-# mobile - 1,750
+# mobile - 1,764
 - [castlevania](#castlevania) - 113
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
 - [elden ring](#elden-ring) - 20
 - [frog](#frog) - 15
 - [gideon the ninth](#gideon-the-ninth) - 7
-- [kirby](#kirby) - 62
+- [justin gerard](#justin-gerard) - 4
+- [kirby](#kirby) - 67
 - [leaves](#leaves) - 19
+- [legends and lattes](#legends-and-lattes) - 2
 - [mario](#mario) - 81
 - [maxime desmettre](#maxime-desmettre) - 9
 - [mega man](#mega-man) - 228
@@ -31,7 +33,7 @@
 - [the legend of zelda](#the-legend-of-zelda) - 196
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 71
-- [tolkien](#tolkien) - 88
+- [tolkien](#tolkien) - 91
 - [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 12
 
 <a id="castlevania"></a>
@@ -278,9 +280,17 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![Gideon-the-Ninth-artwork.jpg](/.internals/thumbnails/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg "Gideon-the-Ninth-artwork.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg)
 [![lars-bundvx-amodt-standingshothood.jpg](/.internals/thumbnails/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg "lars-bundvx-amodt-standingshothood.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg)
 
+<a id="justin-gerard"></a>
+
+## [justin gerard](/mobile/justin%20gerard/README.MD) - 4
+[![justin-gerard-2305-v2x02-a-300m.jpg](/.internals/thumbnails/mobile/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg "justin-gerard-2305-v2x02-a-300m.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg)
+[![justin-gerard-dh1901-n32-v1x05a-72web.jpg](/.internals/thumbnails/mobile/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg "justin-gerard-dh1901-n32-v1x05a-72web.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg)
+[![justin-gerard-dh1901-n42-v1x05-detail-a-72web.jpg](/.internals/thumbnails/mobile/justin%20gerard/justin-gerard-dh1901-n42-v1x05-detail-a-72web.jpg "justin-gerard-dh1901-n42-v1x05-detail-a-72web.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/justin%20gerard/justin-gerard-dh1901-n42-v1x05-detail-a-72web.jpg)
+[![justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg](/.internals/thumbnails/mobile/justin%20gerard/justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg "justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/justin%20gerard/justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg)
+
 <a id="kirby"></a>
 
-## [kirby](/mobile/kirby/README.MD) - 62
+## [kirby](/mobile/kirby/README.MD) - 67
 [![1188727.jpg](/.internals/thumbnails/mobile/kirby/1188727.jpg "1188727.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/1188727.jpg)
 [![20240107_085859.jpg](/.internals/thumbnails/mobile/kirby/20240107_085859.jpg "20240107_085859.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/20240107_085859.jpg)
 [![20240108_211530_0000.png](/.internals/thumbnails/mobile/kirby/20240108_211530_0000.png "20240108_211530_0000.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/20240108_211530_0000.png)
@@ -290,6 +300,10 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![70959531_p13.png](/.internals/thumbnails/mobile/kirby/70959531_p13.png "70959531_p13.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p13.png)
 [![70959531_p2 (1).png](/.internals/thumbnails/mobile/kirby/70959531_p2%20(1).png "70959531_p2 (1).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/70959531_p2%20(1).png)
 [![84a0af973d6a926d_1279640.jpg](/.internals/thumbnails/mobile/kirby/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/84a0af973d6a926d_1279640.jpg)
+[![Bee Kirby by X Xasm
+Bee Kirby Pattern by X Xasm](/.internals/thumbnails/mobile/kirby/bee_kirby_by_x_xasm.jpg "Bee Kirby by X Xasm
+Bee Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/bee_kirby_by_x_xasm.jpg)
+[![Cone Kirby by X Xasm](/.internals/thumbnails/mobile/kirby/cone_kirby_by_x_xasm.png "Cone Kirby by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/cone_kirby_by_x_xasm.png)
 [![E8gYy--UUAIoijx.png](/.internals/thumbnails/mobile/kirby/E8gYy--UUAIoijx.png "E8gYy--UUAIoijx.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/E8gYy--UUAIoijx.png)
 [![hd-kirby-wallpaper-whatspaper-7.jpg](/.internals/thumbnails/mobile/kirby/hd-kirby-wallpaper-whatspaper-7.jpg "hd-kirby-wallpaper-whatspaper-7.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/hd-kirby-wallpaper-whatspaper-7.jpg)
 [![hd-kirby-wallpaper-whatspaper-8.jpg](/.internals/thumbnails/mobile/kirby/hd-kirby-wallpaper-whatspaper-8.jpg "hd-kirby-wallpaper-whatspaper-8.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/hd-kirby-wallpaper-whatspaper-8.jpg)
@@ -328,6 +342,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![Massive Kirby Scene 01 by Suyasuyabi](/.internals/thumbnails/mobile/kirby/massive_kirby_scene_01_by_suyasuyabi.jpg "Massive Kirby Scene 01 by Suyasuyabi")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/massive_kirby_scene_01_by_suyasuyabi.jpg)
 [![Massive Kirby Scene 02 by Suyasuyabi](/.internals/thumbnails/mobile/kirby/massive_kirby_scene_02_by_suyasuyabi.jpg "Massive Kirby Scene 02 by Suyasuyabi")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/massive_kirby_scene_02_by_suyasuyabi.jpg)
 [![Massive Kirby Scene 03 by Suyasuyabi](/.internals/thumbnails/mobile/kirby/massive_kirby_scene_03_by_suyasuyabi.jpg "Massive Kirby Scene 03 by Suyasuyabi")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/massive_kirby_scene_03_by_suyasuyabi.jpg)
+[![Bee Kirby Pattern by X Xasm](/.internals/thumbnails/mobile/kirby/pattern_bee_kirby_by_x_xasm.jpg "Bee Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_bee_kirby_by_x_xasm.jpg)
 [![pattern_e-g-fa7vcaqiu9h.jpeg](/.internals/thumbnails/mobile/kirby/pattern_e-g-fa7vcaqiu9h.jpeg "pattern_e-g-fa7vcaqiu9h.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_e-g-fa7vcaqiu9h.jpeg)
 [![pattern_ezgjugivcaecwlg.jpeg](/.internals/thumbnails/mobile/kirby/pattern_ezgjugivcaecwlg.jpeg "pattern_ezgjugivcaecwlg.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_ezgjugivcaecwlg.jpeg)
 [![pattern_fdq3pffakaapjpm.jpeg](/.internals/thumbnails/mobile/kirby/pattern_fdq3pffakaapjpm.jpeg "pattern_fdq3pffakaapjpm.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_fdq3pffakaapjpm.jpeg)
@@ -336,11 +351,13 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![pattern_ftcu3msagaeif5q.jpeg](/.internals/thumbnails/mobile/kirby/pattern_ftcu3msagaeif5q.jpeg "pattern_ftcu3msagaeif5q.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_ftcu3msagaeif5q.jpeg)
 [![ Kirby and Scarfy Kirby Drawn by Raku Ura Cf631ed1b997257e17c0100eb7e34820](/.internals/thumbnails/mobile/kirby/pattern___kirby_and_scarfy_kirby_drawn_by_raku_ura__cf631ed1b997257e17c0100eb7e34820.jpg " Kirby and Scarfy Kirby Drawn by Raku Ura Cf631ed1b997257e17c0100eb7e34820")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern___kirby_and_scarfy_kirby_drawn_by_raku_ura__cf631ed1b997257e17c0100eb7e34820.jpg)
 [![ Kirby Bandana Waddle Dee Elfilin Spookstep Mariel and 4 More Kirby and 1 More Drawn by Raku Ura A277ec6aeb74eb30dd79fe10f71866f5](/.internals/thumbnails/mobile/kirby/pattern___kirby_bandana_waddle_dee_elfilin_spookstep_mariel_and_4_more_kirby_and_1_more_drawn_by_raku_ura__a277ec6aeb74eb30dd79fe10f71866f5.jpg " Kirby Bandana Waddle Dee Elfilin Spookstep Mariel and 4 More Kirby and 1 More Drawn by Raku Ura A277ec6aeb74eb30dd79fe10f71866f5")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern___kirby_bandana_waddle_dee_elfilin_spookstep_mariel_and_4_more_kirby_and_1_more_drawn_by_raku_ura__a277ec6aeb74eb30dd79fe10f71866f5.jpg)
+[![Lemon Kirby Pattern by X Xasm](/.internals/thumbnails/mobile/kirby/pattern_lemon_kirby_by_x_xasm.jpg "Lemon Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pattern_lemon_kirby_by_x_xasm.jpg)
 [![peakpx (37).jpg](/.internals/thumbnails/mobile/kirby/peakpx%20(37).jpg "peakpx (37).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/peakpx%20(37).jpg)
 [![pxfuel (1).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(1).jpg "pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pxfuel%20(1).jpg)
 [![pxfuel (2).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(2).jpg "pxfuel (2).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pxfuel%20(2).jpg)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/kirby/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/pxfuel.jpg)
 [![uwp2743031.jpeg](/.internals/thumbnails/mobile/kirby/uwp2743031.jpeg "uwp2743031.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/uwp2743031.jpeg)
+[![Vacation Kirby by X Xasm](/.internals/thumbnails/mobile/kirby/vacation_kirby_by_x_xasm.png "Vacation Kirby by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/vacation_kirby_by_x_xasm.png)
 [![wp4856708-pokemon-pc-desktop-wallpapers.jpg](/.internals/thumbnails/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg "wp4856708-pokemon-pc-desktop-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg)
 [![yq1zf9cmgci21.jpg](/.internals/thumbnails/mobile/kirby/yq1zf9cmgci21.jpg "yq1zf9cmgci21.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/kirby/yq1zf9cmgci21.jpg)
 
@@ -366,6 +383,12 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 [![d7d2f81f404965b4_c98b8a8a473d94bb48f62a723658125f.jpeg](/.internals/thumbnails/mobile/leaves/d7d2f81f404965b4_c98b8a8a473d94bb48f62a723658125f.jpeg "d7d2f81f404965b4_c98b8a8a473d94bb48f62a723658125f.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/d7d2f81f404965b4_c98b8a8a473d94bb48f62a723658125f.jpeg)
 [![ec0cf544e88d38bb_f55b8ca1e60e24e741dafef4f6c57c14.jpeg](/.internals/thumbnails/mobile/leaves/ec0cf544e88d38bb_f55b8ca1e60e24e741dafef4f6c57c14.jpeg "ec0cf544e88d38bb_f55b8ca1e60e24e741dafef4f6c57c14.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/ec0cf544e88d38bb_f55b8ca1e60e24e741dafef4f6c57c14.jpeg)
 [![f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg](/.internals/thumbnails/mobile/leaves/f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg "f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/leaves/f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg)
+
+<a id="legends-and-lattes"></a>
+
+## [legends and lattes](/mobile/legends%20and%20lattes/README.MD) - 2
+[![01 Legends and Lattes Cover by Carson Daniel Lowmiller](/.internals/thumbnails/mobile/legends%20and%20lattes/01%20Legends%20and%20Lattes%20cover%20by%20Carson%20Daniel%20Lowmiller.jpg "01 Legends and Lattes Cover by Carson Daniel Lowmiller")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/legends%20and%20lattes/01%20Legends%20and%20Lattes%20cover%20by%20Carson%20Daniel%20Lowmiller.jpg)
+[![02 Bookshops and Bonedust Cover by Carson Daniel Lowmiller](/.internals/thumbnails/mobile/legends%20and%20lattes/02%20Bookshops%20and%20Bonedust%20cover%20by%20Carson%20Daniel%20Lowmiller.jpeg "02 Bookshops and Bonedust Cover by Carson Daniel Lowmiller")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/legends%20and%20lattes/02%20Bookshops%20and%20Bonedust%20cover%20by%20Carson%20Daniel%20Lowmiller.jpeg)
 
 <a id="mario"></a>
 
@@ -2040,7 +2063,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 
 <a id="tolkien"></a>
 
-## [tolkien](/mobile/tolkien/README.MD) - 88
+## [tolkien](/mobile/tolkien/README.MD) - 91
 [![1876125.jpg](/.internals/thumbnails/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/1876125.jpg)
 [![20231223_070550.jpg](/.internals/thumbnails/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20231223_070550.jpg)
 [![20240115_120226.jpg](/.internals/thumbnails/mobile/tolkien/20240115_120226.jpg "20240115_120226.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/20240115_120226.jpg)
@@ -2073,6 +2096,9 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/gandalf_and_bilbo_baggins_tolkien_s_legendarium_and_2_more_drawn_by_anato_finnstark.jpg "Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_and_bilbo_baggins_tolkien_s_legendarium_and_2_more_drawn_by_anato_finnstark.jpg)
 [![Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
 [![GoodMorning-donato-1200-0420.jpg](/.internals/thumbnails/mobile/tolkien/GoodMorning-donato-1200-0420.jpg "GoodMorning-donato-1200-0420.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg)
+[![justin-gerard-06-tgk-v1-x6-01.jpg](/.internals/thumbnails/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg "justin-gerard-06-tgk-v1-x6-01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg)
+[![justin-gerard-justin-gerard-b-l2017-n01x12.jpg](/.internals/thumbnails/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg "justin-gerard-justin-gerard-b-l2017-n01x12.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg)
+[![justin-gerard-justin-gerard-bln07-10e.jpg](/.internals/thumbnails/mobile/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg "justin-gerard-justin-gerard-bln07-10e.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-bln07-10e.jpg)
 [![KC3bmGP.jpeg](/.internals/thumbnails/mobile/tolkien/KC3bmGP.jpeg "KC3bmGP.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/KC3bmGP.jpeg)
 [![Legolas and Thranduil Tolkien S Legendarium and 1 More Drawn by Kagalin](/.internals/thumbnails/mobile/tolkien/legolas_and_thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kagalin.jpg "Legolas and Thranduil Tolkien S Legendarium and 1 More Drawn by Kagalin")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_and_thranduil_tolkien_s_legendarium_and_1_more_drawn_by_kagalin.jpg)
 [![Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
