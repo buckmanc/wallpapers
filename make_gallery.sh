@@ -93,10 +93,10 @@ echo "$imagesToFit" | while read -r src; do
 		args="-m portrait"
 	fi
 
-	if echo "$src" | grep -iq "album cover art"
-	then
-		args+=" -b"
-	fi
+	# if echo "$src" | grep -iq "album cover art"
+	# then
+	# 	args+=" -b"
+	# fi
 
 	mkdir -p "$targetDir"
 	wallpaper-magick -i "$src" -o "$target" $args > /dev/null

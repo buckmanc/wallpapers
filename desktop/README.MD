@@ -1,4 +1,4 @@
-# desktop - 556
+# desktop - 558
 - [castlevania](#castlevania) - 7
 - [castlevania pixel](#castlevania-pixel) - 11
 - [forests](#forests) - 115
@@ -8,7 +8,7 @@
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 81
 - [mistborn](#mistborn) - 4
-- [music](#music) - 2
+- [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
 - [skyrim art](#skyrim-art) - 5
@@ -333,7 +333,9 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/W
 
 <a id="music"></a>
 
-## [music](/desktop/music/README.MD) - 2
+## [music](/desktop/music/README.MD) - 4
+[![Froglord - The Mystic Toad.png](/.internals/thumbnails/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
+[![Gealdýr - Othala.jpg](/.internals/thumbnails/desktop/music/Gealdýr%20-%20Othala.jpg "Gealdýr - Othala.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Gealdýr%20-%20Othala.jpg)
 [![Living Tombstone - Spotify.jpg](/.internals/thumbnails/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)
 [![So This Is Suffering Spotify header.jpg](/.internals/thumbnails/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 
