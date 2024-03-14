@@ -335,7 +335,7 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/W
 
 ## [music](/desktop/music/README.MD) - 4
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
-[![Gealdýr - Othala.jpg](/.internals/thumbnails/desktop/music/Gealdýr%20-%20Othala.jpg "Gealdýr - Othala.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Gealdýr%20-%20Othala.jpg)
+[![Laurence Manning - Piano Collections_ Castlevania.jpg](/.internals/thumbnails/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
 [![Living Tombstone - Spotify.jpg](/.internals/thumbnails/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)
 [![So This Is Suffering Spotify header.jpg](/.internals/thumbnails/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 

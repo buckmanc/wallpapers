@@ -1,7 +1,7 @@
 # music - 4
 [![Froglord - The Mystic Toad.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
 
-[![Gealdýr - Othala.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Gealdýr%20-%20Othala.jpg "Gealdýr - Othala.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Gealdýr%20-%20Othala.jpg)
+[![Laurence Manning - Piano Collections_ Castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
 
 [![Living Tombstone - Spotify.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)
 
