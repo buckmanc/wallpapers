@@ -483,8 +483,8 @@ then
 		# skip if the underlying md hasn't changed since last html generation
 		if [[ "$htmlPath" -nt "$src" ]]
 		then
-		iHtmlSkip=$(($iHtmlSkip + 1))
-		echo -en '\r'
+			iHtmlSkip=$(($iHtmlSkip + 1))
+			echo -en '\r'
 			continue
 		fi
 

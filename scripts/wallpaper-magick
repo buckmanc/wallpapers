@@ -123,7 +123,8 @@ inPathExt="${inPath##*.}"
 inPathExt="${inPathExt,,}"
 outPathExt="${outPath##*.}"
 outPathExt="${outPathExt,,}"
-inPathTemp="/tmp/wallpaper-magick-$(basename "$outPath")"
+tempDir="$(dirname "$(mktemp -u)")"
+inPathTemp="$tempDir/wallpaper-magick-$(basename "$outPath")"
 inPathTemp="$(echo "$inPathTemp" | sed 's/ /-/g')"
 
 if [[ "$inPathExt" == "svg" ]]
