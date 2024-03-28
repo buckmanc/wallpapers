@@ -15,6 +15,15 @@ destDir="$sourceDir/all"
 # echo "destDir $destDir"
 # exit 1
 
+sourceLastChange="$(du --max-depth 0 --time "$sourceDir" | cut -f2 | xargs -I {} date -d "{}" +%s)"
+destLastChange="$(du --max-depth 0 --time "$destDir" | cut -f2 | xargs -I {} date -d "{}" +%s)"
+
+if [[ "$destLastChange" -ge "$sourceLastChange" ]]
+then
+  echo "symlinks seem up to date"
+  exit 0
+fi
+
 if [[ -d "$destDir" ]]
 then
   rm "$destDir" -r
