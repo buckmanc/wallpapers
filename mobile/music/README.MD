@@ -1,4 +1,4 @@
-# music - 50
+# music - 55
 [![Acryl madness - Ritual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 
 [![Alessio Dicorato - Lost Girl _From _Deltarune__ _Piano_.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune__%20_Piano_.jpg "Alessio Dicorato - Lost Girl _From _Deltarune__ _Piano_.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune__%20_Piano_.jpg)
@@ -10,6 +10,8 @@
 [![curly_-_nook_and_chill.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/curly_-_nook_and_chill.jpg "curly_-_nook_and_chill.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/curly_-_nook_and_chill.jpg)
 
 [![Eurielle - We All Fall Down 2022.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
+
+[![froglord - red eyed frogthulhu.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg "froglord - red eyed frogthulhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg)
 
 [![Froglord - The Mystic Toad.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png)
 
@@ -63,6 +65,8 @@
 
 [![Neon Odin - Allfather.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Neon%20Odin%20-%20Allfather.jpg "Neon Odin - Allfather.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Neon%20Odin%20-%20Allfather.jpg)
 
+[![Nini Music - HUNG UP.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Nini%20Music%20-%20HUNG%20UP.jpg "Nini Music - HUNG UP.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Nini%20Music%20-%20HUNG%20UP.jpg)
+
 [![Nordein - Nordariket.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Nordein%20-%20Nordariket.jpg "Nordein - Nordariket.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Nordein%20-%20Nordariket.jpg)
 
 [![Occams Laser - Ascension.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Occams%20Laser%20-%20Ascension.jpg "Occams Laser - Ascension.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Occams%20Laser%20-%20Ascension.jpg)
@@ -73,9 +77,13 @@
 
 [![Old Sorcery - Strange and Eternal.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
 
+[![Ov Sulfur - Behind the Hand of God.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
+
 [![Reliqa - Eventide.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
 
 [![Sad Gatomon - Pokemon Chillhop and Lofi.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg "Sad Gatomon - Pokemon Chillhop and Lofi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg)
+
+[![Shrine - Quintessence.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 
 [![Skálmöld - Börn Loka.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 
@@ -90,6 +98,8 @@
 [![Super Lofi 64 - The Pokémon Center.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg "Super Lofi 64 - The Pokémon Center.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg)
 
 [![Twin Temple - Satan_s a Woman.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
+
+[![Vévaki - Fórnspeki.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg "Vévaki - Fórnspeki.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg)
 
 [![Wardruna - Lyfjaberg.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Lyfjaberg.jpg "Wardruna - Lyfjaberg.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Lyfjaberg.jpg)
 

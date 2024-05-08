@@ -1,4 +1,6 @@
-# matching grey - 63
+# matching grey - 76
+[![buer_sigil_tpdesign06.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png "buer_sigil_tpdesign06.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png)
+
 [![corner_knot.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png)
 
 [![cosmere-ghostbloods.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere-ghostbloods.png "cosmere-ghostbloods.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere-ghostbloods.png)
@@ -6,6 +8,8 @@
 [![cosmere.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png "cosmere.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png)
 
 [![fallout-vault_boy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png "fallout-vault_boy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png)
+
+[![full_metal_alchemist-blood_seal_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png "full_metal_alchemist-blood_seal_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png)
 
 [![full_metal_alchemist-flamel.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-flamel.png "full_metal_alchemist-flamel.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-flamel.png)
 
@@ -15,25 +19,49 @@
 
 [![halo-monitor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png "halo-monitor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png)
 
-[![magic_circle_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_1.png "magic_circle_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_1.png)
+[![magic_circle_01.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png)
 
-[![magic_circle_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_2.png "magic_circle_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_2.png)
+[![magic_circle_02.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_02.png "magic_circle_02.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_02.png)
 
-[![magic_circle_3.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_3.png "magic_circle_3.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_3.png)
+[![magic_circle_03.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_03.png "magic_circle_03.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_03.png)
 
-[![magic_circle_4.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_4.png "magic_circle_4.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_4.png)
+[![magic_circle_04.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_04.png "magic_circle_04.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_04.png)
 
-[![magic_circle_5.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_5.png "magic_circle_5.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_5.png)
+[![magic_circle_05.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_05.png "magic_circle_05.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_05.png)
 
-[![magic_circle_6.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_6.png "magic_circle_6.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_6.png)
+[![magic_circle_06.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_06.png "magic_circle_06.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_06.png)
 
-[![magic_circle_7.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7.png "magic_circle_7.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7.png)
+[![magic_circle_07.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_07.png "magic_circle_07.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_07.png)
 
-[![magic_circle_8.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_8.png "magic_circle_8.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_8.png)
+[![magic_circle_08.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_08.png "magic_circle_08.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_08.png)
 
-[![magic_circle_9.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_9.png "magic_circle_9.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_9.png)
+[![magic_circle_09.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_09.png "magic_circle_09.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_09.png)
+
+[![magic_circle_10_tpdesign06.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_10_tpdesign06.png "magic_circle_10_tpdesign06.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_10_tpdesign06.png)
+
+[![magic_circle_11_loutecrea.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_11_loutecrea.png "magic_circle_11_loutecrea.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_11_loutecrea.png)
+
+[![magic_circle_7003_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7003_etechdigital.png)
+
+[![magic_circle_7005_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7005_etechdigital.png)
+
+[![magic_circle_7007_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7007_etechdigital.png "magic_circle_7007_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7007_etechdigital.png)
+
+[![magic_circle_7010_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7010_etechdigital.png "magic_circle_7010_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7010_etechdigital.png)
+
+[![magic_circle_7011_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7011_etechdigital.png "magic_circle_7011_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7011_etechdigital.png)
+
+[![magic_circle_7012_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7012_etechdigital.png "magic_circle_7012_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7012_etechdigital.png)
+
+[![magic_circle_7013_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7013_etechdigital.png "magic_circle_7013_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7013_etechdigital.png)
 
 [![magic_circle-doctor_strange.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-doctor_strange.png "magic_circle-doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-doctor_strange.png)
+
+[![magic_circle-full_metal_alchemist_02_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_02_rosedesignestudio.png "magic_circle-full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_02_rosedesignestudio.png)
+
+[![magic_circle-full_metal_alchemist_03_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_03_rosedesignestudio.png "magic_circle-full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_03_rosedesignestudio.png)
+
+[![magic_circle-full_metal_alchemist_04_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_04_rosedesignestudio.png "magic_circle-full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_04_rosedesignestudio.png)
 
 [![magic_circle-full_metal_alchemist.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist.png "magic_circle-full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist.png)
 
@@ -61,7 +89,7 @@
 
 [![samus_helm.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/samus_helm.png)
 
-[![Shy_Guy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/Shy_Guy.png "Shy_Guy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/Shy_Guy.png)
+[![shy_guy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/shy_guy.png "shy_guy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/shy_guy.png)
 
 [![skyrim.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyrim.png "skyrim.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyrim.png)
 
@@ -84,8 +112,6 @@
 [![stormlight_glyph-kholin.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-kholin.png "stormlight_glyph-kholin.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-kholin.png)
 
 [![stormlight_glyph-roshar.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-roshar.png "stormlight_glyph-roshar.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-roshar.png)
-
-[![stormlight_glyph-shash-dangerous.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-shash-dangerous.png "stormlight_glyph-shash-dangerous.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-shash-dangerous.png)
 
 [![stormlight_glyph-thath-justice.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-thath-justice.png "stormlight_glyph-thath-justice.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-thath-justice.png)
 
@@ -110,7 +136,7 @@
 [![Twlight Portal by Ohcooldesigns](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/twlight_portal_by_ohcooldesigns.png "Twlight Portal by Ohcooldesigns")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/twlight_portal_by_ohcooldesigns.png)\
 Twlight Portal by Ohcooldesigns
 
-[![Vegvisir.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/Vegvisir.png "Vegvisir.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/Vegvisir.png)
+[![vegvisir.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir.png "vegvisir.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir.png)
 
 [![zelda-botw_sheikah_eye.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_sheikah_eye.png "zelda-botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_sheikah_eye.png)
 

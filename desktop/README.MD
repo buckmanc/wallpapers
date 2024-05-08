@@ -1,12 +1,12 @@
-# desktop - 558
+# desktop - 555
 - [castlevania](#castlevania) - 7
 - [castlevania pixel](#castlevania-pixel) - 11
-- [forests](#forests) - 115
+- [forests](#forests) - 113
 - [justin gerard](#justin-gerard) - 3
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 81
+- [misc](#misc) - 80
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
@@ -55,7 +55,7 @@
 
 <a id="forests"></a>
 
-## [forests](/desktop/forests/README.MD) - 115
+## [forests](/desktop/forests/README.MD) - 113
 [![81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg](/.internals/thumbnails/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg "81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg)
 [![843b6a947bc23d63_istockphoto-1313980280-640x640.jpg](/.internals/thumbnails/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg "843b6a947bc23d63_istockphoto-1313980280-640x640.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg)
 [![84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg](/.internals/thumbnails/desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg "84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg)
@@ -140,12 +140,10 @@
 [![c9c63319cc733699_Darkness-pic.jpg](/.internals/thumbnails/desktop/forests/c9c63319cc733699_Darkness-pic.jpg "c9c63319cc733699_Darkness-pic.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/c9c63319cc733699_Darkness-pic.jpg)
 [![ca8a0b3d74d0c797_sad-n-dark-20.jpeg](/.internals/thumbnails/desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg "ca8a0b3d74d0c797_sad-n-dark-20.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ca8a0b3d74d0c797_sad-n-dark-20.jpeg)
 [![cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg](/.internals/thumbnails/desktop/forests/cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg "cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cb8ba38b8acb31c3_wp4024514-cozy-wallpapers.jpg)
-[![cc1b33cccc3b91cc_bye01.jpg](/.internals/thumbnails/desktop/forests/cc1b33cccc3b91cc_bye01.jpg "cc1b33cccc3b91cc_bye01.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc1b33cccc3b91cc_bye01.jpg)
 [![cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg](/.internals/thumbnails/desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg "cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc2373239c316fcc_roman-datsiuk-mW_yoqe6pkM-unsplash.jpg)
 [![cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg](/.internals/thumbnails/desktop/forests/cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg "cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc3333cc4c3bb1cc_dark-forest-wallpapers-desktop-background-3840x2160.jpg)
 [![cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg](/.internals/thumbnails/desktop/forests/cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg "cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc3c674e9cc83666_tomasz-filipek-59OA9ycJhpI-unsplash.jpg)
 [![cc6c3399cc323bd8_RDT_20231202_1959052116105647650675667.jpg](/.internals/thumbnails/desktop/forests/cc6c3399cc323bd8_RDT_20231202_1959052116105647650675667.jpg "cc6c3399cc323bd8_RDT_20231202_1959052116105647650675667.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cc6c3399cc323bd8_RDT_20231202_1959052116105647650675667.jpg)
-[![ccccc2c3277565c6_bye02.jpg](/.internals/thumbnails/desktop/forests/ccccc2c3277565c6_bye02.jpg "ccccc2c3277565c6_bye02.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ccccc2c3277565c6_bye02.jpg)
 [![cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg](/.internals/thumbnails/desktop/forests/cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg "cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cccccea737343434_wpazjV8qYFulYTiAibKHLAetRvJI47OJY9umMBtQgAY.jpg)
 [![cccccf93c313c689_p603hrn4bux91.jpg](/.internals/thumbnails/desktop/forests/cccccf93c313c689_p603hrn4bux91.jpg "cccccf93c313c689_p603hrn4bux91.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/cccccf93c313c689_p603hrn4bux91.jpg)
 [![ccccec06cd99998d_peakpx (4).jpg](/.internals/thumbnails/desktop/forests/ccccec06cd99998d_peakpx%20(4).jpg "ccccec06cd99998d_peakpx (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/forests/ccccec06cd99998d_peakpx%20(4).jpg)
@@ -234,7 +232,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 81
+## [misc](/desktop/misc/README.MD) - 80
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -302,7 +300,6 @@
 [![cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg](/.internals/thumbnails/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg "cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg)
 [![cece3131cece3131_rm-rf.jpg](/.internals/thumbnails/desktop/misc/cece3131cece3131_rm-rf.jpg "cece3131cece3131_rm-rf.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cece3131cece3131_rm-rf.jpg)
 [![Cecf63303eb13813 Fantasy Deer by Martina Stipan](/.internals/thumbnails/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg "Cecf63303eb13813 Fantasy Deer by Martina Stipan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg)
-[![cf88394d72384c6f_bye.jpg](/.internals/thumbnails/desktop/misc/cf88394d72384c6f_bye.jpg "cf88394d72384c6f_bye.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cf88394d72384c6f_bye.jpg)
 [![d0d80f65f9da0c27_mountains.png](/.internals/thumbnails/desktop/misc/d0d80f65f9da0c27_mountains.png "d0d80f65f9da0c27_mountains.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d0d80f65f9da0c27_mountains.png)
 [![d16472f5e9348999_1223834.jpg](/.internals/thumbnails/desktop/misc/d16472f5e9348999_1223834.jpg "d16472f5e9348999_1223834.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d16472f5e9348999_1223834.jpg)
 [![d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg](/.internals/thumbnails/desktop/misc/d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg "d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d2c26366eccc70d9_leif-niemczik-Gp8R_D5klig-unsplash.jpg)
