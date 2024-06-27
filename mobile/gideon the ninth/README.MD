@@ -1,9 +1,7 @@
-# gideon the ninth - 7
+# gideon the ninth - 6
 [![976791.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976791.jpg "976791.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976791.jpg)
 
 [![976797.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976797.jpg "976797.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/976797.jpg)
-
-[![dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png "dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/dfrhx5x-9aecdd94-99fa-4eb8-ab66-3a09a498a742.png)
 
 [![EFuhu_cWoAEqRrx.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/EFuhu_cWoAEqRrx.jpeg "EFuhu_cWoAEqRrx.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/gideon%20the%20ninth/EFuhu_cWoAEqRrx.jpeg)
 

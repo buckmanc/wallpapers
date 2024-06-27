@@ -1,4 +1,4 @@
-# misc - 81
+# misc - 83
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -96,6 +96,10 @@ A7944a19277cb9b2 Raven Altar by Sandara
 Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
 
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
+
+[![b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png "b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png)
+
+[![bc748a9943eb530b_ducks seeing a meteor 2024.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png "bc748a9943eb530b_ducks seeing a meteor 2024.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png)
 
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)\
 C0e01f97e078c3e7 The Moon by Ari Ibarra
