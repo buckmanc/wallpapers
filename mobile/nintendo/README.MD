@@ -1,4 +1,4 @@
-# nintendo - 46
+# nintendo - 49
 [![1445886.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg "1445886.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1445886.jpg)
 
 [![1996 Green pocket gameboy.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/1996%20Green%20pocket%20gameboy.jpeg)
@@ -19,6 +19,10 @@ Advent Of The Deliverer by Gigi D G
 [![Aesthetic Black Gameboy Advance SP Wallpaper.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Aesthetic%20Black%20Gameboy%20Advance%20SP%20Wallpaper.jpeg "Aesthetic Black Gameboy Advance SP Wallpaper.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Aesthetic%20Black%20Gameboy%20Advance%20SP%20Wallpaper.jpeg)
 
 [![cnxUSBX.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/cnxUSBX.jpeg "cnxUSBX.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/cnxUSBX.jpeg)
+
+[![coffee_date_-_cafe_days.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/coffee_date_-_cafe_days.jpg "coffee_date_-_cafe_days.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/coffee_date_-_cafe_days.jpg)
+
+[![curly_-_nook_and_chill.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/curly_-_nook_and_chill.jpg "curly_-_nook_and_chill.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/curly_-_nook_and_chill.jpg)
 
 [![e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg "e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/e1b39e2d-347c-4648-9a2f-a40d39c03609.jpeg)
 
@@ -85,6 +89,8 @@ Nes Controller Wallpaper by Doctor G D41urm3
 [![pxfuel (9).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(9).jpg "pxfuel (9).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel%20(9).jpg)
 
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/pxfuel.jpg)
+
+[![Sleeping Phoenix - Video Game Lofi Compilation 1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg "Sleeping Phoenix - Video Game Lofi Compilation 1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg)
 
 [![SMB1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SMB1.png "SMB1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/nintendo/SMB1.png)
 

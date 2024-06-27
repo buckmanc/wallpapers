@@ -1,4 +1,4 @@
-# pokemon - 111
+# pokemon - 113
 [![20231214_033711.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/20231214_033711.jpg "20231214_033711.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/20231214_033711.jpg)
 
 [![43c9126f-6176-428c-95c2-9790728f0d6b.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/43c9126f-6176-428c-95c2-9790728f0d6b.jpeg "43c9126f-6176-428c-95c2-9790728f0d6b.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/43c9126f-6176-428c-95c2-9790728f0d6b.jpeg)
@@ -155,6 +155,8 @@ Pumpkaboo by Artico D6usi6u
 
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/pxfuel.jpg)
 
+[![Sad Gatomon - Pokemon Chillhop and Lofi.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg "Sad Gatomon - Pokemon Chillhop and Lofi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg)
+
 [![sample_4094320759f2df43904ac65ea68982e2030308b2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sample_4094320759f2df43904ac65ea68982e2030308b2.jpg "sample_4094320759f2df43904ac65ea68982e2030308b2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sample_4094320759f2df43904ac65ea68982e2030308b2.jpg)
 
 [![Sg Ss Charizard Stained Glass by Sarcastic Sketches 666397174184247296 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_charizard_stained_glass_by_sarcastic_sketches_666397174184247296_01.jpg "Sg Ss Charizard Stained Glass by Sarcastic Sketches 666397174184247296 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sg_ss_charizard_stained_glass_by_sarcastic_sketches_666397174184247296_01.jpg)\
@@ -179,6 +181,8 @@ Sg Ss Lugia Stained Glass by Sarcastic Sketches 666397174184247296 02
 
 [![Sleepy Wooloo by Vanoso Illustration](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sleepy%20wooloo%20by%20Vanoso%20Illustration.jpg "Sleepy Wooloo by Vanoso Illustration")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/sleepy%20wooloo%20by%20Vanoso%20Illustration.jpg)\
 Sleepy Wooloo by Vanoso Illustration
+
+[![Super Lofi 64 - The Pokémon Center.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg "Super Lofi 64 - The Pokémon Center.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg)
 
 [![triangle-2020-09-02T164931.228.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/triangle-2020-09-02T164931.228.png "triangle-2020-09-02T164931.228.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon/triangle-2020-09-02T164931.228.png)
 

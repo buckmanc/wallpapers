@@ -1,4 +1,4 @@
-# mario - 81
+# mario - 82
 [![12a4830848439cd628c6dd09260a3533.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
 
 [![20231211_115019.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
@@ -50,6 +50,8 @@ Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68
 [![fzcvn9fdz0361.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fzcvn9fdz0361.png "fzcvn9fdz0361.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fzcvn9fdz0361.png)
 
 [![Guillaume-Morellec-luigi.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Guillaume-Morellec-luigi.png "Guillaume-Morellec-luigi.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Guillaume-Morellec-luigi.png)
+
+[![helynt_-_mario_and_chill_2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/helynt_-_mario_and_chill_2.jpg "helynt_-_mario_and_chill_2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/helynt_-_mario_and_chill_2.jpg)
 
 [![ Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264
 Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/kirby_boo_king_boo_and_ghost_kirby_mario_and_2_more_drawn_by_poyo_party__sample-aa8ec214ed06ea8c1839dbaf98eb5264.jpg " Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264

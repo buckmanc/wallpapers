@@ -1,19 +1,13 @@
-# music - 60
+# music - 49
 [![A-bug - Ocarina of Time.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 
 [![Acryl madness - Ritual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 
-[![Alessio Dicorato - Zelda_ Ocarina of Time - Piano.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Zelda_%20Ocarina%20of%20Time%20-%20Piano.jpg "Alessio Dicorato - Zelda_ Ocarina of Time - Piano.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Zelda_%20Ocarina%20of%20Time%20-%20Piano.jpg)
-
 [![Apocryphos - Against Civilization.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
-
-[![coffee_date_-_cafe_days.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/coffee_date_-_cafe_days.jpg "coffee_date_-_cafe_days.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/coffee_date_-_cafe_days.jpg)
-
-[![curly_-_nook_and_chill.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/curly_-_nook_and_chill.jpg "curly_-_nook_and_chill.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/curly_-_nook_and_chill.jpg)
 
 [![Eurielle - We All Fall Down 2022.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
 
@@ -29,8 +23,6 @@
 
 [![Gost - Non Paradisi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg "Gost - Non Paradisi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg)
 
-[![helynt_-_mario_and_chill_2.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/helynt_-_mario_and_chill_2.jpg "helynt_-_mario_and_chill_2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/helynt_-_mario_and_chill_2.jpg)
-
 [![IC3PEAK - Kiss Of Death.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 
 [![IC3PEAK - Сладкая жизнь.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
@@ -43,8 +35,6 @@
 
 [![Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png "Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png)
 
-[![Laurence Manning - Piano Collections_ Castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
-
 [![Loafy Building - Butterflies.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg "Loafy Building - Butterflies.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg)
 
 [![MASTER BOOT RECORD - C​__​​_CHKDSK _F.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png "MASTER BOOT RECORD - C​__​​_CHKDSK _F.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png)
@@ -54,10 +44,6 @@
 [![MASTER BOOT RECORD - VIRTUAVERSE.OST.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20VIRTUAVERSE.OST.jpg "MASTER BOOT RECORD - VIRTUAVERSE.OST.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20VIRTUAVERSE.OST.jpg)
 
 [![MASTER BOOT RECORD - Virus.Dos.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20Virus.Dos.png "MASTER BOOT RECORD - Virus.Dos.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20Virus.Dos.png)
-
-[![Mellow Yoyo - Gerudo Valley.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mellow%20Yoyo%20-%20Gerudo%20Valley.webp "Mellow Yoyo - Gerudo Valley.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mellow%20Yoyo%20-%20Gerudo%20Valley.webp)
-
-[![Mellow Yoyo - Princess Zelda.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mellow%20Yoyo%20-%20Princess%20Zelda.webp "Mellow Yoyo - Princess Zelda.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mellow%20Yoyo%20-%20Princess%20Zelda.webp)
 
 [![Mikel-Zelda-Chill-cover-part-1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mikel-Zelda-Chill-cover-part-1.jpg "Mikel-Zelda-Chill-cover-part-1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Mikel-Zelda-Chill-cover-part-1.jpg)
 
@@ -91,21 +77,13 @@
 
 [![Reliqa - Eventide.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
 
-[![Sad Gatomon - Pokemon Chillhop and Lofi.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg "Sad Gatomon - Pokemon Chillhop and Lofi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Pokemon%20Chillhop%20and%20Lofi.jpeg)
-
-[![Sebastien Skaf - Castlevania_Vol_1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg "Sebastien Skaf - Castlevania_Vol_1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg)
-
 [![Shrine - Quintessence.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 
 [![Skálmöld - Börn Loka.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 
-[![Sleeping Phoenix - Video Game Lofi Compilation 1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg "Sleeping Phoenix - Video Game Lofi Compilation 1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg)
-
 [![Sowulo - Full Mōna.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 
 [![STRNGR - Night at the Grindhouse.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
-
-[![Super Lofi 64 - The Pokémon Center.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg "Super Lofi 64 - The Pokémon Center.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Super%20Lofi%2064%20-%20The%20Pokémon%20Center.jpg)
 
 [![Twin Temple - Satan_s a Woman.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 

@@ -1,4 +1,4 @@
-# castlevania - 113
+# castlevania - 115
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -210,6 +210,8 @@ Gabriel by Jose Luis Vaello Bertol
 [![Isaac and Friend by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg "Isaac and Friend by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Isaac%20and%20Friend%20by%20Katie%20Silva.jpg)\
 Isaac and Friend by Katie Silva
 
+[![Laurence Manning - Piano Collections_ Castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
+
 [![Lindenfield Banner by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg "Lindenfield Banner by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Lindenfield%20banner%20by%20Katie%20silva.jpg)\
 Lindenfield Banner by Katie Silva
 
@@ -231,6 +233,8 @@ Tepes Family Portrait by Katie Silva
 [![pxfuel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/pxfuel.jpg)
 
 [![Quest_map_1_4.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Quest_map_1_4.png "Quest_map_1_4.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Quest_map_1_4.png)
+
+[![Sebastien Skaf - Castlevania_Vol_1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg "Sebastien Skaf - Castlevania_Vol_1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg)
 
 [![SotN Poster Alucard by Jhony Caballero](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg "SotN Poster Alucard by Jhony Caballero")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg)\
 SotN Poster Alucard by Jhony Caballero
