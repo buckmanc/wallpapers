@@ -1,4 +1,4 @@
-# misc - 83
+# misc - 84
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -41,6 +41,9 @@
 [![91d86c2cd0f16e3e_peakpx(11).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg "91d86c2cd0f16e3e_peakpx(11).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg)
 
 [![932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg "932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg)
+
+[![9349f6a66c91b86c Mountain Climbing Horror Stories by SoysenSyndrome](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9349f6a66c91b86c_Mountain%20Climbing%20Horror%20Stories%20by%20SoysenSyndrome.jpg "9349f6a66c91b86c Mountain Climbing Horror Stories by SoysenSyndrome")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9349f6a66c91b86c_Mountain%20Climbing%20Horror%20Stories%20by%20SoysenSyndrome.jpg)\
+9349f6a66c91b86c Mountain Climbing Horror Stories by SoysenSyndrome
 
 [![94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg "94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg)
 

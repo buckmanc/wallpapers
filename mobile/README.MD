@@ -1,4 +1,4 @@
-# mobile - 1,857
+# mobile - 1,860
 - [castlevania](#castlevania) - 115
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -17,13 +17,13 @@
 - [mega man pixel](#mega-man-pixel) - 25
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 83
+- [misc](#misc) - 84
 - [misc anato finnstark](#misc-anato-finnstark) - 28
 - [misc cosmere](#misc-cosmere) - 9
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 49
+- [music](#music) - 51
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -1081,7 +1081,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc"></a>
 
-## [misc](/mobile/misc/README.MD) - 83
+## [misc](/mobile/misc/README.MD) - 84
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](/.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](/.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1102,6 +1102,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![916e6e91296e93b1_U8Ho1S9.jpeg](/.internals/thumbnails/mobile/misc/916e6e91296e93b1_U8Ho1S9.jpeg "916e6e91296e93b1_U8Ho1S9.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/916e6e91296e93b1_U8Ho1S9.jpeg)
 [![91d86c2cd0f16e3e_peakpx(11).jpg](/.internals/thumbnails/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg "91d86c2cd0f16e3e_peakpx(11).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/91d86c2cd0f16e3e_peakpx(11).jpg)
 [![932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg](/.internals/thumbnails/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg "932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/932c6e93a4669bcc_a28d3a0412dfdaa7667fa00b10be52e1.jpeg)
+[![9349f6a66c91b86c Mountain Climbing Horror Stories by SoysenSyndrome](/.internals/thumbnails/mobile/misc/9349f6a66c91b86c_Mountain%20Climbing%20Horror%20Stories%20by%20SoysenSyndrome.jpg "9349f6a66c91b86c Mountain Climbing Horror Stories by SoysenSyndrome")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9349f6a66c91b86c_Mountain%20Climbing%20Horror%20Stories%20by%20SoysenSyndrome.jpg)
 [![94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg](/.internals/thumbnails/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg "94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/94d33e0e73610f35_𝚟𝚊𝚒𝚗𝚟𝚎𝚗.jpeg)
 [![9587277d3c98aa62_woofzilla_88031078_p0.jpg](/.internals/thumbnails/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg "9587277d3c98aa62_woofzilla_88031078_p0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/9587277d3c98aa62_woofzilla_88031078_p0.jpg)
 [![95ea4b94e46b3493_Dark Forest.jpg](/.internals/thumbnails/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg "95ea4b94e46b3493_Dark Forest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc/95ea4b94e46b3493_Dark%20Forest.jpg)
@@ -1323,12 +1324,14 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 49
+## [music](/mobile/music/README.MD) - 51
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
+[![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
+[![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 [![Eurielle - We All Fall Down 2022.jpg](/.internals/thumbnails/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
 [![froglord - red eyed frogthulhu.jpg](/.internals/thumbnails/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg "froglord - red eyed frogthulhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg)
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png)
