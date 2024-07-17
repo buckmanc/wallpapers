@@ -1,4 +1,4 @@
-# misc - 80
+# misc - 81
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
@@ -119,6 +119,9 @@ Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn
 [![c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png "c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png)
 
 [![c919998b3393c676_bici.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c919998b3393c676_bici.jpg "c919998b3393c676_bici.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c919998b3393c676_bici.jpg)
+
+[![C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c9ca1225ec196ddb_Queen%20of%20Storms%20Cover%20by%20Marc%20Simonetti.jpg "C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c9ca1225ec196ddb_Queen%20of%20Storms%20Cover%20by%20Marc%20Simonetti.jpg)\
+C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti
 
 [![cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg "cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg)
 

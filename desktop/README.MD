@@ -1,4 +1,4 @@
-# desktop - 568
+# desktop - 569
 - [castlevania](#castlevania) - 7
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -8,7 +8,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 80
+- [misc](#misc) - 81
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
@@ -255,7 +255,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 80
+## [misc](/desktop/misc/README.MD) - 81
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -315,6 +315,7 @@
 [![c8bf24d99135e41e_Gece.jpg](/.internals/thumbnails/desktop/misc/c8bf24d99135e41e_Gece.jpg "c8bf24d99135e41e_Gece.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8bf24d99135e41e_Gece.jpg)
 [![c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png](/.internals/thumbnails/desktop/misc/c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png "c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8c332fe1c7ce072_wallhaven_p97l5e_3840x2160.png)
 [![c919998b3393c676_bici.jpg](/.internals/thumbnails/desktop/misc/c919998b3393c676_bici.jpg "c919998b3393c676_bici.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c919998b3393c676_bici.jpg)
+[![C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti](/.internals/thumbnails/desktop/misc/c9ca1225ec196ddb_Queen%20of%20Storms%20Cover%20by%20Marc%20Simonetti.jpg "C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c9ca1225ec196ddb_Queen%20of%20Storms%20Cover%20by%20Marc%20Simonetti.jpg)
 [![cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg](/.internals/thumbnails/desktop/misc/cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg "cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc463e5d83e5191e_wallhaven_8396gk_1920x1080.jpg)
 [![cc8c3373339cce26_win-11.png](/.internals/thumbnails/desktop/misc/cc8c3373339cce26_win-11.png "cc8c3373339cce26_win-11.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc8c3373339cce26_win-11.png)
 [![cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg](/.internals/thumbnails/desktop/misc/cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg "cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cc9366639399cc66_night-sky-colorful-beautiful-clouds-mountain-valley-digital-art-4k-wallpaper-uhdpaper.com-608@1@k.jpg)
