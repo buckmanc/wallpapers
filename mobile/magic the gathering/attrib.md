@@ -6,3 +6,4 @@ tasha-the-witch-queen-by-martina-fackova.jpg Tasha The Witch Queen by Martina Fa
 the_goose_mother_by_jesper_ejsing.png The Goose Mother by Jesper Ejsing
 unhinged_forest_by_john_avon.jpg Unhinged Forest by John Avon
 you_look_upon_the_tarrasque_by_kekai_kotaki.jpg You Look Upon The Tarrasque by Kekai Kotaki
+tempt with bunnies by ben wootten.jpg Tempt With Bunnies by Ben Wootten

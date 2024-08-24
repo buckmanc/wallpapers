@@ -1,4 +1,4 @@
-# castlevania - 115
+# castlevania - 116
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -187,6 +187,9 @@ Castlevania Symphony Of The Night by Nicolas Delort
 [![dan_mumford_richter.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_richter.jpg "dan_mumford_richter.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_richter.jpg)
 
 [![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
+
+[![Dead by Daylight Dracula Wallpaper 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)\
+Dead by Daylight Dracula Wallpaper 01
 
 [![Dracula by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)\
 Dracula by Katie Silva

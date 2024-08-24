@@ -1,5 +1,5 @@
-# desktop - 569
-- [castlevania](#castlevania) - 7
+# desktop - 570
+- [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 113
@@ -31,10 +31,11 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/desktop/castlevania/README.MD) - 7
+## [castlevania](/desktop/castlevania/README.MD) - 8
 [![446349.png](/.internals/thumbnails/desktop/castlevania/446349.png "446349.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446349.png)
 [![446389.jpg](/.internals/thumbnails/desktop/castlevania/446389.jpg "446389.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446389.jpg)
 [![castlevania_lords_of_shadows.jpg](/.internals/thumbnails/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg)
+[![Dead by Daylight   Dracula Wallpaper   01](/.internals/thumbnails/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight   Dracula Wallpaper   01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)
 [![zz_castle_bloodstained_titlescreen.jpg](/.internals/thumbnails/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg)
 [![zz_castle_dead-cells-castlevania_12-08-22.jpg](/.internals/thumbnails/desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg "zz_castle_dead-cells-castlevania_12-08-22.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg)
 [![zz_castle_dracula's_castle_-_23.png](/.internals/thumbnails/desktop/castlevania/zz_castle_dracula's_castle_-_23.png "zz_castle_dracula's_castle_-_23.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_dracula's_castle_-_23.png)

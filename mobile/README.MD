@@ -1,5 +1,5 @@
-# mobile - 1,865
-- [castlevania](#castlevania) - 115
+# mobile - 1,871
+- [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -10,7 +10,7 @@
 - [kirby](#kirby) - 67
 - [leaves](#leaves) - 19
 - [legends and lattes](#legends-and-lattes) - 2
-- [magic the gathering](#magic-the-gathering) - 29
+- [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 82
 - [maxime desmettre](#maxime-desmettre) - 9
 - [mega man](#mega-man) - 228
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 51
+- [music](#music) - 55
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -42,7 +42,7 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/README.MD) - 115
+## [castlevania](/mobile/castlevania/README.MD) - 116
 [![00_ak_cv_09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![CastleVania Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![CastleVania Dracula X Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -120,6 +120,7 @@
 [![dan_mumford_alucard.jpg](/.internals/thumbnails/mobile/castlevania/dan_mumford_alucard.jpg "dan_mumford_alucard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_alucard.jpg)
 [![dan_mumford_richter.jpg](/.internals/thumbnails/mobile/castlevania/dan_mumford_richter.jpg "dan_mumford_richter.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dan_mumford_richter.jpg)
 [![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](/.internals/thumbnails/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
+[![Dead by Daylight Dracula Wallpaper 01](/.internals/thumbnails/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)
 [![Dracula by Katie Silva](/.internals/thumbnails/mobile/castlevania/Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)
 [![Dracula by Naranbaatar Ganbold](/.internals/thumbnails/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg "Dracula by Naranbaatar Ganbold")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg)
 [![ Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b](/.internals/thumbnails/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg " Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg)
@@ -404,7 +405,7 @@ Bee Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpa
 
 <a id="magic-the-gathering"></a>
 
-## [magic the gathering](/mobile/magic%20the%20gathering/README.MD) - 29
+## [magic the gathering](/mobile/magic%20the%20gathering/README.MD) - 30
 [![26e2df176778017.64ca9fc090534.jpg](/.internals/thumbnails/mobile/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg "26e2df176778017.64ca9fc090534.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg)
 [![Ayula The Great Bear by Jesper Ejsing](/.internals/thumbnails/mobile/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp "Ayula The Great Bear by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp)
 [![Chandra_Torch_of_Defiance_KLD_2560x1600_Wallpaper.jpg](/.internals/thumbnails/mobile/magic%20the%20gathering/Chandra_Torch_of_Defiance_KLD_2560x1600_Wallpaper.jpg "Chandra_Torch_of_Defiance_KLD_2560x1600_Wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/Chandra_Torch_of_Defiance_KLD_2560x1600_Wallpaper.jpg)
@@ -426,6 +427,7 @@ Bee Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpa
 [![Swords To Plowshares by Terese Nielsen](/.internals/thumbnails/mobile/magic%20the%20gathering/swords_to_plowshares_by_terese_nielsen.jpg "Swords To Plowshares by Terese Nielsen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/swords_to_plowshares_by_terese_nielsen.jpg)
 [![Tasha The Witch Queen by Martina Fackova](/.internals/thumbnails/mobile/magic%20the%20gathering/tasha-the-witch-queen-by-martina-fackova.jpg "Tasha The Witch Queen by Martina Fackova")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/tasha-the-witch-queen-by-martina-fackova.jpg)
 [![teferi-master-of-time_m21_2560x1600_wallpaper.jpg](/.internals/thumbnails/mobile/magic%20the%20gathering/teferi-master-of-time_m21_2560x1600_wallpaper.jpg "teferi-master-of-time_m21_2560x1600_wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/teferi-master-of-time_m21_2560x1600_wallpaper.jpg)
+[![Tempt With Bunnies by Ben Wootten](/.internals/thumbnails/mobile/magic%20the%20gathering/tempt%20with%20bunnies%20by%20ben%20wootten.jpg "Tempt With Bunnies by Ben Wootten")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/tempt%20with%20bunnies%20by%20ben%20wootten.jpg)
 [![The Goose Mother by Jesper Ejsing](/.internals/thumbnails/mobile/magic%20the%20gathering/the_goose_mother_by_jesper_ejsing.png "The Goose Mother by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/the_goose_mother_by_jesper_ejsing.png)
 [![Unhinged Forest by John Avon](/.internals/thumbnails/mobile/magic%20the%20gathering/unhinged_forest_by_john_avon.jpg "Unhinged Forest by John Avon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/unhinged_forest_by_john_avon.jpg)
 [![Wallpaper_2448x2448_Aragorn_and_Arwen__Wed.png](/.internals/thumbnails/mobile/magic%20the%20gathering/Wallpaper_2448x2448_Aragorn_and_Arwen__Wed.png "Wallpaper_2448x2448_Aragorn_and_Arwen__Wed.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/magic%20the%20gathering/Wallpaper_2448x2448_Aragorn_and_Arwen__Wed.png)
@@ -1334,13 +1336,14 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 51
+## [music](/mobile/music/README.MD) - 55
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
+[![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 [![Eurielle - We All Fall Down 2022.jpg](/.internals/thumbnails/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
 [![froglord - red eyed frogthulhu.jpg](/.internals/thumbnails/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg "froglord - red eyed frogthulhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/froglord%20-%20red%20eyed%20frogthulhu.jpg)
@@ -1355,6 +1358,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Keygen Church - ░█░█░░█░█░█░.jpg](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20░█░█░░█░█░█░.jpg "Keygen Church - ░█░█░░█░█░█░.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20░█░█░░█░█░█░.jpg)
 [![Keygen Church - La Chiave Del Mio Amor.png](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png "Keygen Church - La Chiave Del Mio Amor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png)
 [![Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png "Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png)
+[![L-79 - Priestess.jpg](/.internals/thumbnails/mobile/music/L-79%20-%20Priestess.jpg "L-79 - Priestess.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/L-79%20-%20Priestess.jpg)
 [![Loafy Building - Butterflies.jpg](/.internals/thumbnails/mobile/music/Loafy%20Building%20-%20Butterflies.jpg "Loafy Building - Butterflies.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg)
 [![MASTER BOOT RECORD - C​__​​_CHKDSK _F.png](/.internals/thumbnails/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png "MASTER BOOT RECORD - C​__​​_CHKDSK _F.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png)
 [![MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg](/.internals/thumbnails/mobile/music/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg "MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg)
@@ -1376,6 +1380,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
 [![Reliqa - Eventide.jpg](/.internals/thumbnails/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
+[![Shrine - Celestial Fire.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
@@ -1386,6 +1391,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Waveshaper - Hearts.png](/.internals/thumbnails/mobile/music/Waveshaper%20-%20Hearts.png "Waveshaper - Hearts.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Waveshaper%20-%20Hearts.png)
 [![We Are Magonia - Triangle Unicode.jpg](/.internals/thumbnails/mobile/music/We%20Are%20Magonia%20-%20Triangle%20Unicode.jpg "We Are Magonia - Triangle Unicode.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/We%20Are%20Magonia%20-%20Triangle%20Unicode.jpg)
 [![Windhand - Levitation Sessions _Live_.jpg](/.internals/thumbnails/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg "Windhand - Levitation Sessions _Live_.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg)
+[![Wraithfyre - Queen of the Blighted Throne.jpg](/.internals/thumbnails/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg "Wraithfyre - Queen of the Blighted Throne.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg)
 
 <a id="nintendo"></a>
 
