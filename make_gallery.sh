@@ -76,9 +76,11 @@ echo "$imagesToFit" | while read -r src; do
 	# fi
 	# swap jpegs to pngs to avoid a greyscaling bug
 
-	target="$(echo "$target" | perl -pe 's/\.jpe?g$/.png/g')"
+	target="$(echo "$target" | perl -pe 's/\.(jpe?g|svg)$/.png/g')"
 	thumbnailPath="${target/#"$path_root"/"$thumbnails_dir"}"
 	targetDir="$(dirname "$target")"
+	srcExt="${src##*.}"
+	srcExt="${srcExt,,}"
 
 	if [[ -f "$target" ]]
 	then
@@ -89,14 +91,25 @@ echo "$imagesToFit" | while read -r src; do
 	if echo "$src" | grep -iq "$fitDir/desktop"
 	then
 		args="-m landscape"
+
+		if [[ "$srcExt" == "svg" ]]
+		then
+			args+=" size '2000x' -background none"
+		fi
 	else
 		args="-m portrait"
+		if [[ "$srcExt" == "svg" ]]
+		then
+			args+=" size 'x2000' -background none"
+		fi
 	fi
 
 	# if echo "$src" | grep -iq "album cover art"
 	# then
 	# 	args+=" -b"
 	# fi
+
+	# TODO handle svgs
 
 	mkdir -p "$targetDir"
 	wallpaper-magick -i "$src" -o "$target" $args > /dev/null
