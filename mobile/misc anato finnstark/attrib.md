@@ -12,3 +12,4 @@ __original_drawn_by_anato_finnstark__bf1bdcd29e8e618ada4b80a4dd0828b3.jpg   Orig
 __original_drawn_by_anato_finnstark__e455a2699fa76a7fe7e32a38eb7ffd05.jpg   Original Drawn by Anato Finnstark  E455a2699fa76a7fe7e32a38eb7ffd05
 __original_drawn_by_anato_finnstark__f46ddaa7832ddf275e12f26b1eb278fb.jpg   Original Drawn by Anato Finnstark  F46ddaa7832ddf275e12f26b1eb278fb
 __paul_atreides_dune_drawn_by_anato_finnstark__36847304eefc6632ad82550e526f36f0.jpg   Paul Atreides Dune Drawn by Anato Finnstark  36847304eefc6632ad82550e526f36f0
+darth vader by anato finnstark.jpg Darth Vader by Anato Finnstark

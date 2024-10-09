@@ -1,4 +1,4 @@
-# misc anato finnstark - 29
+# misc anato finnstark - 30
 [![20240716_1412_Yennefer_(_The_witcher_).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg "20240716_1412_Yennefer_(_The_witcher_).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg)
 
 [![ Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg " Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg)\
@@ -46,6 +46,9 @@ Anato Finnstark The Pinnacle by Anatofinnstark Dcg0wgh 1
 [![anato-finnstark-web-peti-vrais.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-web-peti-vrais.jpg "anato-finnstark-web-peti-vrais.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-web-peti-vrais.jpg)
 
 [![anato-finnstark-wg.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-wg.jpg "anato-finnstark-wg.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-wg.jpg)
+
+[![Darth Vader by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)\
+Darth Vader by Anato Finnstark
 
 [![ Death and Grim Reaper Original Drawn by Anato Finnstark 4e4df26059cdc604b39af5bc0667dc14](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__death_and_grim_reaper_original_drawn_by_anato_finnstark__4e4df26059cdc604b39af5bc0667dc14.jpg " Death and Grim Reaper Original Drawn by Anato Finnstark 4e4df26059cdc604b39af5bc0667dc14")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__death_and_grim_reaper_original_drawn_by_anato_finnstark__4e4df26059cdc604b39af5bc0667dc14.jpg)\
  Death and Grim Reaper Original Drawn by Anato Finnstark 4e4df26059cdc604b39af5bc0667dc14

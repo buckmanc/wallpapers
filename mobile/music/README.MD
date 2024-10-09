@@ -1,4 +1,4 @@
-# music - 55
+# music - 58
 [![A-bug - Ocarina of Time.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 
 [![Acryl madness - Ritual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
@@ -8,6 +8,8 @@
 [![Apocryphos - Against Civilization.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
 
 [![Aristarchos - Martyr of Star and Fire.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
+
+[![Blood Incantation - Absolute Elsewhere.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 
@@ -81,9 +83,13 @@
 
 [![Old Sorcery - Strange and Eternal.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
 
+[![Osi And The Jupiter - Uthuling Hyl.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
+
 [![Ov Sulfur - Behind the Hand of God.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
 
 [![Reliqa - Eventide.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
+
+[![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
 
 [![Shrine - Celestial Fire.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 

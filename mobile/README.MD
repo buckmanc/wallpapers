@@ -1,4 +1,4 @@
-# mobile - 1,871
+# mobile - 1,893
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -11,20 +11,20 @@
 - [leaves](#leaves) - 19
 - [legends and lattes](#legends-and-lattes) - 2
 - [magic the gathering](#magic-the-gathering) - 30
-- [mario](#mario) - 82
+- [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
 - [mega man](#mega-man) - 228
 - [mega man pixel](#mega-man-pixel) - 25
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 84
-- [misc anato finnstark](#misc-anato-finnstark) - 29
+- [misc anato finnstark](#misc-anato-finnstark) - 30
 - [misc cosmere](#misc-cosmere) - 9
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 55
+- [music](#music) - 58
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -439,7 +439,7 @@ Bee Kirby Pattern by X Xasm")](https://raw.githubusercontent.com/buckmanc/Wallpa
 
 <a id="mario"></a>
 
-## [mario](/mobile/mario/README.MD) - 82
+## [mario](/mobile/mario/README.MD) - 100
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
 [![20231211_115019.jpg](/.internals/thumbnails/mobile/mario/20231211_115019.jpg "20231211_115019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231211_115019.jpg)
 [![20231220_213840.jpg](/.internals/thumbnails/mobile/mario/20231220_213840.jpg "20231220_213840.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/20231220_213840.jpg)
@@ -464,25 +464,41 @@ Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68
 [![EW-mKFUU8AIywAt.jpeg](/.internals/thumbnails/mobile/mario/EW-mKFUU8AIywAt.jpeg "EW-mKFUU8AIywAt.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/EW-mKFUU8AIywAt.jpeg)
 [![F26rILZWAAAzgUi.jpeg](/.internals/thumbnails/mobile/mario/F26rILZWAAAzgUi.jpeg "F26rILZWAAAzgUi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/F26rILZWAAAzgUi.jpeg)
 [![fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg](/.internals/thumbnails/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg "fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg)
+[![Footer-characters.png](/.internals/thumbnails/mobile/mario/Footer-characters.png "Footer-characters.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Footer-characters.png)
 [![fzcvn9fdz0361.png](/.internals/thumbnails/mobile/mario/fzcvn9fdz0361.png "fzcvn9fdz0361.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/fzcvn9fdz0361.png)
 [![Guillaume-Morellec-luigi.png](/.internals/thumbnails/mobile/mario/Guillaume-Morellec-luigi.png "Guillaume-Morellec-luigi.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Guillaume-Morellec-luigi.png)
 [![helynt_-_mario_and_chill_2.jpg](/.internals/thumbnails/mobile/mario/helynt_-_mario_and_chill_2.jpg "helynt_-_mario_and_chill_2.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/helynt_-_mario_and_chill_2.jpg)
 [![ Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264
 Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264](/.internals/thumbnails/mobile/mario/kirby_boo_king_boo_and_ghost_kirby_mario_and_2_more_drawn_by_poyo_party__sample-aa8ec214ed06ea8c1839dbaf98eb5264.jpg " Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264
 Kirby Boo King Boo and Ghost Kirby Mario and 2 More Drawn by Poyo Party Sample Aa8ec214ed06ea8c1839dbaf98eb5264")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/kirby_boo_king_boo_and_ghost_kirby_mario_and_2_more_drawn_by_poyo_party__sample-aa8ec214ed06ea8c1839dbaf98eb5264.jpg)
+[![Koopa_Troop_artwork.png](/.internals/thumbnails/mobile/mario/Koopa_Troop_artwork.png "Koopa_Troop_artwork.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Koopa_Troop_artwork.png)
 [![Leaphere Super Princess Peach Drawn by Leaphere 4a6df0e2b0185f74af4e7459c918b6c7](/.internals/thumbnails/mobile/mario/leaphere_Super_Princess_Peach__drawn_by_leaphere__4a6df0e2b0185f74af4e7459c918b6c7.png "Leaphere Super Princess Peach Drawn by Leaphere 4a6df0e2b0185f74af4e7459c918b6c7")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/leaphere_Super_Princess_Peach__drawn_by_leaphere__4a6df0e2b0185f74af4e7459c918b6c7.png)
 [![Leaphere Yoshi S Island Drawn by Leaphere 3a4a4dee053d1ecac7a1dd76c519a755](/.internals/thumbnails/mobile/mario/leaphere_Yoshi_s_Island__drawn_by_leaphere__3a4a4dee053d1ecac7a1dd76c519a755.png "Leaphere Yoshi S Island Drawn by Leaphere 3a4a4dee053d1ecac7a1dd76c519a755")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/leaphere_Yoshi_s_Island__drawn_by_leaphere__3a4a4dee053d1ecac7a1dd76c519a755.png)
+[![Luigi_and_Toad_Scared_-_Luigi's_Mansion_Dark_Moon.png](/.internals/thumbnails/mobile/mario/Luigi_and_Toad_Scared_-_Luigi's_Mansion_Dark_Moon.png "Luigi_and_Toad_Scared_-_Luigi's_Mansion_Dark_Moon.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Luigi_and_Toad_Scared_-_Luigi's_Mansion_Dark_Moon.png)
 [![Mario by Woofzilla](/.internals/thumbnails/mobile/mario/mario_by_woofzilla.jpg "Mario by Woofzilla")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario_by_woofzilla.jpg)
 [![Mario_ Luigi.jpeg](/.internals/thumbnails/mobile/mario/Mario_%20Luigi.jpeg "Mario_ Luigi.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario_%20Luigi.jpeg)
 [![Mario Print by Matt Kaufenberg](/.internals/thumbnails/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg "Mario Print by Matt Kaufenberg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20print%20by%20Matt%20Kaufenberg.jpg)
 [![Mario The Lizard by Nick Derington](/.internals/thumbnails/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png "Mario The Lizard by Nick Derington")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Mario%20-%20The%20Lizard%20by%20Nick%20Derington.png)
 [![mario-wallpaper-laptop.jpg](/.internals/thumbnails/mobile/mario/mario-wallpaper-laptop.jpg "mario-wallpaper-laptop.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/mario-wallpaper-laptop.jpg)
+[![MN_Mario_Halloween_2022_Wallpaper_Smartphone.jpg](/.internals/thumbnails/mobile/mario/MN_Mario_Halloween_2022_Wallpaper_Smartphone.jpg "MN_Mario_Halloween_2022_Wallpaper_Smartphone.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/MN_Mario_Halloween_2022_Wallpaper_Smartphone.jpg)
+[![MP9FullGroupArt.jpg](/.internals/thumbnails/mobile/mario/MP9FullGroupArt.jpg "MP9FullGroupArt.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/MP9FullGroupArt.jpg)
+[![MPAart.jpg](/.internals/thumbnails/mobile/mario/MPAart.jpg "MPAart.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/MPAart.jpg)
 [![next-level-ramen.png](/.internals/thumbnails/mobile/mario/next-level-ramen.png "next-level-ramen.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/next-level-ramen.png)
+[![Nintendo_Magazine_2020_winter_Wallpaper_B.png](/.internals/thumbnails/mobile/mario/Nintendo_Magazine_2020_winter_Wallpaper_B.png "Nintendo_Magazine_2020_winter_Wallpaper_B.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Nintendo_Magazine_2020_winter_Wallpaper_B.png)
+[![NL_Background_Halloween_2015.jpg](/.internals/thumbnails/mobile/mario/NL_Background_Halloween_2015.jpg "NL_Background_Halloween_2015.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Background_Halloween_2015.jpg)
+[![NL_Calendar_Wallpaper_10_2016.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_10_2016.jpg "NL_Calendar_Wallpaper_10_2016.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_10_2016.jpg)
+[![NL_Calendar_Wallpaper_10_2018.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_10_2018.jpg "NL_Calendar_Wallpaper_10_2018.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_10_2018.jpg)
+[![NL_Calendar_Wallpaper_1_2019.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_1_2019.jpg "NL_Calendar_Wallpaper_1_2019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_1_2019.jpg)
+[![NL_Calendar_Wallpaper_2_2019.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_2_2019.jpg "NL_Calendar_Wallpaper_2_2019.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_2_2019.jpg)
+[![NL_Calendar_Wallpaper_4_2018.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_4_2018.jpg "NL_Calendar_Wallpaper_4_2018.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_4_2018.jpg)
+[![NL_Calendar_Wallpaper_7_2017.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_7_2017.jpg "NL_Calendar_Wallpaper_7_2017.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_7_2017.jpg)
+[![NL_Calendar_Wallpaper_8_2018.jpg](/.internals/thumbnails/mobile/mario/NL_Calendar_Wallpaper_8_2018.jpg "NL_Calendar_Wallpaper_8_2018.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/NL_Calendar_Wallpaper_8_2018.jpg)
 [![Ox DE96rKvUIAAiwfS by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png "Ox DE96rKvUIAAiwfS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DE96rKvUIAAiwfS_by_oxfruit.png)
 [![Ox DEugydnUIAAu84j by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DEugydnUIAAu84j_by_oxfruit.png "Ox DEugydnUIAAu84j by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DEugydnUIAAu84j_by_oxfruit.png)
 [![Ox DEugzC4UMAAIrDw by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DEugzC4UMAAIrDw_by_oxfruit.png "Ox DEugzC4UMAAIrDw by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DEugzC4UMAAIrDw_by_oxfruit.png)
 [![Ox DGbV1wVUIAANAeI by Oxfruit](/.internals/thumbnails/mobile/mario/ox_DGbV1wVUIAANAeI_by_oxfruit.png "Ox DGbV1wVUIAANAeI by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_DGbV1wVUIAANAeI_by_oxfruit.png)
 [![Ox F2t VlKaQAIJWP2 by Oxfruit](/.internals/thumbnails/mobile/mario/ox_F2t_vlKaQAIJWP2_by_oxfruit.jpeg "Ox F2t VlKaQAIJWP2 by Oxfruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/ox_F2t_vlKaQAIJWP2_by_oxfruit.jpeg)
+[![PeachDaisy_MP9.png](/.internals/thumbnails/mobile/mario/PeachDaisy_MP9.png "PeachDaisy_MP9.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/PeachDaisy_MP9.png)
 [![peakpx (25).jpg](/.internals/thumbnails/mobile/mario/peakpx%20(25).jpg "peakpx (25).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/peakpx%20(25).jpg)
 [![peakpx (34).jpg](/.internals/thumbnails/mobile/mario/peakpx%20(34).jpg "peakpx (34).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/peakpx%20(34).jpg)
 [![peakpx (5).jpg](/.internals/thumbnails/mobile/mario/peakpx%20(5).jpg "peakpx (5).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/peakpx%20(5).jpg)
@@ -540,10 +556,12 @@ Rosalina Mario and 1 More Drawn by Miri Cherryjelly 176527c633b0373e4af365cadf55
 [![rosalina_rosalina.full.1859847.jpg](/.internals/thumbnails/mobile/mario/rosalina_rosalina.full.1859847.jpg "rosalina_rosalina.full.1859847.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_rosalina.full.1859847.jpg)
 [![rosalina_rosalina.full.1881057.jpg](/.internals/thumbnails/mobile/mario/rosalina_rosalina.full.1881057.jpg "rosalina_rosalina.full.1881057.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/rosalina_rosalina.full.1881057.jpg)
 [![SM3DWBF_Bowser_Art.jpg](/.internals/thumbnails/mobile/mario/SM3DWBF_Bowser_Art.jpg "SM3DWBF_Bowser_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SM3DWBF_Bowser_Art.jpg)
+[![SMB2.png](/.internals/thumbnails/mobile/mario/SMB2.png "SMB2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SMB2.png)
 [![SMO_1st_anniversary.jpg](/.internals/thumbnails/mobile/mario/SMO_1st_anniversary.jpg "SMO_1st_anniversary.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SMO_1st_anniversary.jpg)
 [![SSB4_Rosalina_Key_Art.jpg](/.internals/thumbnails/mobile/mario/SSB4_Rosalina_Key_Art.jpg "SSB4_Rosalina_Key_Art.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/SSB4_Rosalina_Key_Art.jpg)
 [![super-mario-power-ups-48228-2880x1800.jpg](/.internals/thumbnails/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg "super-mario-power-ups-48228-2880x1800.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg)
 [![super-mario-with-gun-black-wallpaper.jpg](/.internals/thumbnails/mobile/mario/super-mario-with-gun-black-wallpaper.jpg "super-mario-with-gun-black-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/super-mario-with-gun-black-wallpaper.jpg)
+[![Toad_waving.png](/.internals/thumbnails/mobile/mario/Toad_waving.png "Toad_waving.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/Toad_waving.png)
 [![tumblr_mzlkukDWrr1qd4q8ao1_500.gif](/.internals/thumbnails/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif "tumblr_mzlkukDWrr1qd4q8ao1_500.gif")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif)
 [![tumblr_nhoyf76XN51qgzgz6o1_1280.png](/.internals/thumbnails/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png "tumblr_nhoyf76XN51qgzgz6o1_1280.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png)
 [![ Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
@@ -1172,7 +1190,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc-anato-finnstark"></a>
 
-## [misc anato finnstark](/mobile/misc%20anato%20finnstark/README.MD) - 29
+## [misc anato finnstark](/mobile/misc%20anato%20finnstark/README.MD) - 30
 [![20240716_1412_Yennefer_(_The_witcher_).jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg "20240716_1412_Yennefer_(_The_witcher_).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg)
 [![ Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6](/.internals/thumbnails/mobile/misc%20anato%20finnstark/__adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg " Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg)
 [![anato-finnstark-anato-finnstark-1-final-cover-1v.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-1-final-cover-1v.jpg "anato-finnstark-anato-finnstark-1-final-cover-1v.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-1-final-cover-1v.jpg)
@@ -1194,6 +1212,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![anato-finnstark-web-petit.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-web-petit.jpg "anato-finnstark-web-petit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-web-petit.jpg)
 [![anato-finnstark-web-peti-vrais.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-web-peti-vrais.jpg "anato-finnstark-web-peti-vrais.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-web-peti-vrais.jpg)
 [![anato-finnstark-wg.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-wg.jpg "anato-finnstark-wg.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-wg.jpg)
+[![Darth Vader by Anato Finnstark](/.internals/thumbnails/mobile/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)
 [![ Death and Grim Reaper Original Drawn by Anato Finnstark 4e4df26059cdc604b39af5bc0667dc14](/.internals/thumbnails/mobile/misc%20anato%20finnstark/__death_and_grim_reaper_original_drawn_by_anato_finnstark__4e4df26059cdc604b39af5bc0667dc14.jpg " Death and Grim Reaper Original Drawn by Anato Finnstark 4e4df26059cdc604b39af5bc0667dc14")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__death_and_grim_reaper_original_drawn_by_anato_finnstark__4e4df26059cdc604b39af5bc0667dc14.jpg)
 [![ Jeanne D Arc Original Drawn by Anato Finnstark Fe2bfde00f4fdc54d8dcf85d0e4e039f](/.internals/thumbnails/mobile/misc%20anato%20finnstark/__jeanne_d_arc_original_drawn_by_anato_finnstark__fe2bfde00f4fdc54d8dcf85d0e4e039f.jpg " Jeanne D Arc Original Drawn by Anato Finnstark Fe2bfde00f4fdc54d8dcf85d0e4e039f")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__jeanne_d_arc_original_drawn_by_anato_finnstark__fe2bfde00f4fdc54d8dcf85d0e4e039f.jpg)
 [![ Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c](/.internals/thumbnails/mobile/misc%20anato%20finnstark/__lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg " Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/misc%20anato%20finnstark/__lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg)
@@ -1336,12 +1355,13 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 55
+## [music](/mobile/music/README.MD) - 58
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
+[![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
@@ -1378,8 +1398,10 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Occams Laser - Ascension.jpg](/.internals/thumbnails/mobile/music/Occams%20Laser%20-%20Ascension.jpg "Occams Laser - Ascension.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Occams%20Laser%20-%20Ascension.jpg)
 [![Old Sorcery - Dragon Citadel Elegies.png](/.internals/thumbnails/mobile/music/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png "Old Sorcery - Dragon Citadel Elegies.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png)
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
+[![Osi And The Jupiter - Uthuling Hyl.jpg](/.internals/thumbnails/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
 [![Reliqa - Eventide.jpg](/.internals/thumbnails/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
+[![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](/.internals/thumbnails/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
 [![Shrine - Celestial Fire.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
