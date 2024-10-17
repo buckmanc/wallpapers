@@ -1,4 +1,4 @@
-# desktop - 579
+# desktop - 580
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -8,7 +8,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 90
+- [misc](#misc) - 91
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
@@ -256,7 +256,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 90
+## [misc](/desktop/misc/README.MD) - 91
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -298,6 +298,7 @@
 [![99ce663199ce6631_puppy.jpg](/.internals/thumbnails/desktop/misc/99ce663199ce6631_puppy.jpg "99ce663199ce6631_puppy.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/99ce663199ce6631_puppy.jpg)
 [![9b806d99a63a7c71_RDT_20240928_0555372340694925986166724.jpg](/.internals/thumbnails/desktop/misc/9b806d99a63a7c71_RDT_20240928_0555372340694925986166724.jpg "9b806d99a63a7c71_RDT_20240928_0555372340694925986166724.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9b806d99a63a7c71_RDT_20240928_0555372340694925986166724.jpg)
 [![9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg](/.internals/thumbnails/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg "9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9c6d31b267c6cc19_moon-sky-night-background-asset-game-2d-futuristic-generative-ai.jpg)
+[![9dd066cbc9b43a64_star_girl_lofi.jpg](/.internals/thumbnails/desktop/misc/9dd066cbc9b43a64_star_girl_lofi.jpg "9dd066cbc9b43a64_star_girl_lofi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/9dd066cbc9b43a64_star_girl_lofi.jpg)
 [![a2aa00002aa20882_undefined - Imgur (4).png](/.internals/thumbnails/desktop/misc/a2aa00002aa20882_undefined%20-%20Imgur%20(4).png "a2aa00002aa20882_undefined - Imgur (4).png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a2aa00002aa20882_undefined%20-%20Imgur%20(4).png)
 [![a585b290d4edacec_Charles Bridge in Prague.jpg](/.internals/thumbnails/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg "a585b290d4edacec_Charles Bridge in Prague.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a585b290d4edacec_Charles%20Bridge%20in%20Prague.jpg)
 [![a5f75a4abda14914_914910.jpg](/.internals/thumbnails/desktop/misc/a5f75a4abda14914_914910.jpg "a5f75a4abda14914_914910.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/a5f75a4abda14914_914910.jpg)

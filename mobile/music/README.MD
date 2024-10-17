@@ -1,4 +1,4 @@
-# music - 58
+# music - 65
 [![A-bug - Ocarina of Time.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 
 [![Acryl madness - Ritual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
@@ -79,6 +79,8 @@
 
 [![Occams Laser - Ascension.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Occams%20Laser%20-%20Ascension.jpg "Occams Laser - Ascension.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Occams%20Laser%20-%20Ascension.jpg)
 
+[![Odem Medo - Pumpkin Pandemonium!.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg "Odem Medo - Pumpkin Pandemonium!.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg)
+
 [![Old Sorcery - Dragon Citadel Elegies.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png "Old Sorcery - Dragon Citadel Elegies.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png)
 
 [![Old Sorcery - Strange and Eternal.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
@@ -89,11 +91,15 @@
 
 [![Reliqa - Eventide.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
 
+[![Rose Funeral - Father Death.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg)
+
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
 
 [![Shrine - Celestial Fire.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 
 [![Shrine - Quintessence.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
+
+[![silentsoul - strange.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg)
 
 [![Skálmöld - Börn Loka.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 
@@ -102,6 +108,12 @@
 [![STRNGR - Night at the Grindhouse.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 
 [![Twin Temple - Satan_s a Woman.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
+
+[![Uhrk-Nagimi - Sankhu.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg "Uhrk-Nagimi - Sankhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg)
+
+[![Varien - Born of Blood, Risen from Ash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg "Varien - Born of Blood, Risen from Ash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg)
+
+[![Various Artists - A Symphony of Screams Vol.1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
 
 [![Vévaki - Fórnspeki.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg "Vévaki - Fórnspeki.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg)
 
@@ -114,6 +126,8 @@
 [![Windhand - Levitation Sessions _Live_.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg "Windhand - Levitation Sessions _Live_.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg)
 
 [![Wraithfyre - Queen of the Blighted Throne.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg "Wraithfyre - Queen of the Blighted Throne.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg)
+
+[![Yosuf - Butterfly.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Yosuf%20-%20Butterfly.jpg "Yosuf - Butterfly.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Yosuf%20-%20Butterfly.jpg)
 
 
 
