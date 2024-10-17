@@ -1,4 +1,4 @@
-# desktop - 580
+# desktop - 582
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -9,7 +9,7 @@
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 89
-- [misc anato finnstark](#misc-anato-finnstark) - 2
+- [misc anato finnstark](#misc-anato-finnstark) - 4
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
@@ -350,9 +350,11 @@
 
 <a id="misc-anato-finnstark"></a>
 
-## [misc anato finnstark](/desktop/misc%20anato%20finnstark/README.MD) - 2
+## [misc anato finnstark](/desktop/misc%20anato%20finnstark/README.MD) - 4
+[![Anato Finnstark Black Wings by Anatofinnstark Dd5faaz Fullview](/.internals/thumbnails/desktop/misc%20anato%20finnstark/anato-finnstark-black-wings-by-anatofinnstark-dd5faaz-fullview.jpg "Anato Finnstark Black Wings by Anatofinnstark Dd5faaz Fullview")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/anato-finnstark-black-wings-by-anatofinnstark-dd5faaz-fullview.jpg)
 [![anato-finnstark-web-pe4tit.jpg](/.internals/thumbnails/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg "anato-finnstark-web-pe4tit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg)
 [![Darth Vader by Anato Finnstark](/.internals/thumbnails/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)
+[![  Lilith Diablo Drawn by Anato Finnstark  4ff4e01e14f4a4c3ca8e339c0a6b9e2c](/.internals/thumbnails/desktop/misc%20anato%20finnstark/__lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg "  Lilith Diablo Drawn by Anato Finnstark  4ff4e01e14f4a4c3ca8e339c0a6b9e2c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/__lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg)
 
 <a id="mistborn"></a>
 

@@ -4,7 +4,7 @@ make sure you're editing the template, doofus
 
 ![desktop wallpapers](.internals/headers/desktop.png)
 
-# 2,807 Wallpapers
+# 2,809 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -12,7 +12,7 @@ A simple repo to house my wallpapers for ease of use and automation.
 
 # Table of Contents
 - [mobile](/mobile/README.MD) - 1,900
-- [desktop](/desktop/README.MD) - 580
+- [desktop](/desktop/README.MD) - 582
 - [floaters](/floaters/README.MD) - 251
 - [terminal](/terminal/README.MD) - 76
 
