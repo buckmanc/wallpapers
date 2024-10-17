@@ -8,7 +8,8 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 91
+- [misc](#misc) - 89
+- [misc anato finnstark](#misc-anato-finnstark) - 2
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [sea of thieves](#sea-of-thieves) - 13
@@ -256,7 +257,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 91
+## [misc](/desktop/misc/README.MD) - 89
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -331,7 +332,6 @@
 [![ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg](/.internals/thumbnails/desktop/misc/ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg "ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg)
 [![ccd97171763b190c_1648962.jpg](/.internals/thumbnails/desktop/misc/ccd97171763b190c_1648962.jpg "ccd97171763b190c_1648962.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ccd97171763b190c_1648962.jpg)
 [![cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg](/.internals/thumbnails/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg "cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg)
-[![Ce9e99396c614cb1 Darth Vader by Anato Finnstark](/.internals/thumbnails/desktop/misc/ce9e99396c614cb1_darth%20vader%20by%20anato%20finnstark.jpg "Ce9e99396c614cb1 Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ce9e99396c614cb1_darth%20vader%20by%20anato%20finnstark.jpg)
 [![cece3131cece3131_rm-rf.jpg](/.internals/thumbnails/desktop/misc/cece3131cece3131_rm-rf.jpg "cece3131cece3131_rm-rf.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cece3131cece3131_rm-rf.jpg)
 [![Cecf63303eb13813 Fantasy Deer by Martina Stipan](/.internals/thumbnails/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg "Cecf63303eb13813 Fantasy Deer by Martina Stipan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg)
 [![d0d80f65f9da0c27_mountains.png](/.internals/thumbnails/desktop/misc/d0d80f65f9da0c27_mountains.png "d0d80f65f9da0c27_mountains.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d0d80f65f9da0c27_mountains.png)
@@ -344,10 +344,15 @@
 [![d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg](/.internals/thumbnails/desktop/misc/d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg "d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg)
 [![D8fb9b191d0770e0 Forest Spirit by J Witless](/.internals/thumbnails/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png "D8fb9b191d0770e0 Forest Spirit by J Witless")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png)
 [![db9869b0316366b6_red moon mountains tree.jpg](/.internals/thumbnails/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg "db9869b0316366b6_red moon mountains tree.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg)
-[![dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg](/.internals/thumbnails/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg "dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg)
 [![E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e](/.internals/thumbnails/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png "E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png)
 [![e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg](/.internals/thumbnails/desktop/misc/e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg "e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg)
 [![f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg](/.internals/thumbnails/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg "f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg)
+
+<a id="misc-anato-finnstark"></a>
+
+## [misc anato finnstark](/desktop/misc%20anato%20finnstark/README.MD) - 2
+[![anato-finnstark-web-pe4tit.jpg](/.internals/thumbnails/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg "anato-finnstark-web-pe4tit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg)
+[![Darth Vader by Anato Finnstark](/.internals/thumbnails/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)
 
 <a id="mistborn"></a>
 

@@ -1,4 +1,4 @@
-# misc - 91
+# misc - 89
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
@@ -151,9 +151,6 @@ C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti
 
 [![cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg "cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg)
 
-[![Ce9e99396c614cb1 Darth Vader by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ce9e99396c614cb1_darth%20vader%20by%20anato%20finnstark.jpg "Ce9e99396c614cb1 Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/ce9e99396c614cb1_darth%20vader%20by%20anato%20finnstark.jpg)\
-Ce9e99396c614cb1 Darth Vader by Anato Finnstark
-
 [![cece3131cece3131_rm-rf.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cece3131cece3131_rm-rf.jpg "cece3131cece3131_rm-rf.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cece3131cece3131_rm-rf.jpg)
 
 [![Cecf63303eb13813 Fantasy Deer by Martina Stipan](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg "Cecf63303eb13813 Fantasy Deer by Martina Stipan")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/cecf63303eb13813_Fantasy%20Deer%20by%20Martina%20Stipan.jpg)\
@@ -179,8 +176,6 @@ Cecf63303eb13813 Fantasy Deer by Martina Stipan
 D8fb9b191d0770e0 Forest Spirit by J Witless
 
 [![db9869b0316366b6_red moon mountains tree.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg "db9869b0316366b6_red moon mountains tree.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg)
-
-[![dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg "dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/dcdc8e0e1e0bcb25_anato-finnstark-web-pe4tit.jpg)
 
 [![E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png "E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png)\
 E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e
