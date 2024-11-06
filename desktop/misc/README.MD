@@ -1,4 +1,4 @@
-# misc - 110
+# misc - 109
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 
 [![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
@@ -155,8 +155,6 @@ Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn
 [![c7c73170f00c1ef3_undefined - Imgur.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c7c73170f00c1ef3_undefined%20-%20Imgur.jpg "c7c73170f00c1ef3_undefined - Imgur.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c7c73170f00c1ef3_undefined%20-%20Imgur.jpg)
 
 [![c7d8382f63923c39_wallhaven_nkwqz7_1920x1080.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c7d8382f63923c39_wallhaven_nkwqz7_1920x1080.jpg "c7d8382f63923c39_wallhaven_nkwqz7_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c7d8382f63923c39_wallhaven_nkwqz7_1920x1080.jpg)
-
-[![c8717736e2cd3988_undefined - Imgur (4).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8717736e2cd3988_undefined%20-%20Imgur%20(4).jpg "c8717736e2cd3988_undefined - Imgur (4).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8717736e2cd3988_undefined%20-%20Imgur%20(4).jpg)
 
 [![c8bf24d99135e41e_Gece.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8bf24d99135e41e_Gece.jpg "c8bf24d99135e41e_Gece.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c8bf24d99135e41e_Gece.jpg)
 
