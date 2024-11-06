@@ -138,7 +138,7 @@ then
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
-		if echo "$path" | grep -qiP "(/forests/|/space/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
+		if echo "$path" | grep -qiP "(/forests/|/space/|/space - fictional/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
 		then
 			echo -n "moving ${path}..."
 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
@@ -586,6 +586,8 @@ then
 		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
 		# remove that double header
 		perl -i -00pe 's|<header.+?title-block-header.+?</header>||gs' "$htmlPath"
+
+		perl -i -pe 's/^max-width.+$//g' "$htmlPath"
 
 		echo -en "\r"
 
