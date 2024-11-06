@@ -1,4 +1,4 @@
-# desktop - 649
+# desktop - 646
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -24,7 +24,7 @@
 - [star trek technical](#star-trek-technical) - 12
 - [stormlight](#stormlight) - 5
 - [synthwave](#synthwave) - 28
-- [the legend of zelda](#the-legend-of-zelda) - 9
+- [the legend of zelda](#the-legend-of-zelda) - 6
 - [tmnt](#tmnt) - 15
 - [tolkien](#tolkien) - 51
 - [tomb raider 2013](#tomb-raider-) - 11
@@ -38,7 +38,7 @@
 [![446349.png](/.internals/thumbnails/desktop/castlevania/446349.png "446349.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446349.png)
 [![446389.jpg](/.internals/thumbnails/desktop/castlevania/446389.jpg "446389.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/446389.jpg)
 [![castlevania_lords_of_shadows.jpg](/.internals/thumbnails/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg)
-[![Dead by Daylight Dracula Wallpaper 01](/.internals/thumbnails/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)
+[![Dead by Daylight Dracula Wallpaper 01](/.internals/thumbnails/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png)
 [![zz_castle_bloodstained_titlescreen.jpg](/.internals/thumbnails/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg)
 [![zz_castle_dead-cells-castlevania_12-08-22.jpg](/.internals/thumbnails/desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg "zz_castle_dead-cells-castlevania_12-08-22.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg)
 [![zz_castle_dracula's_castle_-_23.png](/.internals/thumbnails/desktop/castlevania/zz_castle_dracula's_castle_-_23.png "zz_castle_dracula's_castle_-_23.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_dracula's_castle_-_23.png)
@@ -194,7 +194,7 @@
 
 ## [magic the gathering](/desktop/magic%20the%20gathering/README.MD) - 10
 [![26e2df176778017.64ca9fc090534.jpg](/.internals/thumbnails/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg "26e2df176778017.64ca9fc090534.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg)
-[![Ayula The Great Bear by Jesper Ejsing](/.internals/thumbnails/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp "Ayula The Great Bear by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp)
+[![Ayula The Great Bear by Jesper Ejsing](/.internals/thumbnails/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png "Ayula The Great Bear by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png)
 [![Invasion_of_Innistrad_2560x1600_EN.png](/.internals/thumbnails/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png "Invasion_of_Innistrad_2560x1600_EN.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png)
 [![Sigarda_Font_of_Blessings_2560x1600_EN.png](/.internals/thumbnails/desktop/magic%20the%20gathering/Sigarda_Font_of_Blessings_2560x1600_EN.png "Sigarda_Font_of_Blessings_2560x1600_EN.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/Sigarda_Font_of_Blessings_2560x1600_EN.png)
 [![The Goose Mother by Jesper Ejsing](/.internals/thumbnails/desktop/magic%20the%20gathering/the_goose_mother_by_jesper_ejsing.png "The Goose Mother by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/the_goose_mother_by_jesper_ejsing.png)
@@ -218,7 +218,7 @@
 ## [metroid](/desktop/metroid/README.MD) - 8
 [![Hjmdi1A-metroid-wallpaper.jpg](/.internals/thumbnails/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg "Hjmdi1A-metroid-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg)
 [![metroid-3nc8jol5751aw6co.jpg](/.internals/thumbnails/desktop/metroid/metroid-3nc8jol5751aw6co.jpg "metroid-3nc8jol5751aw6co.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-3nc8jol5751aw6co.jpg)
-[![metroid-the-forest-ee3581bggowaeid2.jpg.webp](/.internals/thumbnails/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp "metroid-the-forest-ee3581bggowaeid2.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.jpg.webp)
+[![metroid-the-forest-ee3581bggowaeid2.png](/.internals/thumbnails/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png "metroid-the-forest-ee3581bggowaeid2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png)
 [![pxfuel.jpg](/.internals/thumbnails/desktop/metroid/pxfuel.jpg "pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/pxfuel.jpg)
 [![sm_zebes_enlarged.png](/.internals/thumbnails/desktop/metroid/sm_zebes_enlarged.png "sm_zebes_enlarged.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sm_zebes_enlarged.png)
 [![sRBr53E.jpeg](/.internals/thumbnails/desktop/metroid/sRBr53E.jpeg "sRBr53E.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/metroid/sRBr53E.jpeg)
@@ -687,16 +687,13 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/desktop/the%20legend%20of%20zelda/README.MD) - 9
+## [the legend of zelda](/desktop/the%20legend%20of%20zelda/README.MD) - 6
 [![ Link and Light Dragon The Legend Of Zelda and 1 More Drawn by Fmorich 3c13151d87e78f0a208078ff9b9a8ecd](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/__link_and_light_dragon_the_legend_of_zelda_and_1_more_drawn_by_fmorich__3c13151d87e78f0a208078ff9b9a8ecd.jpg " Link and Light Dragon The Legend Of Zelda and 1 More Drawn by Fmorich 3c13151d87e78f0a208078ff9b9a8ecd")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/__link_and_light_dragon_the_legend_of_zelda_and_1_more_drawn_by_fmorich__3c13151d87e78f0a208078ff9b9a8ecd.jpg)
 [![pxfuel (10).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(10).jpg "pxfuel (10).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/pxfuel%20(10).jpg)
 [![pxfuel (11).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(11).jpg "pxfuel (11).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/pxfuel%20(11).jpg)
 [![pxfuel (36).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(36).jpg "pxfuel (36).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/pxfuel%20(36).jpg)
 [![pxfuel (7).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(7).jpg "pxfuel (7).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/pxfuel%20(7).jpg)
 [![The Legend Of Zelda Camping In The Wild by Atarts Db72g3j](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/the_legend_of_zelda-camping_in_the_wild_by_atarts_db72g3j.jpg "The Legend Of Zelda Camping In The Wild by Atarts Db72g3j")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/the_legend_of_zelda-camping_in_the_wild_by_atarts_db72g3j.jpg)
-[![tumblr_25032661fdfdad1324d0ad84e71f6ec8_c5bf845f_540.gif.webp](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/tumblr_25032661fdfdad1324d0ad84e71f6ec8_c5bf845f_540.gif.webp "tumblr_25032661fdfdad1324d0ad84e71f6ec8_c5bf845f_540.gif.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/tumblr_25032661fdfdad1324d0ad84e71f6ec8_c5bf845f_540.gif.webp)
-[![tumblr_6504fd5a87763ea3a5371acf882dce1a_b754e231_540.gif.webp](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/tumblr_6504fd5a87763ea3a5371acf882dce1a_b754e231_540.gif.webp "tumblr_6504fd5a87763ea3a5371acf882dce1a_b754e231_540.gif.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/tumblr_6504fd5a87763ea3a5371acf882dce1a_b754e231_540.gif.webp)
-[![tumblr_db5132271a1a1147a07144a0e3bb4584_c3522a77_540.gif.webp](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/tumblr_db5132271a1a1147a07144a0e3bb4584_c3522a77_540.gif.webp "tumblr_db5132271a1a1147a07144a0e3bb4584_c3522a77_540.gif.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/the%20legend%20of%20zelda/tumblr_db5132271a1a1147a07144a0e3bb4584_c3522a77_540.gif.webp)
 
 <a id="tmnt"></a>
 
@@ -709,9 +706,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![7795.jpg](/.internals/thumbnails/desktop/tmnt/7795.jpg "7795.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/7795.jpg)
 [![910265.jpg](/.internals/thumbnails/desktop/tmnt/910265.jpg "910265.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/910265.jpg)
 [![970371.png](/.internals/thumbnails/desktop/tmnt/970371.png "970371.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/970371.png)
-[![G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp](/.internals/thumbnails/desktop/tmnt/G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp "G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.webp)
+[![G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.png](/.internals/thumbnails/desktop/tmnt/G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.png "G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/G1CTkhwukYdxk3gjBhk2q_ulF5pMCEM08jy432SQqPY.png)
 [![shirtpunch.jpg](/.internals/thumbnails/desktop/tmnt/shirtpunch.jpg "shirtpunch.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/shirtpunch.jpg)
-[![sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp](/.internals/thumbnails/desktop/tmnt/sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp "sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.webp)
+[![sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.png](/.internals/thumbnails/desktop/tmnt/sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.png "sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/sHwWVqhHpIIi1eJjf-DsMwuMMYjjjHTHOQbDZgN8dpw.png)
 [![zz_set_01_01_leonardo.jpg](/.internals/thumbnails/desktop/tmnt/zz_set_01_01_leonardo.jpg "zz_set_01_01_leonardo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_01_01_leonardo.jpg)
 [![zz_set_01_02_donatello.jpg](/.internals/thumbnails/desktop/tmnt/zz_set_01_02_donatello.jpg "zz_set_01_02_donatello.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_01_02_donatello.jpg)
 [![zz_set_01_03_raphael.jpg](/.internals/thumbnails/desktop/tmnt/zz_set_01_03_raphael.jpg "zz_set_01_03_raphael.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/tmnt/zz_set_01_03_raphael.jpg)

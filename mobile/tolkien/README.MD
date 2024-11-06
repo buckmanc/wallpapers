@@ -189,13 +189,13 @@ Sauron Tolkien S Legendarium Drawn by Akreon
 [![Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)\
 Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 
-[![ted-nasmith--eaerendil-the-mariner.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.webp "ted-nasmith--eaerendil-the-mariner.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.webp)
+[![ted-nasmith--eaerendil-the-mariner.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.png "ted-nasmith--eaerendil-the-mariner.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--eaerendil-the-mariner.png)
 
-[![ted-nasmith--the-king-of-the-oathbreakers.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.webp "ted-nasmith--the-king-of-the-oathbreakers.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.webp)
+[![ted-nasmith--the-king-of-the-oathbreakers.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png "ted-nasmith--the-king-of-the-oathbreakers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png)
 
 [![ted-nasmith--tuor-and-ulmo.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg "ted-nasmith--tuor-and-ulmo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg)
 
-[![ted-nasmith--tuor-at-vinyamar.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.webp "ted-nasmith--tuor-at-vinyamar.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.webp)
+[![ted-nasmith--tuor-at-vinyamar.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png "ted-nasmith--tuor-at-vinyamar.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png)
 
 [![Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg "Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg)\
 Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre
@@ -205,7 +205,7 @@ Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1
 
 [![VAHm5WL.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/VAHm5WL.jpeg "VAHm5WL.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/VAHm5WL.jpeg)
 
-[![warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp "warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.jpg.webp)
+[![warofwrath-ancalagontheblack-donato-1500-960x1264.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.png "warofwrath-ancalagontheblack-donato-1500-960x1264.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/warofwrath-ancalagontheblack-donato-1500-960x1264.png)
 
 [![yYYubyR.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/yYYubyR.jpeg "yYYubyR.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/tolkien/yYYubyR.jpeg)
 

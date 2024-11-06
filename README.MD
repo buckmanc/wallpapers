@@ -4,7 +4,7 @@ make sure you're editing the template, doofus
 
 ![desktop wallpapers](.internals/headers/desktop.png)
 
-# 2,883 Wallpapers
+# 2,880 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
@@ -12,7 +12,7 @@ A simple repo to house my wallpapers for ease of use and automation.
 
 # Table of Contents
 - [mobile](/mobile/README.MD) - 1,907
-- [desktop](/desktop/README.MD) - 649
+- [desktop](/desktop/README.MD) - 646
 - [floaters](/floaters/README.MD) - 251
 - [terminal](/terminal/README.MD) - 76
 
@@ -33,7 +33,7 @@ To make a simple shallow clone:
 git clone --depth 1 https://github.com/buckmanc/wallpapers
 ```
 
-Or to clone only the directories you want in a shallow fashion (for example, to ignore the 3.0G mobile folder):
+Or to clone only the directories you want in a shallow fashion (for example, to ignore the 3.1G mobile folder):
 ```shell
 # shallow clone but download and checkout bupkis
 git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers

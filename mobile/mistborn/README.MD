@@ -104,10 +104,10 @@ The Lost Metal cover by Marc Simonetti
 [![Bleeder by Miranda Meeks](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Bleeder-by-Miranda-Meeks.jpg "Bleeder by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/Bleeder-by-Miranda-Meeks.jpg)\
 Bleeder by Miranda Meeks
 
-[![Death by Ari Ibarra](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/death_by_ari_ibarra.webp "Death by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/death_by_ari_ibarra.webp)\
+[![Death by Ari Ibarra](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/death_by_ari_ibarra.png "Death by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/death_by_ari_ibarra.png)\
 Death by Ari Ibarra
 
-[![deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.webp "deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.webp)
+[![deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png "deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png)
 
 [![Inquisitor by Ricky Ho](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/inquisitor-by-ricky-ho.jpg "Inquisitor by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mistborn/inquisitor-by-ricky-ho.jpg)\
 Inquisitor by Ricky Ho

@@ -389,17 +389,17 @@ Falcon and Gaea by Ultimatemaverickx
 [![Light S Armor by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/light_s_armor_by_ultimatemaverickx.png "Light S Armor by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/light_s_armor_by_ultimatemaverickx.png)\
 Light S Armor by Ultimatemaverickx
 
-[![MegaMan11CollectorsPackageArtwork.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MegaMan11CollectorsPackageArtwork.webp "MegaMan11CollectorsPackageArtwork.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MegaMan11CollectorsPackageArtwork.webp)
+[![MegaMan11CollectorsPackageArtwork.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MegaMan11CollectorsPackageArtwork.png)
 
-[![Megaman11-diagnostic-shirt-design.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-diagnostic-shirt-design.webp "Megaman11-diagnostic-shirt-design.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-diagnostic-shirt-design.webp)
+[![Megaman11-diagnostic-shirt-design.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-diagnostic-shirt-design.png "Megaman11-diagnostic-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-diagnostic-shirt-design.png)
 
-[![Megaman-11-gears-of-fate-poster.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman-11-gears-of-fate-poster.webp "Megaman-11-gears-of-fate-poster.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman-11-gears-of-fate-poster.webp)
+[![Megaman-11-gears-of-fate-poster.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman-11-gears-of-fate-poster.png "Megaman-11-gears-of-fate-poster.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman-11-gears-of-fate-poster.png)
 
-[![Megaman11-light-labs-shirt-design.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-light-labs-shirt-design.webp "Megaman11-light-labs-shirt-design.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-light-labs-shirt-design.webp)
+[![Megaman11-light-labs-shirt-design.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-light-labs-shirt-design.png "Megaman11-light-labs-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-light-labs-shirt-design.png)
 
-[![Megaman11-repair-shirt-design.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-repair-shirt-design.webp "Megaman11-repair-shirt-design.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-repair-shirt-design.webp)
+[![Mega_Man_11.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Man_11.png "Mega_Man_11.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Man_11.png)
 
-[![Mega_Man_11.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Man_11.webp "Mega_Man_11.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Man_11.webp)
+[![Megaman11-repair-shirt-design.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-repair-shirt-design.png "Megaman11-repair-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Megaman11-repair-shirt-design.png)
 
 [![Mega Man 2 by Dan Mumford](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mega_man_2_by_dan_mumford.jpg)\
 Mega Man 2 by Dan Mumford
@@ -433,12 +433,12 @@ Megaman X Legacy Wallpaper 3 by Falconburst322
 [![Megaman X Wallpaper 2 A by Falconburst322](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/megaman_x_wallpaper_2_a_by_falconburst322.jpg "Megaman X Wallpaper 2 A by Falconburst322")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/megaman_x_wallpaper_2_a_by_falconburst322.jpg)\
 Megaman X Wallpaper 2 A by Falconburst322
 
-[![Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.webp "Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.webp)
+[![Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.png "Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/Mega_Rockman_close_up_0bed5ab9-26d9-4fe7-b829-63ccc26bcaeb_1600x.png)
 
 [![Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png "Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png)\
 Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx
 
-[![MM11-MegaMan.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MM11-MegaMan.webp "MM11-MegaMan.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MM11-MegaMan.webp)
+[![MM11-MegaMan.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MM11-MegaMan.png "MM11-MegaMan.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/MM11-MegaMan.png)
 
 [![Mmx 1 8 The Collection Vinyl Ost Box Arts by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mmx_1_8_the_collection_vinyl_ost_box_arts_by_ultimatemaverickx.png "Mmx 1 8 The Collection Vinyl Ost Box Arts by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/mmx_1_8_the_collection_vinyl_ost_box_arts_by_ultimatemaverickx.png)\
 Mmx 1 8 The Collection Vinyl Ost Box Arts by Ultimatemaverickx
@@ -480,13 +480,13 @@ Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc53
 [![Secret Codes by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/secret_codes_by_ultimatemaverickx.png "Secret Codes by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/secret_codes_by_ultimatemaverickx.png)\
 Secret Codes by Ultimatemaverickx
 
-[![TEPPEN_SI_073_art.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_073_art.webp "TEPPEN_SI_073_art.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_073_art.webp)
+[![TEPPEN_SI_073_art.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_073_art.png "TEPPEN_SI_073_art.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_073_art.png)
 
-[![TEPPEN_SI_075_art.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_075_art.webp "TEPPEN_SI_075_art.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_075_art.webp)
+[![TEPPEN_SI_075_art.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_075_art.png "TEPPEN_SI_075_art.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_075_art.png)
 
-[![TEPPEN_SI_079_art.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_079_art.webp "TEPPEN_SI_079_art.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_079_art.webp)
+[![TEPPEN_SI_079_art.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_079_art.png "TEPPEN_SI_079_art.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_SI_079_art.png)
 
-[![TEPPEN_T097_art.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_T097_art.webp "TEPPEN_T097_art.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_T097_art.webp)
+[![TEPPEN_T097_art.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_T097_art.png "TEPPEN_T097_art.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/TEPPEN_T097_art.png)
 
 [![Transformation by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/mega%20man/transformation_by_ultimatemaverickx.png)\
 Transformation by Ultimatemaverickx

@@ -140,7 +140,7 @@ then
 		filename="$(basename "$path")"
 		if echo "$path" | grep -qiP "(/forests/|/space/|/space - fictional/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
 		then
-			echo -n "moving ${path}..."
+			echo -n "moving ${path/#"$path_root"/}..."
 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
 			mv --backup=numbered "$path" "$newPath"
 			echo "done"
@@ -150,6 +150,23 @@ then
 
 	echo "done!"
 fi
+
+echo -n "--checking for webp's to convert..."
+webpFiles="$(find "$path_root" -type f -iname '*.webp' -not -ipath '*/.internals/thumbnails/*')"
+echo "$webpFiles" | while read -r path
+do
+	if [[ -z "$path" ]]
+	then
+		continue
+	fi
+
+	target="$(echo "$path" | perl -pe 's/(\.(gif|jpe?g|png))?\.(webp|WEBP)$/.png/g')"
+	echo -n "converting ${path/#"$path_root"/}..."
+	convert "${path}[0]" "$target" && rm "$path"
+	echo "done"
+done
+
+	echo "done!"
 
 # do weird branch specific stuff
 if [[ "$branchName" != "main" ]]

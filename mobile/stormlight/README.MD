@@ -20,11 +20,8 @@ Artifabrian by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpape
 02 Artifabrian by Ari Ibarra
 Artifabrian by Ari Ibarra
 
-[![02 Navani Burning A Glyphward by Grant Hansen
-Navani Burning A Glyphward by Grant Hansen](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.webp "02 Navani Burning A Glyphward by Grant Hansen
-Navani Burning A Glyphward by Grant Hansen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.webp)\
+[![02 Navani Burning A Glyphward by Grant Hansen](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.png "02 Navani Burning A Glyphward by Grant Hansen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.png)\
 02 Navani Burning A Glyphward by Grant Hansen
-Navani Burning A Glyphward by Grant Hansen
 
 [![02 Navani Kholin by Dominik Broniek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_kholin_by_dominik_broniek.jpg "02 Navani Kholin by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_kholin_by_dominik_broniek.jpg)\
 02 Navani Kholin by Dominik Broniek
@@ -50,11 +47,8 @@ Jasnah by Mycks Art Studio
 [![Jasnah Kholin by Jessi Chen Liu](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg "Jasnah Kholin by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg)\
 Jasnah Kholin by Jessi Chen Liu
 
-[![Jasnah Kholin by Pb Doodles
-Jasnah Kholin by PB Doodles](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_pb_doodles.webp "Jasnah Kholin by Pb Doodles
-Jasnah Kholin by PB Doodles")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_pb_doodles.webp)\
+[![Jasnah Kholin by Pb Doodles](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_pb_doodles.png "Jasnah Kholin by Pb Doodles")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_pb_doodles.png)\
 Jasnah Kholin by Pb Doodles
-Jasnah Kholin by PB Doodles
 
 [![Jasnah The Lesson by Bea Jackson
 The Lesson by Bea Jackson](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_the_lesson_by_bea_jackson.jpg "Jasnah The Lesson by Bea Jackson

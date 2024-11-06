@@ -96,3 +96,5 @@ zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg Cultivation and the Nigh
 zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg Zz08 Cultivation and The Nightwatcher by Ari Ibarra
 zz09_odium_reigns_by_ari_ibarra.jpg Odium Reigns by Ari Ibarra
 zz09_odium_reigns_by_ari_ibarra.jpg Zz09 Odium Reigns by Ari Ibarra
+02_navani_burning_a_glyphward_by_grant_hansen.png 02 Navani Burning A Glyphward by Grant Hansen
+jasnah_kholin_by_pb_doodles.png Jasnah Kholin by Pb Doodles

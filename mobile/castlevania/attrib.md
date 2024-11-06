@@ -68,3 +68,4 @@ gabriel-by-jose-luis-vaello-bertol.jpg Gabriel by Jose Luis Vaello Bertol
 zz_castle_draculas_castle_by_ilo275.jpg Zz Castle Draculas Castle by Ilo275
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
 Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp Dead by Daylight   Dracula Wallpaper   01
+Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png Dead by Daylight   Dracula Wallpaper   01

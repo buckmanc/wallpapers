@@ -190,9 +190,9 @@ It S Dangerous To Go Alone by Colin Morella
 
 [![meganlangandinraal.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/meganlangandinraal.jpg "meganlangandinraal.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/meganlangandinraal.jpg)
 
-[![Mellow Yoyo - Gerudo Valley.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Gerudo%20Valley.webp "Mellow Yoyo - Gerudo Valley.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Gerudo%20Valley.webp)
+[![Mellow Yoyo - Gerudo Valley.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Gerudo%20Valley.png "Mellow Yoyo - Gerudo Valley.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Gerudo%20Valley.png)
 
-[![Mellow Yoyo - Princess Zelda.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Princess%20Zelda.webp "Mellow Yoyo - Princess Zelda.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Princess%20Zelda.webp)
+[![Mellow Yoyo - Princess Zelda.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Princess%20Zelda.png "Mellow Yoyo - Princess Zelda.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Mellow%20Yoyo%20-%20Princess%20Zelda.png)
 
 [![Official botw link.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20botw%20link.jpg "Official botw link.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20botw%20link.jpg)
 
@@ -202,9 +202,9 @@ It S Dangerous To Go Alone by Colin Morella
 
 [![official_pxfuel_(18).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/official_pxfuel_(18).jpg "official_pxfuel_(18).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/official_pxfuel_(18).jpg)
 
-[![Official totk link.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20link.webp "Official totk link.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20link.webp)
+[![Official totk link.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20link.png "Official totk link.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20link.png)
 
-[![Official totk zelda.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20zelda.webp "Official totk zelda.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20zelda.webp)
+[![Official totk zelda.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20zelda.png "Official totk zelda.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Official%20totk%20zelda.png)
 
 [![peakpx (1).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(1).jpg "peakpx (1).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/peakpx%20(1).jpg)
 

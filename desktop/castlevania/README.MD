@@ -5,7 +5,7 @@
 
 [![castlevania_lords_of_shadows.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/castlevania_lords_of_shadows.jpg)
 
-[![Dead by Daylight Dracula Wallpaper 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)\
+[![Dead by Daylight Dracula Wallpaper 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png)\
 Dead by Daylight Dracula Wallpaper 01
 
 [![zz_castle_bloodstained_titlescreen.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg "zz_castle_bloodstained_titlescreen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/castlevania/zz_castle_bloodstained_titlescreen.jpg)

@@ -188,7 +188,7 @@ Castlevania Symphony Of The Night by Nicolas Delort
 
 [![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
 
-[![Dead by Daylight Dracula Wallpaper 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp)\
+[![Dead by Daylight Dracula Wallpaper 01](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png "Dead by Daylight Dracula Wallpaper 01")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png)\
 Dead by Daylight Dracula Wallpaper 01
 
 [![Dracula by Katie Silva](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)\
@@ -273,7 +273,7 @@ Zz Castle Castlevania by Roma Timbreza
 
 [![zz_castle_castlevania-lordsofsh-reverie-castle.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania-lordsofsh-reverie-castle.png "zz_castle_castlevania-lordsofsh-reverie-castle.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_castlevania-lordsofsh-reverie-castle.png)
 
-[![zz_castle_dead_cells_02.webp](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead_cells_02.webp "zz_castle_dead_cells_02.webp")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead_cells_02.webp)
+[![zz_castle_dead_cells_02.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead_cells_02.png "zz_castle_dead_cells_02.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead_cells_02.png)
 
 [![zz_castle_dead-cells-castlevania_12-08-22.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg "zz_castle_dead-cells-castlevania_12-08-22.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/zz_castle_dead-cells-castlevania_12-08-22.jpg)
 

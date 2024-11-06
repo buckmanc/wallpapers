@@ -1,7 +1,7 @@
 # magic the gathering - 10
 [![26e2df176778017.64ca9fc090534.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg "26e2df176778017.64ca9fc090534.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg)
 
-[![Ayula The Great Bear by Jesper Ejsing](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp "Ayula The Great Bear by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.webp)\
+[![Ayula The Great Bear by Jesper Ejsing](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png "Ayula The Great Bear by Jesper Ejsing")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png)\
 Ayula The Great Bear by Jesper Ejsing
 
 [![Invasion_of_Innistrad_2560x1600_EN.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png "Invasion_of_Innistrad_2560x1600_EN.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png)
