@@ -1,9 +1,15 @@
-# music - 72
+# music - 83
+[![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
+
+[![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
+
 [![A-bug - Ocarina of Time.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 
 [![Acryl madness - Ritual.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
+
+[![Amaranthe - MAXIMALISM.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Amaranthe%20-%20MAXIMALISM.jpg "Amaranthe - MAXIMALISM.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Amaranthe%20-%20MAXIMALISM.jpg)
 
 [![Apashe - I Killed The Orchestra EP.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apashe%20-%20I%20Killed%20The%20Orchestra%20EP.jpg "Apashe - I Killed The Orchestra EP.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apashe%20-%20I%20Killed%20The%20Orchestra%20EP.jpg)
 
@@ -11,11 +17,15 @@
 
 [![Aristarchos - Martyr of Star and Fire.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 
+[![Bell Witch - Longing.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bell%20Witch%20-%20Longing.jpg)
+
 [![Blood Incantation - Absolute Elsewhere.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
+
+[![Darkher - Where the Devil Waits.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
 
 [![Dwarrowdelf - The Sons of Fëanor.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 
@@ -33,9 +43,19 @@
 
 [![Fvrfvr - Sacrament of the Storm.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg "Fvrfvr - Sacrament of the Storm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg)
 
+[![GAUPA - Myriad.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/GAUPA%20-%20Myriad.jpg "GAUPA - Myriad.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/GAUPA%20-%20Myriad.jpg)
+
 [![Gealdýr - Sær.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gealdýr%20-%20Sær.jpg "Gealdýr - Sær.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gealdýr%20-%20Sær.jpg)
 
 [![Gost - Non Paradisi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg "Gost - Non Paradisi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg)
+
+[![Green Lung - Black Harvest.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg "Green Lung - Black Harvest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg)
+
+[![Green Lung - Black Harvest.jpg~RF9415793.TMP](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP "Green Lung - Black Harvest.jpg~RF9415793.TMP")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP)
+
+[![Green Lung - This Heathen Land.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
+
+[![Green Lung - Woodland Rites.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Woodland%20Rites.jpg)
 
 [![IC3PEAK - Kiss Of Death.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 
@@ -103,6 +123,8 @@
 
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
 
+[![She Must Burn - Grimoire.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/She%20Must%20Burn%20-%20Grimoire.jpg "She Must Burn - Grimoire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/She%20Must%20Burn%20-%20Grimoire.jpg)
+
 [![Shrine - Celestial Fire.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 
 [![Shrine - Quintessence.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
@@ -113,13 +135,13 @@
 
 [![Sowulo - Full Mōna.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 
+[![Spire of Lazarus - Omen.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
+
 [![STRNGR - Night at the Grindhouse.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 
 [![The Sword - Gods of the Earth.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 
 [![Twin Temple - Satan_s a Woman.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
-
-[![Uhrk-Nagimi - Sankhu.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg "Uhrk-Nagimi - Sankhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg)
 
 [![Varien - Born of Blood, Risen from Ash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg "Varien - Born of Blood, Risen from Ash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg)
 

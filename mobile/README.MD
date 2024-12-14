@@ -1,4 +1,4 @@
-# mobile - 1,907
+# mobile - 1,923
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 72
+- [music](#music) - 83
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -33,7 +33,7 @@
 - [shovel knight](#shovel-knight) - 9
 - [soulsborne](#soulsborne) - 29
 - [star trek](#star-trek) - 8
-- [stormlight](#stormlight) - 60
+- [stormlight](#stormlight) - 65
 - [the legend of zelda](#the-legend-of-zelda) - 199
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 71
@@ -1355,16 +1355,21 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 72
+## [music](/mobile/music/README.MD) - 83
+[![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
+[![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Acryl%20madness%20-%20Ritual.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
+[![Amaranthe - MAXIMALISM.jpg](/.internals/thumbnails/mobile/music/Amaranthe%20-%20MAXIMALISM.jpg "Amaranthe - MAXIMALISM.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Amaranthe%20-%20MAXIMALISM.jpg)
 [![Apashe - I Killed The Orchestra EP.jpg](/.internals/thumbnails/mobile/music/Apashe%20-%20I%20Killed%20The%20Orchestra%20EP.jpg "Apashe - I Killed The Orchestra EP.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apashe%20-%20I%20Killed%20The%20Orchestra%20EP.jpg)
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Apocryphos%20-%20Against%20Civilization.jpg)
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
+[![Bell Witch - Longing.jpg](/.internals/thumbnails/mobile/music/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bell%20Witch%20-%20Longing.jpg)
 [![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
+[![Darkher - Where the Devil Waits.jpg](/.internals/thumbnails/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 [![Elffor - Temple of the Dead.jpg](/.internals/thumbnails/mobile/music/Elffor%20-%20Temple%20of%20the%20Dead.jpg "Elffor - Temple of the Dead.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Elffor%20-%20Temple%20of%20the%20Dead.jpg)
 [![Enterprise Earth - Luciferous _Deluxe Edition_.jpg](/.internals/thumbnails/mobile/music/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg "Enterprise Earth - Luciferous _Deluxe Edition_.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg)
@@ -1373,8 +1378,13 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Froglord%20-%20The%20Mystic%20Toad.png)
 [![Funeral Director - A Mark on Me.jpg](/.internals/thumbnails/mobile/music/Funeral%20Director%20-%20A%20Mark%20on%20Me.jpg "Funeral Director - A Mark on Me.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Funeral%20Director%20-%20A%20Mark%20on%20Me.jpg)
 [![Fvrfvr - Sacrament of the Storm.jpg](/.internals/thumbnails/mobile/music/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg "Fvrfvr - Sacrament of the Storm.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg)
+[![GAUPA - Myriad.jpg](/.internals/thumbnails/mobile/music/GAUPA%20-%20Myriad.jpg "GAUPA - Myriad.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/GAUPA%20-%20Myriad.jpg)
 [![Gealdýr - Sær.jpg](/.internals/thumbnails/mobile/music/Gealdýr%20-%20Sær.jpg "Gealdýr - Sær.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gealdýr%20-%20Sær.jpg)
 [![Gost - Non Paradisi.jpg](/.internals/thumbnails/mobile/music/Gost%20-%20Non%20Paradisi.jpg "Gost - Non Paradisi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg)
+[![Green Lung - Black Harvest.jpg](/.internals/thumbnails/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg "Green Lung - Black Harvest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg)
+[![Green Lung - Black Harvest.jpg~RF9415793.TMP](/.internals/thumbnails/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP "Green Lung - Black Harvest.jpg~RF9415793.TMP")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP)
+[![Green Lung - This Heathen Land.jpg](/.internals/thumbnails/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
+[![Green Lung - Woodland Rites.jpg](/.internals/thumbnails/mobile/music/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Woodland%20Rites.jpg)
 [![IC3PEAK - Kiss Of Death.jpg](/.internals/thumbnails/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 [![IC3PEAK - Сладкая жизнь.jpg](/.internals/thumbnails/mobile/music/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
 [![Kainbeats - Finding Light.jpg](/.internals/thumbnails/mobile/music/Kainbeats%20-%20Finding%20Light.jpg "Kainbeats - Finding Light.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Kainbeats%20-%20Finding%20Light.jpg)
@@ -1408,15 +1418,16 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Reliqa - Eventide.jpg](/.internals/thumbnails/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
 [![Rose Funeral - Father Death.jpg](/.internals/thumbnails/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg)
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](/.internals/thumbnails/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
+[![She Must Burn - Grimoire.jpg](/.internals/thumbnails/mobile/music/She%20Must%20Burn%20-%20Grimoire.jpg "She Must Burn - Grimoire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/She%20Must%20Burn%20-%20Grimoire.jpg)
 [![Shrine - Celestial Fire.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Celestial%20Fire.jpg)
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 [![silentsoul - strange.jpg](/.internals/thumbnails/mobile/music/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
+[![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
-[![Uhrk-Nagimi - Sankhu.jpg](/.internals/thumbnails/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg "Uhrk-Nagimi - Sankhu.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Uhrk-Nagimi%20-%20Sankhu.jpg)
 [![Varien - Born of Blood, Risen from Ash.jpg](/.internals/thumbnails/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg "Varien - Born of Blood, Risen from Ash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.jpg)
 [![Various Artists - A Symphony of Screams Vol.1.jpg](/.internals/thumbnails/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
 [![Vévaki - Fórnspeki.jpg](/.internals/thumbnails/mobile/music/Vévaki%20-%20Fórnspeki.jpg "Vévaki - Fórnspeki.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg)
@@ -1803,31 +1814,23 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 <a id="stormlight"></a>
 
-## [stormlight](/mobile/stormlight/README.MD) - 60
-[![00 Dalinar by Petar Penev
-Dalinar by Petar Penev](/.internals/thumbnails/mobile/stormlight/00_dalinar_by_petar_penev.jpg "00 Dalinar by Petar Penev
-Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/00_dalinar_by_petar_penev.jpg)
-[![01 Dalinar by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/01_dalinar_by_dominik_broniek.jpg "01 Dalinar by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/01_dalinar_by_dominik_broniek.jpg)
-[![01 Dalinar by Randy Vargas
-Dalinar by Randy Vargas](/.internals/thumbnails/mobile/stormlight/01_dalinar_by_randy_vargas.jpg "01 Dalinar by Randy Vargas
-Dalinar by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/01_dalinar_by_randy_vargas.jpg)
-[![02 Artifabrian by Ari Ibarra
-Artifabrian by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/02_artifabrian_by_ari_ibarra.jpg "02 Artifabrian by Ari Ibarra
-Artifabrian by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_artifabrian_by_ari_ibarra.jpg)
+## [stormlight](/mobile/stormlight/README.MD) - 65
+[![Dalinar by Petar Penev](/.internals/thumbnails/mobile/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/00_dalinar_by_petar_penev.jpg)
+[![Dalinar by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/01_dalinar_by_dominik_broniek.jpg "Dalinar by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/01_dalinar_by_dominik_broniek.jpg)
+[![Dalinar by Randy Vargas](/.internals/thumbnails/mobile/stormlight/01_dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/01_dalinar_by_randy_vargas.jpg)
+[![Artifabrian by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/02_artifabrian_by_ari_ibarra.jpg "Artifabrian by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_artifabrian_by_ari_ibarra.jpg)
 [![02 Navani Burning A Glyphward by Grant Hansen](/.internals/thumbnails/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.png "02 Navani Burning A Glyphward by Grant Hansen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_burning_a_glyphward_by_grant_hansen.png)
 [![02 Navani Kholin by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/02_navani_kholin_by_dominik_broniek.jpg "02 Navani Kholin by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_kholin_by_dominik_broniek.jpg)
-[![02 Navani The Mother Of Machines by Zireael
-Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "02 Navani The Mother Of Machines by Zireael
-Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
+[![Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/mobile/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
+[![Ba Ado Mishram by Miranda Meeks](/.internals/thumbnails/mobile/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/ba-ado-mishram_by_miranda_meeks.png)
 [![Chasm Fiend Hunt by Randy Vargas](/.internals/thumbnails/mobile/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)
 [![Eshonai by Antti Hakosaari](/.internals/thumbnails/mobile/stormlight/eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/eshonai_by_antti_hakosaari.jpg)
+[![Fashion by Dan Dos Santos](/.internals/thumbnails/mobile/stormlight/fashion_by_dan_dos_santos.png "Fashion by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/fashion_by_dan_dos_santos.png)
 [![Jasnah by Mycks Art Studio](/.internals/thumbnails/mobile/stormlight/jasnah_by_mycks_art_studio.jpg "Jasnah by Mycks Art Studio")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_by_mycks_art_studio.jpg)
 [![Jasnah Kholin by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg "Jasnah Kholin by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg)
 [![Jasnah Kholin by Pb Doodles](/.internals/thumbnails/mobile/stormlight/jasnah_kholin_by_pb_doodles.png "Jasnah Kholin by Pb Doodles")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_kholin_by_pb_doodles.png)
-[![Jasnah The Lesson by Bea Jackson
-The Lesson by Bea Jackson](/.internals/thumbnails/mobile/stormlight/jasnah_the_lesson_by_bea_jackson.jpg "Jasnah The Lesson by Bea Jackson
-The Lesson by Bea Jackson")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_the_lesson_by_bea_jackson.jpg)
+[![The Lesson by Bea Jackson](/.internals/thumbnails/mobile/stormlight/jasnah_the_lesson_by_bea_jackson.jpg "The Lesson by Bea Jackson")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/jasnah_the_lesson_by_bea_jackson.jpg)
 [![Kaladin and Syl by Mycks Art Studio](/.internals/thumbnails/mobile/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg "Kaladin and Syl by Mycks Art Studio")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg)
 [![Kaladin by Antti Hakosaari](/.internals/thumbnails/mobile/stormlight/kaladin_by_antti_hakosaari.jpg "Kaladin by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/kaladin_by_antti_hakosaari.jpg)
 [![Kaladin Stormblessed by Air Ibarra
@@ -1841,95 +1844,50 @@ Kal and Syl by Ina Wong")](https://raw.githubusercontent.com/buckmanc/Wallpapers
 [![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/mobile/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/knights_radiant_by_antti_hakosaari.jpg)
 [![Lyn by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/lyn_by_jessi_chen_liu.jpg)
 [![Midnight Mother by Petar Penev](/.internals/thumbnails/mobile/stormlight/Midnight_Mother_by_Petar_Penev.jpg "Midnight Mother by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/Midnight_Mother_by_Petar_Penev.jpg)
-[![Herald of Justice by Petar Penev
-Nale Herald Of Justice by Petar Penev](/.internals/thumbnails/mobile/stormlight/nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev
-Nale Herald Of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/nale_herald_of_justice_by_petar_penev.jpg)
-[![Oathgate Spren by Ben Mcsweeny
-Oathgate Spren by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/oathgate_spren_by_ben_mcsweeny.jpg "Oathgate Spren by Ben Mcsweeny
-Oathgate Spren by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/oathgate_spren_by_ben_mcsweeny.jpg)
-[![Odium Rayse by Lamaery In The Cosmere
-Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Odium Rayse by Lamaery In The Cosmere
-Rayse/Odium by Lamaery In The Cosmere")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
-[![Odium Xv The Devil Tarot by Tara Spruit
-Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium Xv The Devil Tarot by Tara Spruit
-Odium XV The Devil Tarot by Tara Spruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
+[![Herald of Justice by Petar Penev](/.internals/thumbnails/mobile/stormlight/nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/nale_herald_of_justice_by_petar_penev.jpg)
+[![Oathgate Spren by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/oathgate_spren_by_ben_mcsweeny.jpg "Oathgate Spren by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/oathgate_spren_by_ben_mcsweeny.jpg)
+[![Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
+[![Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
 [![Parshendi Male by Dan Dos Santos](/.internals/thumbnails/mobile/stormlight/parshendi_male_by_dan_dos_santos.jpg "Parshendi Male by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/parshendi_male_by_dan_dos_santos.jpg)
-[![Redacted Young Dalinar and Redacted by Botanicaxu
-Young Dalinar and Redacted by BotanicaXu](/.internals/thumbnails/mobile/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg "Redacted Young Dalinar and Redacted by Botanicaxu
-Young Dalinar and Redacted by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg)
-[![Renarin Visions Of The Future by Ari Ibarra
-Visions of the Future by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg "Renarin Visions Of The Future by Ari Ibarra
-Visions of the Future by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg)
-[![Rysn and Larkin by Botanicaxu
-Rysn and Larkin by BotanicaXu](/.internals/thumbnails/mobile/stormlight/rysn_and_larkin_by_botanicaxu.jpg "Rysn and Larkin by Botanicaxu
-Rysn and Larkin by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/rysn_and_larkin_by_botanicaxu.jpg)
+[![Young Dalinar and Redacted by BotanicaXu](/.internals/thumbnails/mobile/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg "Young Dalinar and Redacted by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg)
+[![Visions of the Future by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg)
+[![Rysn and Larkin by BotanicaXu](/.internals/thumbnails/mobile/stormlight/rysn_and_larkin_by_botanicaxu.jpg "Rysn and Larkin by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/rysn_and_larkin_by_botanicaxu.jpg)
 [![Rysn by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/rysn_by_dominik_broniek.jpg "Rysn by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/rysn_by_dominik_broniek.jpg)
 [![Shallan and The Santhid by Ashley Coad](/.internals/thumbnails/mobile/stormlight/shallan_and_the_santhid_by_ashley_coad.png "Shallan and The Santhid by Ashley Coad")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_and_the_santhid_by_ashley_coad.png)
 [![Shallan by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/shallan_by_dominik_broniek.jpg "Shallan by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_by_dominik_broniek.jpg)
 [![Shallan by Michael Whalen](/.internals/thumbnails/mobile/stormlight/shallan_by_michael_whalen.png "Shallan by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_by_michael_whalen.png)
 [![Shallan Davar by Lulybot Dffw49c](/.internals/thumbnails/mobile/stormlight/shallan_davar_by_lulybot_dffw49c.jpg "Shallan Davar by Lulybot Dffw49c")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_davar_by_lulybot_dffw49c.jpg)
-[![Radiant by Jemma Young
-Shallan Radiant by Jemma Young](/.internals/thumbnails/mobile/stormlight/shallan_radiant_by_jemma_young.jpg "Radiant by Jemma Young
-Shallan Radiant by Jemma Young")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_radiant_by_jemma_young.jpg)
+[![Radiant by Jemma Young](/.internals/thumbnails/mobile/stormlight/shallan_radiant_by_jemma_young.jpg "Radiant by Jemma Young")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_radiant_by_jemma_young.jpg)
 [![Shallan Sailing Into Kharbranth by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/shallan_sailing_into_kharbranth_by_jessi_chen_liu.jpg "Shallan Sailing Into Kharbranth by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/shallan_sailing_into_kharbranth_by_jessi_chen_liu.jpg)
-[![Sketch Axehound by Ben Mcsweeny
-Sketch Axehound by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/sketch_axehound_by_ben_mcsweeny.jpeg "Sketch Axehound by Ben Mcsweeny
-Sketch Axehound by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/sketch_axehound_by_ben_mcsweeny.jpeg)
+[![Sketch Axehound by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/sketch_axehound_by_ben_mcsweeny.jpeg "Sketch Axehound by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/sketch_axehound_by_ben_mcsweeny.jpeg)
 [![Sketch Chull by Ben Mcsweeny
 Sketch Chull by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/sketch_chull_by_ben_mcsweeny.jpeg "Sketch Chull by Ben Mcsweeny
 Sketch Chull by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/sketch_chull_by_ben_mcsweeny.jpeg)
 [![Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny](/.internals/thumbnails/mobile/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg "Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg)
-[![Rider of Storms by Connor Chamberlain
-Stormfather Rider Of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain
-Stormfather Rider Of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
+[![Rider of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)
-[![Mastermind by Ari Ibarra
-Taravangian Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra
-Taravangian Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
+[![Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
 [![The Stick Of Resolve by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg "The Stick Of Resolve by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg)
 [![Vasher and Nightblood by Dominik Broniek](/.internals/thumbnails/mobile/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg "Vasher and Nightblood by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg)
 [![Wit Will Wilt by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/wit_will_wilt_by_jessi_chen_liu.jpg "Wit Will Wilt by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/wit_will_wilt_by_jessi_chen_liu.jpg)
-[![Zu and Ua'pam by Jessi Chen Liu
-Zu and Ua Pam by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/zu_and_ua_pam_by_jessi_chen_liu.jpg "Zu and Ua'pam by Jessi Chen Liu
-Zu and Ua Pam by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zu_and_ua_pam_by_jessi_chen_liu.jpg)
-[![Jezrien by Howard Lyon
-Zy01 Jezrien by Howard Lyon](/.internals/thumbnails/mobile/stormlight/zy01_jezrien_by_howard_lyon.jpg "Jezrien by Howard Lyon
-Zy01 Jezrien by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy01_jezrien_by_howard_lyon.jpg)
-[![Nale by Karla Ortiz
-Zy02 Nale by Karla Ortiz](/.internals/thumbnails/mobile/stormlight/zy02_nale_by_karla_ortiz.png "Nale by Karla Ortiz
-Zy02 Nale by Karla Ortiz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy02_nale_by_karla_ortiz.png)
-[![Chanarach by Karla Ortiz
-Zy03 Chanarach by Karla Ortiz](/.internals/thumbnails/mobile/stormlight/zy03_chanarach_by_karla_ortiz.png "Chanarach by Karla Ortiz
-Zy03 Chanarach by Karla Ortiz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy03_chanarach_by_karla_ortiz.png)
-[![Vev by Howard Lyon
-Zy04 Vev by Howard Lyon](/.internals/thumbnails/mobile/stormlight/zy04_vev_by_howard_lyon.jpg "Vev by Howard Lyon
-Zy04 Vev by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy04_vev_by_howard_lyon.jpg)
-[![Pailiah by Magali Villeneuve
-Zy05 Pailiah by Magali Villeneuve](/.internals/thumbnails/mobile/stormlight/zy05_pailiah_by_magali_villeneuve.jpg "Pailiah by Magali Villeneuve
-Zy05 Pailiah by Magali Villeneuve")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy05_pailiah_by_magali_villeneuve.jpg)
-[![Shalash by Dan dos Santos
-Zy06 Shalash by Dan Dos Santos](/.internals/thumbnails/mobile/stormlight/zy06_shalash_by_dan_dos_santos.png "Shalash by Dan dos Santos
-Zy06 Shalash by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy06_shalash_by_dan_dos_santos.png)
-[![Kalak by Magali Villeneuve
-Zy08 Kalak by Magali Villeneuve](/.internals/thumbnails/mobile/stormlight/zy08_kalak_by_magali_villeneuve.jpg "Kalak by Magali Villeneuve
-Zy08 Kalak by Magali Villeneuve")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy08_kalak_by_magali_villeneuve.jpg)
-[![Taln by Donato Giancola
-Zy09 Taln by Donato Giancola](/.internals/thumbnails/mobile/stormlight/zy09_taln_by_donato_giancola.jpg "Taln by Donato Giancola
-Zy09 Taln by Donato Giancola")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy09_taln_by_donato_giancola.jpg)
-[![Ishar by Dan dos Santos
-Zy10 Ishar by Dan Dos Santos](/.internals/thumbnails/mobile/stormlight/zy10_ishar_by_dan_dos_santos.png "Ishar by Dan dos Santos
-Zy10 Ishar by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy10_ishar_by_dan_dos_santos.png)
-[![Tanavast by Ari Ibarra
-Zz07 Tanavast by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg "Tanavast by Ari Ibarra
-Zz07 Tanavast by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg)
-[![Cultivation and the Nightwatcher by Ari Ibarra
-Zz08 Cultivation and The Nightwatcher by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg "Cultivation and the Nightwatcher by Ari Ibarra
-Zz08 Cultivation and The Nightwatcher by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg)
-[![Odium Reigns by Ari Ibarra
-Zz09 Odium Reigns by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra
-Zz09 Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg)
+[![Zu and Ua'pam by Jessi Chen Liu](/.internals/thumbnails/mobile/stormlight/zu_and_ua_pam_by_jessi_chen_liu.jpg "Zu and Ua'pam by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zu_and_ua_pam_by_jessi_chen_liu.jpg)
+[![Jezrien by Howard Lyon](/.internals/thumbnails/mobile/stormlight/zy01_jezrien_by_howard_lyon.jpg "Jezrien by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy01_jezrien_by_howard_lyon.jpg)
+[![Nale by Karla Ortiz](/.internals/thumbnails/mobile/stormlight/zy02_nale_by_karla_ortiz.png "Nale by Karla Ortiz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy02_nale_by_karla_ortiz.png)
+[![Chanarach by Karla Ortiz](/.internals/thumbnails/mobile/stormlight/zy03_chanarach_by_karla_ortiz.png "Chanarach by Karla Ortiz")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy03_chanarach_by_karla_ortiz.png)
+[![Vev by Howard Lyon](/.internals/thumbnails/mobile/stormlight/zy04_vev_by_howard_lyon.jpg "Vev by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy04_vev_by_howard_lyon.jpg)
+[![Pailiah by Magali Villeneuve](/.internals/thumbnails/mobile/stormlight/zy05_pailiah_by_magali_villeneuve.jpg "Pailiah by Magali Villeneuve")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy05_pailiah_by_magali_villeneuve.jpg)
+[![Shalash by Dan dos Santos](/.internals/thumbnails/mobile/stormlight/zy06_shalash_by_dan_dos_santos.png "Shalash by Dan dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy06_shalash_by_dan_dos_santos.png)
+[![Battar by Miranda Meeks](/.internals/thumbnails/mobile/stormlight/zy07_battar_by_miranda_meeks.png "Battar by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy07_battar_by_miranda_meeks.png)
+[![Kalak by Magali Villeneuve](/.internals/thumbnails/mobile/stormlight/zy08_kalak_by_magali_villeneuve.jpg "Kalak by Magali Villeneuve")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy08_kalak_by_magali_villeneuve.jpg)
+[![Taln by Donato Giancola](/.internals/thumbnails/mobile/stormlight/zy09_taln_by_donato_giancola.png "Taln by Donato Giancola")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy09_taln_by_donato_giancola.png)
+[![Ishar by Dan dos Santos](/.internals/thumbnails/mobile/stormlight/zy10_ishar_by_dan_dos_santos.png "Ishar by Dan dos Santos")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zy10_ishar_by_dan_dos_santos.png)
+[![Tanavast by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg "Tanavast by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz07_tanavast_by_ari_ibarra.jpg)
+[![Cultivation and the Nightwatcher by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg "Cultivation and the Nightwatcher by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz08_cultivation_and_the_nightwatcher_by_ari_ibarra.jpg)
+[![Odium Reigns by Ari Ibarra](/.internals/thumbnails/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg)
+[![Cultivation by Miranda Meeks](/.internals/thumbnails/mobile/stormlight/zZ_cultivation_by_miranda_meeks.png "Cultivation by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zZ_cultivation_by_miranda_meeks.png)
+[![Honor by Donato Giancola](/.internals/thumbnails/mobile/stormlight/zZ_honor_by_donato_giancola.png "Honor by Donato Giancola")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/stormlight/zZ_honor_by_donato_giancola.png)
 
 <a id="the-legend-of-zelda"></a>
 
