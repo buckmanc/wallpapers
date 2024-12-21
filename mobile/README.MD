@@ -1,4 +1,4 @@
-# mobile - 1,924
+# mobile - 1,926
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 83
+- [music](#music) - 85
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -1356,7 +1356,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 83
+## [music](/mobile/music/README.MD) - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1369,6 +1369,8 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Bell Witch - Longing.jpg](/.internals/thumbnails/mobile/music/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bell%20Witch%20-%20Longing.jpg)
 [![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
+[![Bridge City Sinners - Heres to the Devil.jpg](/.internals/thumbnails/mobile/music/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg "Bridge City Sinners - Heres to the Devil.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg)
+[![Bridge City Sinners - In the Age of Doubt.jpg](/.internals/thumbnails/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg "Bridge City Sinners - In the Age of Doubt.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg)
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 [![Darkher - Where the Devil Waits.jpg](/.internals/thumbnails/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)

@@ -1,4 +1,4 @@
-# music - 83
+# music - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -22,6 +22,10 @@
 [![Blood Incantation - Absolute Elsewhere.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
+
+[![Bridge City Sinners - Heres to the Devil.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg "Bridge City Sinners - Heres to the Devil.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg)
+
+[![Bridge City Sinners - In the Age of Doubt.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg "Bridge City Sinners - In the Age of Doubt.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg)
 
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 
