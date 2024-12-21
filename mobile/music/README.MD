@@ -1,4 +1,4 @@
-# music - 85
+# music - 84
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -54,8 +54,6 @@
 [![Gost - Non Paradisi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg "Gost - Non Paradisi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Gost%20-%20Non%20Paradisi.jpg)
 
 [![Green Lung - Black Harvest.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg "Green Lung - Black Harvest.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg)
-
-[![Green Lung - Black Harvest.jpg~RF9415793.TMP](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP "Green Lung - Black Harvest.jpg~RF9415793.TMP")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20Black%20Harvest.jpg~RF9415793.TMP)
 
 [![Green Lung - This Heathen Land.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
 
