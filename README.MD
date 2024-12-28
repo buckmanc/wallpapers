@@ -33,7 +33,7 @@ To make a simple shallow clone:
 git clone --depth 1 https://github.com/buckmanc/wallpapers
 ```
 
-Or to clone only the directories you want in a shallow fashion (for example, to ignore the 3.1G mobile folder):
+Or to clone only the directories you want in a shallow fashion (for example, to ignore the 3.2G mobile folder):
 ```shell
 # shallow clone but download and checkout bupkis
 git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers
