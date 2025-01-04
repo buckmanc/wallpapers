@@ -1,4 +1,4 @@
-# mobile - 1,925
+# mobile - 1,924
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 84
+- [music](#music) - 83
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -1356,7 +1356,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 84
+## [music](/mobile/music/README.MD) - 83
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1432,7 +1432,6 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 [![Varien - Born of Blood, Risen from Ash.png](/.internals/thumbnails/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
 [![Various Artists - A Symphony of Screams Vol.1.jpg](/.internals/thumbnails/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
-[![Vévaki - Fórnspeki.jpg](/.internals/thumbnails/mobile/music/Vévaki%20-%20Fórnspeki.jpg "Vévaki - Fórnspeki.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg)
 [![Wardruna - Hibjørnen.jpg](/.internals/thumbnails/mobile/music/Wardruna%20-%20Hibjørnen.jpg "Wardruna - Hibjørnen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Hibjørnen.jpg)
 [![Wardruna - Lyfjaberg.jpg](/.internals/thumbnails/mobile/music/Wardruna%20-%20Lyfjaberg.jpg "Wardruna - Lyfjaberg.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Lyfjaberg.jpg)
 [![Waveshaper - Hearts.png](/.internals/thumbnails/mobile/music/Waveshaper%20-%20Hearts.png "Waveshaper - Hearts.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Waveshaper%20-%20Hearts.png)

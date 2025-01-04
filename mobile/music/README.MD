@@ -1,4 +1,4 @@
-# music - 84
+# music - 83
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -148,8 +148,6 @@
 [![Varien - Born of Blood, Risen from Ash.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
 
 [![Various Artists - A Symphony of Screams Vol.1.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
-
-[![Vévaki - Fórnspeki.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg "Vévaki - Fórnspeki.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Vévaki%20-%20Fórnspeki.jpg)
 
 [![Wardruna - Hibjørnen.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Hibjørnen.jpg "Wardruna - Hibjørnen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wardruna%20-%20Hibjørnen.jpg)
 
