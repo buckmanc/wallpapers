@@ -1,4 +1,4 @@
-# the legend of zelda - 199
+# the legend of zelda - 201
 [![136703.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
 
 [![20231209_105546.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
@@ -81,6 +81,8 @@ Charged Armor by Werlosk
 [![eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg "eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg)
 
 [![fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg "fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg)
+
+[![FB_IMG_1735952911109.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg "FB_IMG_1735952911109.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg)
 
 [![FItNNLIagAAfobf.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg "FItNNLIagAAfobf.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg)
 
@@ -478,6 +480,8 @@ The Legend Of Zelda The Pig by Nick Derington
 [![tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg "tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg)
 
 [![tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png "tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png)
+
+[![Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg "Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg)
 
 [![Zelda Link Reincarnation by Sarcastic Sketches](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda_Link_Reincarnation_by_Sarcastic_Sketches.png "Zelda Link Reincarnation by Sarcastic Sketches")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda_Link_Reincarnation_by_Sarcastic_Sketches.png)\
 Zelda Link Reincarnation by Sarcastic Sketches

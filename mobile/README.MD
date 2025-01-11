@@ -1,4 +1,4 @@
-# mobile - 1,924
+# mobile - 1,931
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -29,12 +29,13 @@
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
 - [pokemon patterns](#pokemon-patterns) - 40
+- [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 9
 - [soulsborne](#soulsborne) - 29
 - [star trek](#star-trek) - 8
 - [stormlight](#stormlight) - 65
-- [the legend of zelda](#the-legend-of-zelda) - 199
+- [the legend of zelda](#the-legend-of-zelda) - 201
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 71
 - [tolkien](#tolkien) - 91
@@ -1726,6 +1727,15 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 [![wp4792132-wooloo-hd-wallpapers.jpg](/.internals/thumbnails/mobile/pokemon%20patterns/wp4792132-wooloo-hd-wallpapers.jpg "wp4792132-wooloo-hd-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wp4792132-wooloo-hd-wallpapers.jpg)
 [![wp4792135-wooloo-hd-wallpapers.jpg](/.internals/thumbnails/mobile/pokemon%20patterns/wp4792135-wooloo-hd-wallpapers.jpg "wp4792135-wooloo-hd-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/pokemon%20patterns/wp4792135-wooloo-hd-wallpapers.jpg)
 
+<a id="resident-evil"></a>
+
+## [resident evil](/mobile/resident%20evil/README.MD) - 5
+[![143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg](/.internals/thumbnails/mobile/resident%20evil/143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg "143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg)
+[![143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg](/.internals/thumbnails/mobile/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg "143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg)
+[![2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg](/.internals/thumbnails/mobile/resident%20evil/2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg "2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg)
+[![2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg](/.internals/thumbnails/mobile/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg "2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg)
+[![2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg](/.internals/thumbnails/mobile/resident%20evil/2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg "2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg)
+
 <a id="sea-of-thieves"></a>
 
 ## [sea of thieves](/mobile/sea%20of%20thieves/README.MD) - 25
@@ -1892,7 +1902,7 @@ Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wal
 
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 199
+## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 201
 [![136703.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
 [![20231209_105546.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
 [![38e34d7cfb1e9bf0b092208c104087d0.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg "38e34d7cfb1e9bf0b092208c104087d0.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg)
@@ -1927,6 +1937,7 @@ Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/Wal
 [![E67dj_HXsAUBhex.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg "E67dj_HXsAUBhex.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg)
 [![eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg "eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg)
 [![fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg "fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg)
+[![FB_IMG_1735952911109.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg "FB_IMG_1735952911109.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg)
 [![FItNNLIagAAfobf.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg "FItNNLIagAAfobf.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg)
 [![Foov0-_acAAwW3g.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Foov0-_acAAwW3g.jpg "Foov0-_acAAwW3g.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Foov0-_acAAwW3g.jpg)
 [![Fv5uN-vX0AEN1vY.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Fv5uN-vX0AEN1vY.jpeg "Fv5uN-vX0AEN1vY.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Fv5uN-vX0AEN1vY.jpeg)
@@ -2081,6 +2092,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg "tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_588ff0e6ca7474124fc54c74af7cf4ae_fdb1d9c8_2048.jpg)
 [![tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg "tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_72f9d0b7f91cc7d46ad30e5890b23567_a3ece895_1280.jpg)
 [![tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png "tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/tumblr_8adbe9546d21ebd5b4541cedfb84ba31_51658fa7_1280.png)
+[![Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg "Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Wallpaper_TheLegendOfZelda_EchoesOfWisdom_Stargazing_(1080x1920).jpg)
 [![Zelda Link Reincarnation by Sarcastic Sketches](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Zelda_Link_Reincarnation_by_Sarcastic_Sketches.png "Zelda Link Reincarnation by Sarcastic Sketches")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda_Link_Reincarnation_by_Sarcastic_Sketches.png)
 [![Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg "Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.2839737.jpg)
 [![Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg "Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/the%20legend%20of%20zelda/Zelda.no.Densetsu.Breath.of.the.Wild.full.3129913.jpg)
