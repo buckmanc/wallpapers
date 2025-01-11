@@ -1,4 +1,4 @@
-# desktop - 657
+# desktop - 655
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -8,7 +8,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 115
+- [misc](#misc) - 113
 - [misc anato finnstark](#misc-anato-finnstark) - 4
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
@@ -261,9 +261,8 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 115
+## [misc](/desktop/misc/README.MD) - 113
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
-[![85384ef1f61e21f1_pxfuel (26).jpg](/.internals/thumbnails/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 [![85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg](/.internals/thumbnails/desktop/misc/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg "85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg](/.internals/thumbnails/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg "85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg)
@@ -335,7 +334,6 @@
 [![c3cb2836f20a34bf_undefined - Imgur (5).jpg](/.internals/thumbnails/desktop/misc/c3cb2836f20a34bf_undefined%20-%20Imgur%20(5).jpg "c3cb2836f20a34bf_undefined - Imgur (5).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c3cb2836f20a34bf_undefined%20-%20Imgur%20(5).jpg)
 [![c4042feb309ccf73_bliss_dark.png](/.internals/thumbnails/desktop/misc/c4042feb309ccf73_bliss_dark.png "c4042feb309ccf73_bliss_dark.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4042feb309ccf73_bliss_dark.png)
 [![c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg](/.internals/thumbnails/desktop/misc/c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg "c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg)
-[![c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg](/.internals/thumbnails/desktop/misc/c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg "c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg)
 [![c46d4eb333133bd0_JoNHc6K.jpg](/.internals/thumbnails/desktop/misc/c46d4eb333133bd0_JoNHc6K.jpg "c46d4eb333133bd0_JoNHc6K.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c46d4eb333133bd0_JoNHc6K.jpg)
 [![c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg](/.internals/thumbnails/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg "c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg)
 [![c4c66f6d307bd230_pxfuel (23).jpg](/.internals/thumbnails/desktop/misc/c4c66f6d307bd230_pxfuel%20(23).jpg "c4c66f6d307bd230_pxfuel (23).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4c66f6d307bd230_pxfuel%20(23).jpg)
@@ -371,7 +369,7 @@
 [![d74820773d12bf91_undefined - Imgur (3).jpg](/.internals/thumbnails/desktop/misc/d74820773d12bf91_undefined%20-%20Imgur%20(3).jpg "d74820773d12bf91_undefined - Imgur (3).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d74820773d12bf91_undefined%20-%20Imgur%20(3).jpg)
 [![d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg](/.internals/thumbnails/desktop/misc/d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg "d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8d82721f0d39d9c_RDT_20240928_0558247233424640237907226.jpg)
 [![D8fb9b191d0770e0 Forest Spirit by J Witless](/.internals/thumbnails/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png "D8fb9b191d0770e0 Forest Spirit by J Witless")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png)
-[![db9869b0316366b6_red moon mountains tree.jpg](/.internals/thumbnails/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg "db9869b0316366b6_red moon mountains tree.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg)
+[![db9869f0306366b6_red-planet-moon-4k-zj.jpg](/.internals/thumbnails/desktop/misc/db9869f0306366b6_red-planet-moon-4k-zj.jpg "db9869f0306366b6_red-planet-moon-4k-zj.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869f0306366b6_red-planet-moon-4k-zj.jpg)
 [![e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg](/.internals/thumbnails/desktop/misc/e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg "e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg)
 [![e3831c5ce7290ed6_wallup-229259.jpg](/.internals/thumbnails/desktop/misc/e3831c5ce7290ed6_wallup-229259.jpg "e3831c5ce7290ed6_wallup-229259.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3831c5ce7290ed6_wallup-229259.jpg)
 [![E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e](/.internals/thumbnails/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png "E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring4 C33719acf198d1bd66acdd0aa98d712e")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e3e1559d06c75887___gloria_sobble_and_wooloo_pokemon_and_1_more_drawn_by_flyaspring4__c33719acf198d1bd66acdd0aa98d712e.png)

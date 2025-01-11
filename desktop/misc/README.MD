@@ -1,7 +1,5 @@
-# misc - 115
+# misc - 113
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
-
-[![85384ef1f61e21f1_pxfuel (26).jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg "85384ef1f61e21f1_pxfuel (26).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85384ef1f61e21f1_pxfuel%20(26).jpg)
 
 [![85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg "85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg)
 
@@ -148,8 +146,6 @@ Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn
 
 [![c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg "c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20240928_054404525679176219367488.jpg)
 
-[![c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg "c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c4516f391f46d589_RDT_20250108_2043118530488800779532382.jpg)
-
 [![c46d4eb333133bd0_JoNHc6K.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c46d4eb333133bd0_JoNHc6K.jpg "c46d4eb333133bd0_JoNHc6K.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c46d4eb333133bd0_JoNHc6K.jpg)
 
 [![c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg "c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c48e6b63b78e4874_7114b7d95362aa4273b803f6c7f68ea4.jpeg)
@@ -223,7 +219,7 @@ Cecf63303eb13813 Fantasy Deer by Martina Stipan
 [![D8fb9b191d0770e0 Forest Spirit by J Witless](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png "D8fb9b191d0770e0 Forest Spirit by J Witless")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/d8fb9b191d0770e0_Forest%20Spirit%20by%20j-witless.png)\
 D8fb9b191d0770e0 Forest Spirit by J Witless
 
-[![db9869b0316366b6_red moon mountains tree.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg "db9869b0316366b6_red moon mountains tree.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869b0316366b6_red%20moon%20mountains%20tree.jpg)
+[![db9869f0306366b6_red-planet-moon-4k-zj.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869f0306366b6_red-planet-moon-4k-zj.jpg "db9869f0306366b6_red-planet-moon-4k-zj.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/db9869f0306366b6_red-planet-moon-4k-zj.jpg)
 
 [![e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg "e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/e060e0730f1f1f1f_1678999354_sneg-top-p-foni-s-prizrakami-21.jpg)
 
