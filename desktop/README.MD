@@ -1,4 +1,4 @@
-# desktop - 655
+# desktop - 656
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -12,7 +12,7 @@
 - [misc anato finnstark](#misc-anato-finnstark) - 4
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
-- [resident evil](#resident-evil) - 4
+- [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
 - [skyrim art](#skyrim-art) - 5
@@ -408,11 +408,12 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/W
 
 <a id="resident-evil"></a>
 
-## [resident evil](/desktop/resident%20evil/README.MD) - 4
-[![143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg](/.internals/thumbnails/desktop/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg "143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg)
+## [resident evil](/desktop/resident%20evil/README.MD) - 5
 [![2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg](/.internals/thumbnails/desktop/resident%20evil/2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg "2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg)
 [![2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg](/.internals/thumbnails/desktop/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg "2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg)
 [![89c8b1623675b7c5_peakpx (8).jpg](/.internals/thumbnails/desktop/resident%20evil/89c8b1623675b7c5_peakpx%20(8).jpg "89c8b1623675b7c5_peakpx (8).jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/89c8b1623675b7c5_peakpx%20(8).jpg)
+[![resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg](/.internals/thumbnails/desktop/resident%20evil/resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg "resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg)
+[![resident-evil-village-uhdpaper.com-4K-5.2051.jpg](/.internals/thumbnails/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg "resident-evil-village-uhdpaper.com-4K-5.2051.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg)
 
 <a id="sea-of-thieves"></a>
 

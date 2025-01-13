@@ -1,4 +1,4 @@
-# mobile - 1,931
+# mobile - 1,933
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,12 +24,12 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 83
+- [music](#music) - 84
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
 - [pokemon patterns](#pokemon-patterns) - 40
-- [resident evil](#resident-evil) - 5
+- [resident evil](#resident-evil) - 6
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 9
 - [soulsborne](#soulsborne) - 29
@@ -1357,7 +1357,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 83
+## [music](/mobile/music/README.MD) - 84
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1429,6 +1429,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
+[![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 [![Varien - Born of Blood, Risen from Ash.png](/.internals/thumbnails/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
@@ -1729,12 +1730,13 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 <a id="resident-evil"></a>
 
-## [resident evil](/mobile/resident%20evil/README.MD) - 5
+## [resident evil](/mobile/resident%20evil/README.MD) - 6
 [![143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg](/.internals/thumbnails/mobile/resident%20evil/143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg "143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/143109-1080x2560-mobile-hd-resident-evil-village-wallpaper.jpg)
-[![143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg](/.internals/thumbnails/mobile/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg "143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/143173-1920x1080-desktop-1080p-resident-evil-village-wallpaper.jpg)
 [![2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg](/.internals/thumbnails/mobile/resident%20evil/2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg "2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2933-1440x2560-samsung-hd-resident-evil-village-wallpaper-photo.jpg)
 [![2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg](/.internals/thumbnails/mobile/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg "2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg)
 [![2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg](/.internals/thumbnails/mobile/resident%20evil/2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg "2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/2968-1335x2048-phone-hd-resident-evil-village-background-image.jpg)
+[![resident-evil-8-village-4k-phone-wallpaper-2160x3840-uhdpaper.com-53.1_a.jpg](/.internals/thumbnails/mobile/resident%20evil/resident-evil-8-village-4k-phone-wallpaper-2160x3840-uhdpaper.com-53.1_a.jpg "resident-evil-8-village-4k-phone-wallpaper-2160x3840-uhdpaper.com-53.1_a.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/resident-evil-8-village-4k-phone-wallpaper-2160x3840-uhdpaper.com-53.1_a.jpg)
+[![resident-evil-village-uhdpaper.com-4K-5.2051.jpg](/.internals/thumbnails/mobile/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg "resident-evil-village-uhdpaper.com-4K-5.2051.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg)
 
 <a id="sea-of-thieves"></a>
 
