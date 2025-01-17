@@ -1,4 +1,4 @@
-# music - 84
+# music - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -164,6 +164,8 @@
 [![Wraithfyre - Queen of the Blighted Throne.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg "Wraithfyre - Queen of the Blighted Throne.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg)
 
 [![Yosuf - Butterfly.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Yosuf%20-%20Butterfly.jpg "Yosuf - Butterfly.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Yosuf%20-%20Butterfly.jpg)
+
+[![Znous - Aleph.Beth.Gimel.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Znous%20-%20Aleph.Beth.Gimel.jpg "Znous - Aleph.Beth.Gimel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Znous%20-%20Aleph.Beth.Gimel.jpg)
 
 [![ZØMB - PEW PEW.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/ZØMB%20-%20PEW%20PEW.jpg "ZØMB - PEW PEW.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/ZØMB%20-%20PEW%20PEW.jpg)
 

@@ -1,4 +1,4 @@
-# mobile - 1,933
+# mobile - 1,934
 - [castlevania](#castlevania) - 116
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 84
+- [music](#music) - 85
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -1357,7 +1357,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 84
+## [music](/mobile/music/README.MD) - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1441,6 +1441,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Windhand - Levitation Sessions _Live_.jpg](/.internals/thumbnails/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg "Windhand - Levitation Sessions _Live_.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Windhand%20-%20Levitation%20Sessions%20_Live_.jpg)
 [![Wraithfyre - Queen of the Blighted Throne.jpg](/.internals/thumbnails/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg "Wraithfyre - Queen of the Blighted Throne.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Wraithfyre%20-%20Queen%20of%20the%20Blighted%20Throne.jpg)
 [![Yosuf - Butterfly.jpg](/.internals/thumbnails/mobile/music/Yosuf%20-%20Butterfly.jpg "Yosuf - Butterfly.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Yosuf%20-%20Butterfly.jpg)
+[![Znous - Aleph.Beth.Gimel.jpg](/.internals/thumbnails/mobile/music/Znous%20-%20Aleph.Beth.Gimel.jpg "Znous - Aleph.Beth.Gimel.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Znous%20-%20Aleph.Beth.Gimel.jpg)
 [![ZØMB - PEW PEW.jpg](/.internals/thumbnails/mobile/music/ZØMB%20-%20PEW%20PEW.jpg "ZØMB - PEW PEW.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/ZØMB%20-%20PEW%20PEW.jpg)
 
 <a id="nintendo"></a>
