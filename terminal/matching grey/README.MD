@@ -1,5 +1,19 @@
-# matching grey - 76
+# matching grey - 83
 [![buer_sigil_tpdesign06.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png "buer_sigil_tpdesign06.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png)
+
+[![cassette.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cassette.png "cassette.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cassette.png)
+
+[![Castlevania Glyph Agartha by Pyderek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_agartha_by_pyderek.png)\
+Castlevania Glyph Agartha by Pyderek
+
+[![Castlevania Glyph Dominus Agony by Pyderek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_agony_by_pyderek.png)\
+Castlevania Glyph Dominus Agony by Pyderek
+
+[![Castlevania Glyph Dominus Anger by Pyderek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_anger_by_pyderek.png)\
+Castlevania Glyph Dominus Anger by Pyderek
+
+[![Castlevania Glyph Dominus Hatred by Pyderek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_hatred_by_pyderek.png "Castlevania Glyph Dominus Hatred by Pyderek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_hatred_by_pyderek.png)\
+Castlevania Glyph Dominus Hatred by Pyderek
 
 [![corner_knot.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png)
 
@@ -8,6 +22,8 @@
 [![cosmere.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png "cosmere.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png)
 
 [![fallout-vault_boy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png "fallout-vault_boy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png)
+
+[![floppy-disk.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy-disk.png "floppy-disk.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy-disk.png)
 
 [![full_metal_alchemist-blood_seal_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png "full_metal_alchemist-blood_seal_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png)
 
@@ -18,6 +34,8 @@
 [![github-svgrepo-com.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github-svgrepo-com.png "github-svgrepo-com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github-svgrepo-com.png)
 
 [![halo-monitor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png "halo-monitor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png)
+
+[![happy-birthday.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy-birthday.png "happy-birthday.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy-birthday.png)
 
 [![magic_circle_01.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png)
 
