@@ -1,5 +1,7 @@
-# matching grey - 83
-[![buer_sigil_tpdesign06.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png "buer_sigil_tpdesign06.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_tpdesign06.png)
+# matching grey - 100
+[![20_ponted_cross_graph.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png)
+
+[![buer_sigil_lineartboutique.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_lineartboutique.png)
 
 [![cassette.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cassette.png "cassette.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cassette.png)
 
@@ -15,27 +17,39 @@ Castlevania Glyph Dominus Anger by Pyderek
 [![Castlevania Glyph Dominus Hatred by Pyderek](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_hatred_by_pyderek.png "Castlevania Glyph Dominus Hatred by Pyderek")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_glyph_dominus_hatred_by_pyderek.png)\
 Castlevania Glyph Dominus Hatred by Pyderek
 
+[![castlevania_silhouette_pngfind.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_silhouette_pngfind.png "castlevania_silhouette_pngfind.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/castlevania_silhouette_pngfind.png)
+
 [![corner_knot.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/corner_knot.png)
 
-[![cosmere-ghostbloods.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere-ghostbloods.png "cosmere-ghostbloods.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere-ghostbloods.png)
+[![cosmere_ghostbloods.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere_ghostbloods.png)
 
 [![cosmere.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png "cosmere.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/cosmere.png)
 
-[![fallout-vault_boy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png "fallout-vault_boy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout-vault_boy.png)
+[![elder_scrolls_mages_guild_thisonehaswares.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png)
 
-[![floppy-disk.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy-disk.png "floppy-disk.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy-disk.png)
+[![elder_scrolls_necromancy_sigil_thisonehaswares.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 
-[![full_metal_alchemist-blood_seal_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png "full_metal_alchemist-blood_seal_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-blood_seal_rosedesignestudio.png)
+[![equilateral_triangle_heights.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/equilateral_triangle_heights.png "equilateral_triangle_heights.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/equilateral_triangle_heights.png)
 
-[![full_metal_alchemist-flamel.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-flamel.png "full_metal_alchemist-flamel.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-flamel.png)
+[![esoteric_moon_artstudiodesignsvg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/esoteric_moon_artstudiodesignsvg.png "esoteric_moon_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/esoteric_moon_artstudiodesignsvg.png)
 
-[![full_metal_alchemist-ouroboros.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-ouroboros.png "full_metal_alchemist-ouroboros.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist-ouroboros.png)
+[![fallout_vault_boy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout_vault_boy.png "fallout_vault_boy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/fallout_vault_boy.png)
 
-[![github-svgrepo-com.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github-svgrepo-com.png "github-svgrepo-com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github-svgrepo-com.png)
+[![floppy_disk.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy_disk.png "floppy_disk.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/floppy_disk.png)
 
-[![halo-monitor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png "halo-monitor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo-monitor.png)
+[![full_metal_alchemist_blood_seal_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 
-[![happy-birthday.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy-birthday.png "happy-birthday.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy-birthday.png)
+[![full_metal_alchemist_flamel.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_flamel.png)
+
+[![full_metal_alchemist_ouroboros.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/full_metal_alchemist_ouroboros.png)
+
+[![github_svgrepo_com.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github_svgrepo_com.png "github_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github_svgrepo_com.png)
+
+[![halo_monitor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo_monitor.png "halo_monitor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo_monitor.png)
+
+[![happy_birthday.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy_birthday.png "happy_birthday.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy_birthday.png)
+
+[![horizontale_coördinatenstelsel.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/horizontale_coördinatenstelsel.png "horizontale_coördinatenstelsel.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/horizontale_coördinatenstelsel.png)
 
 [![magic_circle_01.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_01.png)
 
@@ -59,6 +73,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![magic_circle_11_loutecrea.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_11_loutecrea.png "magic_circle_11_loutecrea.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_11_loutecrea.png)
 
+[![magic_circle_12_artstudiodesignsvg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_12_artstudiodesignsvg.png "magic_circle_12_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_12_artstudiodesignsvg.png)
+
 [![magic_circle_7003_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7003_etechdigital.png)
 
 [![magic_circle_7005_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7005_etechdigital.png)
@@ -73,15 +89,17 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![magic_circle_7013_etechdigital.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7013_etechdigital.png "magic_circle_7013_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_7013_etechdigital.png)
 
-[![magic_circle-doctor_strange.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-doctor_strange.png "magic_circle-doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-doctor_strange.png)
+[![magic_circle_doctor_strange.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_doctor_strange.png "magic_circle_doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_doctor_strange.png)
 
-[![magic_circle-full_metal_alchemist_02_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_02_rosedesignestudio.png "magic_circle-full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_02_rosedesignestudio.png)
+[![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 
-[![magic_circle-full_metal_alchemist_03_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_03_rosedesignestudio.png "magic_circle-full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_03_rosedesignestudio.png)
+[![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 
-[![magic_circle-full_metal_alchemist_04_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_04_rosedesignestudio.png "magic_circle-full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist_04_rosedesignestudio.png)
+[![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
 
-[![magic_circle-full_metal_alchemist.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist.png "magic_circle-full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle-full_metal_alchemist.png)
+[![magic_circle_full_metal_alchemist.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist.png "magic_circle_full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_circle_full_metal_alchemist.png)
+
+[![magic_hexagram_sum50.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_hexagram_sum50.png "magic_hexagram_sum50.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/magic_hexagram_sum50.png)
 
 [![mario_bob_omb.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mario_bob_omb.png "mario_bob_omb.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mario_bob_omb.png)
 
@@ -89,13 +107,23 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![mario_star.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mario_star.png "mario_star.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mario_star.png)
 
-[![mistborn-atium.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mistborn-atium.png "mistborn-atium.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mistborn-atium.png)
+[![mistborn_atium.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mistborn_atium.png "mistborn_atium.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mistborn_atium.png)
 
 [![moon_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_1.png "moon_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_1.png)
 
 [![moon_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_2.png "moon_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_2.png)
 
+[![moon_buds_artstudiodesignsvg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_buds_artstudiodesignsvg.png "moon_buds_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_buds_artstudiodesignsvg.png)
+
+[![moon_crystals_artstudiodesignsvg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_crystals_artstudiodesignsvg.png "moon_crystals_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/moon_crystals_artstudiodesignsvg.png)
+
 [![mountain.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mountain.png "mountain.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mountain.png)
+
+[![mushrooms_floral_book_5_redearthandgumtrees.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_book_5_redearthandgumtrees.png "mushrooms_floral_book_5_redearthandgumtrees.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_book_5_redearthandgumtrees.png)
+
+[![mushrooms_floral_mushroom_4_redearthandgumtrees.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_mushroom_4_redearthandgumtrees.png "mushrooms_floral_mushroom_4_redearthandgumtrees.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_mushroom_4_redearthandgumtrees.png)
+
+[![mushrooms_floral_mushroom_8_redearthandgumtrees.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 
 [![painted_heart.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png)
 
@@ -105,9 +133,13 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![pokeball.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/pokeball.png)
 
+[![raven_animapins.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/raven_animapins.png "raven_animapins.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/raven_animapins.png)
+
 [![samus_helm.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/samus_helm.png)
 
 [![shy_guy.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/shy_guy.png "shy_guy.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/shy_guy.png)
+
+[![skeleton_of_a_cat_diagram_ver_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skeleton_of_a_cat_diagram_ver_2.png)
 
 [![skyrim.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyrim.png "skyrim.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/skyrim.png)
 
@@ -119,59 +151,61 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![space_invader.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/space_invader.png "space_invader.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/space_invader.png)
 
-[![stargate-milkyway.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-milkyway.png "stargate-milkyway.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-milkyway.png)
+[![stargate_milkyway.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate_milkyway.png "stargate_milkyway.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate_milkyway.png)
 
-[![stargate-pegasus.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-pegasus.png "stargate-pegasus.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate-pegasus.png)
+[![stargate_pegasus.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate_pegasus.png "stargate_pegasus.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stargate_pegasus.png)
 
-[![star-trek-klingon-symbol.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star-trek-klingon-symbol.png "star-trek-klingon-symbol.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star-trek-klingon-symbol.png)
+[![star_trek_klingon_symbol.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star_trek_klingon_symbol.png)
 
-[![star-trek-starfleet-insignia.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star-trek-starfleet-insignia.png "star-trek-starfleet-insignia.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star-trek-starfleet-insignia.png)
+[![star_trek_starfleet_insignia.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/star_trek_starfleet_insignia.png)
 
-[![stormlight_glyph-kholin.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-kholin.png "stormlight_glyph-kholin.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-kholin.png)
+[![stormlight_glyph_kholin.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_kholin.png)
 
-[![stormlight_glyph-roshar.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-roshar.png "stormlight_glyph-roshar.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-roshar.png)
+[![stormlight_glyph_roshar.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_roshar.png)
 
-[![stormlight_glyph-thath-justice.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-thath-justice.png "stormlight_glyph-thath-justice.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-thath-justice.png)
+[![stormlight_glyph_thath_justice.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_thath_justice.png)
 
-[![stormlight_glyph-truthwatchers.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-truthwatchers.png "stormlight_glyph-truthwatchers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph-truthwatchers.png)
+[![stormlight_glyph_truthwatchers.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_truthwatchers.png "stormlight_glyph_truthwatchers.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_glyph_truthwatchers.png)
 
 [![stormlight.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight.png "stormlight.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight.png)
 
-[![stormlight-simple.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight-simple.png "stormlight-simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight-simple.png)
+[![stormlight_simple.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_simple.png)
 
-[![tribal_animals_tattoo_designs_Y.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tribal_animals_tattoo_designs_Y.png "tribal_animals_tattoo_designs_Y.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tribal_animals_tattoo_designs_Y.png)
+[![tree_of_life_svg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tree_of_life_svg.png)
 
-[![triforce-outline.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-outline.png "triforce-outline.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-outline.png)
+[![tribal_animals_tattoo_designs_y.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tribal_animals_tattoo_designs_y.png)
 
-[![triforce-simple.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-simple.png "triforce-simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-simple.png)
+[![triforce_outline.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_outline.png "triforce_outline.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_outline.png)
 
-[![triforce-splot.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-splot.png "triforce-splot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-splot.png)
+[![triforce_simple.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_simple.png "triforce_simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_simple.png)
 
-[![triforce-stabby_wingaling.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-stabby_wingaling.png "triforce-stabby_wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-stabby_wingaling.png)
+[![triforce_splot.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_splot.png "triforce_splot.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_splot.png)
 
-[![triforce-wingaling.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-wingaling.png "triforce-wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce-wingaling.png)
+[![triforce_stabby_wingaling.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_stabby_wingaling.png "triforce_stabby_wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_stabby_wingaling.png)
+
+[![triforce_wingaling.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_wingaling.png "triforce_wingaling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_wingaling.png)
 
 [![Twlight Portal by Ohcooldesigns](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/twlight_portal_by_ohcooldesigns.png "Twlight Portal by Ohcooldesigns")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/twlight_portal_by_ohcooldesigns.png)\
 Twlight Portal by Ohcooldesigns
 
-[![vegvisir.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir.png "vegvisir.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir.png)
+[![vegvisir_and_runes_parsarart.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/vegvisir_and_runes_parsarart.png)
 
-[![zelda-botw_sheikah_eye.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_sheikah_eye.png "zelda-botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_sheikah_eye.png)
+[![zelda_botw_sheikah_eye.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_botw_sheikah_eye.png "zelda_botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_botw_sheikah_eye.png)
 
-[![zelda-botw_stabby_z.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_stabby_z.png "zelda-botw_stabby_z.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-botw_stabby_z.png)
+[![zelda_botw_stabby_z.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_botw_stabby_z.png "zelda_botw_stabby_z.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_botw_stabby_z.png)
 
-[![Zelda Collection 02 Arts and Artifacts by Japatonic](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-collection_02-arts_and_artifacts_by_japatonic.png "Zelda Collection 02 Arts and Artifacts by Japatonic")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-collection_02-arts_and_artifacts_by_japatonic.png)\
+[![Zelda Collection 02 Arts and Artifacts by Japatonic](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_collection_02_arts_and_artifacts_by_japatonic.png "Zelda Collection 02 Arts and Artifacts by Japatonic")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_collection_02_arts_and_artifacts_by_japatonic.png)\
 Zelda Collection 02 Arts and Artifacts by Japatonic
 
-[![Zelda Collection 03 Encylopedia by Japatonic](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-collection_03-encylopedia_by_japatonic.png "Zelda Collection 03 Encylopedia by Japatonic")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-collection_03-encylopedia_by_japatonic.png)\
+[![Zelda Collection 03 Encylopedia by Japatonic](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_collection_03_encylopedia_by_japatonic.png "Zelda Collection 03 Encylopedia by Japatonic")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_collection_03_encylopedia_by_japatonic.png)\
 Zelda Collection 03 Encylopedia by Japatonic
 
-[![zelda-hylian_shield.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-hylian_shield.png "zelda-hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-hylian_shield.png)
+[![zelda_hylian_shield.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_hylian_shield.png "zelda_hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_hylian_shield.png)
 
-[![Zelda Skyward Sword Gate Of Time by Tamalesyatole](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-skyward_sword_gate_of_time_by_tamalesyatole.png)\
+[![Zelda Skyward Sword Gate Of Time by Tamalesyatole](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png)\
 Zelda Skyward Sword Gate Of Time by Tamalesyatole
 
-[![zelda-totk_ouroboros.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-totk_ouroboros.png "zelda-totk_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda-totk_ouroboros.png)
+[![zelda_totk_ouroboros.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/zelda_totk_ouroboros.png)
 
 
 

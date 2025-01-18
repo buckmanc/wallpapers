@@ -69,3 +69,5 @@ zz_castle_draculas_castle_by_ilo275.jpg Zz Castle Draculas Castle by Ilo275
 zz_castlevania_by_ömer_tunç.jpg Zz Castlevania by Ömer Tunç
 Dead_by_Daylight_-_Dracula_Wallpaper_-_01.webp Dead by Daylight   Dracula Wallpaper   01
 Dead_by_Daylight_-_Dracula_Wallpaper_-_01.png Dead by Daylight   Dracula Wallpaper   01
+alucard_dhampir_prince_by_nina_matsumoto.png Alucard Dhampir Prince by Nina Matsumoto
+dracula_crimson_eclipse_by_ian_wilding.png Dracula Crimson Eclipse by Ian Wilding

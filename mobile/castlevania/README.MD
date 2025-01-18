@@ -1,4 +1,4 @@
-# castlevania - 116
+# castlevania - 118
 [![00_ak_cv_09-castlevania.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 
 [![CastleVania Chronicles by Ayami Kojima](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)\
@@ -158,6 +158,9 @@ Alucard by 天由 (tenyo0819)
 [![ Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg " Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg)\
  Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040
 
+[![Alucard Dhampir Prince by Nina Matsumoto](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard_dhampir_prince_by_nina_matsumoto.png "Alucard Dhampir Prince by Nina Matsumoto")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard_dhampir_prince_by_nina_matsumoto.png)\
+Alucard Dhampir Prince by Nina Matsumoto
+
 [![An Rf Art Nouveau Alucard by Ranefea](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg)\
 An Rf Art Nouveau Alucard by Ranefea
 
@@ -199,6 +202,9 @@ Dracula by Naranbaatar Ganbold
 
 [![ Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg " Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg)\
  Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b
+
+[![Dracula Crimson Eclipse by Ian Wilding](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_crimson_eclipse_by_ian_wilding.png "Dracula Crimson Eclipse by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_crimson_eclipse_by_ian_wilding.png)\
+Dracula Crimson Eclipse by Ian Wilding
 
 [![CastleVania Order of Ecclesia by Masaki Hirooka](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)\
 CastleVania Order of Ecclesia by Masaki Hirooka

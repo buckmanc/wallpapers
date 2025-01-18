@@ -1,5 +1,5 @@
-# mobile - 1,934
-- [castlevania](#castlevania) - 116
+# mobile - 1,936
+- [castlevania](#castlevania) - 118
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -43,7 +43,7 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/README.MD) - 116
+## [castlevania](/mobile/castlevania/README.MD) - 118
 [![00_ak_cv_09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/00_ak_cv_09-castlevania.jpg "00_ak_cv_09-castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_09-castlevania.jpg)
 [![CastleVania Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_10_-_okwphcm.png "CastleVania Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_10_-_okwphcm.png)
 [![CastleVania Dracula X Chronicles by Ayami Kojima](/.internals/thumbnails/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png "CastleVania Dracula X Chronicles by Ayami Kojima")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/00_ak_cv_12_-_k4ddwli.png)
@@ -109,6 +109,7 @@
 [![ Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405](/.internals/thumbnails/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg " Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg)
 [![ Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f](/.internals/thumbnails/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg " Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg)
 [![ Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040](/.internals/thumbnails/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg " Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg)
+[![Alucard Dhampir Prince by Nina Matsumoto](/.internals/thumbnails/mobile/castlevania/alucard_dhampir_prince_by_nina_matsumoto.png "Alucard Dhampir Prince by Nina Matsumoto")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/alucard_dhampir_prince_by_nina_matsumoto.png)
 [![An Rf Art Nouveau Alucard by Ranefea](/.internals/thumbnails/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/an_rf_art_nouveau_alucard_by_ranefea.jpg)
 [![ASVpzIy.jpeg](/.internals/thumbnails/mobile/castlevania/ASVpzIy.jpeg "ASVpzIy.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ASVpzIy.jpeg)
 [![Carmilla by Donsveertje](/.internals/thumbnails/mobile/castlevania/Carmilla%20by%20Donsveertje.png "Carmilla by Donsveertje")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Carmilla%20by%20Donsveertje.png)
@@ -125,6 +126,7 @@
 [![Dracula by Katie Silva](/.internals/thumbnails/mobile/castlevania/Dracula_by_katie_silva.jpg "Dracula by Katie Silva")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/Dracula_by_katie_silva.jpg)
 [![Dracula by Naranbaatar Ganbold](/.internals/thumbnails/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg "Dracula by Naranbaatar Ganbold")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula%20by%20naranbaatar-ganbold.jpg)
 [![ Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b](/.internals/thumbnails/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg " Dracula Castlevania and 1 More Drawn by Amber Goodhart 87d8b78dcf2c98cab8aed36920917e5b")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/__dracula_castlevania_and_1_more_drawn_by_amber_goodhart__87d8b78dcf2c98cab8aed36920917e5b.jpg)
+[![Dracula Crimson Eclipse by Ian Wilding](/.internals/thumbnails/mobile/castlevania/dracula_crimson_eclipse_by_ian_wilding.png "Dracula Crimson Eclipse by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_crimson_eclipse_by_ian_wilding.png)
 [![CastleVania Order of Ecclesia by Masaki Hirooka](/.internals/thumbnails/mobile/castlevania/dracula_order_of_ecclesia.jpg "CastleVania Order of Ecclesia by Masaki Hirooka")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/dracula_order_of_ecclesia.jpg)
 [![ESRnAXvU0AIU6M0.jpeg](/.internals/thumbnails/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg "ESRnAXvU0AIU6M0.jpeg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/ESRnAXvU0AIU6M0.jpeg)
 [![FXyejMUUcAAxjjz_no_bg.png](/.internals/thumbnails/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png "FXyejMUUcAAxjjz_no_bg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/castlevania/FXyejMUUcAAxjjz_no_bg.png)

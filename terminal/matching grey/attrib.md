@@ -6,3 +6,6 @@ castlevania_glyph_agartha_by_pyderek.png Castlevania Glyph Agartha by Pyderek
 castlevania_glyph_dominus_agony_by_pyderek.png Castlevania Glyph Dominus Agony by Pyderek
 castlevania_glyph_dominus_anger_by_pyderek.png Castlevania Glyph Dominus Anger by Pyderek
 castlevania_glyph_dominus_hatred_by_pyderek.png Castlevania Glyph Dominus Hatred by Pyderek
+zelda_collection_02_arts_and_artifacts_by_japatonic.png Zelda Collection 02 Arts and Artifacts by Japatonic
+zelda_collection_03_encylopedia_by_japatonic.png Zelda Collection 03 Encylopedia by Japatonic
+zelda_skyward_sword_gate_of_time_by_tamalesyatole.png Zelda Skyward Sword Gate Of Time by Tamalesyatole
