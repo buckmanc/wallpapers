@@ -1,4 +1,4 @@
-# mobile - 1,936
+# mobile - 1,935
 - [castlevania](#castlevania) - 118
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -24,7 +24,7 @@
 - [misc pixel](#misc-pixel) - 1
 - [mistborn](#mistborn) - 35
 - [murderbot](#murderbot) - 6
-- [music](#music) - 85
+- [music](#music) - 84
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -1359,7 +1359,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 85
+## [music](/mobile/music/README.MD) - 84
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1396,7 +1396,6 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Keygen Church - ░█░█░░█░█░█░.jpg](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20░█░█░░█░█░█░.jpg "Keygen Church - ░█░█░░█░█░█░.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20░█░█░░█░█░█░.jpg)
 [![Keygen Church - La Chiave Del Mio Amor.png](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png "Keygen Church - La Chiave Del Mio Amor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png)
 [![Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png](/.internals/thumbnails/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png "Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png)
-[![L-79 - Priestess.jpg](/.internals/thumbnails/mobile/music/L-79%20-%20Priestess.jpg "L-79 - Priestess.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/L-79%20-%20Priestess.jpg)
 [![Loafy Building - Butterflies.jpg](/.internals/thumbnails/mobile/music/Loafy%20Building%20-%20Butterflies.jpg "Loafy Building - Butterflies.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg)
 [![MASTER BOOT RECORD - C​__​​_CHKDSK _F.png](/.internals/thumbnails/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png "MASTER BOOT RECORD - C​__​​_CHKDSK _F.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png)
 [![MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg](/.internals/thumbnails/mobile/music/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg "MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg)

@@ -11,7 +11,7 @@ A simple repo to house my wallpapers for ease of use and automation.
 ![mobile wallpapers](.internals/headers/mobile.png)
 
 # Table of Contents
-- [mobile](/mobile/README.MD) - 1,936
+- [mobile](/mobile/README.MD) - 1,935
 - [desktop](/desktop/README.MD) - 656
 - [floaters](/floaters/README.MD) - 251
 - [terminal](/terminal/README.MD) - 121

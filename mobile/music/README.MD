@@ -1,4 +1,4 @@
-# music - 85
+# music - 84
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -70,8 +70,6 @@
 [![Keygen Church - La Chiave Del Mio Amor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png "Keygen Church - La Chiave Del Mio Amor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20La%20Chiave%20Del%20Mio%20Amor.png)
 
 [![Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png "Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png)
-
-[![L-79 - Priestess.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/L-79%20-%20Priestess.jpg "L-79 - Priestess.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/L-79%20-%20Priestess.jpg)
 
 [![Loafy Building - Butterflies.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg "Loafy Building - Butterflies.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/mobile/music/Loafy%20Building%20-%20Butterflies.jpg)
 
