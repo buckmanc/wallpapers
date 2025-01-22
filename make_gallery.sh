@@ -138,7 +138,7 @@ then
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
-		if echo "$path" | grep -qiP "(/forests/|/space/|/space - fictional/|/misc/|/leaves/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
+		if echo "$path" | grep -qiP "(/forests/|/space/|/space - fictional/|/misc/|/leaves/|/cityscapes/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
 		then
 			echo -n "moving ${path/#"$path_root"/}..."
 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
