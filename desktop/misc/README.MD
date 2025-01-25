@@ -1,4 +1,4 @@
-# misc - 106
+# misc - 105
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 
 [![856a7e192aa7d01f_towashi.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -117,8 +117,6 @@ Ad4a5ada2ad6542b Mega Man 2 Wallpaper by Mlsterben D4xl0fn
 [![b6b44a496f6f0c13_shiny-colors.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b6b44a496f6f0c13_shiny-colors.png "b6b44a496f6f0c13_shiny-colors.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b6b44a496f6f0c13_shiny-colors.png)
 
 [![c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg "c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg)
-
-[![c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg "c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg)
 
 [![c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg "c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg)
 

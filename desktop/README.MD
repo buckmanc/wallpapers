@@ -1,4 +1,4 @@
-# desktop - 656
+# desktop - 655
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -9,7 +9,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 106
+- [misc](#misc) - 105
 - [misc anato finnstark](#misc-anato-finnstark) - 4
 - [mistborn](#mistborn) - 4
 - [music](#music) - 4
@@ -273,7 +273,7 @@
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 106
+## [misc](/desktop/misc/README.MD) - 105
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg](/.internals/thumbnails/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg "85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg)
@@ -332,7 +332,6 @@
 [![b3d2c94943077c3d_4k-keyboard.jpg](/.internals/thumbnails/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg "b3d2c94943077c3d_4k-keyboard.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b3d2c94943077c3d_4k-keyboard.jpg)
 [![b6b44a496f6f0c13_shiny-colors.png](/.internals/thumbnails/desktop/misc/b6b44a496f6f0c13_shiny-colors.png "b6b44a496f6f0c13_shiny-colors.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/b6b44a496f6f0c13_shiny-colors.png)
 [![c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg](/.internals/thumbnails/desktop/misc/c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg "c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20240928_0542471232128224658118242.jpg)
-[![c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg](/.internals/thumbnails/desktop/misc/c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg "c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c13501de3dda3fc0_RDT_20250108_2040434438964338706546532.jpg)
 [![c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg](/.internals/thumbnails/desktop/misc/c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg "c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c199581fe3b3f206_RDT_20250108_2039401564922333480883510.jpg)
 [![c2cae9797e3c0187_diana-parkhouse-5RY9GtjPXZM-unsplash.jpg](/.internals/thumbnails/desktop/misc/c2cae9797e3c0187_diana-parkhouse-5RY9GtjPXZM-unsplash.jpg "c2cae9797e3c0187_diana-parkhouse-5RY9GtjPXZM-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c2cae9797e3c0187_diana-parkhouse-5RY9GtjPXZM-unsplash.jpg)
 [![c3238e71393c3c9e_abandoned.jpg](/.internals/thumbnails/desktop/misc/c3238e71393c3c9e_abandoned.jpg "c3238e71393c3c9e_abandoned.jpg")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/desktop/misc/c3238e71393c3c9e_abandoned.jpg)
