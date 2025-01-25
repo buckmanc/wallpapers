@@ -1,4 +1,4 @@
-# matching grey - 122
+# matching grey - 126
 [![20_ponted_cross_graph.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png)
 
 [![buer_sigil_lineartboutique.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_lineartboutique.png)
@@ -57,6 +57,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![game_icons_dot_net_companion_cube_border.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_companion_cube_border.png "game_icons_dot_net_companion_cube_border.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_companion_cube_border.png)
 
+[![game_icons_dot_net_hobbit_door.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_hobbit_door.png "game_icons_dot_net_hobbit_door.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_hobbit_door.png)
+
 [![game_icons_dot_net_power_button.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_power_button.png "game_icons_dot_net_power_button.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_power_button.png)
 
 [![game_icons_dot_net_processor.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_processor.png "game_icons_dot_net_processor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_processor.png)
@@ -68,6 +70,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 [![game_icons_dot_net_wanted_reward.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_wanted_reward.png)
 
 [![game_icons_dot_net_warlord_helmet.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_warlord_helmet.png)
+
+[![game_icons_dot_net_winged_sword.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_winged_sword.png)
 
 [![github_svgrepo_com.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github_svgrepo_com.png "github_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github_svgrepo_com.png)
 
@@ -159,6 +163,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 
 [![nintendo_switch_logo_without_text.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/nintendo_switch_logo_without_text.png)
 
+[![one_ring_inscription_ring_a_ling.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/one_ring_inscription_ring_a_ling.png)
+
 [![oxoglutarate_dehydrogenase_zh_cn.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/oxoglutarate_dehydrogenase_zh_cn.png)
 
 [![painted_heart.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png)
@@ -210,6 +216,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 [![stormlight_simple.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_simple.png)
 
 [![tehran_metro_map_v1_0.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tehran_metro_map_v1_0.png)
+
+[![tolkien_monogram.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tolkien_monogram.png)
 
 [![tree_of_life_svg.png](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tree_of_life_svg.png)
 

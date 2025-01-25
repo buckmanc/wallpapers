@@ -1,9 +1,9 @@
-# terminal - 122
-- [matching grey](#matching-grey) - 122
+# terminal - 126
+- [matching grey](#matching-grey) - 126
 
 <a id="matching-grey"></a>
 
-## [matching grey](/terminal/matching%20grey/README.MD) - 122
+## [matching grey](/terminal/matching%20grey/README.MD) - 126
 [![20_ponted_cross_graph.png](/.internals/thumbnails/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/matching%20grey/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/buer_sigil_lineartboutique.png)
 [![caffeine.png](/.internals/thumbnails/terminal/matching%20grey/caffeine.png "caffeine.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/caffeine.png)
@@ -31,12 +31,14 @@
 [![game_icons_dot_net_beveled_star.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_beveled_star.png "game_icons_dot_net_beveled_star.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_beveled_star.png)
 [![game_icons_dot_net_boba.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_boba.png "game_icons_dot_net_boba.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_boba.png)
 [![game_icons_dot_net_companion_cube_border.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_companion_cube_border.png "game_icons_dot_net_companion_cube_border.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_companion_cube_border.png)
+[![game_icons_dot_net_hobbit_door.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_hobbit_door.png "game_icons_dot_net_hobbit_door.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_hobbit_door.png)
 [![game_icons_dot_net_power_button.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_power_button.png "game_icons_dot_net_power_button.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_power_button.png)
 [![game_icons_dot_net_processor.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_processor.png "game_icons_dot_net_processor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_processor.png)
 [![game_icons_dot_net_schrodingers_cat_alive.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_schrodingers_cat_alive.png "game_icons_dot_net_schrodingers_cat_alive.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_schrodingers_cat_alive.png)
 [![game_icons_dot_net_shuriken.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_shuriken.png "game_icons_dot_net_shuriken.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_shuriken.png)
 [![game_icons_dot_net_wanted_reward.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_wanted_reward.png)
 [![game_icons_dot_net_warlord_helmet.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_warlord_helmet.png)
+[![game_icons_dot_net_winged_sword.png](/.internals/thumbnails/terminal/matching%20grey/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/game_icons_dot_net_winged_sword.png)
 [![github_svgrepo_com.png](/.internals/thumbnails/terminal/matching%20grey/github_svgrepo_com.png "github_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/github_svgrepo_com.png)
 [![halo_monitor.png](/.internals/thumbnails/terminal/matching%20grey/halo_monitor.png "halo_monitor.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/halo_monitor.png)
 [![happy_birthday.png](/.internals/thumbnails/terminal/matching%20grey/happy_birthday.png "happy_birthday.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/happy_birthday.png)
@@ -82,6 +84,7 @@
 [![new_york_city_subway_map.png](/.internals/thumbnails/terminal/matching%20grey/new_york_city_subway_map.png "new_york_city_subway_map.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/new_york_city_subway_map.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/matching%20grey/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/matching%20grey/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/nintendo_switch_logo_without_text.png)
+[![one_ring_inscription_ring_a_ling.png](/.internals/thumbnails/terminal/matching%20grey/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/one_ring_inscription_ring_a_ling.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/matching%20grey/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/matching%20grey/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/painted_heart.png)
 [![pixel_mario_3_item_block.png](/.internals/thumbnails/terminal/matching%20grey/pixel_mario_3_item_block.png "pixel_mario_3_item_block.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/pixel_mario_3_item_block.png)
@@ -108,6 +111,7 @@
 [![stormlight.png](/.internals/thumbnails/terminal/matching%20grey/stormlight.png "stormlight.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight.png)
 [![stormlight_simple.png](/.internals/thumbnails/terminal/matching%20grey/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/stormlight_simple.png)
 [![tehran_metro_map_v1_0.png](/.internals/thumbnails/terminal/matching%20grey/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tehran_metro_map_v1_0.png)
+[![tolkien_monogram.png](/.internals/thumbnails/terminal/matching%20grey/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tolkien_monogram.png)
 [![tree_of_life_svg.png](/.internals/thumbnails/terminal/matching%20grey/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tree_of_life_svg.png)
 [![tribal_animals_tattoo_designs_y.png](/.internals/thumbnails/terminal/matching%20grey/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/tribal_animals_tattoo_designs_y.png)
 [![triforce_outline.png](/.internals/thumbnails/terminal/matching%20grey/triforce_outline.png "triforce_outline.png")](https://raw.githubusercontent.com/buckmanc/Wallpapers/main/terminal/matching%20grey/triforce_outline.png)
