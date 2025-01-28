@@ -16,8 +16,9 @@ tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
-fileListFile="${path_root}/.internals/filelist/${branchName}.log"
-fileListFileMain="${path_root}/.internals/filelist/main.log"
+fileListDir="${path_root}/.internals/filelist"
+fileListFile="$fileListDir/${branchName}.log"
+fileListFileMain="$fileListDir/main.log"
 
 rm "$tocMD" > /dev/null 2>&1 || true
 
@@ -50,6 +51,20 @@ bottom-level-dir(){
 	else
 		echo 0
 	fi
+}
+
+getModEpoch() {
+
+	duPath="$1"
+
+	if [[ -e "$duPath" ]]
+	then
+		modEpoch="$(du "$duPath" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
+	else
+		modEpoch=0
+	fi
+
+	echo "$modEpoch"
 }
 
 fitDir="$path_root/.internals/wallpapers_to_fit"
@@ -180,6 +195,7 @@ fi
 echo "--updating thumbnails..."
 
 mkdir -p "$thumbnails_dir"
+mkdir -p "$fileListDir"
 mv "$thumbnails_dir" "$thumbnails_old_dir"
 mkdir -p "$thumbnails_dir"
 
@@ -270,9 +286,9 @@ while read -r dir; do
 		dirReadmePath="$rootReadmePath"
 	fi
 
-	dirChangeEpoch="$(du "$dir" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
-	mdChangeEpoch="$(du "$dirReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
-	htmlChangeEpoch="$(du "$dirHtmlReadmePath" --time --max-depth 0 --time-style=+%s | cut -f2 || echo 0)"
+	dirChangeEpoch="$(getModEpoch "$dir")"
+	mdChangeEpoch="$(getModEpoch "$dirReadmePath")"
+	htmlChangeEpoch="$(getModEpoch "$dirHtmlReadmePath")"
 
 	if [[ "$mdChangeEpoch" -lt "$htmlChangeEpoch" ]]
 	then
@@ -472,7 +488,14 @@ then
 	mobileSize="$(du "$path_root/mobile" --max-depth 0 --human-readable | cut -f1)"
 fi
 
-readmeTemplate="$(cat "$readmeTemplatePath")"
+if [[ -f "$readmeTemplatePath" ]]
+then
+	readmeTemplate="$(cat "$readmeTemplatePath")"
+else
+	readmeTemplate=$'# {total} Wallpapers\n\n{table of contents}'
+	echo "$readmeTemplate" > "$readmeTemplatePath"
+fi
+
 readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
 readmeTemplate="${readmeTemplate/\{mobile size\}/"$mobileSize"}" 
