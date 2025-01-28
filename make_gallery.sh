@@ -10,7 +10,8 @@ quoteRe() {
 
 path_root="$(git rev-parse --show-toplevel)"
 branchName="$(git branch --show-current)"
-raw_root="https://raw.githubusercontent.com/buckmanc/Wallpapers/main"
+shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?=\.git)' | head -n1)"
+raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
 
 tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"

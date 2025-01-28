@@ -55,3 +55,6 @@ nabFile()
 nabFile "make_gallery.sh"
 nabFile "update.sh"
 nabFile "scripts"
+
+# TODO check downloaded files for "api rate limit exceeded"
+
