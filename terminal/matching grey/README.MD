@@ -1,5 +1,7 @@
-# matching grey - 134
+# matching grey - 141
 [![20_ponted_cross_graph.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/20_ponted_cross_graph.png)
+
+[![aperture_science.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/aperture_science.png)
 
 [![buer_sigil_lineartboutique.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/buer_sigil_lineartboutique.png)
 
@@ -30,6 +32,10 @@ Castlevania Glyph Dominus Hatred by Pyderek
 [![cosmere_ghostbloods.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere_ghostbloods.png)
 
 [![cosmere.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere.png "cosmere.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere.png)
+
+[![crack_1.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_1.png "crack_1.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_1.png)
+
+[![crack_2.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_2.png "crack_2.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_2.png)
 
 [![elder_scrolls_mages_guild_thisonehaswares.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png)
 
@@ -152,6 +158,14 @@ Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon
 Magic Circle Lycarus by Dragonphyrre
 
 [![magic_hexagram_sum50.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/magic_hexagram_sum50.png "magic_hexagram_sum50.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/magic_hexagram_sum50.png)
+
+[![mandala_10.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_10.png "mandala_10.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_10.png)
+
+[![mandala_2.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_2.png "mandala_2.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_2.png)
+
+[![mandala_3.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_3.png "mandala_3.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_3.png)
+
+[![mandala_5.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_5.png "mandala_5.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_5.png)
 
 [![mario_bob_omb.png](https://raw.githubusercontent.com//main/terminal/matching%20grey/mario_bob_omb.png "mario_bob_omb.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mario_bob_omb.png)
 

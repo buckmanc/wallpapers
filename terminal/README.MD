@@ -1,10 +1,11 @@
-# terminal - 134
-- [matching grey](#matching-grey) - 134
+# terminal - 141
+- [matching grey](#matching-grey) - 141
 
 <a id="matching-grey"></a>
 
-## [matching grey](/terminal/matching%20grey/README.MD) - 134
+## [matching grey](/terminal/matching%20grey/README.MD) - 141
 [![20_ponted_cross_graph.png](/.internals/thumbnails/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/20_ponted_cross_graph.png)
+[![aperture_science.png](/.internals/thumbnails/terminal/matching%20grey/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/aperture_science.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/matching%20grey/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/buer_sigil_lineartboutique.png)
 [![caffeine.png](/.internals/thumbnails/terminal/matching%20grey/caffeine.png "caffeine.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/caffeine.png)
 [![cassette.png](/.internals/thumbnails/terminal/matching%20grey/cassette.png "cassette.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/cassette.png)
@@ -18,6 +19,8 @@
 [![corner_knot.png](/.internals/thumbnails/terminal/matching%20grey/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/corner_knot.png)
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/matching%20grey/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/matching%20grey/cosmere.png "cosmere.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/cosmere.png)
+[![crack_1.png](/.internals/thumbnails/terminal/matching%20grey/crack_1.png "crack_1.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_1.png)
+[![crack_2.png](/.internals/thumbnails/terminal/matching%20grey/crack_2.png "crack_2.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/crack_2.png)
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/matching%20grey/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![equilateral_triangle_heights.png](/.internals/thumbnails/terminal/matching%20grey/equilateral_triangle_heights.png "equilateral_triangle_heights.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/equilateral_triangle_heights.png)
@@ -76,6 +79,10 @@
 [![magic_circle_full_metal_alchemist.png](/.internals/thumbnails/terminal/matching%20grey/magic_circle_full_metal_alchemist.png "magic_circle_full_metal_alchemist.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/magic_circle_full_metal_alchemist.png)
 [![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/matching%20grey/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](https://raw.githubusercontent.com//main/terminal/matching%20grey/magic_circle_lycarus_by_dragonphyrre.png)
 [![magic_hexagram_sum50.png](/.internals/thumbnails/terminal/matching%20grey/magic_hexagram_sum50.png "magic_hexagram_sum50.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/magic_hexagram_sum50.png)
+[![mandala_10.png](/.internals/thumbnails/terminal/matching%20grey/mandala_10.png "mandala_10.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_10.png)
+[![mandala_2.png](/.internals/thumbnails/terminal/matching%20grey/mandala_2.png "mandala_2.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_2.png)
+[![mandala_3.png](/.internals/thumbnails/terminal/matching%20grey/mandala_3.png "mandala_3.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_3.png)
+[![mandala_5.png](/.internals/thumbnails/terminal/matching%20grey/mandala_5.png "mandala_5.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mandala_5.png)
 [![mario_bob_omb.png](/.internals/thumbnails/terminal/matching%20grey/mario_bob_omb.png "mario_bob_omb.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mario_bob_omb.png)
 [![mario_mushroom.png](/.internals/thumbnails/terminal/matching%20grey/mario_mushroom.png "mario_mushroom.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mario_mushroom.png)
 [![mario_star.png](/.internals/thumbnails/terminal/matching%20grey/mario_star.png "mario_star.png")](https://raw.githubusercontent.com//main/terminal/matching%20grey/mario_star.png)
