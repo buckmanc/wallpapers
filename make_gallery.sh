@@ -10,8 +10,10 @@ quoteRe() {
 
 path_root="$(git rev-parse --show-toplevel)"
 branchName="$(git branch --show-current)"
-shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?=\.git)' | head -n1)"
+shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
+
+echo "shortRemoteName: $shortRemoteName"
 
 tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
@@ -345,7 +347,21 @@ while read -r dir; do
 	mdText=''
 	mdText+="# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")"$'\n'
 
-	subDirs="$(echo "$imgFiles" | sed -r 's|/[^/]+$||' | sort -u)"
+	# only find immediate sub dirs
+	subDirs="$(find "$dir" -mindepth 1 -maxdepth 1 -type d | sort)"
+	# subDirs="$(echo "$imgFiles" | sed -r 's|/[^/]+$||' | sort -u)"
+
+	# if [[ "$newSubDirs" != "$subDirs" ]]
+	# then
+	# 	echo "newSubDirs:"
+	# 	echo "$newSubDirs"
+	# 	echo
+	# 	echo "oldSubDirs:"
+	# 	echo "$subDirs"
+	# 	echo
+	# 	exit 1
+	# fi
+
 	while read -r subDir; do
 		subDirName="${subDir#"$dir"}"
 		subDirName="${subDirName#\/}"
