@@ -1,4 +1,4 @@
-# mega man zero - 38
+# mega man zero - 37
 [![104358541_p0.jpg](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104358541_p0.jpg)
 
 [![104922899_p0.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104922899_p0.png "104922899_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104922899_p0.png)
@@ -6,8 +6,6 @@
 [![105250432_p0.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/105250432_p0.png "105250432_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/105250432_p0.png)
 
 [![107788645_p26.jpg](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/107788645_p26.jpg "107788645_p26.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/107788645_p26.jpg)
-
-[![110760167_p0.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/110760167_p0.png "110760167_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/110760167_p0.png)
 
 [![111630779_p0.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/111630779_p0.png "111630779_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/111630779_p0.png)
 
@@ -19,9 +17,9 @@
 
 [![20231207_143748.jpg](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_143748.jpg "20231207_143748.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_143748.jpg)
 
-[![20231207_144431.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431.png "20231207_144431.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431.png)
+[![20231207_144431_1.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_1.png "20231207_144431_1.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_1.png)
 
-[![20231207_144502.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144502.png "20231207_144502.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144502.png)
+[![20231207_144431_2.png](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_2.png "20231207_144431_2.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_2.png)
 
 [![37157647_p5_master1200.jpg](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/37157647_p5_master1200.jpg "37157647_p5_master1200.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/37157647_p5_master1200.jpg)
 

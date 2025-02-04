@@ -1,4 +1,4 @@
-# mobile - 1,946
+# mobile - 1,945
 - [castlevania](#castlevania) - 118
 - [castlevania pixel](#castlevania-pixel) - 16
 - [dan mumford](#dan-mumford) - 43
@@ -17,7 +17,7 @@
 - [mega man pixel](#mega-man-pixel) - 25
 - [mega man x](#mega-man-x) - 122
 - [mega man x dive](#mega-man-x-dive) - 37
-- [mega man zero](#mega-man-zero) - 38
+- [mega man zero](#mega-man-zero) - 37
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 85
@@ -838,19 +838,18 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 <a id="mega-man-zero"></a>
 
-## [mega man zero](/mobile/mega%20man%20zero/README.MD) - 38
+## [mega man zero](/mobile/mega%20man%20zero/README.MD) - 37
 [![104358541_p0.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104358541_p0.jpg)
 [![104922899_p0.png](/.internals/thumbnails/mobile/mega%20man%20zero/104922899_p0.png "104922899_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/104922899_p0.png)
 [![105250432_p0.png](/.internals/thumbnails/mobile/mega%20man%20zero/105250432_p0.png "105250432_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/105250432_p0.png)
 [![107788645_p26.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/107788645_p26.jpg "107788645_p26.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/107788645_p26.jpg)
-[![110760167_p0.png](/.internals/thumbnails/mobile/mega%20man%20zero/110760167_p0.png "110760167_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/110760167_p0.png)
 [![111630779_p0.png](/.internals/thumbnails/mobile/mega%20man%20zero/111630779_p0.png "111630779_p0.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/111630779_p0.png)
 [![113480178_p0.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/113480178_p0.jpg "113480178_p0.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/113480178_p0.jpg)
 [![13755255_p0.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/13755255_p0.jpg "13755255_p0.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/13755255_p0.jpg)
 [![20231207_143631.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_143631.jpg "20231207_143631.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_143631.jpg)
 [![20231207_143748.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_143748.jpg "20231207_143748.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_143748.jpg)
-[![20231207_144431.png](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_144431.png "20231207_144431.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431.png)
-[![20231207_144502.png](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_144502.png "20231207_144502.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144502.png)
+[![20231207_144431_1.png](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_144431_1.png "20231207_144431_1.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_1.png)
+[![20231207_144431_2.png](/.internals/thumbnails/mobile/mega%20man%20zero/20231207_144431_2.png "20231207_144431_2.png")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/20231207_144431_2.png)
 [![37157647_p5_master1200.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/37157647_p5_master1200.jpg "37157647_p5_master1200.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/37157647_p5_master1200.jpg)
 [![3fb834d1bf61356199457136b29858a8.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/3fb834d1bf61356199457136b29858a8.jpg "3fb834d1bf61356199457136b29858a8.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/3fb834d1bf61356199457136b29858a8.jpg)
 [![54465.jpg](/.internals/thumbnails/mobile/mega%20man%20zero/54465.jpg "54465.jpg")](https://raw.githubusercontent.com//main/mobile/mega%20man%20zero/54465.jpg)
