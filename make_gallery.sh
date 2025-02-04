@@ -39,6 +39,9 @@ find-images() {
 find-images-main() {
 	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.*'
 }
+find-images-including-thumbnails() {
+	"$path_root/scripts/find-images" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+}
 find-mod-time() {
 	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
 }
@@ -182,7 +185,33 @@ do
 	echo "done"
 done
 
-	echo "done!"
+echo "done!"
+
+echo -n "--checking for unhappy filenames..."
+unhappyFiles="$(find-images-including-thumbnails -iregex '.*/[_-]+.*')"
+echo "$unhappyFiles" | while read -r path
+do
+	if [[ -z "$path" ]]
+	then
+		continue
+	fi
+
+	dir="$(dirname "$path")"
+	file="$(basename "$path")"
+	outFile="$(echo "$file" | perl -pe 's/^[_-]+//g')"
+	outPath="$dir/$outFile"
+
+	if [[ "$path" -ef "$outPath" ]]
+	then
+		echo "conflict found with $outFile!"
+	else
+		echo -n "moving $outFile..."
+		mv "$path" "$outPath"
+		echo "done"
+	fi
+done
+
+echo "done!"
 
 # do weird branch specific stuff
 if [[ "$branchName" != "main" ]]
