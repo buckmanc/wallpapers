@@ -13,7 +13,7 @@ branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
 
-echo "shortRemoteName: $shortRemoteName"
+# echo "shortRemoteName: $shortRemoteName"
 
 tocMD="${path_root}/.internals/tableofcontents.md"
 thumbnails_dir="${path_root}/.internals/thumbnails"
@@ -376,111 +376,114 @@ while read -r dir; do
 		mdText+="$folderToc"$'\n'
 	done < <( echo "$subDirs" )
 
-	while read -r imgPath; do
-		((i++)) || true
-		imgFilename="$(basename "$imgPath")"
-		printf '%s%4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
+	while read -r subDir; do
 
-		imgDir="$(dirname "$imgPath")"
+		imgFolderPathReggie="$(quoteRe "${subDir}/")"
+		subDirImgFiles="$(echo "$imgFiles" | grep -iP "$imgFolderPathReggie")"
 
-		attrib=''
-		dirAttribPath="$imgDir/attrib.md"
-		if [ -f "$dirAttribPath" ]
-		then
-			# not sorting attrib file to improve performance
-			# if manually editing you'll just have to sort it yourself
-			# or not
-			attrib="$(grep -iPo "(?<=$(quoteRe "$imgFilename")\s).+$" "$dirAttribPath" | sed 's/ \+/ /g')" || true
-		fi
+		while read -r imgPath; do
+			((i++)) || true
+			imgFilename="$(basename "$imgPath")"
+			printf '%s%4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
 
-		# attempted to pull attribution from metadata using imagemagick but did not succeed
+			imgDir="$(dirname "$imgPath")"
 
-		# allow for initial load of attribution from the filename
-		if [[ -z "$attrib" ]] && echo "$imgFilename" | grep -qiP "[-_ ]by[-_ ]"
-		then
-			attrib="$(echo "${imgFilename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' | perl -pe 's/_[a-f0-9]{30}//g')"
-			echo "$imgFilename $attrib" >> "$dirAttribPath"
-		fi
+			attrib=''
+			dirAttribPath="$imgDir/attrib.md"
+			if [ -f "$dirAttribPath" ]
+			then
+				# not sorting attrib file to improve performance
+				# if manually editing you'll just have to sort it yourself
+				# or not
+				attrib="$(grep -iPo "(?<=$(quoteRe "$imgFilename")\s).+$" "$dirAttribPath" | sed 's/ \+/ /g')" || true
+			fi
 
-		thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
-		thumbnailUrl="${thumbnailPath/#"$path_root"/}"
-		thumbnailUrl="${thumbnailUrl// /%20}"
-		imageUrl="$raw_root${imgPath/#"$path_root"/}"
-		imageUrl="${imageUrl// /%20}"
+			# attempted to pull attribution from metadata using imagemagick but did not succeed
 
-		folderReadmeUrl="$(dirname "$imgPath")/README.MD"
-		folderReadmeUrl="${folderReadmeUrl#"$path_root"}"
-		folderReadmeUrl="${folderReadmeUrl// /%20}"
+			# allow for initial load of attribution from the filename
+			if [[ -z "$attrib" ]] && echo "$imgFilename" | grep -qiP "[-_ ]by[-_ ]"
+			then
+				attrib="$(echo "${imgFilename%%.*}" | sed 's/[-_]/ /g' | sed 's/\( \|^\)\w/\U&/g' | sed 's/ \(By\|And\) /\L&/g' | perl -pe 's/_[a-f0-9]{30}//g')"
+				echo "$imgFilename $attrib" >> "$dirAttribPath"
+			fi
 
-		# imgFolderName="$(basename "$(dirname "$imgPath")")"
-		imgFolderName="${imgDir#"$dir"}"
-		imgFolderName="${imgFolderName#\/}"
-		imgFolderPath="$imgDir" # can rename
-		customHeaderID="$(echo "${imgFolderName}" | perl -pe 's/[ -_"#]+/-/g')"
+			thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
+			thumbnailUrl="${thumbnailPath/#"$path_root"/}"
+			thumbnailUrl="${thumbnailUrl// /%20}"
+			imageUrl="$raw_root${imgPath/#"$path_root"/}"
+			imageUrl="${imageUrl// /%20}"
 
-		if [ -n "$attrib" ]
-		then
-			# strip markdown links out of the alt text
-			alt_text=$(echo "$attrib" | sed 's/([^)]*)//g' | sed 's/[][]//g')
-		else
-			alt_text="$imgFilename"
-		fi
+			subDirReadmeUrl="$subDir/README.MD"
+			subDirReadmeUrl="${subDirReadmeUrl#"$path_root"}"
+			subDirReadmeUrl="${subDirReadmeUrl// /%20}"
 
-		imgFolderPathReggie="$(quoteRe "${imgFolderPath}/")"
+			subDirName="$(basename "$subDir")"
+			customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
 
-		imgFolderCount="$(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie")"
-
-		imgFolderHeader="## [$imgFolderName]($folderReadmeUrl) - $imgFolderCount"
-
-		# if [[ "$dirReadmePath" == "$rootReadmePath" ]]
-		# then
-                #
-		# fi
-
-		# show full image for bottom level dirs
-		# TODO support dirs with images at depth 1 *and* sub dirs
-		if [[ "$bottomLevelDir" == 1 ]]
-		then
-
-			mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)"
-
-			# have to do a bunch of shenanigans to get the attribution immediately below the picture
 			if [ -n "$attrib" ]
 			then
-				mdText+="\\"$'\n'
-				mdText+="$attrib"$'\n'
+				# strip markdown links out of the alt text
+				alt_text=$(echo "$attrib" | sed 's/([^)]*)//g' | sed 's/[][]//g')
 			else
-				mdText+=$'\n'
+				alt_text="$imgFilename"
 			fi
-				mdText+=$'\n'
 
-		#thumbnails only
-		else
+			subDirPathReggie="$(quoteRe "${subDir}/")"
 
-			if ! echo "$mdText" | grep -qP "^$(quoteRe "${imgFolderHeader}")\$"
+			subDirCount="$(echo "$imgFiles" | grep -iPc "$subDirPathReggie")"
+
+			subDirHeader="## [$subDirName]($subDirReadmeUrl) - $subDirCount"
+
+			# if [[ "$dirReadmePath" == "$rootReadmePath" ]]
+			# then
+					#
+			# fi
+
+			# show full image for bottom level dirs
+			# TODO support dirs with images at depth 1 *and* sub dirs
+			if [[ "$bottomLevelDir" == 1 ]]
 			then
-				# adding an HTML anchor for persistent header links
-				# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
-				mdText+=$'\n'
-				mdText+="<a id=\"${customHeaderID}\"></a>"$'\n'
-				mdText+=$'\n'
-				mdText+="${imgFolderHeader}"$'\n'
+
+				mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)"
+
+				# have to do a bunch of shenanigans to get the attribution immediately below the picture
+				if [ -n "$attrib" ]
+				then
+					mdText+="\\"$'\n'
+					mdText+="$attrib"$'\n'
+				else
+					mdText+=$'\n'
+				fi
+					mdText+=$'\n'
+
+			#thumbnails only
+			else
+
+				if ! echo "$mdText" | grep -qP "^$(quoteRe "${subDirHeader}")\$"
+				then
+					# adding an HTML anchor for persistent header links
+					# since 1) github flavored markdown does not support markdown custom header ID syntax and 2) the auto headers include the file count
+					mdText+=$'\n'
+					mdText+="<a id=\"${customHeaderID}\"></a>"$'\n'
+					mdText+=$'\n'
+					mdText+="${subDirHeader}"$'\n'
+				fi
+
+				mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)"$'\n'
+
+
 			fi
 
-			mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)"$'\n'
+			echo -en '\r'
 
+		# if [[ "$i" -gt 50 ]]
+		# then
+		# 	echo "breaking early for testing"
+		# 	break
+		# fi
 
-		fi
-
-		echo -en '\r'
-	
-	# if [[ "$i" -gt 50 ]]
-	# then
-	# 	echo "breaking early for testing"
-	# 	break
-	# fi
-
-	done < <( echo "$imgFiles" )
+		done < <( echo "$subDirImgFiles" )
+	done < <( echo "$subDirs" )
 
 	parentDirUrl="$(echo "$friendlyDirName" | sed -r 's|/[^/]+$||')"
 	mdText+=$'\n'$'\n'
