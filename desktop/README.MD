@@ -1,4 +1,4 @@
-# desktop - 657
+# desktop - 661
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -16,7 +16,7 @@
 - [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
-- [skyrim art](#skyrim-art) - 5
+- [skyrim art](#skyrim-art) - 9
 - [skyrim captures](#skyrim-captures) - 13
 - [soulsborne](#soulsborne) - 11
 - [space](#space) - 95
@@ -453,7 +453,11 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 
 <a id="skyrim-art"></a>
 
-## [skyrim art](/desktop/skyrim%20art/README.MD) - 5
+## [skyrim art](/desktop/skyrim%20art/README.MD) - 9
+[![1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg](/.internals/thumbnails/desktop/skyrim%20art/1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg "1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg)
+[![4a5e382798606393412cd932f11aad64eaadcb55.jpg](/.internals/thumbnails/desktop/skyrim%20art/4a5e382798606393412cd932f11aad64eaadcb55.jpg "4a5e382798606393412cd932f11aad64eaadcb55.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/4a5e382798606393412cd932f11aad64eaadcb55.jpg)
+[![7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg](/.internals/thumbnails/desktop/skyrim%20art/7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg "7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg)
+[![e41327602e10a43f9d342c41f65ece684a73e046.jpg](/.internals/thumbnails/desktop/skyrim%20art/e41327602e10a43f9d342c41f65ece684a73e046.jpg "e41327602e10a43f9d342c41f65ece684a73e046.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/e41327602e10a43f9d342c41f65ece684a73e046.jpg)
 [![Here, At The End Of All The Things by Darren Geers
 Here At The End Of All The Things by Darrengeers D73dy37](/.internals/thumbnails/desktop/skyrim%20art/here__at_the_end_of_all_the_things__by_darrengeers_d73dy37.jpg "Here, At The End Of All The Things by Darren Geers
 Here At The End Of All The Things by Darrengeers D73dy37")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/here__at_the_end_of_all_the_things__by_darrengeers_d73dy37.jpg)
