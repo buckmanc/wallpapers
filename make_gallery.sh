@@ -23,6 +23,8 @@ fileListDir="${path_root}/.internals/filelist"
 fileListFile="$fileListDir/${branchName}.log"
 fileListFileMain="$fileListDir/main.log"
 
+headerDirNameRegex='s/^(\d{2}|[zZ][xyzXYZ])[ -_]{1,3}//g'
+
 rm "$tocMD" > /dev/null 2>&1 || true
 
 # TODO fix this up, support others
@@ -344,8 +346,9 @@ while read -r dir; do
 	i=0
 	totalDirImages=$(echo "$imgFiles" | wc -l)
 
+	headerDirName="$(basename "$dir" | perl -pe "$headerDirNameRegex")"
 	mdText=''
-	mdText+="# $(basename "$dir") - $(numfmt --grouping "$totalDirImages")"$'\n'
+	mdText+="# $headerDirName - $(numfmt --grouping "$totalDirImages")"$'\n'
 
 	# only find immediate sub dirs
 	subDirs="$(find "$dir" -mindepth 1 -maxdepth 1 -type d | sort)"
@@ -363,8 +366,7 @@ while read -r dir; do
 	# fi
 
 	while read -r subDir; do
-		subDirName="${subDir#"$dir"}"
-		subDirName="${subDirName#\/}"
+				subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
 
 		if [[ -z "$subDirName" ]]
 		then
@@ -417,7 +419,7 @@ while read -r dir; do
 			subDirReadmeUrl="${subDirReadmeUrl#"$path_root"}"
 			subDirReadmeUrl="${subDirReadmeUrl// /%20}"
 
-			subDirName="$(basename "$subDir")"
+					subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
 			customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
 
 			if [ -n "$attrib" ]
