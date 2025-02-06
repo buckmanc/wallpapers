@@ -2,6 +2,7 @@
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
+- [cosmere](#cosmere) - 13
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 116
 - [justin gerard](#justin-gerard) - 3
@@ -11,7 +12,6 @@
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 105
 - [misc anato finnstark](#misc-anato-finnstark) - 4
-- [mistborn](#mistborn) - 4
 - [music](#music) - 4
 - [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
@@ -24,7 +24,6 @@
 - [stargate](#stargate) - 5
 - [star trek](#star-trek) - 9
 - [star trek technical](#star-trek-technical) - 12
-- [stormlight](#stormlight) - 5
 - [synthwave](#synthwave) - 28
 - [the legend of zelda](#the-legend-of-zelda) - 6
 - [tmnt](#tmnt) - 15
@@ -32,7 +31,6 @@
 - [tomb raider 2013](#tomb-raider-) - 11
 - [vector vistas](#vector-vistas) - 13
 - [villages](#villages) - 5
-- [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 4
 
 <a id="castlevania"></a>
 
@@ -71,6 +69,29 @@
 [![c7c73170f00c1ef3_undefined - Imgur.jpg](/.internals/thumbnails/desktop/cityscapes/c7c73170f00c1ef3_undefined%20-%20Imgur.jpg "c7c73170f00c1ef3_undefined - Imgur.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cityscapes/c7c73170f00c1ef3_undefined%20-%20Imgur.jpg)
 [![c9c77698d823273c_nyc3.jpg](/.internals/thumbnails/desktop/cityscapes/c9c77698d823273c_nyc3.jpg "c9c77698d823273c_nyc3.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cityscapes/c9c77698d823273c_nyc3.jpg)
 [![d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg](/.internals/thumbnails/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg "d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg)
+
+<a id="cosmere"></a>
+
+## [cosmere](/desktop/cosmere/README.MD) - 13
+[![00 Cover Db Mistborn 07 by Dominik Broniek
+The Lost Metal Cover by Dominik Broniek](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg "00 Cover Db Mistborn 07 by Dominik Broniek
+The Lost Metal Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)
+[![00 Cover Ms Mistborn 04 by Marc Simonetti
+The Alloy of Law Cover by Marc Simonetti](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg "00 Cover Ms Mistborn 04 by Marc Simonetti
+The Alloy of Law Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg)
+[![00 Cover Zz Era 2 by Marc Simonetti
+Era 2 Triptych by Marc Simonetti](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg "00 Cover Zz Era 2 by Marc Simonetti
+Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg)
+[![Cognitive Realm by Ricky Ho](/.internals/thumbnails/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg)
+[![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/desktop/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
+[![Kaladin Vs Szeth by Michael Whalen](/.internals/thumbnails/desktop/cosmere/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg "Kaladin Vs Szeth by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg)
+[![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/desktop/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg)
+[![Odium Reigns by Ari Ibarra](/.internals/thumbnails/desktop/cosmere/stormlight/odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/odium_reigns_by_ari_ibarra.jpg)
+[![Vasher and Nightblood by Dominik Broniek](/.internals/thumbnails/desktop/cosmere/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg "Vasher and Nightblood by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg)
+[![Backlit by Wonder by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)
+[![Learning To Paint by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg "Learning To Paint by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg)
+[![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
+[![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
 <a id="dungeons-and-dragons"></a>
 
@@ -390,20 +411,6 @@
 [![Darth Vader by Anato Finnstark](/.internals/thumbnails/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)
 [![ Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c](/.internals/thumbnails/desktop/misc%20anato%20finnstark/lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg " Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc%20anato%20finnstark/lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg)
 
-<a id="mistborn"></a>
-
-## [mistborn](/desktop/mistborn/README.MD) - 4
-[![00 Cover Db Mistborn 07 by Dominik Broniek
-The Lost Metal Cover by Dominik Broniek](/.internals/thumbnails/desktop/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg "00 Cover Db Mistborn 07 by Dominik Broniek
-The Lost Metal Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)
-[![00 Cover Ms Mistborn 04 by Marc Simonetti
-The Alloy of Law Cover by Marc Simonetti](/.internals/thumbnails/desktop/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg "00 Cover Ms Mistborn 04 by Marc Simonetti
-The Alloy of Law Cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/mistborn/00_cover_ms_mistborn_04_by_marc_simonetti.jpg)
-[![00 Cover Zz Era 2 by Marc Simonetti
-Era 2 Triptych by Marc Simonetti](/.internals/thumbnails/desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg "00 Cover Zz Era 2 by Marc Simonetti
-Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg)
-[![Cognitive Realm by Ricky Ho](/.internals/thumbnails/desktop/mistborn/cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/mistborn/cognitive-realm-by-ricky-ho.jpg)
-
 <a id="music"></a>
 
 ## [music](/desktop/music/README.MD) - 4
@@ -665,15 +672,6 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](https://raw.githubuserconte
 [![wallhaven_nzvx8g_1920x1200.jpg](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_nzvx8g_1920x1200.jpg "wallhaven_nzvx8g_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/star%20trek%20technical/wallhaven_nzvx8g_1920x1200.jpg)
 [![wallhaven_ym6v8g_6000x2824.png](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png "wallhaven_ym6v8g_6000x2824.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png)
 
-<a id="stormlight"></a>
-
-## [stormlight](/desktop/stormlight/README.MD) - 5
-[![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/desktop/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
-[![Kaladin Vs Szeth by Michael Whalen](/.internals/thumbnails/desktop/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg "Kaladin Vs Szeth by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg)
-[![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/desktop/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stormlight/knights_radiant_by_antti_hakosaari.jpg)
-[![Odium Reigns by Ari Ibarra](/.internals/thumbnails/desktop/stormlight/odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stormlight/odium_reigns_by_ari_ibarra.jpg)
-[![Vasher and Nightblood by Dominik Broniek](/.internals/thumbnails/desktop/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg "Vasher and Nightblood by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stormlight/vasher_and_nightblood_by_dominik_broniek.jpg)
-
 <a id="synthwave"></a>
 
 ## [synthwave](/desktop/synthwave/README.MD) - 28
@@ -832,14 +830,6 @@ Tomb Raider 2013 Concept Art by Johann Papayou Blais Wallpaper 2560x1440")](http
 [![japan3.jpg](/.internals/thumbnails/desktop/villages/japan3.jpg "japan3.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/villages/japan3.jpg)
 [![japan.png](/.internals/thumbnails/desktop/villages/japan.png "japan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/villages/japan.png)
 [![landscape2.jpg](/.internals/thumbnails/desktop/villages/landscape2.jpg "landscape2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/villages/landscape2.jpg)
-
-<a id="yumi-and-the-nightmare-painter"></a>
-
-## [yumi and the nightmare painter](/desktop/yumi%20and%20the%20nightmare%20painter/README.MD) - 4
-[![Backlit by Wonder by Aliya Chen](/.internals/thumbnails/desktop/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)
-[![Learning To Paint by Aliya Chen](/.internals/thumbnails/desktop/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg "Learning To Paint by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg)
-[![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/desktop/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
-[![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/desktop/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
 
 [back to top](#)
