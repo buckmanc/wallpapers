@@ -72,3 +72,13 @@ zZ_honor_by_donato_giancola.png Honor by Donato Giancola
 02_navani_kholin_by_dominik_broniek.jpg 02 Navani Kholin by Dominik Broniek
 jasnah_kholin_by_jessi_chen_liu.jpg Jasnah Kholin by Jessi Chen Liu
 zy09_taln_by_donato_giancola.jpg Zy09 Taln by Donato Giancola
+cosmere-postcards-urithiru-by-geoff-shupe.jpg Cosmere Postcards Urithiru by Geoff Shupe
+iyatil-by-botanica-xu.jpg Iyatil by Botanica Xu
+jasnah-by-alartriss.jpg Jasnah by Alartriss
+jasnah-by-meileen-art.jpg Jasnah by Meileen Art
+kharbranth-by-crosby-gonzalez.jpg Kharbranth by Crosby Gonzalez
+lift-by-beniamino-bradi.jpg Lift by Beniamino Bradi
+mraize-by-botanica-xu.jpg Mraize by Botanica Xu
+navani-by-botanica-xu.jpg Navani by Botanica Xu
+spren-by-botanica-xu.jpg Spren by Botanica Xu
+stormblessed-by-kevin-keele.jpg Stormblessed by Kevin Keele

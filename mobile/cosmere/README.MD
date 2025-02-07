@@ -1,12 +1,12 @@
-# cosmere - 121
-- [mistborn](#mistborn) - 35
-- [stormlight](#stormlight) - 65
+# cosmere - 155
+- [mistborn](#mistborn) - 49
+- [stormlight](#stormlight) - 77
 - [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 12
-- [misc](#misc) - 9
+- [misc](#misc) - 17
 
 <a id="mistborn"></a>
 
-## [mistborn](/mobile/cosmere/mistborn/README.MD) - 35
+## [mistborn](/mobile/cosmere/mistborn/README.MD) - 49
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -59,18 +59,32 @@ The Bands of Mourning cover by Marc Simonetti")](https://raw.githubusercontent.c
 The Lost Metal cover by Marc Simonetti](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg "00 Cover Ms Mistborn 07 by Marc Simonetti
 The Lost Metal cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg)
 [![Bleeder by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/mistborn/Bleeder-by-Miranda-Meeks.jpg "Bleeder by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Bleeder-by-Miranda-Meeks.jpg)
+[![aleacionley-wax.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/aleacionley-wax.jpg "aleacionley-wax.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/aleacionley-wax.jpg)
+[![brumoso-copia3-texturing.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia3-texturing.jpg "brumoso-copia3-texturing.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia3-texturing.jpg)
+[![brumoso-copia.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia.jpg "brumoso-copia.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia.jpg)
+[![cosmere-october-fall.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/cosmere-october-fall.jpg "cosmere-october-fall.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/cosmere-october-fall.jpg)
+[![kelsier-luthadel.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/kelsier-luthadel.jpg "kelsier-luthadel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/kelsier-luthadel.jpg)
+[![luthadel.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/luthadel.jpg "luthadel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/luthadel.jpg)
+[![luthadelmistborn-copia2.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/luthadelmistborn-copia2.jpg "luthadelmistborn-copia2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/luthadelmistborn-copia2.jpg)
+[![mistborn-draw-2.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-draw-2.jpg "mistborn-draw-2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-draw-2.jpg)
+[![mistborn.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn.jpg "mistborn.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn.jpg)
+[![mistborn-vermell-copia3.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg "mistborn-vermell-copia3.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg)
+[![Cosmere Postcards Luthadel by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/mistborn/cosmere-postcards-luthadel-by-geoff-shupe.jpg "Cosmere Postcards Luthadel by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/cosmere-postcards-luthadel-by-geoff-shupe.jpg)
 [![Death by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/death_by_ari_ibarra.png "Death by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/death_by_ari_ibarra.png)
 [![deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png](/.internals/thumbnails/mobile/cosmere/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png "deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png)
+[![Funding by Sami Rytkonen](/.internals/thumbnails/mobile/cosmere/mistborn/funding-by-sami-rytkonen.jpg "Funding by Sami Rytkonen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/funding-by-sami-rytkonen.jpg)
 [![Inquisitor by Ricky Ho](/.internals/thumbnails/mobile/cosmere/mistborn/inquisitor-by-ricky-ho.jpg "Inquisitor by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/inquisitor-by-ricky-ho.jpg)
+[![Kelsier by Botanica Xu Row](/.internals/thumbnails/mobile/cosmere/mistborn/kelsier-by-botanica-xu-row.jpg "Kelsier by Botanica Xu Row")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/kelsier-by-botanica-xu-row.jpg)
 [![Kelsier by Gerva Perez](/.internals/thumbnails/mobile/cosmere/mistborn/Kelsier_by_Gerva_Perez.jpg "Kelsier by Gerva Perez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Kelsier_by_Gerva_Perez.jpg)
-[![Luthadel by CarloswkArt](/.internals/thumbnails/mobile/cosmere/mistborn/Luthadel_by_CarloswkArt.jpg "Luthadel by CarloswkArt")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Luthadel_by_CarloswkArt.jpg)
 [![MeLaan by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/mistborn/MeLaan_by_Miranda_Meeks.jpg "MeLaan by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/MeLaan_by_Miranda_Meeks.jpg)
+[![Mistborn Cover by Maria Arteta](/.internals/thumbnails/mobile/cosmere/mistborn/mistborn-cover-by-maria-arteta.jpg "Mistborn Cover by Maria Arteta")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/mistborn-cover-by-maria-arteta.jpg)
 [![Sazed by Botanicaxu
 Sazed by BotanicaXu](/.internals/thumbnails/mobile/cosmere/mistborn/sazed_by_botanicaxu.jpg "Sazed by Botanicaxu
 Sazed by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/sazed_by_botanicaxu.jpg)
 [![Harmony by Kelley Harris
 Sazed Harmony by Kelley Harris](/.internals/thumbnails/mobile/cosmere/mistborn/Sazed_Harmony_by_Kelley_Harris.jpg "Harmony by Kelley Harris
 Sazed Harmony by Kelley Harris")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Sazed_Harmony_by_Kelley_Harris.jpg)
+[![The Final Empire by Ed Marinas](/.internals/thumbnails/mobile/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg "The Final Empire by Ed Marinas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg)
 [![The Lord Ruler by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/The_Lord_Ruler_by_Ari_Ibarra.jpg "The Lord Ruler by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/The_Lord_Ruler_by_Ari_Ibarra.jpg)
 [![Vin and Elend by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/vin_and_elend_by_ari_ibarra.jpg "Vin and Elend by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/vin_and_elend_by_ari_ibarra.jpg)
 [![Bond by Randy Vargas
@@ -91,7 +105,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="stormlight"></a>
 
-## [stormlight](/mobile/cosmere/stormlight/README.MD) - 65
+## [stormlight](/mobile/cosmere/stormlight/README.MD) - 77
 [![Dalinar by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)
 [![Dalinar by Dominik Broniek](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg "Dalinar by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg)
 [![Dalinar by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg)
@@ -101,9 +115,15 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
 [![Ba Ado Mishram by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)
+[![carlos-guimerà-kaladin-cliff.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
+[![carlos-guimerà-szeth-m.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg "carlos-guimerà-szeth-m.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg)
 [![Chasm Fiend Hunt by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)
+[![Cosmere Postcards Urithiru by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg "Cosmere Postcards Urithiru by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg)
 [![Eshonai by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg)
 [![Fashion by Dan Dos Santos](/.internals/thumbnails/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png "Fashion by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png)
+[![Iyatil by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg "Iyatil by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg)
+[![Jasnah by Alartriss](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg "Jasnah by Alartriss")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg)
+[![Jasnah by Meileen Art](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg "Jasnah by Meileen Art")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg)
 [![Jasnah by Mycks Art Studio](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg "Jasnah by Mycks Art Studio")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg)
 [![Jasnah Kholin by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg "Jasnah Kholin by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg)
 [![Jasnah Kholin by Pb Doodles](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_kholin_by_pb_doodles.png "Jasnah Kholin by Pb Doodles")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_kholin_by_pb_doodles.png)
@@ -118,10 +138,14 @@ Stormblessed by Air Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpap
 Kal and Syl by Ina Wong](/.internals/thumbnails/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jpg "Kal and Syl by Ina Wong
 Kal and Syl by Ina Wong")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jpg)
 [![Kal and Szeth by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png "Kal and Szeth by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png)
+[![Kharbranth by Crosby Gonzalez](/.internals/thumbnails/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg "Kharbranth by Crosby Gonzalez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg)
 [![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg)
+[![Lift by Beniamino Bradi](/.internals/thumbnails/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg "Lift by Beniamino Bradi")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg)
 [![Lyn by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg)
 [![Midnight Mother by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg "Midnight Mother by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg)
+[![Mraize by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg "Mraize by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg)
 [![Herald of Justice by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg)
+[![Navani by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg "Navani by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg)
 [![Oathgate Spren by Ben McSweeny](/.internals/thumbnails/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg "Oathgate Spren by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg)
 [![Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
 [![Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
@@ -143,6 +167,8 @@ Sketch Chull by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallp
 [![Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny](/.internals/thumbnails/mobile/cosmere/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg "Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg)
+[![Spren by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg "Spren by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg)
+[![Stormblessed by Kevin Keele](/.internals/thumbnails/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg "Stormblessed by Kevin Keele")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg)
 [![Rider of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)
 [![Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
@@ -186,7 +212,13 @@ Yumi Back Endpaper by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/w
 
 <a id="misc"></a>
 
-## [misc](/mobile/cosmere/zz%20misc/README.MD) - 9
+## [misc](/mobile/cosmere/zz%20misc/README.MD) - 17
+[![carlos-guimerà-alientodioses-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg "carlos-guimerà-alientodioses-mediana.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg)
+[![carlos-guimerà-capitulo-5.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg "carlos-guimerà-capitulo-5.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg)
+[![carlos-guimerà-cosmere-october-roto-2.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg "carlos-guimerà-cosmere-october-roto-2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg)
+[![carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg "carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg)
+[![carloswkart-elantris2.png](/.internals/thumbnails/mobile/cosmere/zz%20misc/carloswkart-elantris2.png "carloswkart-elantris2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carloswkart-elantris2.png)
+[![Cosmere Postcards Forestsofhell by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg "Cosmere Postcards Forestsofhell by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg)
 [![Elantris by Peter Kovacs
 Elantris by Péter Kovács](/.internals/thumbnails/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg "Elantris by Peter Kovacs
 Elantris by Péter Kovács")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg)
@@ -195,6 +227,8 @@ Shadows For Silence in the Forests of Hell cover by Miranda Meeks](/.internals/t
 Shadows For Silence in the Forests of Hell cover by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)
 [![SP4_wallpaper_vertical_back_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg "SP4_wallpaper_vertical_back_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg)
 [![SP4_wallpaper_vertical_v2_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg "SP4_wallpaper_vertical_v2_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg)
+[![Sunlit Man by Diego Lopez](/.internals/thumbnails/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg "Sunlit Man by Diego Lopez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg)
+[![Tress by Cristina Oceja](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg "Tress by Cristina Oceja")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg)
 [![Death of the Dream by Howard Lyon
 Tress Death Of The Dream by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg "Death of the Dream by Howard Lyon
 Tress Death Of The Dream by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg)

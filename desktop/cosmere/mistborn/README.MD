@@ -1,4 +1,4 @@
-# mistborn - 4
+# mistborn - 5
 [![00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg "00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)\
@@ -19,6 +19,9 @@ Era 2 Triptych by Marc Simonetti
 
 [![Cognitive Realm by Ricky Ho](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg)\
 Cognitive Realm by Ricky Ho
+
+[![The Final Empire by Ed Marinas](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg "The Final Empire by Ed Marinas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg)\
+The Final Empire by Ed Marinas
 
 
 

@@ -54,3 +54,8 @@ Vin_The_Ascendant_Warrior_by_Miranda_Meeks.jpg Vin The Ascendant Warrior by Mira
 wax_miles_hundredlives_by_ari_ibarra.jpg Miles Hundredlives by Ari Ibarra
 wax_miles_hundredlives_by_ari_ibarra.jpg Wax Miles Hundredlives by Ari Ibarra
 death_by_ari_ibarra.png Death by Ari Ibarra
+cosmere-postcards-luthadel-by-geoff-shupe.jpg Cosmere Postcards Luthadel by Geoff Shupe
+funding-by-sami-rytkonen.jpg Funding by Sami Rytkonen
+kelsier-by-botanica-xu-row.jpg Kelsier by Botanica Xu Row
+mistborn-cover-by-maria-arteta.jpg Mistborn Cover by Maria Arteta
+the-final-empire-by-ed-marinas.jpg The Final Empire by Ed Marinas

@@ -1,4 +1,7 @@
-# misc - 105
+# misc - 106
+[![80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg "80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg)\
+80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w
+
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 
 [![856a7e192aa7d01f_towashi.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)

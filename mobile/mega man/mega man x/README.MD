@@ -1,4 +1,4 @@
-# mega man x - 122
+# mega man x - 123
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)\
 00 Armors E Chae 00 Rockman X Org X and Zero by E Chae
 
@@ -279,6 +279,9 @@ Vile by Ultimatemaverickx
 
 [![X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg "X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg)\
 X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0
+
+[![X Legacy by Ultimatemaverickx Dgkx59m Fullview](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg "X Legacy by Ultimatemaverickx Dgkx59m Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg)\
+X Legacy by Ultimatemaverickx Dgkx59m Fullview
 
 [![ X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png " X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png)\
  X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707

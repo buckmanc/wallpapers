@@ -1,4 +1,4 @@
-# stormlight - 65
+# stormlight - 77
 [![Dalinar by Petar Penev](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)\
 Dalinar by Petar Penev
 
@@ -26,14 +26,30 @@ Abandoning The Oathpact by Micah Epstein
 [![Ba Ado Mishram by Miranda Meeks](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)\
 Ba Ado Mishram by Miranda Meeks
 
+[![carlos-guimerà-kaladin-cliff.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
+
+[![carlos-guimerà-szeth-m.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg "carlos-guimerà-szeth-m.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg)
+
 [![Chasm Fiend Hunt by Randy Vargas](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)\
 Chasm Fiend Hunt by Randy Vargas
+
+[![Cosmere Postcards Urithiru by Geoff Shupe](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg "Cosmere Postcards Urithiru by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg)\
+Cosmere Postcards Urithiru by Geoff Shupe
 
 [![Eshonai by Antti Hakosaari](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg)\
 Eshonai by Antti Hakosaari
 
 [![Fashion by Dan Dos Santos](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png "Fashion by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png)\
 Fashion by Dan Dos Santos
+
+[![Iyatil by Botanica Xu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg "Iyatil by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg)\
+Iyatil by Botanica Xu
+
+[![Jasnah by Alartriss](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg "Jasnah by Alartriss")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg)\
+Jasnah by Alartriss
+
+[![Jasnah by Meileen Art](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg "Jasnah by Meileen Art")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg)\
+Jasnah by Meileen Art
 
 [![Jasnah by Mycks Art Studio](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg "Jasnah by Mycks Art Studio")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg)\
 Jasnah by Mycks Art Studio
@@ -71,8 +87,14 @@ Kal and Syl by Ina Wong
 [![Kal and Szeth by Jessi Chen Liu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png "Kal and Szeth by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png)\
 Kal and Szeth by Jessi Chen Liu
 
+[![Kharbranth by Crosby Gonzalez](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg "Kharbranth by Crosby Gonzalez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg)\
+Kharbranth by Crosby Gonzalez
+
 [![Knights Radiant by Antti Hakosaari](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg)\
 Knights Radiant by Antti Hakosaari
+
+[![Lift by Beniamino Bradi](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg "Lift by Beniamino Bradi")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg)\
+Lift by Beniamino Bradi
 
 [![Lyn by Jessi Chen Liu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg)\
 Lyn by Jessi Chen Liu
@@ -80,8 +102,14 @@ Lyn by Jessi Chen Liu
 [![Midnight Mother by Petar Penev](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg "Midnight Mother by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg)\
 Midnight Mother by Petar Penev
 
+[![Mraize by Botanica Xu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg "Mraize by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg)\
+Mraize by Botanica Xu
+
 [![Herald of Justice by Petar Penev](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg)\
 Herald of Justice by Petar Penev
+
+[![Navani by Botanica Xu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg "Navani by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg)\
+Navani by Botanica Xu
 
 [![Oathgate Spren by Ben McSweeny](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg "Oathgate Spren by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg)\
 Oathgate Spren by Ben McSweeny
@@ -139,6 +167,12 @@ Sketch Santhid by Ben McSweeny](https://raw.githubusercontent.com/buckmanc/wallp
 Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg)\
 Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny
+
+[![Spren by Botanica Xu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg "Spren by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg)\
+Spren by Botanica Xu
+
+[![Stormblessed by Kevin Keele](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg "Stormblessed by Kevin Keele")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg)\
+Stormblessed by Kevin Keele
 
 [![Rider of Storms by Connor Chamberlain](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)\
 Rider of Storms by Connor Chamberlain

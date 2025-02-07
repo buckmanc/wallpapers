@@ -1,4 +1,4 @@
-# tmnt - 71
+# tmnt - 76
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
 
 [![00_idw_30th.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_30th.jpg "00_idw_30th.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_30th.jpg)
@@ -61,6 +61,8 @@
 
 [![15289992e77cba8c2818615424708a5b.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg "15289992e77cba8c2818615424708a5b.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg)
 
+[![186e671ca47213ad3e3bd039ca772b605ee978da.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg "186e671ca47213ad3e3bd039ca772b605ee978da.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg)
+
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
 
 [![222458.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/222458.jpg "222458.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/222458.jpg)
@@ -88,6 +90,14 @@
 [![e43c9b591c989ba43e76879fa74a173a.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/e43c9b591c989ba43e76879fa74a173a.jpg "e43c9b591c989ba43e76879fa74a173a.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/e43c9b591c989ba43e76879fa74a173a.jpg)
 
 [![hpMZhrJEmgF4yhRX7Xzeih.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/hpMZhrJEmgF4yhRX7Xzeih.jpg "hpMZhrJEmgF4yhRX7Xzeih.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/hpMZhrJEmgF4yhRX7Xzeih.jpg)
+
+[![inhyuk-lee-41025dc6.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-41025dc6.jpg "inhyuk-lee-41025dc6.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-41025dc6.jpg)
+
+[![inhyuk-lee-GKpWymCb.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-GKpWymCb.jpg "inhyuk-lee-GKpWymCb.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-GKpWymCb.jpg)
+
+[![inhyuk-lee-lostyears-2-1.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-2-1.jpg "inhyuk-lee-lostyears-2-1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-2-1.jpg)
+
+[![inhyuk-lee-lostyears-5-1.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-5-1.jpg "inhyuk-lee-lostyears-5-1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-5-1.jpg)
 
 [![kael-ngu-20190715-bigtimecollectables-tmnt.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg "kael-ngu-20190715-bigtimecollectables-tmnt.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg)
 

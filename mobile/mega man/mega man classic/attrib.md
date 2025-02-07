@@ -57,3 +57,6 @@ __x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033
 __x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png   X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr  17ee815d18ab917da59a7dabf0819707
 __zero_aile_x_zero_z_ciel_and_10_more_mega_man_and_3_more_drawn_by_nakayama_tooru__142f983897e27046579827005cae1d88.jpg   Zero Aile X Zero Z Ciel and 10 More Mega Man and 3 More Drawn by Nakayama Tooru  142f983897e27046579827005cae1d88
 __zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg   Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru  4e33ac0f85557b70ef4e55a2f0cdd6d0
+megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb
+mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg Mega Men by Ultimatemaverickx Dgrwc9w Fullview
+mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview

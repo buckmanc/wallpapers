@@ -1,4 +1,4 @@
-# tolkien - 91
+# tolkien - 92
 [![1876125.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg)
 
 [![20231223_070550.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg)
@@ -37,6 +37,8 @@ Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre
 
 [![Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)\
 Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
+
+[![carlos-guimerà-aragorn-n-arwen.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/carlos-guimerà-aragorn-n-arwen.png "carlos-guimerà-aragorn-n-arwen.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/carlos-guimerà-aragorn-n-arwen.png)
 
 [![ Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg " Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg)\
  Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7

@@ -1,4 +1,4 @@
-# misc - 85
+# misc - 87
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -166,7 +166,11 @@ D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding
 
 [![d5304b1fd876710d_6406800.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg)
 
+[![d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg "d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg)
+
 [![d70de486af311927_FLXA97vXoAIBTpW.jpeg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
+
+[![d7d9682437d2d249_carlos-guimerà-asrai.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png "d7d9682437d2d249_carlos-guimerà-asrai.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png)
 
 [![dfdda5a232124c4d_pxfuel (40).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
 

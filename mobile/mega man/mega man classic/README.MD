@@ -1,4 +1,4 @@
-# mega man classic - 40
+# mega man classic - 44
 [![106600405_p0.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/106600405_p0.png "106600405_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/106600405_p0.png)
 
 [![10th_Anniversary_A.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/10th_Anniversary_A.png)
@@ -45,6 +45,9 @@ Classic Exe by Ultimatemaverickx
 
 [![Free-Pictures-Megaman-Backgrounds.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Free-Pictures-Megaman-Backgrounds.jpg)
 
+[![Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg "Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg)\
+Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb
+
 [![MegaMan11CollectorsPackageArtwork.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/MegaMan11CollectorsPackageArtwork.png)
 
 [![Megaman11-diagnostic-shirt-design.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Megaman11-diagnostic-shirt-design.png "Megaman11-diagnostic-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Megaman11-diagnostic-shirt-design.png)
@@ -60,8 +63,16 @@ Classic Exe by Ultimatemaverickx
 [![Mega Man 2 by Dan Mumford](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_2_by_dan_mumford.jpg)\
 Mega Man 2 by Dan Mumford
 
+[![mega-man-and-rush-72g3khhubrmaudwm.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega-man-and-rush-72g3khhubrmaudwm.jpg "mega-man-and-rush-72g3khhubrmaudwm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega-man-and-rush-72g3khhubrmaudwm.jpg)
+
 [![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg)\
 Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
+
+[![Mega Men by Ultimatemaverickx Dgrwc9w Fullview](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg "Mega Men by Ultimatemaverickx Dgrwc9w Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg)\
+Mega Men by Ultimatemaverickx Dgrwc9w Fullview
+
+[![Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg "Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg)\
+Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview
 
 [![Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png "Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png)\
 Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx

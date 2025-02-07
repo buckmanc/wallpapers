@@ -1,7 +1,7 @@
-# mobile - 1,945
+# mobile - 1,996
 - [castlevania](#castlevania) - 118
 - [castlevania pixel](#castlevania-pixel) - 16
-- [cosmere](#cosmere) - 121
+- [cosmere](#cosmere) - 155
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [elden ring](#elden-ring) - 20
@@ -14,10 +14,10 @@
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 261
+- [mega man](#mega-man) - 266
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 85
+- [misc](#misc) - 87
 - [misc anato finnstark](#misc-anato-finnstark) - 32
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
@@ -29,13 +29,13 @@
 - [pokemon patterns](#pokemon-patterns) - 40
 - [resident evil](#resident-evil) - 6
 - [sea of thieves](#sea-of-thieves) - 25
-- [shovel knight](#shovel-knight) - 9
+- [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
 - [star trek](#star-trek) - 8
 - [the legend of zelda](#the-legend-of-zelda) - 201
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
-- [tmnt](#tmnt) - 71
-- [tolkien](#tolkien) - 91
+- [tmnt](#tmnt) - 76
+- [tolkien](#tolkien) - 92
 
 <a id="castlevania"></a>
 
@@ -187,7 +187,7 @@ Zz Castle Castlevania by Roma Timbreza")](https://raw.githubusercontent.com/buck
 
 <a id="cosmere"></a>
 
-## [cosmere](/mobile/cosmere/README.MD) - 121
+## [cosmere](/mobile/cosmere/README.MD) - 155
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -240,18 +240,32 @@ The Bands of Mourning cover by Marc Simonetti")](https://raw.githubusercontent.c
 The Lost Metal cover by Marc Simonetti](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg "00 Cover Ms Mistborn 07 by Marc Simonetti
 The Lost Metal cover by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/00_cover_ms_mistborn_07_by_marc_simonetti.jpg)
 [![Bleeder by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/mistborn/Bleeder-by-Miranda-Meeks.jpg "Bleeder by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Bleeder-by-Miranda-Meeks.jpg)
+[![aleacionley-wax.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/aleacionley-wax.jpg "aleacionley-wax.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/aleacionley-wax.jpg)
+[![brumoso-copia3-texturing.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia3-texturing.jpg "brumoso-copia3-texturing.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia3-texturing.jpg)
+[![brumoso-copia.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia.jpg "brumoso-copia.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/brumoso-copia.jpg)
+[![cosmere-october-fall.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/cosmere-october-fall.jpg "cosmere-october-fall.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/cosmere-october-fall.jpg)
+[![kelsier-luthadel.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/kelsier-luthadel.jpg "kelsier-luthadel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/kelsier-luthadel.jpg)
+[![luthadel.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/luthadel.jpg "luthadel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/luthadel.jpg)
+[![luthadelmistborn-copia2.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/luthadelmistborn-copia2.jpg "luthadelmistborn-copia2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/luthadelmistborn-copia2.jpg)
+[![mistborn-draw-2.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-draw-2.jpg "mistborn-draw-2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-draw-2.jpg)
+[![mistborn.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn.jpg "mistborn.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn.jpg)
+[![mistborn-vermell-copia3.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg "mistborn-vermell-copia3.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg)
+[![Cosmere Postcards Luthadel by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/mistborn/cosmere-postcards-luthadel-by-geoff-shupe.jpg "Cosmere Postcards Luthadel by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/cosmere-postcards-luthadel-by-geoff-shupe.jpg)
 [![Death by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/death_by_ari_ibarra.png "Death by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/death_by_ari_ibarra.png)
 [![deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png](/.internals/thumbnails/mobile/cosmere/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png "deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/deckbuilderart.webp.c47e4462d703cb1570271bcb0b59e0b5.png)
+[![Funding by Sami Rytkonen](/.internals/thumbnails/mobile/cosmere/mistborn/funding-by-sami-rytkonen.jpg "Funding by Sami Rytkonen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/funding-by-sami-rytkonen.jpg)
 [![Inquisitor by Ricky Ho](/.internals/thumbnails/mobile/cosmere/mistborn/inquisitor-by-ricky-ho.jpg "Inquisitor by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/inquisitor-by-ricky-ho.jpg)
+[![Kelsier by Botanica Xu Row](/.internals/thumbnails/mobile/cosmere/mistborn/kelsier-by-botanica-xu-row.jpg "Kelsier by Botanica Xu Row")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/kelsier-by-botanica-xu-row.jpg)
 [![Kelsier by Gerva Perez](/.internals/thumbnails/mobile/cosmere/mistborn/Kelsier_by_Gerva_Perez.jpg "Kelsier by Gerva Perez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Kelsier_by_Gerva_Perez.jpg)
-[![Luthadel by CarloswkArt](/.internals/thumbnails/mobile/cosmere/mistborn/Luthadel_by_CarloswkArt.jpg "Luthadel by CarloswkArt")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Luthadel_by_CarloswkArt.jpg)
 [![MeLaan by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/mistborn/MeLaan_by_Miranda_Meeks.jpg "MeLaan by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/MeLaan_by_Miranda_Meeks.jpg)
+[![Mistborn Cover by Maria Arteta](/.internals/thumbnails/mobile/cosmere/mistborn/mistborn-cover-by-maria-arteta.jpg "Mistborn Cover by Maria Arteta")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/mistborn-cover-by-maria-arteta.jpg)
 [![Sazed by Botanicaxu
 Sazed by BotanicaXu](/.internals/thumbnails/mobile/cosmere/mistborn/sazed_by_botanicaxu.jpg "Sazed by Botanicaxu
 Sazed by BotanicaXu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/sazed_by_botanicaxu.jpg)
 [![Harmony by Kelley Harris
 Sazed Harmony by Kelley Harris](/.internals/thumbnails/mobile/cosmere/mistborn/Sazed_Harmony_by_Kelley_Harris.jpg "Harmony by Kelley Harris
 Sazed Harmony by Kelley Harris")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/Sazed_Harmony_by_Kelley_Harris.jpg)
+[![The Final Empire by Ed Marinas](/.internals/thumbnails/mobile/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg "The Final Empire by Ed Marinas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg)
 [![The Lord Ruler by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/The_Lord_Ruler_by_Ari_Ibarra.jpg "The Lord Ruler by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/The_Lord_Ruler_by_Ari_Ibarra.jpg)
 [![Vin and Elend by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/vin_and_elend_by_ari_ibarra.jpg "Vin and Elend by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/vin_and_elend_by_ari_ibarra.jpg)
 [![Bond by Randy Vargas
@@ -278,9 +292,15 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
 [![Ba Ado Mishram by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)
+[![carlos-guimerà-kaladin-cliff.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
+[![carlos-guimerà-szeth-m.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg "carlos-guimerà-szeth-m.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg)
 [![Chasm Fiend Hunt by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)
+[![Cosmere Postcards Urithiru by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg "Cosmere Postcards Urithiru by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/cosmere-postcards-urithiru-by-geoff-shupe.jpg)
 [![Eshonai by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg "Eshonai by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/eshonai_by_antti_hakosaari.jpg)
 [![Fashion by Dan Dos Santos](/.internals/thumbnails/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png "Fashion by Dan Dos Santos")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/fashion_by_dan_dos_santos.png)
+[![Iyatil by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg "Iyatil by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/iyatil-by-botanica-xu.jpg)
+[![Jasnah by Alartriss](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg "Jasnah by Alartriss")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-alartriss.jpg)
+[![Jasnah by Meileen Art](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg "Jasnah by Meileen Art")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah-by-meileen-art.jpg)
 [![Jasnah by Mycks Art Studio](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg "Jasnah by Mycks Art Studio")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_by_mycks_art_studio.jpg)
 [![Jasnah Kholin by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg "Jasnah Kholin by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_kholin_by_jessi_chen_liu.jpg)
 [![Jasnah Kholin by Pb Doodles](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_kholin_by_pb_doodles.png "Jasnah Kholin by Pb Doodles")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/jasnah_kholin_by_pb_doodles.png)
@@ -295,10 +315,14 @@ Stormblessed by Air Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpap
 Kal and Syl by Ina Wong](/.internals/thumbnails/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jpg "Kal and Syl by Ina Wong
 Kal and Syl by Ina Wong")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jpg)
 [![Kal and Szeth by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png "Kal and Szeth by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kal_and_szeth_by_jessi_chen_liu.png)
+[![Kharbranth by Crosby Gonzalez](/.internals/thumbnails/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg "Kharbranth by Crosby Gonzalez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/kharbranth-by-crosby-gonzalez.jpg)
 [![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg)
+[![Lift by Beniamino Bradi](/.internals/thumbnails/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg "Lift by Beniamino Bradi")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lift-by-beniamino-bradi.jpg)
 [![Lyn by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg "Lyn by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/lyn_by_jessi_chen_liu.jpg)
 [![Midnight Mother by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg "Midnight Mother by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Midnight_Mother_by_Petar_Penev.jpg)
+[![Mraize by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg "Mraize by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/mraize-by-botanica-xu.jpg)
 [![Herald of Justice by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg "Herald of Justice by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/nale_herald_of_justice_by_petar_penev.jpg)
+[![Navani by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg "Navani by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/navani-by-botanica-xu.jpg)
 [![Oathgate Spren by Ben McSweeny](/.internals/thumbnails/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg "Oathgate Spren by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/oathgate_spren_by_ben_mcsweeny.jpg)
 [![Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
 [![Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
@@ -320,6 +344,8 @@ Sketch Chull by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallp
 [![Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny](/.internals/thumbnails/mobile/cosmere/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg "Sketch Santhid by Ben Mcsweeny
 Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/sketch_santhid_by_ben_mcsweeny.jpeg)
+[![Spren by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg "Spren by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg)
+[![Stormblessed by Kevin Keele](/.internals/thumbnails/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg "Stormblessed by Kevin Keele")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg)
 [![Rider of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)
 [![Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
@@ -356,6 +382,12 @@ Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wal
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
+[![carlos-guimerà-alientodioses-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg "carlos-guimerà-alientodioses-mediana.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg)
+[![carlos-guimerà-capitulo-5.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg "carlos-guimerà-capitulo-5.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg)
+[![carlos-guimerà-cosmere-october-roto-2.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg "carlos-guimerà-cosmere-october-roto-2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg)
+[![carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg "carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg)
+[![carloswkart-elantris2.png](/.internals/thumbnails/mobile/cosmere/zz%20misc/carloswkart-elantris2.png "carloswkart-elantris2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/carloswkart-elantris2.png)
+[![Cosmere Postcards Forestsofhell by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg "Cosmere Postcards Forestsofhell by Geoff Shupe")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg)
 [![Elantris by Peter Kovacs
 Elantris by Péter Kovács](/.internals/thumbnails/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg "Elantris by Peter Kovacs
 Elantris by Péter Kovács")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg)
@@ -364,6 +396,8 @@ Shadows For Silence in the Forests of Hell cover by Miranda Meeks](/.internals/t
 Shadows For Silence in the Forests of Hell cover by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)
 [![SP4_wallpaper_vertical_back_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg "SP4_wallpaper_vertical_back_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg)
 [![SP4_wallpaper_vertical_v2_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg "SP4_wallpaper_vertical_v2_recolored.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg)
+[![Sunlit Man by Diego Lopez](/.internals/thumbnails/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg "Sunlit Man by Diego Lopez")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg)
+[![Tress by Cristina Oceja](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg "Tress by Cristina Oceja")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg)
 [![Death of the Dream by Howard Lyon
 Tress Death Of The Dream by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg "Death of the Dream by Howard Lyon
 Tress Death Of The Dream by Howard Lyon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg)
@@ -782,7 +816,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 <a id="mega-man"></a>
 
-## [mega man](/mobile/mega%20man/README.MD) - 261
+## [mega man](/mobile/mega%20man/README.MD) - 266
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/106600405_p0.png "106600405_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/10th_Anniversary_A.png)
 [![110630159_p8.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/110630159_p8.jpg "110630159_p8.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/110630159_p8.jpg)
@@ -805,6 +839,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![clipart4359455.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/clipart4359455.png "clipart4359455.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/clipart4359455.png)
 [![Cover05.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Cover05.jpg "Cover05.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Cover05.jpg)
 [![Free-Pictures-Megaman-Backgrounds.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Free-Pictures-Megaman-Backgrounds.jpg)
+[![Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg "Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg)
 [![MegaMan11CollectorsPackageArtwork.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/MegaMan11CollectorsPackageArtwork.png)
 [![Megaman11-diagnostic-shirt-design.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Megaman11-diagnostic-shirt-design.png "Megaman11-diagnostic-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Megaman11-diagnostic-shirt-design.png)
 [![Megaman-11-gears-of-fate-poster.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Megaman-11-gears-of-fate-poster.png "Megaman-11-gears-of-fate-poster.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Megaman-11-gears-of-fate-poster.png)
@@ -812,7 +847,10 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Mega_Man_11.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Mega_Man_11.png "Mega_Man_11.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Mega_Man_11.png)
 [![Megaman11-repair-shirt-design.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/Megaman11-repair-shirt-design.png "Megaman11-repair-shirt-design.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/Megaman11-repair-shirt-design.png)
 [![Mega Man 2 by Dan Mumford](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_2_by_dan_mumford.jpg)
+[![mega-man-and-rush-72g3khhubrmaudwm.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mega-man-and-rush-72g3khhubrmaudwm.jpg "mega-man-and-rush-72g3khhubrmaudwm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega-man-and-rush-72g3khhubrmaudwm.jpg)
 [![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg)
+[![Mega Men by Ultimatemaverickx Dgrwc9w Fullview](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg "Mega Men by Ultimatemaverickx Dgrwc9w Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg)
+[![Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg "Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg)
 [![Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png "Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png)
 [![MM11-MegaMan.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/MM11-MegaMan.png "MM11-MegaMan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/MM11-MegaMan.png)
 [![Proto Man Skies 1920x1200 by Alby13](/.internals/thumbnails/mobile/mega%20man/mega%20man%20classic/proto_man_skies_1920x1200_by_alby13.jpg "Proto Man Skies 1920x1200 by Alby13")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20classic/proto_man_skies_1920x1200_by_alby13.jpg)
@@ -943,6 +981,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Vile by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/vile_by_ultimatemaverickx.png "Vile by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/vile_by_ultimatemaverickx.png)
 [![ X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg " X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg)
 [![X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg "X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg)
+[![X Legacy by Ultimatemaverickx Dgkx59m Fullview](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg "X Legacy by Ultimatemaverickx Dgkx59m Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg)
 [![ X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png " X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png)
 [![Zero and Dr Wily Mega Man by Hoshi Mikan](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)
 [![00_armors_mmx_dive_rockman_x0_x.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png "00_armors_mmx_dive_rockman_x0_x.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png)
@@ -1294,7 +1333,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc"></a>
 
-## [misc](/mobile/misc/README.MD) - 85
+## [misc](/mobile/misc/README.MD) - 87
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](/.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](/.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1369,7 +1408,9 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae](/.internals/thumbnails/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg "D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg)
 [![D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding](/.internals/thumbnails/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg "D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg)
 [![d5304b1fd876710d_6406800.jpg](/.internals/thumbnails/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d5304b1fd876710d_6406800.jpg)
+[![d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg](/.internals/thumbnails/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg "d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg)
 [![d70de486af311927_FLXA97vXoAIBTpW.jpeg](/.internals/thumbnails/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
+[![d7d9682437d2d249_carlos-guimerà-asrai.png](/.internals/thumbnails/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png "d7d9682437d2d249_carlos-guimerà-asrai.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png)
 [![dfdda5a232124c4d_pxfuel (40).jpg](/.internals/thumbnails/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
 [![E19e16e32890ff49 Walking House by Sandara](/.internals/thumbnails/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg "E19e16e32890ff49 Walking House by Sandara")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg)
 [![E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01](/.internals/thumbnails/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png "E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png)
@@ -1854,15 +1895,19 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 <a id="shovel-knight"></a>
 
-## [shovel knight](/mobile/shovel%20knight/README.MD) - 9
+## [shovel knight](/mobile/shovel%20knight/README.MD) - 13
 [![20231210_220045.png](/.internals/thumbnails/mobile/shovel%20knight/20231210_220045.png "20231210_220045.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/20231210_220045.png)
 [![20231210_220118.jpg](/.internals/thumbnails/mobile/shovel%20knight/20231210_220118.jpg "20231210_220118.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/20231210_220118.jpg)
 [![hef2ixeegwp81.jpg](/.internals/thumbnails/mobile/shovel%20knight/hef2ixeegwp81.jpg "hef2ixeegwp81.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/hef2ixeegwp81.jpg)
 [![Iwilding ShovelKnight by Ian Wilding](/.internals/thumbnails/mobile/shovel%20knight/iwilding_ShovelKnight_by_ian_wilding.png "Iwilding ShovelKnight by Ian Wilding")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/iwilding_ShovelKnight_by_ian_wilding.png)
+[![Plague Knight by Megabuster182 Dazs3dl](/.internals/thumbnails/mobile/shovel%20knight/plague_knight_by_megabuster182_dazs3dl.jpg "Plague Knight by Megabuster182 Dazs3dl")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/plague_knight_by_megabuster182_dazs3dl.jpg)
 [![Shovel Knight Bloodstained Ritual Of The Night Drawn by Natsume Yuji 329385b6e77471e27a9b434d82bd6ca2](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight_bloodstained_ritual_of_the_night_drawn_by_natsume_yuji__329385b6e77471e27a9b434d82bd6ca2.jpg "Shovel Knight Bloodstained Ritual Of The Night Drawn by Natsume Yuji 329385b6e77471e27a9b434d82bd6ca2")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight_bloodstained_ritual_of_the_night_drawn_by_natsume_yuji__329385b6e77471e27a9b434d82bd6ca2.jpg)
 [![Shovel Knight Drawn by Daniel Warren C38e7f56be7e3b2ae0082ba446244bc0](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight_drawn_by_daniel_warren__c38e7f56be7e3b2ae0082ba446244bc0.jpg "Shovel Knight Drawn by Daniel Warren C38e7f56be7e3b2ae0082ba446244bc0")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight_drawn_by_daniel_warren__c38e7f56be7e3b2ae0082ba446244bc0.jpg)
 [![Shovel Knight Drawn by Michel Borges F6d16153695440dab0e9160745622b41](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight_drawn_by_michel_borges__f6d16153695440dab0e9160745622b41.jpg "Shovel Knight Drawn by Michel Borges F6d16153695440dab0e9160745622b41")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight_drawn_by_michel_borges__f6d16153695440dab0e9160745622b41.jpg)
 [![Shovel Knight.jpeg](/.internals/thumbnails/mobile/shovel%20knight/Shovel%20Knight.jpeg "Shovel Knight.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/Shovel%20Knight.jpeg)
+[![Shovel Knight Magical Malevolence by Jmanvelez Ddz6v63](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight___magical_malevolence_by_jmanvelez_ddz6v63.png "Shovel Knight Magical Malevolence by Jmanvelez Ddz6v63")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight___magical_malevolence_by_jmanvelez_ddz6v63.png)
+[![Shovel Knight Official Design Works Cover by Edwinhuang Dbr3tur](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight_official_design_works_cover_by_edwinhuang_dbr3tur.jpg "Shovel Knight Official Design Works Cover by Edwinhuang Dbr3tur")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight_official_design_works_cover_by_edwinhuang_dbr3tur.jpg)
+[![Shovel Knight Render by Incinaneverdies Dipsxw1](/.internals/thumbnails/mobile/shovel%20knight/shovel_knight_render_by_incinaneverdies_dipsxw1.png "Shovel Knight Render by Incinaneverdies Dipsxw1")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/shovel_knight_render_by_incinaneverdies_dipsxw1.png)
 [![z6b0smhdgwp81.jpg](/.internals/thumbnails/mobile/shovel%20knight/z6b0smhdgwp81.jpg "z6b0smhdgwp81.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/z6b0smhdgwp81.jpg)
 
 <a id="soulsborne"></a>
@@ -2128,7 +2173,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 
 <a id="tmnt"></a>
 
-## [tmnt](/mobile/tmnt/README.MD) - 71
+## [tmnt](/mobile/tmnt/README.MD) - 76
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
 [![00_idw_30th.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_30th.jpg "00_idw_30th.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_30th.jpg)
 [![00_idw_354dd42e843e7286ec9374314a0f4946.png](/.internals/thumbnails/mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png "00_idw_354dd42e843e7286ec9374314a0f4946.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/00_idw_354dd42e843e7286ec9374314a0f4946.png)
@@ -2159,6 +2204,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![1337531.png](/.internals/thumbnails/mobile/tmnt/1337531.png "1337531.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/1337531.png)
 [![152641.png](/.internals/thumbnails/mobile/tmnt/152641.png "152641.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/152641.png)
 [![15289992e77cba8c2818615424708a5b.jpg](/.internals/thumbnails/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg "15289992e77cba8c2818615424708a5b.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg)
+[![186e671ca47213ad3e3bd039ca772b605ee978da.jpg](/.internals/thumbnails/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg "186e671ca47213ad3e3bd039ca772b605ee978da.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg)
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](/.internals/thumbnails/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
 [![222458.jpg](/.internals/thumbnails/mobile/tmnt/222458.jpg "222458.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/222458.jpg)
 [![25a33700c54b09d31d7999f20f167585.jpg](/.internals/thumbnails/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg "25a33700c54b09d31d7999f20f167585.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg)
@@ -2173,6 +2219,10 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![ddhrfer-740ef882-9721-4230-98d5-ef152defb780.jpg](/.internals/thumbnails/mobile/tmnt/ddhrfer-740ef882-9721-4230-98d5-ef152defb780.jpg "ddhrfer-740ef882-9721-4230-98d5-ef152defb780.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/ddhrfer-740ef882-9721-4230-98d5-ef152defb780.jpg)
 [![e43c9b591c989ba43e76879fa74a173a.jpg](/.internals/thumbnails/mobile/tmnt/e43c9b591c989ba43e76879fa74a173a.jpg "e43c9b591c989ba43e76879fa74a173a.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/e43c9b591c989ba43e76879fa74a173a.jpg)
 [![hpMZhrJEmgF4yhRX7Xzeih.jpg](/.internals/thumbnails/mobile/tmnt/hpMZhrJEmgF4yhRX7Xzeih.jpg "hpMZhrJEmgF4yhRX7Xzeih.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/hpMZhrJEmgF4yhRX7Xzeih.jpg)
+[![inhyuk-lee-41025dc6.jpg](/.internals/thumbnails/mobile/tmnt/inhyuk-lee-41025dc6.jpg "inhyuk-lee-41025dc6.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-41025dc6.jpg)
+[![inhyuk-lee-GKpWymCb.jpg](/.internals/thumbnails/mobile/tmnt/inhyuk-lee-GKpWymCb.jpg "inhyuk-lee-GKpWymCb.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-GKpWymCb.jpg)
+[![inhyuk-lee-lostyears-2-1.jpg](/.internals/thumbnails/mobile/tmnt/inhyuk-lee-lostyears-2-1.jpg "inhyuk-lee-lostyears-2-1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-2-1.jpg)
+[![inhyuk-lee-lostyears-5-1.jpg](/.internals/thumbnails/mobile/tmnt/inhyuk-lee-lostyears-5-1.jpg "inhyuk-lee-lostyears-5-1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/inhyuk-lee-lostyears-5-1.jpg)
 [![kael-ngu-20190715-bigtimecollectables-tmnt.jpg](/.internals/thumbnails/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg "kael-ngu-20190715-bigtimecollectables-tmnt.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg)
 [![Leonardo Tmnt by Tiagomontoia D81by4k](/.internals/thumbnails/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png "Leonardo Tmnt by Tiagomontoia D81by4k")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png)
 [![Leo Vs Bebop by Nimeshmorarji Dbwl7aw](/.internals/thumbnails/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png "Leo Vs Bebop by Nimeshmorarji Dbwl7aw")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png)
@@ -2203,7 +2253,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 
 <a id="tolkien"></a>
 
-## [tolkien](/mobile/tolkien/README.MD) - 91
+## [tolkien](/mobile/tolkien/README.MD) - 92
 [![1876125.jpg](/.internals/thumbnails/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg)
 [![20231223_070550.jpg](/.internals/thumbnails/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg)
 [![20240115_120226.jpg](/.internals/thumbnails/mobile/tolkien/20240115_120226.jpg "20240115_120226.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20240115_120226.jpg)
@@ -2221,6 +2271,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png "Ancalagon Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ancalagon_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.png)
 [![Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre](/.internals/thumbnails/mobile/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg "Beren Luthien and Carcharoth Tolkien S Legendarium and 1 More Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/beren_luthien_and_carcharoth_tolkien_s_legendarium_and_1_more_drawn_by_coliandre.jpg)
 [![Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Boromir Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/boromir_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
+[![carlos-guimerà-aragorn-n-arwen.png](/.internals/thumbnails/mobile/tolkien/carlos-guimerà-aragorn-n-arwen.png "carlos-guimerà-aragorn-n-arwen.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/carlos-guimerà-aragorn-n-arwen.png)
 [![ Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7](/.internals/thumbnails/mobile/tolkien/ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg " Ecthelion and Gothmog Tolkien S Legendarium Drawn by Anato Finnstark 920be98944a076c6a031b5aba6ef39c7")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ecthelion_and_gothmog_tolkien_s_legendarium_drawn_by_anato_finnstark__920be98944a076c6a031b5aba6ef39c7.jpg)
 [![EowynandNazgul-donato-1000.jpg.jpg](/.internals/thumbnails/mobile/tolkien/EowynandNazgul-donato-1000.jpg.jpg "EowynandNazgul-donato-1000.jpg.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/EowynandNazgul-donato-1000.jpg.jpg)
 [![FallofGondolin-donato-3300-0318.jpg](/.internals/thumbnails/mobile/tolkien/FallofGondolin-donato-3300-0318.jpg "FallofGondolin-donato-3300-0318.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/FallofGondolin-donato-3300-0318.jpg)

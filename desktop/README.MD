@@ -1,8 +1,8 @@
-# desktop - 661
+# desktop - 663
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
-- [cosmere](#cosmere) - 13
+- [cosmere](#cosmere) - 14
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 116
 - [justin gerard](#justin-gerard) - 3
@@ -10,7 +10,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 105
+- [misc](#misc) - 106
 - [misc anato finnstark](#misc-anato-finnstark) - 4
 - [music](#music) - 4
 - [resident evil](#resident-evil) - 5
@@ -72,7 +72,7 @@
 
 <a id="cosmere"></a>
 
-## [cosmere](/desktop/cosmere/README.MD) - 13
+## [cosmere](/desktop/cosmere/README.MD) - 14
 [![00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg "00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)
@@ -83,6 +83,7 @@ The Alloy of Law Cover by Marc Simonetti")](https://raw.githubusercontent.com/bu
 Era 2 Triptych by Marc Simonetti](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg "00 Cover Zz Era 2 by Marc Simonetti
 Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/00_cover_zz_era_2_by_marc_simonetti.jpg)
 [![Cognitive Realm by Ricky Ho](/.internals/thumbnails/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg "Cognitive Realm by Ricky Ho")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/cognitive-realm-by-ricky-ho.jpg)
+[![The Final Empire by Ed Marinas](/.internals/thumbnails/desktop/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg "The Final Empire by Ed Marinas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/mistborn/the-final-empire-by-ed-marinas.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/desktop/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
 [![Kaladin Vs Szeth by Michael Whalen](/.internals/thumbnails/desktop/cosmere/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg "Kaladin Vs Szeth by Michael Whalen")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/kaladin_vs_szeth_by_michael_whalen.jpg)
 [![Knights Radiant by Antti Hakosaari](/.internals/thumbnails/desktop/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg "Knights Radiant by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/stormlight/knights_radiant_by_antti_hakosaari.jpg)
@@ -296,7 +297,8 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 105
+## [misc](/desktop/misc/README.MD) - 106
+[![80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w](/.internals/thumbnails/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg "80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg)
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg](/.internals/thumbnails/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg "85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg)
