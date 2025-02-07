@@ -161,9 +161,13 @@ then
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
-		if echo "$path" | grep -qiP "(/forests/|/space/|/space - fictional/|/misc/|/leaves/|/cityscapes/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
+		shortPath="${path/#"$path_root"/}"
+		# only use perceptual hash filenames for specific folders
+		# only misc folders at one level deep
+		if echo "$shortPath" | grep -qiP "(/forests/|/space/|/space - fictional/|^/?[^/]+/misc/|/leaves/|/cityscapes/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
 		then
-			echo -n "moving ${path/#"$path_root"/}..."
+			echo -n "moving $shortPath..."
+			exit 1
 			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
 			mv --backup=numbered "$path" "$newPath"
 			echo "done"
