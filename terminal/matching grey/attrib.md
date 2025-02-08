@@ -15,3 +15,5 @@ magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png Magic Circle Bayo
 magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon
 magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon
 magic_circle_lycarus_by_dragonphyrre.png Magic Circle Lycarus by Dragonphyrre
+acorn_by_svgocean.png Acorn by Svgocean
+tmnt_leonardo_back_outline_by_juliefoohandmade.png Tmnt Leonardo Back Outline by Juliefoohandmade

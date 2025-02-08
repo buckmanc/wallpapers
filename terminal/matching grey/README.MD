@@ -1,5 +1,8 @@
-# matching grey - 141
+# matching grey - 147
 [![20_ponted_cross_graph.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/20_ponted_cross_graph.png)
+
+[![Acorn by Svgocean](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/acorn_by_svgocean.png)\
+Acorn by Svgocean
 
 [![aperture_science.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/aperture_science.png)
 
@@ -86,6 +89,8 @@ Castlevania Glyph Dominus Hatred by Pyderek
 [![happy_birthday.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/happy_birthday.png "happy_birthday.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/happy_birthday.png)
 
 [![horizontale_coördinatenstelsel.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/horizontale_coördinatenstelsel.png "horizontale_coördinatenstelsel.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/horizontale_coördinatenstelsel.png)
+
+[![japanese_crest_ageha_cho.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/japanese_crest_ageha_cho.png "japanese_crest_ageha_cho.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/japanese_crest_ageha_cho.png)
 
 [![magic_circle_01.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/magic_circle_01.png)
 
@@ -252,6 +257,15 @@ Magic Circle Lycarus by Dragonphyrre
 [![stormlight_simple.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/stormlight_simple.png)
 
 [![tehran_metro_map_v1_0.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tehran_metro_map_v1_0.png)
+
+[![Tmnt Leonardo Back Outline by Juliefoohandmade](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_leonardo_back_outline_by_juliefoohandmade.png "Tmnt Leonardo Back Outline by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_leonardo_back_outline_by_juliefoohandmade.png)\
+Tmnt Leonardo Back Outline by Juliefoohandmade
+
+[![tmnt_reading_pngwing.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_reading_pngwing.png "tmnt_reading_pngwing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_reading_pngwing.png)
+
+[![tmnt_splinter_clan.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_splinter_clan.png "tmnt_splinter_clan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_splinter_clan.png)
+
+[![tmnt_svgrepo_com.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_svgrepo_com.png "tmnt_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tmnt_svgrepo_com.png)
 
 [![tolkien_monogram.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/matching%20grey/tolkien_monogram.png)
 
