@@ -41,7 +41,7 @@ find-images() {
 	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
-	find-images "$path_root" -maxdepth 5 -mindepth 3 -not -path '*/.*'
+	find-images "$path_root" -maxdepth 10 -mindepth 3 -not -path '*/.*'
 }
 find-images-including-thumbnails() {
 	"$path_root/scripts/find-images" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
@@ -379,15 +379,23 @@ while read -r dir; do
 		customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
 		imgFolderPathReggie="$(quoteRe "${subDir}/")"
 		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie" | numfmt --grouping)"
-		mdText+="$folderToc"$'\n'
+		if [[ "$folderToc" != *" - 0" ]]
+		then
+			mdText+="$folderToc"$'\n'
+		fi
 	done < <( echo "$subDirs" )
 
 	while read -r subDir; do
 
 		imgFolderPathReggie="$(quoteRe "${subDir}/")"
-		subDirImgFiles="$(echo "$imgFiles" | grep -iP "$imgFolderPathReggie")"
+		subDirImgFiles="$(echo "$imgFiles" | grep -iP "$imgFolderPathReggie" || true)"
 
 		while read -r imgPath; do
+			if [[ -z "$imgPath" ]]
+			then
+				continue
+			fi
+
 			((i++)) || true
 			imgFilename="$(basename "$imgPath")"
 			printf '%s%4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
@@ -491,7 +499,7 @@ while read -r dir; do
 		done < <( echo "$subDirImgFiles" )
 	done < <( echo "$subDirs" )
 
-	parentDirUrl="$(echo "$friendlyDirName" | sed -r 's|/[^/]+$||')"
+	parentDirUrl="$(echo "$friendlyDirName" | sed -r -e 's|/[^/]+$||' -e 's/ /%20/g')"
 	mdText+=$'\n'$'\n'
 	mdText+="[back to top](#)"$'\n'
 	mdText+="[up one level]($parentDirUrl/README.MD)"
@@ -574,7 +582,7 @@ fi
 if type pandoc >/dev/null 2>&1
 then
 	echo "--updating readme html's..."
-	mdFiles=$(find "$path_root" -maxdepth 5 -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
+	mdFiles=$(find "$path_root" -maxdepth 10 -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
 	iHtmlSkip=0

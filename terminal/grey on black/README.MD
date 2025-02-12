@@ -1,9 +1,10 @@
-# terminal - 147
-- [grey on black](#grey-on-black) - 147
+# grey on black - 147
+- [big](#big) - 48
+- [little](#little) - 99
 
-<a id="grey-on-black"></a>
+<a id="big"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 147
+## [big](/terminal/grey%20on%20black/big/README.MD) - 48
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -52,6 +53,10 @@
 [![Zelda Collection 03 Encylopedia by Japatonic](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png "Zelda Collection 03 Encylopedia by Japatonic")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png)
 [![Zelda Skyward Sword Gate Of Time by Tamalesyatole](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png)
 [![zelda_totk_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png)
+
+<a id="little"></a>
+
+## [little](/terminal/grey%20on%20black/little/README.MD) - 99
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -154,4 +159,4 @@
 
 
 [back to top](#)
-[up one level](/README.MD)
+[up one level](/terminal/README.MD)

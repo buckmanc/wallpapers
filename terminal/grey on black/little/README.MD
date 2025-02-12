@@ -1,62 +1,31 @@
-# terminal - 147
-- [grey on black](#grey-on-black) - 147
+# little - 99
+- [castlevania](#castlevania) - 5
+- [cosmere](#cosmere) - 9
+- [elder scrolls](#elder-scrolls) - 3
+- [full metal alchemist](#full-metal-alchemist) - 3
+- [game icons dot net](#game-icons-dot-net) - 12
+- [language](#language) - 1
+- [mario](#mario) - 6
+- [misc](#misc) - 33
+- [moons](#moons) - 5
+- [nintendo](#nintendo) - 6
+- [star trek](#star-trek) - 2
+- [the legend of zelda](#the-legend-of-zelda) - 8
+- [tmnt](#tmnt) - 4
+- [tolkien](#tolkien) - 2
 
-<a id="grey-on-black"></a>
+<a id="castlevania"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 147
-[![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
-[![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
-[![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
-[![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
-[![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
-[![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
-[![magic_circle_full_metal_alchemist.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png "magic_circle_full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png)
-[![magic_circle_01.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_01.png)
-[![magic_circle_02.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_02.png "magic_circle_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_02.png)
-[![magic_circle_03.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_03.png "magic_circle_03.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_03.png)
-[![magic_circle_04.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_04.png "magic_circle_04.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_04.png)
-[![magic_circle_05.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_05.png "magic_circle_05.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_05.png)
-[![magic_circle_06.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_06.png "magic_circle_06.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_06.png)
-[![magic_circle_07.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_07.png "magic_circle_07.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_07.png)
-[![magic_circle_08.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_08.png "magic_circle_08.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_08.png)
-[![magic_circle_09.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_09.png "magic_circle_09.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_09.png)
-[![magic_circle_10_tpdesign06.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_10_tpdesign06.png "magic_circle_10_tpdesign06.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_10_tpdesign06.png)
-[![magic_circle_11_loutecrea.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_11_loutecrea.png "magic_circle_11_loutecrea.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_11_loutecrea.png)
-[![magic_circle_12_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png "magic_circle_12_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png)
-[![magic_circle_15.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_15.png "magic_circle_15.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_15.png)
-[![magic_circle_16.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_16.png "magic_circle_16.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_16.png)
-[![magic_circle_7003_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7003_etechdigital.png)
-[![magic_circle_7005_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7005_etechdigital.png)
-[![magic_circle_7007_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7007_etechdigital.png "magic_circle_7007_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7007_etechdigital.png)
-[![magic_circle_7010_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7010_etechdigital.png "magic_circle_7010_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7010_etechdigital.png)
-[![magic_circle_7011_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7011_etechdigital.png "magic_circle_7011_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7011_etechdigital.png)
-[![magic_circle_7012_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7012_etechdigital.png "magic_circle_7012_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7012_etechdigital.png)
-[![magic_circle_7013_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7013_etechdigital.png "magic_circle_7013_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_7013_etechdigital.png)
-[![Magic Circle Advanced Trinity Summoning Circle by Hocc](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_advanced_trinity_summoning_circle_by_hocc.png "Magic Circle Advanced Trinity Summoning Circle by Hocc")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_advanced_trinity_summoning_circle_by_hocc.png)
-[![Magic Circle Alicia S Glyph by Hocc](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png "Magic Circle Alicia S Glyph by Hocc")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png)
-[![magic_circle_doctor_strange.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_doctor_strange.png "magic_circle_doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_doctor_strange.png)
-[![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)
-[![mandala_10.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_10.png "mandala_10.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_10.png)
-[![mandala_2.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_2.png "mandala_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_2.png)
-[![mandala_3.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_3.png "mandala_3.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_3.png)
-[![mandala_5.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_5.png "mandala_5.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_5.png)
-[![new_york_city_subway_map.png](/.internals/thumbnails/terminal/grey%20on%20black/big/maps/new_york_city_subway_map.png "new_york_city_subway_map.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/maps/new_york_city_subway_map.png)
-[![tehran_metro_map_v1_0.png](/.internals/thumbnails/terminal/grey%20on%20black/big/maps/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/maps/tehran_metro_map_v1_0.png)
-[![20_ponted_cross_graph.png](/.internals/thumbnails/terminal/grey%20on%20black/big/misc/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/misc/20_ponted_cross_graph.png)
-[![compass_rose_cantino.png](/.internals/thumbnails/terminal/grey%20on%20black/big/misc/compass_rose_cantino.png "compass_rose_cantino.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/misc/compass_rose_cantino.png)
-[![tree_of_life_svg.png](/.internals/thumbnails/terminal/grey%20on%20black/big/misc/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/misc/tree_of_life_svg.png)
-[![stargate_milkyway.png](/.internals/thumbnails/terminal/grey%20on%20black/big/stargate/stargate_milkyway.png "stargate_milkyway.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/stargate/stargate_milkyway.png)
-[![stargate_pegasus.png](/.internals/thumbnails/terminal/grey%20on%20black/big/stargate/stargate_pegasus.png "stargate_pegasus.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/stargate/stargate_pegasus.png)
-[![Twlight Portal by Ohcooldesigns](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/twlight_portal_by_ohcooldesigns.png "Twlight Portal by Ohcooldesigns")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/twlight_portal_by_ohcooldesigns.png)
-[![Zelda Collection 02 Arts and Artifacts by Japatonic](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_02_arts_and_artifacts_by_japatonic.png "Zelda Collection 02 Arts and Artifacts by Japatonic")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_02_arts_and_artifacts_by_japatonic.png)
-[![Zelda Collection 03 Encylopedia by Japatonic](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png "Zelda Collection 03 Encylopedia by Japatonic")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png)
-[![Zelda Skyward Sword Gate Of Time by Tamalesyatole](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png)
-[![zelda_totk_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png)
+## [castlevania](/terminal/grey%20on%20black/little/castlevania/README.MD) - 5
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
 [![Castlevania Glyph Dominus Hatred by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_hatred_by_pyderek.png "Castlevania Glyph Dominus Hatred by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_hatred_by_pyderek.png)
 [![castlevania_silhouette_pngfind.png](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_silhouette_pngfind.png "castlevania_silhouette_pngfind.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_silhouette_pngfind.png)
+
+<a id="cosmere"></a>
+
+## [cosmere](/terminal/grey%20on%20black/little/cosmere/README.MD) - 9
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere.png "cosmere.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png "mistborn_atium.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png)
@@ -66,12 +35,24 @@
 [![stormlight_glyph_truthwatchers.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_truthwatchers.png "stormlight_glyph_truthwatchers.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_truthwatchers.png)
 [![stormlight.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight.png "stormlight.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/stormlight.png)
 [![stormlight_simple.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/cosmere/stormlight_simple.png)
+
+<a id="elder-scrolls"></a>
+
+## [elder scrolls](/terminal/grey%20on%20black/little/elder%20scrolls/README.MD) - 3
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/skyrim.png "skyrim.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/elder%20scrolls/skyrim.png)
+
+<a id="full-metal-alchemist"></a>
+
+## [full metal alchemist](/terminal/grey%20on%20black/little/full%20metal%20alchemist/README.MD) - 3
 [![full_metal_alchemist_blood_seal_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 [![full_metal_alchemist_flamel.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png)
 [![full_metal_alchemist_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
+
+<a id="game-icons-dot-net"></a>
+
+## [game icons dot net](/terminal/grey%20on%20black/little/game%20icons%20dot%20net/README.MD) - 12
 [![game_icons_dot_net_aquarium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_aquarium.png "game_icons_dot_net_aquarium.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_aquarium.png)
 [![game_icons_dot_net_beveled_star.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_beveled_star.png "game_icons_dot_net_beveled_star.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_beveled_star.png)
 [![game_icons_dot_net_boba.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_boba.png "game_icons_dot_net_boba.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_boba.png)
@@ -84,13 +65,25 @@
 [![game_icons_dot_net_wanted_reward.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png)
 [![game_icons_dot_net_warlord_helmet.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png)
 [![game_icons_dot_net_winged_sword.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png)
+
+<a id="language"></a>
+
+## [language](/terminal/grey%20on%20black/little/language/README.MD) - 1
 [![happy_birthday.png](/.internals/thumbnails/terminal/grey%20on%20black/little/language/happy_birthday.png "happy_birthday.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/language/happy_birthday.png)
+
+<a id="mario"></a>
+
+## [mario](/terminal/grey%20on%20black/little/mario/README.MD) - 6
 [![mario_bob_omb.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_bob_omb.png "mario_bob_omb.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/mario_bob_omb.png)
 [![mario_mushroom.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_mushroom.png "mario_mushroom.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/mario_mushroom.png)
 [![mario_star.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_star.png "mario_star.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/mario_star.png)
 [![pixel_mario_3_item_block.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/pixel_mario_3_item_block.png "pixel_mario_3_item_block.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/pixel_mario_3_item_block.png)
 [![pixel_mario_3_map_tile.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/pixel_mario_3_map_tile.png "pixel_mario_3_map_tile.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/pixel_mario_3_map_tile.png)
 [![shy_guy.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/shy_guy.png "shy_guy.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/mario/shy_guy.png)
+
+<a id="misc"></a>
+
+## [misc](/terminal/grey%20on%20black/little/misc/README.MD) - 33
 [![Acorn by Svgocean](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png)
 [![aperture_science.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/aperture_science.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/buer_sigil_lineartboutique.png)
@@ -124,19 +117,35 @@
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/ubuntu_circle_of_friends_old.png)
 [![vegvisir_and_runes_parsarart.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/vegvisir_and_runes_parsarart.png)
 [![南中_小学校理科.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/南中_小学校理科.png "南中_小学校理科.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/南中_小学校理科.png)
+
+<a id="moons"></a>
+
+## [moons](/terminal/grey%20on%20black/little/moons/README.MD) - 5
 [![esoteric_moon_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20black/little/moons/esoteric_moon_artstudiodesignsvg.png "esoteric_moon_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/moons/esoteric_moon_artstudiodesignsvg.png)
 [![moon_1.png](/.internals/thumbnails/terminal/grey%20on%20black/little/moons/moon_1.png "moon_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/moons/moon_1.png)
 [![moon_2.png](/.internals/thumbnails/terminal/grey%20on%20black/little/moons/moon_2.png "moon_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/moons/moon_2.png)
 [![moon_buds_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20black/little/moons/moon_buds_artstudiodesignsvg.png "moon_buds_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/moons/moon_buds_artstudiodesignsvg.png)
 [![moon_crystals_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20black/little/moons/moon_crystals_artstudiodesignsvg.png "moon_crystals_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/moons/moon_crystals_artstudiodesignsvg.png)
+
+<a id="nintendo"></a>
+
+## [nintendo](/terminal/grey%20on%20black/little/nintendo/README.MD) - 6
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/nintendo_switch_logo_without_text.png)
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/smash_ball.png)
+
+<a id="star-trek"></a>
+
+## [star trek](/terminal/grey%20on%20black/little/star%20trek/README.MD) - 2
 [![star_trek_klingon_symbol.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png)
 [![star_trek_starfleet_insignia.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png)
+
+<a id="the-legend-of-zelda"></a>
+
+## [the legend of zelda](/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/README.MD) - 8
 [![triforce_outline.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_outline.png "triforce_outline.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_outline.png)
 [![triforce_simple.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_simple.png "triforce_simple.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_simple.png)
 [![triforce_splot.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_splot.png "triforce_splot.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_splot.png)
@@ -145,13 +154,21 @@
 [![zelda_botw_sheikah_eye.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_sheikah_eye.png "zelda_botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_sheikah_eye.png)
 [![zelda_botw_stabby_z.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_stabby_z.png "zelda_botw_stabby_z.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_stabby_z.png)
 [![zelda_hylian_shield.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_hylian_shield.png "zelda_hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_hylian_shield.png)
+
+<a id="tmnt"></a>
+
+## [tmnt](/terminal/grey%20on%20black/little/tmnt/README.MD) - 4
 [![Tmnt Leonardo Back Outline by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png "Tmnt Leonardo Back Outline by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png)
 [![tmnt_reading_pngwing.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png "tmnt_reading_pngwing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png)
 [![tmnt_splinter_clan.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png "tmnt_splinter_clan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png)
 [![tmnt_svgrepo_com.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png "tmnt_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png)
+
+<a id="tolkien"></a>
+
+## [tolkien](/terminal/grey%20on%20black/little/tolkien/README.MD) - 2
 [![one_ring_inscription_ring_a_ling.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tolkien/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tolkien/one_ring_inscription_ring_a_ling.png)
 [![tolkien_monogram.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tolkien/tolkien_monogram.png)
 
 
 [back to top](#)
-[up one level](/README.MD)
+[up one level](/terminal/grey%20on%20black/README.MD)
