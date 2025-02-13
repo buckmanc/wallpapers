@@ -41,7 +41,7 @@ find-images() {
 	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
-	find-images "$path_root" -maxdepth 10 -mindepth 3 -not -path '*/.*'
+	find-images "$path_root" -mindepth 3 -not -path '*/.*'
 }
 find-images-including-thumbnails() {
 	"$path_root/scripts/find-images" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
@@ -582,7 +582,7 @@ fi
 if type pandoc >/dev/null 2>&1
 then
 	echo "--updating readme html's..."
-	mdFiles=$(find "$path_root" -maxdepth 10 -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
+	mdFiles=$(find "$path_root" -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
 	iHtmlSkip=0

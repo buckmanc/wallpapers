@@ -1,4 +1,4 @@
-# little - 99
+# little - 103
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 9
 - [elder scrolls](#elder-scrolls) - 3
@@ -11,7 +11,7 @@
 - [nintendo](#nintendo) - 6
 - [star trek](#star-trek) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 8
-- [tmnt](#tmnt) - 4
+- [tmnt](#tmnt) - 8
 - [tolkien](#tolkien) - 2
 
 <a id="castlevania"></a>
@@ -157,8 +157,12 @@
 
 <a id="tmnt"></a>
 
-## [tmnt](/terminal/grey%20on%20black/little/tmnt/README.MD) - 4
-[![Tmnt Leonardo Back Outline by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png "Tmnt Leonardo Back Outline by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png)
+## [tmnt](/terminal/grey%20on%20black/little/tmnt/README.MD) - 8
+[![Tmnt Back 01 Leonardo by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_01_leonardo_by_juliefoohandmade.png "Tmnt Back 01 Leonardo by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_01_leonardo_by_juliefoohandmade.png)
+[![Tmnt Back 02 Donatello by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_02_donatello_by_juliefoohandmade.png "Tmnt Back 02 Donatello by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_02_donatello_by_juliefoohandmade.png)
+[![Tmnt Back 03 Raphael by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_03_raphael_by_juliefoohandmade.png "Tmnt Back 03 Raphael by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_03_raphael_by_juliefoohandmade.png)
+[![Tmnt Back 04 Michelangelo by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_04_michelangelo_by_juliefoohandmade.png "Tmnt Back 04 Michelangelo by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_04_michelangelo_by_juliefoohandmade.png)
+[![tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png "tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png)
 [![tmnt_reading_pngwing.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png "tmnt_reading_pngwing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png)
 [![tmnt_splinter_clan.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png "tmnt_splinter_clan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png)
 [![tmnt_svgrepo_com.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png "tmnt_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png)

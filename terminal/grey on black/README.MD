@@ -1,6 +1,6 @@
-# grey on black - 147
+# grey on black - 151
 - [big](#big) - 48
-- [little](#little) - 99
+- [little](#little) - 103
 
 <a id="big"></a>
 
@@ -56,7 +56,7 @@
 
 <a id="little"></a>
 
-## [little](/terminal/grey%20on%20black/little/README.MD) - 99
+## [little](/terminal/grey%20on%20black/little/README.MD) - 103
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -150,7 +150,11 @@
 [![zelda_botw_sheikah_eye.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_sheikah_eye.png "zelda_botw_sheikah_eye.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_sheikah_eye.png)
 [![zelda_botw_stabby_z.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_stabby_z.png "zelda_botw_stabby_z.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_botw_stabby_z.png)
 [![zelda_hylian_shield.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_hylian_shield.png "zelda_hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/zelda_hylian_shield.png)
-[![Tmnt Leonardo Back Outline by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png "Tmnt Leonardo Back Outline by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_leonardo_back_outline_by_juliefoohandmade.png)
+[![Tmnt Back 01 Leonardo by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_01_leonardo_by_juliefoohandmade.png "Tmnt Back 01 Leonardo by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_01_leonardo_by_juliefoohandmade.png)
+[![Tmnt Back 02 Donatello by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_02_donatello_by_juliefoohandmade.png "Tmnt Back 02 Donatello by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_02_donatello_by_juliefoohandmade.png)
+[![Tmnt Back 03 Raphael by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_03_raphael_by_juliefoohandmade.png "Tmnt Back 03 Raphael by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_03_raphael_by_juliefoohandmade.png)
+[![Tmnt Back 04 Michelangelo by Juliefoohandmade](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_back_04_michelangelo_by_juliefoohandmade.png "Tmnt Back 04 Michelangelo by Juliefoohandmade")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_back_04_michelangelo_by_juliefoohandmade.png)
+[![tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png "tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png)
 [![tmnt_reading_pngwing.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png "tmnt_reading_pngwing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_reading_pngwing.png)
 [![tmnt_splinter_clan.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png "tmnt_splinter_clan.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_splinter_clan.png)
 [![tmnt_svgrepo_com.png](/.internals/thumbnails/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png "tmnt_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png)
