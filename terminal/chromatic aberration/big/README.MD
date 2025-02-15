@@ -1,17 +1,18 @@
-# big - 47
-- [magic circles](#magic-circles) - 31
+# big - 52
+- [magic circles](#magic-circles) - 34
 - [mandalas](#mandalas) - 4
 - [maps](#maps) - 2
-- [misc](#misc) - 3
+- [misc](#misc) - 5
 - [stargate](#stargate) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 5
 
 <a id="magic-circles"></a>
 
-## [magic circles](/terminal/chromatic%20aberration/big/magic%20circles/README.MD) - 31
+## [magic circles](/terminal/chromatic%20aberration/big/magic%20circles/README.MD) - 34
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
+[![magic_circle_full_metal_alchemist_02.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png "magic_circle_full_metal_alchemist_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png)
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
@@ -29,6 +30,7 @@
 [![magic_circle_12_artstudiodesignsvg.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png "magic_circle_12_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png)
 [![magic_circle_15.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_15.png "magic_circle_15.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_15.png)
 [![magic_circle_16.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_16.png "magic_circle_16.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_16.png)
+[![magic_circle_17.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_17.png "magic_circle_17.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_17.png)
 [![magic_circle_7003_etechdigital.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7003_etechdigital.png)
 [![magic_circle_7005_etechdigital.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7005_etechdigital.png)
 [![magic_circle_7007_etechdigital.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7007_etechdigital.png "magic_circle_7007_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_7007_etechdigital.png)
@@ -40,6 +42,7 @@
 [![Magic Circle Alicia S Glyph by Hocc](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png "Magic Circle Alicia S Glyph by Hocc")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png)
 [![magic_circle_doctor_strange.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_doctor_strange.png "magic_circle_doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_doctor_strange.png)
 [![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)
+[![magic_circle_planets_drawing.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png)
 
 <a id="mandalas"></a>
 
@@ -57,9 +60,11 @@
 
 <a id="misc"></a>
 
-## [misc](/terminal/chromatic%20aberration/big/misc/README.MD) - 3
+## [misc](/terminal/chromatic%20aberration/big/misc/README.MD) - 5
 [![20_ponted_cross_graph.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/20_ponted_cross_graph.png)
+[![circle_squares.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/circle_squares.png "circle_squares.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/circle_squares.png)
 [![compass_rose_cantino.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/compass_rose_cantino.png "compass_rose_cantino.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/compass_rose_cantino.png)
+[![maze.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/maze.png "maze.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/maze.png)
 [![tree_of_life_svg.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png)
 
 <a id="stargate"></a>

@@ -1,7 +1,7 @@
-# magic circles - 31
+# magic circles - 34
 - [bayonetta](#bayonetta) - 3
-- [full metal alchemist](#full-metal-alchemist) - 3
-- [misc](#misc) - 25
+- [full metal alchemist](#full-metal-alchemist) - 4
+- [misc](#misc) - 27
 
 <a id="bayonetta"></a>
 
@@ -12,14 +12,15 @@
 
 <a id="full-metal-alchemist"></a>
 
-## [full metal alchemist](/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/README.MD) - 3
+## [full metal alchemist](/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/README.MD) - 4
+[![magic_circle_full_metal_alchemist_02.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png "magic_circle_full_metal_alchemist_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png)
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
 
 <a id="misc"></a>
 
-## [misc](/terminal/grey%20on%20alpha/big/magic%20circles/misc/README.MD) - 25
+## [misc](/terminal/grey%20on%20alpha/big/magic%20circles/misc/README.MD) - 27
 [![magic_circle_01.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_01.png)
 [![magic_circle_02.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_02.png "magic_circle_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_02.png)
 [![magic_circle_03.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_03.png "magic_circle_03.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_03.png)
@@ -34,6 +35,7 @@
 [![magic_circle_12_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png "magic_circle_12_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_12_artstudiodesignsvg.png)
 [![magic_circle_15.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_15.png "magic_circle_15.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_15.png)
 [![magic_circle_16.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_16.png "magic_circle_16.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_16.png)
+[![magic_circle_17.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_17.png "magic_circle_17.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_17.png)
 [![magic_circle_7003_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7003_etechdigital.png)
 [![magic_circle_7005_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7005_etechdigital.png)
 [![magic_circle_7007_etechdigital.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7007_etechdigital.png "magic_circle_7007_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7007_etechdigital.png)
@@ -45,6 +47,7 @@
 [![Magic Circle Alicia S Glyph by Hocc](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png "Magic Circle Alicia S Glyph by Hocc")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_alicia_s_glyph_by_hocc.png)
 [![magic_circle_doctor_strange.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_doctor_strange.png "magic_circle_doctor_strange.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_doctor_strange.png)
 [![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)
+[![magic_circle_planets_drawing.png](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png)
 
 
 [back to top](#)

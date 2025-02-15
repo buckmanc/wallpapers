@@ -1,4 +1,4 @@
-# misc - 25
+# misc - 27
 [![magic_circle_01.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_01.png)
 
 [![magic_circle_02.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_02.png "magic_circle_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_02.png)
@@ -27,6 +27,8 @@
 
 [![magic_circle_16.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_16.png "magic_circle_16.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_16.png)
 
+[![magic_circle_17.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_17.png "magic_circle_17.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_17.png)
+
 [![magic_circle_7003_etechdigital.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7003_etechdigital.png "magic_circle_7003_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7003_etechdigital.png)
 
 [![magic_circle_7005_etechdigital.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7005_etechdigital.png "magic_circle_7005_etechdigital.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_7005_etechdigital.png)
@@ -51,6 +53,8 @@ Magic Circle Alicia S Glyph by Hocc
 
 [![Magic Circle Lycarus by Dragonphyrre](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)\
 Magic Circle Lycarus by Dragonphyrre
+
+[![magic_circle_planets_drawing.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png)
 
 
 

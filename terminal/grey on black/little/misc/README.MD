@@ -1,4 +1,4 @@
-# misc - 33
+# misc - 38
 [![Acorn by Svgocean](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png)\
 Acorn by Svgocean
 
@@ -9,6 +9,8 @@ Acorn by Svgocean
 [![caffeine.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/caffeine.png "caffeine.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/caffeine.png)
 
 [![cassette.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/cassette.png "cassette.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/cassette.png)
+
+[![chinese_dragon.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/chinese_dragon.png "chinese_dragon.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/chinese_dragon.png)
 
 [![circuits_vnpcustoms.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/circuits_vnpcustoms.png "circuits_vnpcustoms.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/circuits_vnpcustoms.png)
 
@@ -46,6 +48,8 @@ Acorn by Svgocean
 
 [![painted_heart.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/painted_heart.png)
 
+[![pizza_hut_1967_1999.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png)
+
 [![raven_animapins.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/raven_animapins.png "raven_animapins.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/raven_animapins.png)
 
 [![skeleton_of_a_cat_diagram_ver_2.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
@@ -57,6 +61,12 @@ Acorn by Svgocean
 [![small_star.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/small_star.png "small_star.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/small_star.png)
 
 [![space_invader.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/space_invader.png "space_invader.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/space_invader.png)
+
+[![tree_autumn.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_autumn.png "tree_autumn.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_autumn.png)
+
+[![tree_curly.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_curly.png "tree_curly.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_curly.png)
+
+[![tree_w_roots.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_w_roots.png "tree_w_roots.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tree_w_roots.png)
 
 [![tribal_animals_tattoo_designs_y.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/tribal_animals_tattoo_designs_y.png)
 

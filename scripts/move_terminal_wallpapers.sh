@@ -17,17 +17,25 @@ dirs+="grey on alpha"$'\n'
 dirs+="chromatic aberration"$'\n'
 
 xmv() {
-	file="$1"
-	if [[ ! -f "$file" ]]
-	then
-		# chill if the file is missing
-		return
-	elif [[ ! -d "$dest" ]]
+
+	if [[ ! -d "$dest" ]]
 	then
 		mkdir -p "$dest"
 	fi
 
-	mv "$file" "$dest/"
+	echo "$1" | while read -r file
+	do
+		# if [[ ! -f "$file" && "$file" != *"*"* ]]
+		if [[ ! -f "$file" ]]
+		then
+			# chill if the file is missing
+			return
+		fi
+
+		# no quotes here so wildcards work
+		# file names shouldn't contain spaces here anyway
+		mv $file "$dest/" || true
+	done
 }
 
 while read -r dir
@@ -59,6 +67,7 @@ do
 	xmv buer_sigil_lineartboutique.png
 	xmv caffeine.png
 	xmv cassette.png
+	xmv chinese_dragon.png
 	xmv circuits_vnpcustoms.png
 	xmv corner_knot.png
 	xmv crack_1.png
@@ -77,12 +86,16 @@ do
 	xmv mushrooms_floral_mushroom_8_redearthandgumtrees.png
 	xmv oxoglutarate_dehydrogenase_zh_cn.png
 	xmv painted_heart.png
+	xmv pizza_hut*
 	xmv raven_animapins.png
 	xmv skeleton_of_a_cat_diagram_ver_2.png
 	xmv small_knots_1.png
 	xmv small_knots_2.png
 	xmv small_star.png
 	xmv space_invader.png
+	xmv tree_curly.png
+	xmv tree_w_roots.png
+	xmv tree_autumn.png
 	xmv tribal_animals_tattoo_designs_y.png
 	xmv ubuntu_circle_of_friends_old.png
 	xmv vegvisir_and_runes_parsarart.png
@@ -160,6 +173,7 @@ do
 	dest="little/tolkien"
 	xmv one_ring_inscription_ring_a_ling.png
 	xmv tolkien_monogram.png
+	xmv tolkien*.png
 
 	dest="little/star trek"
 	xmv star_trek_klingon_symbol.png
@@ -186,49 +200,19 @@ do
 	xmv zelda_hylian_shield.png
 
 	# big
-	dest="big/magic circles/misc"
-	xmv magic_circle_01.png
-	xmv magic_circle_02.png
-	xmv magic_circle_03.png
-	xmv magic_circle_04.png
-	xmv magic_circle_05.png
-	xmv magic_circle_06.png
-	xmv magic_circle_07.png
-	xmv magic_circle_08.png
-	xmv magic_circle_09.png
-	xmv magic_circle_10_tpdesign06.png
-	xmv magic_circle_11_loutecrea.png
-	xmv magic_circle_12_artstudiodesignsvg.png
-	xmv magic_circle_15.png
-	xmv magic_circle_16.png
-	xmv magic_circle_7003_etechdigital.png
-	xmv magic_circle_7005_etechdigital.png
-	xmv magic_circle_7007_etechdigital.png
-	xmv magic_circle_7010_etechdigital.png
-	xmv magic_circle_7011_etechdigital.png
-	xmv magic_circle_7012_etechdigital.png
-	xmv magic_circle_7013_etechdigital.png
-	xmv magic_circle_advanced_trinity_summoning_circle_by_hocc.png
-	xmv magic_circle_alicia_s_glyph_by_hocc.png
-	xmv magic_circle_doctor_strange.png
-	xmv magic_circle_lycarus_by_dragonphyrre.png
-
 	dest="big/magic circles/bayonetta"
 	xmv magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png
 	xmv magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png
 	xmv magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png
 
 	dest="big/magic circles/full metal alchemist"
-	xmv magic_circle_full_metal_alchemist_02_rosedesignestudio.png
-	xmv magic_circle_full_metal_alchemist_03_rosedesignestudio.png
-	xmv magic_circle_full_metal_alchemist_04_rosedesignestudio.png
-	xmv magic_circle_full_metal_alchemist.png
+	xmv magic_circle_full_metal_alchemist*
+
+	dest="big/magic circles/misc"
+	xmv magic_circle_*
 
 	dest="big/mandalas"
-	xmv mandala_10.png
-	xmv mandala_2.png
-	xmv mandala_3.png
-	xmv mandala_5.png
+	xmv mandala*
 
 	dest="big/maps"
 	xmv new_york_city_subway_map.png
@@ -248,6 +232,8 @@ do
 	dest="big/misc"
 	xmv tree_of_life_svg.png
 	xmv 20_ponted_cross_graph.png
+	xmv circle_squares.png
 	xmv compass_rose_cantino.png
+	xmv maze.png
 
 done < <(echo "$dirs")

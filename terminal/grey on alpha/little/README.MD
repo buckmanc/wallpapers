@@ -1,4 +1,4 @@
-# little - 103
+# little - 111
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 9
 - [elder scrolls](#elder-scrolls) - 3
@@ -6,13 +6,13 @@
 - [game icons dot net](#game-icons-dot-net) - 12
 - [language](#language) - 1
 - [mario](#mario) - 6
-- [misc](#misc) - 33
+- [misc](#misc) - 38
 - [moons](#moons) - 5
 - [nintendo](#nintendo) - 6
 - [star trek](#star-trek) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 8
 - [tmnt](#tmnt) - 8
-- [tolkien](#tolkien) - 2
+- [tolkien](#tolkien) - 5
 
 <a id="castlevania"></a>
 
@@ -83,12 +83,13 @@
 
 <a id="misc"></a>
 
-## [misc](/terminal/grey%20on%20alpha/little/misc/README.MD) - 33
+## [misc](/terminal/grey%20on%20alpha/little/misc/README.MD) - 38
 [![Acorn by Svgocean](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/acorn_by_svgocean.png)
 [![aperture_science.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/aperture_science.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/buer_sigil_lineartboutique.png)
 [![caffeine.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/caffeine.png "caffeine.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/caffeine.png)
 [![cassette.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/cassette.png "cassette.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/cassette.png)
+[![chinese_dragon.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/chinese_dragon.png "chinese_dragon.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/chinese_dragon.png)
 [![circuits_vnpcustoms.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/circuits_vnpcustoms.png "circuits_vnpcustoms.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/circuits_vnpcustoms.png)
 [![corner_knot.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/corner_knot.png "corner_knot.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/corner_knot.png)
 [![crack_1.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/crack_1.png "crack_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/crack_1.png)
@@ -107,12 +108,16 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/painted_heart.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/raven_animapins.png "raven_animapins.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/small_knots_1.png "small_knots_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/small_knots_1.png)
 [![small_knots_2.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/small_knots_2.png "small_knots_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/small_knots_2.png)
 [![small_star.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/small_star.png "small_star.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/small_star.png)
 [![space_invader.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/space_invader.png "space_invader.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/space_invader.png)
+[![tree_autumn.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_autumn.png "tree_autumn.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_autumn.png)
+[![tree_curly.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_curly.png "tree_curly.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_curly.png)
+[![tree_w_roots.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png "tree_w_roots.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png)
 [![tribal_animals_tattoo_designs_y.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png)
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png)
 [![vegvisir_and_runes_parsarart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png)
@@ -169,9 +174,12 @@
 
 <a id="tolkien"></a>
 
-## [tolkien](/terminal/grey%20on%20alpha/little/tolkien/README.MD) - 2
+## [tolkien](/terminal/grey%20on%20alpha/little/tolkien/README.MD) - 5
 [![one_ring_inscription_ring_a_ling.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png)
+[![tolkien_eye_of_sauron.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png "tolkien_eye_of_sauron.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png)
+[![tolkien_lonely_mountain_map.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png "tolkien_lonely_mountain_map.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png)
 [![tolkien_monogram.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png)
+[![tolkien_white_tree_of_gondor.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png)
 
 
 [back to top](#)

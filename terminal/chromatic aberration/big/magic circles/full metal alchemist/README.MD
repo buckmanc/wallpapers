@@ -1,4 +1,6 @@
-# full metal alchemist - 3
+# full metal alchemist - 4
+[![magic_circle_full_metal_alchemist_02.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png "magic_circle_full_metal_alchemist_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png)
+
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
