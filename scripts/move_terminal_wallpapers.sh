@@ -50,7 +50,7 @@ do
 	mkdir -p little
 	mkdir -p big
 
-	rename 's/_(black|alpha|chromab)\.png$/.png/g' *.png
+	rename -f 's/_(black|alpha|chromab)\.png$/.png/g' *.png
 
 	# little
 	dest="little/misc"
@@ -166,7 +166,11 @@ do
 	xmv star_trek_starfleet_insignia.png
 
 	dest="little/tmnt"
-	xmv tmnt_leonardo_back_outline_by_juliefoohandmade.png
+	xmv tmnt_back_01_leonardo_by_juliefoohandmade.png
+	xmv tmnt_back_02_donatello_by_juliefoohandmade.png
+	xmv tmnt_back_03_raphael_by_juliefoohandmade.png
+	xmv tmnt_back_04_michelangelo_by_juliefoohandmade.png
+	xmv tmnt_japanese_crest_mitumori_kikkou_ni_hanabishi.png
 	xmv tmnt_reading_pngwing.png
 	xmv tmnt_splinter_clan.png
 	xmv tmnt_svgrepo_com.png

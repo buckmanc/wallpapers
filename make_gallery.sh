@@ -278,6 +278,10 @@ echo "$imgFilesAll" | while read -r src; do
 		then
 			fitCaret=""
 			bgColor="black"
+		# altered logic for terminal images, which are 2/3 alpha and 1/3 black bg anyway
+		elif echo "$src" | grep -iq "/terminal/"
+		then
+			bgColor="black"
 		fi
 
 		# resize images, then crop to the desired resolution

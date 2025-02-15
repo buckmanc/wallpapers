@@ -1,6 +1,6 @@
-# magic circles - 32
+# magic circles - 31
 - [bayonetta](#bayonetta) - 3
-- [full metal alchemist](#full-metal-alchemist) - 4
+- [full metal alchemist](#full-metal-alchemist) - 3
 - [misc](#misc) - 25
 
 <a id="bayonetta"></a>
@@ -12,11 +12,10 @@
 
 <a id="full-metal-alchemist"></a>
 
-## [full metal alchemist](/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/README.MD) - 4
+## [full metal alchemist](/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/README.MD) - 3
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
-[![magic_circle_full_metal_alchemist.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png "magic_circle_full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png)
 
 <a id="misc"></a>
 

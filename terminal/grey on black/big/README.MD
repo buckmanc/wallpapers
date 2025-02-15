@@ -1,5 +1,5 @@
-# big - 48
-- [magic circles](#magic-circles) - 32
+# big - 47
+- [magic circles](#magic-circles) - 31
 - [mandalas](#mandalas) - 4
 - [maps](#maps) - 2
 - [misc](#misc) - 3
@@ -8,14 +8,13 @@
 
 <a id="magic-circles"></a>
 
-## [magic circles](/terminal/grey%20on%20black/big/magic%20circles/README.MD) - 32
+## [magic circles](/terminal/grey%20on%20black/big/magic%20circles/README.MD) - 31
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
-[![magic_circle_full_metal_alchemist.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png "magic_circle_full_metal_alchemist.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist.png)
 [![magic_circle_01.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_01.png "magic_circle_01.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_01.png)
 [![magic_circle_02.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_02.png "magic_circle_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_02.png)
 [![magic_circle_03.png](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_03.png "magic_circle_03.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/misc/magic_circle_03.png)
@@ -45,10 +44,10 @@
 <a id="mandalas"></a>
 
 ## [mandalas](/terminal/grey%20on%20black/big/mandalas/README.MD) - 4
+[![mandala_02.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_02.png "mandala_02.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_02.png)
+[![mandala_03.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_03.png "mandala_03.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_03.png)
+[![mandala_05.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_05.png "mandala_05.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_05.png)
 [![mandala_10.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_10.png "mandala_10.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_10.png)
-[![mandala_2.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_2.png "mandala_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_2.png)
-[![mandala_3.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_3.png "mandala_3.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_3.png)
-[![mandala_5.png](/.internals/thumbnails/terminal/grey%20on%20black/big/mandalas/mandala_5.png "mandala_5.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/mandalas/mandala_5.png)
 
 <a id="maps"></a>
 
