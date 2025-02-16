@@ -1,4 +1,4 @@
-# mobile - 1,996
+# mobile - 2,001
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 155
 - [dan mumford](#dan-mumford) - 43
@@ -16,12 +16,12 @@
 - [mega man](#mega-man) - 266
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 87
+- [misc](#misc) - 90
 - [misc anato finnstark](#misc-anato-finnstark) - 32
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 84
+- [music](#music) - 85
 - [nintendo](#nintendo) - 49
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -31,7 +31,7 @@
 - [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
 - [star trek](#star-trek) - 8
-- [the legend of zelda](#the-legend-of-zelda) - 201
+- [the legend of zelda](#the-legend-of-zelda) - 202
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 76
 - [tolkien](#tolkien) - 92
@@ -1322,7 +1322,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc"></a>
 
-## [misc](/mobile/misc/README.MD) - 87
+## [misc](/mobile/misc/README.MD) - 90
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](/.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](/.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1353,6 +1353,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![96e069cd37b2d229_LoveLife.jpg](/.internals/thumbnails/mobile/misc/96e069cd37b2d229_LoveLife.jpg "96e069cd37b2d229_LoveLife.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/96e069cd37b2d229_LoveLife.jpg)
 [![97e876a9cc263156_pxfuel (38).jpg](/.internals/thumbnails/mobile/misc/97e876a9cc263156_pxfuel%20(38).jpg "97e876a9cc263156_pxfuel (38).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/97e876a9cc263156_pxfuel%20(38).jpg)
 [![986e6f91b06e11f4_pxfuel (21).jpg](/.internals/thumbnails/mobile/misc/986e6f91b06e11f4_pxfuel%20(21).jpg "986e6f91b06e11f4_pxfuel (21).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/986e6f91b06e11f4_pxfuel%20(21).jpg)
+[![988943db9d9b3296_Download Technology Ubuntu.jpg](/.internals/thumbnails/mobile/misc/988943db9d9b3296_Download%20Technology%20Ubuntu.jpg "988943db9d9b3296_Download Technology Ubuntu.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/988943db9d9b3296_Download%20Technology%20Ubuntu.jpg)
 [![98dc63238c8d33f3_Moon.jpg](/.internals/thumbnails/mobile/misc/98dc63238c8d33f3_Moon.jpg "98dc63238c8d33f3_Moon.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/98dc63238c8d33f3_Moon.jpg)
 [![99cd4d181ccce5f1_pxfuel (1).jpg](/.internals/thumbnails/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg "99cd4d181ccce5f1_pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg)
 [![9b3368a66d99334a_pxfuel (42).jpg](/.internals/thumbnails/mobile/misc/9b3368a66d99334a_pxfuel%20(42).jpg "9b3368a66d99334a_pxfuel (42).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/9b3368a66d99334a_pxfuel%20(42).jpg)
@@ -1372,6 +1373,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png](/.internals/thumbnails/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png "b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png)
 [![bc748a9943eb530b_ducks seeing a meteor 2024.png](/.internals/thumbnails/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png "bc748a9943eb530b_ducks seeing a meteor 2024.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png)
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](/.internals/thumbnails/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)
+[![C0e0361fcfc1333e Cyber Geek Vibes by Laxmonaut](/.internals/thumbnails/mobile/misc/c0e0361fcfc1333e_Cyber%20Geek%20Vibes%20by%20Laxmonaut.png "C0e0361fcfc1333e Cyber Geek Vibes by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e0361fcfc1333e_Cyber%20Geek%20Vibes%20by%20Laxmonaut.png)
 [![c10e0cf69af79319_pxfuel (37).jpg](/.internals/thumbnails/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg "c10e0cf69af79319_pxfuel (37).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg)
 [![C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit](/.internals/thumbnails/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg "C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg)
 [![C17cc5983cbc3f14 by Inkeyjay](/.internals/thumbnails/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg "C17cc5983cbc3f14 by Inkeyjay")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg)
@@ -1388,6 +1390,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![cc0bc719e339f438_billy-lundevall-handle-low.jpg](/.internals/thumbnails/mobile/misc/cc0bc719e339f438_billy-lundevall-handle-low.jpg "cc0bc719e339f438_billy-lundevall-handle-low.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cc0bc719e339f438_billy-lundevall-handle-low.jpg)
 [![ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg](/.internals/thumbnails/mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg "ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg)
 [![ccd97171763b190c_1648962.jpg](/.internals/thumbnails/mobile/misc/ccd97171763b190c_1648962.jpg "ccd97171763b190c_1648962.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd97171763b190c_1648962.jpg)
+[![cd2265945af9a64b_Ubuntu Tech Wallpaper.png](/.internals/thumbnails/mobile/misc/cd2265945af9a64b_Ubuntu%20Tech%20Wallpaper.png "cd2265945af9a64b_Ubuntu Tech Wallpaper.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cd2265945af9a64b_Ubuntu%20Tech%20Wallpaper.png)
 [![cdf4b0e5b8132987_peakpx (36).jpg](/.internals/thumbnails/mobile/misc/cdf4b0e5b8132987_peakpx%20(36).jpg "cdf4b0e5b8132987_peakpx (36).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cdf4b0e5b8132987_peakpx%20(36).jpg)
 [![ce3971cf3820c63d_Night Creepy.jpg](/.internals/thumbnails/mobile/misc/ce3971cf3820c63d_Night%20Creepy.jpg "ce3971cf3820c63d_Night Creepy.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ce3971cf3820c63d_Night%20Creepy.jpg)
 [![ce869d1973e2ce09_Castle.jpg](/.internals/thumbnails/mobile/misc/ce869d1973e2ce09_Castle.jpg "ce869d1973e2ce09_Castle.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ce869d1973e2ce09_Castle.jpg)
@@ -1472,7 +1475,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 84
+## [music](/mobile/music/README.MD) - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1543,6 +1546,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
+[![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
@@ -1944,7 +1948,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 201
+## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 202
 [![136703.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
 [![20231209_105546.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
 [![38e34d7cfb1e9bf0b092208c104087d0.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg "38e34d7cfb1e9bf0b092208c104087d0.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg)
@@ -2145,6 +2149,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![zz_triforce_pxfuel_(19).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(19).jpg "zz_triforce_pxfuel_(19).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(19).jpg)
 [![zz_triforce_pxfuel_(5).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(5).jpg "zz_triforce_pxfuel_(5).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(5).jpg)
 [![zz_triforce_pxfuel.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel.jpg "zz_triforce_pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel.jpg)
+[![Zz Triforce Vibrant Triforce HD Wallpaper   Legend Of Zelda Theme by Laxmonaut](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png "Zz Triforce Vibrant Triforce HD Wallpaper   Legend Of Zelda Theme by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png)
 [![zz_triforce_zz_door_of_time_pxfuel_(8).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(8).jpg "zz_triforce_zz_door_of_time_pxfuel_(8).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(8).jpg)
 [![zz_triforce_zz_door_of_time_pxfuel_(9).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(9).jpg "zz_triforce_zz_door_of_time_pxfuel_(9).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(9).jpg)
 [![陳立婷_晨夜 (@shinnya_anim) on X.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg "陳立婷_晨夜 (@shinnya_anim) on X.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg)

@@ -1,4 +1,4 @@
-# misc - 87
+# misc - 90
 [![8282ff7d1c82a36d_pxfuel (43).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
@@ -64,6 +64,8 @@
 
 [![986e6f91b06e11f4_pxfuel (21).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/986e6f91b06e11f4_pxfuel%20(21).jpg "986e6f91b06e11f4_pxfuel (21).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/986e6f91b06e11f4_pxfuel%20(21).jpg)
 
+[![988943db9d9b3296_Download Technology Ubuntu.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/988943db9d9b3296_Download%20Technology%20Ubuntu.jpg "988943db9d9b3296_Download Technology Ubuntu.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/988943db9d9b3296_Download%20Technology%20Ubuntu.jpg)
+
 [![98dc63238c8d33f3_Moon.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/98dc63238c8d33f3_Moon.jpg "98dc63238c8d33f3_Moon.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/98dc63238c8d33f3_Moon.jpg)
 
 [![99cd4d181ccce5f1_pxfuel (1).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg "99cd4d181ccce5f1_pxfuel (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/99cd4d181ccce5f1_pxfuel%20(1).jpg)
@@ -107,6 +109,9 @@ Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)\
 C0e01f97e078c3e7 The Moon by Ari Ibarra
 
+[![C0e0361fcfc1333e Cyber Geek Vibes by Laxmonaut](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e0361fcfc1333e_Cyber%20Geek%20Vibes%20by%20Laxmonaut.png "C0e0361fcfc1333e Cyber Geek Vibes by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c0e0361fcfc1333e_Cyber%20Geek%20Vibes%20by%20Laxmonaut.png)\
+C0e0361fcfc1333e Cyber Geek Vibes by Laxmonaut
+
 [![c10e0cf69af79319_pxfuel (37).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg "c10e0cf69af79319_pxfuel (37).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg)
 
 [![C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg "C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg)\
@@ -144,6 +149,8 @@ C9cd26933c333336 Evilbook Illustration by Ann Jean
 [![ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg "ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd3c2679a8c89cd_3c6c4e36baafa60eb1376a5386b05e1d.jpeg)
 
 [![ccd97171763b190c_1648962.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd97171763b190c_1648962.jpg "ccd97171763b190c_1648962.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/ccd97171763b190c_1648962.jpg)
+
+[![cd2265945af9a64b_Ubuntu Tech Wallpaper.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cd2265945af9a64b_Ubuntu%20Tech%20Wallpaper.png "cd2265945af9a64b_Ubuntu Tech Wallpaper.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cd2265945af9a64b_Ubuntu%20Tech%20Wallpaper.png)
 
 [![cdf4b0e5b8132987_peakpx (36).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cdf4b0e5b8132987_peakpx%20(36).jpg "cdf4b0e5b8132987_peakpx (36).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc/cdf4b0e5b8132987_peakpx%20(36).jpg)
 

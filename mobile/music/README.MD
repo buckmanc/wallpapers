@@ -1,4 +1,4 @@
-# music - 84
+# music - 85
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -138,6 +138,8 @@
 [![Spire of Lazarus - Omen.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 
 [![STRNGR - Night at the Grindhouse.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
+
+[![SubRosa - No Help for the Mighty Ones.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 
 [![Suldusk - Lunar Falls.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg)
 

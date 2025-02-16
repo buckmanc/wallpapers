@@ -1,4 +1,4 @@
-# desktop - 663
+# desktop - 667
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -10,7 +10,7 @@
 - [mega man pixel](#mega-man-pixel) - 5
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
-- [misc](#misc) - 106
+- [misc](#misc) - 110
 - [misc anato finnstark](#misc-anato-finnstark) - 4
 - [music](#music) - 4
 - [resident evil](#resident-evil) - 5
@@ -297,12 +297,13 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 106
+## [misc](/desktop/misc/README.MD) - 110
 [![80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w](/.internals/thumbnails/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg "80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg)
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/856a7e192aa7d01f_towashi.jpg)
 [![85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg](/.internals/thumbnails/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg "85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/85a92c86547e53f3_wallhaven_eolmrl_3840x2160.jpg)
 [![85d07c8f13648b7b_BatSwarm.jpg](/.internals/thumbnails/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg "85d07c8f13648b7b_BatSwarm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/85d07c8f13648b7b_BatSwarm.jpg)
+[![8698187c72e73d63 Majestic Mountain Sunset HD Wallpaper by Laxmonaut](/.internals/thumbnails/desktop/misc/8698187c72e73d63_Majestic%20Mountain%20Sunset%20HD%20Wallpaper%20by%20Laxmonaut.png "8698187c72e73d63 Majestic Mountain Sunset HD Wallpaper by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8698187c72e73d63_Majestic%20Mountain%20Sunset%20HD%20Wallpaper%20by%20Laxmonaut.png)
 [![86b66b983838dc8f_pexels-pixabay-414144.jpg](/.internals/thumbnails/desktop/misc/86b66b983838dc8f_pexels-pixabay-414144.jpg "86b66b983838dc8f_pexels-pixabay-414144.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/86b66b983838dc8f_pexels-pixabay-414144.jpg)
 [![878023c5f36a1ef9_drops-on-asphalt-wallpapers_27799_1920x1200.jpg](/.internals/thumbnails/desktop/misc/878023c5f36a1ef9_drops-on-asphalt-wallpapers_27799_1920x1200.jpg "878023c5f36a1ef9_drops-on-asphalt-wallpapers_27799_1920x1200.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/878023c5f36a1ef9_drops-on-asphalt-wallpapers_27799_1920x1200.jpg)
 [![89059525c7bde783_SM3DWBF_Bowser_Art.jpg](/.internals/thumbnails/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg "89059525c7bde783_SM3DWBF_Bowser_Art.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/89059525c7bde783_SM3DWBF_Bowser_Art.jpg)
@@ -313,6 +314,7 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 [![8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg "8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8cb9336664cc5973_michael-benz-IgWNxx7paz4-unsplash.jpg)
 [![8cccd899598d5d9c_peakpx.jpg](/.internals/thumbnails/desktop/misc/8cccd899598d5d9c_peakpx.jpg "8cccd899598d5d9c_peakpx.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8cccd899598d5d9c_peakpx.jpg)
 [![8ccdf389c931c99c Broken Aero Vista Black by Somrat 1920x1200](/.internals/thumbnails/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg "8ccdf389c931c99c Broken Aero Vista Black by Somrat 1920x1200")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8ccdf389c931c99c_Broken_Aero_Vista___Black___by_somrat%20-%201920x1200.jpg)
+[![8ce74e3131d866ce Enchanted Castle and Gondola River Sunset HD Wallpaper by Laxmonaut](/.internals/thumbnails/desktop/misc/8ce74e3131d866ce_Enchanted%20Castle%20and%20Gondola%20River%20Sunset%20HD%20Wallpaper%20by%20Laxmonaut.png "8ce74e3131d866ce Enchanted Castle and Gondola River Sunset HD Wallpaper by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/8ce74e3131d866ce_Enchanted%20Castle%20and%20Gondola%20River%20Sunset%20HD%20Wallpaper%20by%20Laxmonaut.png)
 [![90635f966fd8e00d_RDT_20240928_0540031486017567386612065.jpg](/.internals/thumbnails/desktop/misc/90635f966fd8e00d_RDT_20240928_0540031486017567386612065.jpg "90635f966fd8e00d_RDT_20240928_0540031486017567386612065.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/90635f966fd8e00d_RDT_20240928_0540031486017567386612065.jpg)
 [![90914f3d9c27b6e1_neon-shacks-nord.png](/.internals/thumbnails/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png "90914f3d9c27b6e1_neon-shacks-nord.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/90914f3d9c27b6e1_neon-shacks-nord.png)
 [![929623d3349d6e96_undefined - Imgur (1).jpg](/.internals/thumbnails/desktop/misc/929623d3349d6e96_undefined%20-%20Imgur%20(1).jpg "929623d3349d6e96_undefined - Imgur (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/929623d3349d6e96_undefined%20-%20Imgur%20(1).jpg)
@@ -384,7 +386,9 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 [![ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg](/.internals/thumbnails/desktop/misc/ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg "ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/ccc633333139fc8c_wallhaven_76zejv_3840x1930.jpg)
 [![ccce323158cbe3e4_pULJrcN.png](/.internals/thumbnails/desktop/misc/ccce323158cbe3e4_pULJrcN.png "ccce323158cbe3e4_pULJrcN.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/ccce323158cbe3e4_pULJrcN.png)
 [![ccd97171763b190c_1648962.jpg](/.internals/thumbnails/desktop/misc/ccd97171763b190c_1648962.jpg "ccd97171763b190c_1648962.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/ccd97171763b190c_1648962.jpg)
+[![Cce433399e872369 Moonlit Forest Path HD Wallpaper by Laxmonaut](/.internals/thumbnails/desktop/misc/cce433399e872369_Moonlit%20Forest%20Path%20HD%20Wallpaper%20by%20Laxmonaut.png "Cce433399e872369 Moonlit Forest Path HD Wallpaper by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/cce433399e872369_Moonlit%20Forest%20Path%20HD%20Wallpaper%20by%20Laxmonaut.png)
 [![cd9c3263cc9c3363_RDT_20250108_2041312929697873681727533.jpg](/.internals/thumbnails/desktop/misc/cd9c3263cc9c3363_RDT_20250108_2041312929697873681727533.jpg "cd9c3263cc9c3363_RDT_20250108_2041312929697873681727533.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/cd9c3263cc9c3363_RDT_20250108_2041312929697873681727533.jpg)
+[![Cdcc0ac9c69ecccc Mystical Forest River HD Wallpaper by Laxmonaut](/.internals/thumbnails/desktop/misc/cdcc0ac9c69ecccc_Mystical%20Forest%20River%20HD%20Wallpaper%20by%20Laxmonaut.png "Cdcc0ac9c69ecccc Mystical Forest River HD Wallpaper by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/cdcc0ac9c69ecccc_Mystical%20Forest%20River%20HD%20Wallpaper%20by%20Laxmonaut.png)
 [![cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg](/.internals/thumbnails/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg "cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/cde63139487f3c18_cat-colorful-background-digital-art-4k-wallpaper-uhdpaper.com-531@0@i.jpg)
 [![ce39cce1267321b6_JKNnuSE.jpg](/.internals/thumbnails/desktop/misc/ce39cce1267321b6_JKNnuSE.jpg "ce39cce1267321b6_JKNnuSE.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/ce39cce1267321b6_JKNnuSE.jpg)
 [![cece3131cece3131_rm-rf.jpg](/.internals/thumbnails/desktop/misc/cece3131cece3131_rm-rf.jpg "cece3131cece3131_rm-rf.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/cece3131cece3131_rm-rf.jpg)

@@ -10,3 +10,7 @@ Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight.jpg Johan Christian Dahl - V
 c9ca1225ec196ddb_Queen of Storms Cover by Marc Simonetti.jpg C9ca1225ec196ddb Queen Of Storms Cover by Marc Simonetti
 ce9e99396c614cb1_darth vader by anato finnstark.jpg Ce9e99396c614cb1 Darth Vader by Anato Finnstark
 80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg 80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w
+8698187c72e73d63_Majestic Mountain Sunset HD Wallpaper by Laxmonaut.png 8698187c72e73d63 Majestic Mountain Sunset HD Wallpaper by Laxmonaut
+8ce74e3131d866ce_Enchanted Castle and Gondola River Sunset HD Wallpaper by Laxmonaut.png 8ce74e3131d866ce Enchanted Castle and Gondola River Sunset HD Wallpaper by Laxmonaut
+cce433399e872369_Moonlit Forest Path HD Wallpaper by Laxmonaut.png Cce433399e872369 Moonlit Forest Path HD Wallpaper by Laxmonaut
+cdcc0ac9c69ecccc_Mystical Forest River HD Wallpaper by Laxmonaut.png Cdcc0ac9c69ecccc Mystical Forest River HD Wallpaper by Laxmonaut
