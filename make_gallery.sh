@@ -689,8 +689,15 @@ then
 
 		done
 
-		# make sure images don't blow out the page
-		sed -i '12i img {max-width: 100%;	height: auto;}' "$htmlPath"
+		if [[ "$bottomLevelDir" == 1 ]]
+		then
+			# make sure images don't blow out the page
+			sed -i '13i img {max-width: 100%;	height: auto;}' "$htmlPath"
+		else
+			# make sure images at least fit two columns
+			sed -i '13i img {max-width: 45%;	height: auto;}' "$htmlPath"
+		fi
+
 		# remove that double header
 		perl -i -00pe 's|<header.+?title-block-header.+?</header>||gs' "$htmlPath"
 

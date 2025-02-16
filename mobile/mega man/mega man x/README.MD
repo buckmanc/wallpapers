@@ -292,4 +292,4 @@ Zero and Dr Wily Mega Man by Hoshi Mikan
 
 
 [back to top](#)
-[up one level](/mobile/mega man/README.MD)
+[up one level](/mobile/mega%20man/README.MD)
