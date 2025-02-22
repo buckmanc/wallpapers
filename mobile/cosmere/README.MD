@@ -1,6 +1,6 @@
-# cosmere - 155
+# cosmere - 157
 - [mistborn](#mistborn) - 49
-- [stormlight](#stormlight) - 77
+- [stormlight](#stormlight) - 79
 - [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 12
 - [misc](#misc) - 17
 
@@ -105,7 +105,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 
 <a id="stormlight"></a>
 
-## [stormlight](/mobile/cosmere/stormlight/README.MD) - 77
+## [stormlight](/mobile/cosmere/stormlight/README.MD) - 79
 [![Dalinar by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)
 [![Dalinar by Dominik Broniek](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg "Dalinar by Dominik Broniek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg)
 [![Dalinar by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg)
@@ -115,6 +115,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
 [![Ba Ado Mishram by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)
+[![Broken Oath by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png "Broken Oath by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png)
 [![carlos-guimerà-kaladin-cliff.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
 [![carlos-guimerà-szeth-m.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg "carlos-guimerà-szeth-m.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg)
 [![Chasm Fiend Hunt by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)
@@ -170,6 +171,7 @@ Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wal
 [![Spren by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg "Spren by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg)
 [![Stormblessed by Kevin Keele](/.internals/thumbnails/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg "Stormblessed by Kevin Keele")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg)
 [![Rider of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
+[![Syl and Kaladin by Audrey Hotte](/.internals/thumbnails/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg "Syl and Kaladin by Audrey Hotte")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg)
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)
 [![Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
 [![The Stick Of Resolve by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg "The Stick Of Resolve by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg)

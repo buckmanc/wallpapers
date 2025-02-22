@@ -1,4 +1,4 @@
-# stormlight - 77
+# stormlight - 79
 [![Dalinar by Petar Penev](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)\
 Dalinar by Petar Penev
 
@@ -25,6 +25,9 @@ Abandoning The Oathpact by Micah Epstein
 
 [![Ba Ado Mishram by Miranda Meeks](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)\
 Ba Ado Mishram by Miranda Meeks
+
+[![Broken Oath by Antti Hakosaari](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png "Broken Oath by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png)\
+Broken Oath by Antti Hakosaari
 
 [![carlos-guimerà-kaladin-cliff.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
 
@@ -176,6 +179,9 @@ Stormblessed by Kevin Keele
 
 [![Rider of Storms by Connor Chamberlain](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)\
 Rider of Storms by Connor Chamberlain
+
+[![Syl and Kaladin by Audrey Hotte](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg "Syl and Kaladin by Audrey Hotte")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg)\
+Syl and Kaladin by Audrey Hotte
 
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)\
 Syl Meets A Dandelion Puff by Jessi Chen Liu

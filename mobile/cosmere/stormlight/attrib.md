@@ -82,3 +82,5 @@ mraize-by-botanica-xu.jpg Mraize by Botanica Xu
 navani-by-botanica-xu.jpg Navani by Botanica Xu
 spren-by-botanica-xu.jpg Spren by Botanica Xu
 stormblessed-by-kevin-keele.jpg Stormblessed by Kevin Keele
+Broken Oath by Antti Hakosaari.png Broken Oath by Antti Hakosaari
+syl-and-kaladin-by-audrey-hotte.jpg Syl and Kaladin by Audrey Hotte

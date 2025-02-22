@@ -1,4 +1,4 @@
-# tolkien - 92
+# tolkien - 96
 [![1876125.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg)
 
 [![20231223_070550.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg)
@@ -78,6 +78,9 @@ Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnst
 [![Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)\
 Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul
 
+[![Glorfindel by Audrey Hotte](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/glorfindel-by-audrey-hotte.jpg "Glorfindel by Audrey Hotte")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/glorfindel-by-audrey-hotte.jpg)\
+Glorfindel by Audrey Hotte
+
 [![GoodMorning-donato-1200-0420.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg "GoodMorning-donato-1200-0420.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg)
 
 [![justin-gerard-06-tgk-v1-x6-01.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg "justin-gerard-06-tgk-v1-x6-01.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg)
@@ -99,6 +102,9 @@ Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legend
 [![Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg "Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg)\
 Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika
 
+[![Maglor by Gemennair](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/maglor-by-gemennair.jpg "Maglor by Gemennair")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/maglor-by-gemennair.jpg)\
+Maglor by Gemennair
+
 [![Manwe Tolkien S Legendarium and 1 More Drawn by Dymond Starr](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/manwe_tolkien_s_legendarium_and_1_more_drawn_by_dymond_starr.jpg "Manwe Tolkien S Legendarium and 1 More Drawn by Dymond Starr")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/manwe_tolkien_s_legendarium_and_1_more_drawn_by_dymond_starr.jpg)\
 Manwe Tolkien S Legendarium and 1 More Drawn by Dymond Starr
 
@@ -107,6 +113,9 @@ Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer
 
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)\
 Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon
+
+[![Morgoth by Ranuunculus](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth-by-ranuunculus.jpg "Morgoth by Ranuunculus")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth-by-ranuunculus.jpg)\
+Morgoth by Ranuunculus
 
 [![Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)\
 Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
@@ -198,6 +207,9 @@ Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 [![ted-nasmith--tuor-and-ulmo.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg "ted-nasmith--tuor-and-ulmo.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg)
 
 [![ted-nasmith--tuor-at-vinyamar.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png "ted-nasmith--tuor-at-vinyamar.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png)
+
+[![The Trolls by JRR Tolkien](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg "The Trolls by JRR Tolkien")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg)\
+The Trolls by JRR Tolkien
 
 [![Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg "Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg)\
 Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre

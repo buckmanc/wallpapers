@@ -1,6 +1,6 @@
-# mobile - 2,001
+# mobile - 2,008
 - [castlevania](#castlevania) - 134
-- [cosmere](#cosmere) - 155
+- [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [elden ring](#elden-ring) - 20
@@ -31,10 +31,10 @@
 - [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
 - [star trek](#star-trek) - 8
-- [the legend of zelda](#the-legend-of-zelda) - 202
+- [the legend of zelda](#the-legend-of-zelda) - 203
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 76
-- [tolkien](#tolkien) - 92
+- [tolkien](#tolkien) - 96
 
 <a id="castlevania"></a>
 
@@ -176,7 +176,7 @@
 
 <a id="cosmere"></a>
 
-## [cosmere](/mobile/cosmere/README.MD) - 155
+## [cosmere](/mobile/cosmere/README.MD) - 157
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -281,6 +281,7 @@ Wax Miles Hundredlives by Ari Ibarra")](https://raw.githubusercontent.com/buckma
 [![Navani The Mother Of Machines by Zireael](/.internals/thumbnails/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg "Navani The Mother Of Machines by Zireael")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/02_navani_the_mother_of_machines_by_zireael.jpg)
 [![Abandoning The Oathpact by Micah Epstein](/.internals/thumbnails/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg "Abandoning The Oathpact by Micah Epstein")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/abandoning_the_oathpact_by_micah_epstein.jpg)
 [![Ba Ado Mishram by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png "Ba Ado Mishram by Miranda Meeks")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/ba-ado-mishram_by_miranda_meeks.png)
+[![Broken Oath by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png "Broken Oath by Antti Hakosaari")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/Broken%20Oath%20by%20Antti%20Hakosaari.png)
 [![carlos-guimerà-kaladin-cliff.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg "carlos-guimerà-kaladin-cliff.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-kaladin-cliff.jpg)
 [![carlos-guimerà-szeth-m.jpg](/.internals/thumbnails/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg "carlos-guimerà-szeth-m.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/carlos-guimerà-szeth-m.jpg)
 [![Chasm Fiend Hunt by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg "Chasm Fiend Hunt by Randy Vargas")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/chasm_fiend_hunt_by_randy_vargas.jpg)
@@ -336,6 +337,7 @@ Sketch Santhid by Ben McSweeny")](https://raw.githubusercontent.com/buckmanc/wal
 [![Spren by Botanica Xu](/.internals/thumbnails/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg "Spren by Botanica Xu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/spren-by-botanica-xu.jpg)
 [![Stormblessed by Kevin Keele](/.internals/thumbnails/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg "Stormblessed by Kevin Keele")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormblessed-by-kevin-keele.jpg)
 [![Rider of Storms by Connor Chamberlain](/.internals/thumbnails/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg "Rider of Storms by Connor Chamberlain")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/stormfather_rider_of_storms_by_connor_chamberlain.jpg)
+[![Syl and Kaladin by Audrey Hotte](/.internals/thumbnails/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg "Syl and Kaladin by Audrey Hotte")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl-and-kaladin-by-audrey-hotte.jpg)
 [![Syl Meets A Dandelion Puff by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png "Syl Meets A Dandelion Puff by Jessi Chen Liu")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/syl_meets_a_dandelion_puff_by_jessi_chen_liu.png)
 [![Mastermind by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg "Mastermind by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/taravangian_mastermind_by_ari_ibarra.jpg)
 [![The Stick Of Resolve by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg "The Stick Of Resolve by Ari Ibarra")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/stormlight/The_Stick_of_Resolve_by_Ari_Ibarra.jpg)
@@ -1948,7 +1950,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 202
+## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD) - 203
 [![136703.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
 [![20231209_105546.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
 [![38e34d7cfb1e9bf0b092208c104087d0.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg "38e34d7cfb1e9bf0b092208c104087d0.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/38e34d7cfb1e9bf0b092208c104087d0.jpg)
@@ -1956,6 +1958,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![5e6a48b7-df6f-4703-a4d0-cea24dcc862f.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/5e6a48b7-df6f-4703-a4d0-cea24dcc862f.jpeg "5e6a48b7-df6f-4703-a4d0-cea24dcc862f.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/5e6a48b7-df6f-4703-a4d0-cea24dcc862f.jpeg)
 [![81PCc-jKuqL.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/81PCc-jKuqL.jpg "81PCc-jKuqL.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/81PCc-jKuqL.jpg)
 [![834c8e96948325.5eba1fd7ea299.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/834c8e96948325.5eba1fd7ea299.jpg "834c8e96948325.5eba1fd7ea299.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/834c8e96948325.5eba1fd7ea299.jpg)
+[![98b0a48e-516b-4824-8ee5-f48050918d55.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/98b0a48e-516b-4824-8ee5-f48050918d55.jpeg "98b0a48e-516b-4824-8ee5-f48050918d55.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/98b0a48e-516b-4824-8ee5-f48050918d55.jpeg)
 [![9df593e7-a363-435b-bb97-8c117456e513.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/9df593e7-a363-435b-bb97-8c117456e513.jpeg "9df593e7-a363-435b-bb97-8c117456e513.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/9df593e7-a363-435b-bb97-8c117456e513.jpeg)
 [![a713ebf4-b78b-4caf-b4a1-fde9f7d34ab8.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/a713ebf4-b78b-4caf-b4a1-fde9f7d34ab8.jpeg "a713ebf4-b78b-4caf-b4a1-fde9f7d34ab8.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/a713ebf4-b78b-4caf-b4a1-fde9f7d34ab8.jpeg)
 [![Alessio Dicorato - Zelda_ Ocarina of Time - Piano.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/Alessio%20Dicorato%20-%20Zelda_%20Ocarina%20of%20Time%20-%20Piano.jpg "Alessio Dicorato - Zelda_ Ocarina of Time - Piano.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/Alessio%20Dicorato%20-%20Zelda_%20Ocarina%20of%20Time%20-%20Piano.jpg)
@@ -2149,7 +2152,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![zz_triforce_pxfuel_(19).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(19).jpg "zz_triforce_pxfuel_(19).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(19).jpg)
 [![zz_triforce_pxfuel_(5).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(5).jpg "zz_triforce_pxfuel_(5).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel_(5).jpg)
 [![zz_triforce_pxfuel.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel.jpg "zz_triforce_pxfuel.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_pxfuel.jpg)
-[![Zz Triforce Vibrant Triforce HD Wallpaper   Legend Of Zelda Theme by Laxmonaut](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png "Zz Triforce Vibrant Triforce HD Wallpaper   Legend Of Zelda Theme by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png)
+[![Zz Triforce Vibrant Triforce HD Wallpaper Legend Of Zelda Theme by Laxmonaut](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png "Zz Triforce Vibrant Triforce HD Wallpaper Legend Of Zelda Theme by Laxmonaut")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_Vibrant%20Triforce%20HD%20Wallpaper%20-%20Legend%20of%20Zelda%20Theme%20by%20Laxmonaut.png)
 [![zz_triforce_zz_door_of_time_pxfuel_(8).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(8).jpg "zz_triforce_zz_door_of_time_pxfuel_(8).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(8).jpg)
 [![zz_triforce_zz_door_of_time_pxfuel_(9).jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(9).jpg "zz_triforce_zz_door_of_time_pxfuel_(9).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/zz_triforce_zz_door_of_time_pxfuel_(9).jpg)
 [![陳立婷_晨夜 (@shinnya_anim) on X.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg "陳立婷_晨夜 (@shinnya_anim) on X.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg)
@@ -2245,7 +2248,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 
 <a id="tolkien"></a>
 
-## [tolkien](/mobile/tolkien/README.MD) - 92
+## [tolkien](/mobile/tolkien/README.MD) - 96
 [![1876125.jpg](/.internals/thumbnails/mobile/tolkien/1876125.jpg "1876125.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/1876125.jpg)
 [![20231223_070550.jpg](/.internals/thumbnails/mobile/tolkien/20231223_070550.jpg "20231223_070550.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20231223_070550.jpg)
 [![20240115_120226.jpg](/.internals/thumbnails/mobile/tolkien/20240115_120226.jpg "20240115_120226.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/20240115_120226.jpg)
@@ -2278,6 +2281,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf and Balrog Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/gandalf_and_balrog_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
 [![Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/gandalf_and_bilbo_baggins_tolkien_s_legendarium_and_2_more_drawn_by_anato_finnstark.jpg "Gandalf and Bilbo Baggins Tolkien S Legendarium and 2 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/gandalf_and_bilbo_baggins_tolkien_s_legendarium_and_2_more_drawn_by_anato_finnstark.jpg)
 [![Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul](/.internals/thumbnails/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg "Gandalf Thranduil Bilbo Baggins Fili Thorin Oakenshield and 12 More Tolkien S Legendarium and 1 More Drawn by Kalmahul")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/gandalf_thranduil_bilbo_baggins_fili_thorin_oakenshield_and_12_more_tolkien_s_legendarium_and_1_more_drawn_by_kalmahul.jpg)
+[![Glorfindel by Audrey Hotte](/.internals/thumbnails/mobile/tolkien/glorfindel-by-audrey-hotte.jpg "Glorfindel by Audrey Hotte")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/glorfindel-by-audrey-hotte.jpg)
 [![GoodMorning-donato-1200-0420.jpg](/.internals/thumbnails/mobile/tolkien/GoodMorning-donato-1200-0420.jpg "GoodMorning-donato-1200-0420.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/GoodMorning-donato-1200-0420.jpg)
 [![justin-gerard-06-tgk-v1-x6-01.jpg](/.internals/thumbnails/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg "justin-gerard-06-tgk-v1-x6-01.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/justin-gerard-06-tgk-v1-x6-01.jpg)
 [![justin-gerard-justin-gerard-b-l2017-n01x12.jpg](/.internals/thumbnails/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg "justin-gerard-justin-gerard-b-l2017-n01x12.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/justin-gerard-justin-gerard-b-l2017-n01x12.jpg)
@@ -2287,9 +2291,11 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Legolas Gandalf Frodo Baggins Aragorn Samwise Gamgee and 5 More Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/legolas_gandalf_frodo_baggins_aragorn_samwise_gamgee_and_5_more_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
 [![LegolasinMirkwood-oil-donato-0512.jpg](/.internals/thumbnails/mobile/tolkien/LegolasinMirkwood-oil-donato-0512.jpg "LegolasinMirkwood-oil-donato-0512.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/LegolasinMirkwood-oil-donato-0512.jpg)
 [![Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika](/.internals/thumbnails/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg "Luthien Tolkien S Legendarium and 1 More Drawn by Zipavika")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/luthien_tolkien_s_legendarium_and_1_more_drawn_by_zipavika.jpg)
+[![Maglor by Gemennair](/.internals/thumbnails/mobile/tolkien/maglor-by-gemennair.jpg "Maglor by Gemennair")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/maglor-by-gemennair.jpg)
 [![Manwe Tolkien S Legendarium and 1 More Drawn by Dymond Starr](/.internals/thumbnails/mobile/tolkien/manwe_tolkien_s_legendarium_and_1_more_drawn_by_dymond_starr.jpg "Manwe Tolkien S Legendarium and 1 More Drawn by Dymond Starr")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/manwe_tolkien_s_legendarium_and_1_more_drawn_by_dymond_starr.jpg)
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer](/.internals/thumbnails/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Helge C Balzer")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_helge_c_balzer.jpg)
 [![Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon](/.internals/thumbnails/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg "Morgoth and Fingolfin Tolkien S Legendarium and 1 More Drawn by Manuel Castanon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth_and_fingolfin_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon.jpg)
+[![Morgoth by Ranuunculus](/.internals/thumbnails/mobile/tolkien/morgoth-by-ranuunculus.jpg "Morgoth by Ranuunculus")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/morgoth-by-ranuunculus.jpg)
 [![Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul and The One Ring Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/nazgul_and_the_one_ring_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/nazgul_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul and Witch King Of Angmar Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/nazgul_and_witch_king_of_angmar_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![Nazgul Fellbeast and Khamul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/mobile/tolkien/nazgul_fellbeast_and_khamul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Nazgul Fellbeast and Khamul Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/nazgul_fellbeast_and_khamul_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
@@ -2323,6 +2329,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![ted-nasmith--the-king-of-the-oathbreakers.png](/.internals/thumbnails/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png "ted-nasmith--the-king-of-the-oathbreakers.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png)
 [![ted-nasmith--tuor-and-ulmo.jpg](/.internals/thumbnails/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg "ted-nasmith--tuor-and-ulmo.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg)
 [![ted-nasmith--tuor-at-vinyamar.png](/.internals/thumbnails/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png "ted-nasmith--tuor-at-vinyamar.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png)
+[![The Trolls by JRR Tolkien](/.internals/thumbnails/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg "The Trolls by JRR Tolkien")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg)
 [![Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre](/.internals/thumbnails/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg "Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg)
 [![Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1](/.internals/thumbnails/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg "Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg)
 [![VAHm5WL.jpeg](/.internals/thumbnails/mobile/tolkien/VAHm5WL.jpeg "VAHm5WL.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/VAHm5WL.jpeg)

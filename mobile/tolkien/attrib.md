@@ -84,3 +84,7 @@ ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg U
 zz_dd_Password_into_Moria by Ted nasmith.jpg Zz Dd Password Into Moria by Ted Nasmith
 zz_dd_the mines of moria by alan lee.jpg Zz Dd The Mines Of Moria by Alan Lee
 zz_dd_west_door_of_moria_by_aegeri.jpg Zz Dd West Door Of Moria by Aegeri
+glorfindel-by-audrey-hotte.jpg Glorfindel by Audrey Hotte
+maglor-by-gemennair.jpg Maglor by Gemennair
+morgoth-by-ranuunculus.jpg Morgoth by Ranuunculus
+The Trolls by JRR Tolkien.jpg The Trolls by JRR Tolkien
