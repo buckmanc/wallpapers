@@ -1,4 +1,4 @@
-# little - 111
+# little - 114
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 9
 - [elder scrolls](#elder-scrolls) - 3
@@ -6,13 +6,14 @@
 - [game icons dot net](#game-icons-dot-net) - 12
 - [language](#language) - 1
 - [mario](#mario) - 6
-- [misc](#misc) - 38
+- [misc](#misc) - 37
 - [moons](#moons) - 5
 - [nintendo](#nintendo) - 6
 - [star trek](#star-trek) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 8
 - [tmnt](#tmnt) - 8
 - [tolkien](#tolkien) - 5
+- [ubuntu](#ubuntu) - 4
 
 <a id="castlevania"></a>
 
@@ -83,7 +84,7 @@
 
 <a id="misc"></a>
 
-## [misc](/terminal/grey%20on%20alpha/little/misc/README.MD) - 38
+## [misc](/terminal/grey%20on%20alpha/little/misc/README.MD) - 37
 [![Acorn by Svgocean](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/acorn_by_svgocean.png)
 [![aperture_science.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/aperture_science.png "aperture_science.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/aperture_science.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/buer_sigil_lineartboutique.png)
@@ -119,7 +120,6 @@
 [![tree_curly.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_curly.png "tree_curly.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_curly.png)
 [![tree_w_roots.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png "tree_w_roots.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png)
 [![tribal_animals_tattoo_designs_y.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png)
-[![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png)
 [![vegvisir_and_runes_parsarart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png)
 [![南中_小学校理科.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/南中_小学校理科.png "南中_小学校理科.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/南中_小学校理科.png)
 
@@ -180,6 +180,14 @@
 [![tolkien_lonely_mountain_map.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png "tolkien_lonely_mountain_map.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png)
 [![tolkien_monogram.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png)
 [![tolkien_white_tree_of_gondor.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png)
+
+<a id="ubuntu"></a>
+
+## [ubuntu](/terminal/grey%20on%20alpha/little/ubuntu/README.MD) - 4
+[![23_10_mantic_minotaur.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/23_10_mantic_minotaur.png "23_10_mantic_minotaur.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/23_10_mantic_minotaur.png)
+[![24_04_noble_numbat.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/24_04_noble_numbat.png "24_04_noble_numbat.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/24_04_noble_numbat.png)
+[![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png)
+[![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png)
 
 
 [back to top](#)

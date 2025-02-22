@@ -1,4 +1,4 @@
-# misc - 38
+# misc - 37
 [![Acorn by Svgocean](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/acorn_by_svgocean.png)\
 Acorn by Svgocean
 
@@ -69,8 +69,6 @@ Acorn by Svgocean
 [![tree_w_roots.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/tree_w_roots.png "tree_w_roots.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/tree_w_roots.png)
 
 [![tribal_animals_tattoo_designs_y.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/tribal_animals_tattoo_designs_y.png)
-
-[![ubuntu_circle_of_friends_old.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/ubuntu_circle_of_friends_old.png)
 
 [![vegvisir_and_runes_parsarart.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/vegvisir_and_runes_parsarart.png)
 

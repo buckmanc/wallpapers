@@ -1,4 +1,4 @@
-# mobile - 2,008
+# mobile - 2,025
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
@@ -17,12 +17,13 @@
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 90
-- [misc anato finnstark](#misc-anato-finnstark) - 32
+- [misc anato finnstark](#misc-anato-finnstark) - 33
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
 - [music](#music) - 85
 - [nintendo](#nintendo) - 49
+- [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
 - [pokemon patterns](#pokemon-patterns) - 40
@@ -30,11 +31,12 @@
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
-- [star trek](#star-trek) - 8
+- [star trek](#star-trek) - 9
 - [the legend of zelda](#the-legend-of-zelda) - 203
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 76
 - [tolkien](#tolkien) - 96
+- [ubuntu](#ubuntu) - 9
 
 <a id="castlevania"></a>
 
@@ -1418,10 +1420,11 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc-anato-finnstark"></a>
 
-## [misc anato finnstark](/mobile/misc%20anato%20finnstark/README.MD) - 32
+## [misc anato finnstark](/mobile/misc%20anato%20finnstark/README.MD) - 33
 [![20240716_1412_Yennefer_(_The_witcher_).jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg "20240716_1412_Yennefer_(_The_witcher_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg)
 [![20250202_1814_Calling_For_Help_(_Arcane_).jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/20250202_1814_Calling_For_Help_(_Arcane_).jpg "20250202_1814_Calling_For_Help_(_Arcane_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Calling_For_Help_(_Arcane_).jpg)
 [![20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg "20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg)
+[![20250217_0913_Mordred_the_usurper.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/20250217_0913_Mordred_the_usurper.jpg "20250217_0913_Mordred_the_usurper.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250217_0913_Mordred_the_usurper.jpg)
 [![ Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6](/.internals/thumbnails/mobile/misc%20anato%20finnstark/adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg " Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg)
 [![anato-finnstark-anato-finnstark-1-final-cover-1v.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-1-final-cover-1v.jpg "anato-finnstark-anato-finnstark-1-final-cover-1v.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-1-final-cover-1v.jpg)
 [![anato-finnstark-anato-finnstark-anato-finnstark-petit.jpg](/.internals/thumbnails/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-anato-finnstark-petit.jpg "anato-finnstark-anato-finnstark-anato-finnstark-petit.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/anato-finnstark-anato-finnstark-anato-finnstark-petit.jpg)
@@ -1616,6 +1619,16 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Sleeping Phoenix - Video Game Lofi Compilation 1.jpg](/.internals/thumbnails/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg "Sleeping Phoenix - Video Game Lofi Compilation 1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg)
 [![SMB1.png](/.internals/thumbnails/mobile/nintendo/misc/SMB1.png "SMB1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/nintendo/misc/SMB1.png)
 [![SSB4_-_Robin_Lucina_Illustration.jpg](/.internals/thumbnails/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg)
+
+<a id="orbite"></a>
+
+## [orbite](/mobile/orbite/README.MD) - 6
+[![0iseau_d_hiver3.png](/.internals/thumbnails/mobile/orbite/0iseau_d_hiver3.png "0iseau_d_hiver3.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/0iseau_d_hiver3.png)
+[![Ende_der_Zeit.png](/.internals/thumbnails/mobile/orbite/Ende_der_Zeit.png "Ende_der_Zeit.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/Ende_der_Zeit.png)
+[![Noir.png](/.internals/thumbnails/mobile/orbite/Noir.png "Noir.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/Noir.png)
+[![SchwarzesLoch.png](/.internals/thumbnails/mobile/orbite/SchwarzesLoch.png "SchwarzesLoch.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/SchwarzesLoch.png)
+[![Waldhirsch.png](/.internals/thumbnails/mobile/orbite/Waldhirsch.png "Waldhirsch.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/Waldhirsch.png)
+[![Widerspruch_2.png](/.internals/thumbnails/mobile/orbite/Widerspruch_2.png "Widerspruch_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/Widerspruch_2.png)
 
 <a id="pokemon"></a>
 
@@ -1938,11 +1951,12 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="star-trek"></a>
 
-## [star trek](/mobile/star%20trek/README.MD) - 8
+## [star trek](/mobile/star%20trek/README.MD) - 9
 [![a5128a13f325536c9958b5c7fdef096c.gif](/.internals/thumbnails/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif "a5128a13f325536c9958b5c7fdef096c.gif")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif)
 [![LCARS-2021-iPhone-XR-11-12-Picard.png](/.internals/thumbnails/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png "LCARS-2021-iPhone-XR-11-12-Picard.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png)
 [![LCARS_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_iPhoneXsMax.png "LCARS_iPhoneXsMax.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/LCARS_iPhoneXsMax.png)
 [![LCARS_TNG_Janeway_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png "LCARS_TNG_Janeway_iPhoneXsMax.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png)
+[![RDT_20250217_1934207516138501620954966.png](/.internals/thumbnails/mobile/star%20trek/RDT_20250217_1934207516138501620954966.png "RDT_20250217_1934207516138501620954966.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/RDT_20250217_1934207516138501620954966.png)
 [![Star Trek Red Alert Best ever version mobile.png](/.internals/thumbnails/mobile/star%20trek/Star%20Trek%20Red%20Alert%20Best%20ever%20version%20mobile.png "Star Trek Red Alert Best ever version mobile.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/Star%20Trek%20Red%20Alert%20Best%20ever%20version%20mobile.png)
 [![wallhaven_49le78_2400x3840.jpg](/.internals/thumbnails/mobile/star%20trek/wallhaven_49le78_2400x3840.jpg "wallhaven_49le78_2400x3840.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/wallhaven_49le78_2400x3840.jpg)
 [![wallhaven_5dk925_1920x1199.jpg](/.internals/thumbnails/mobile/star%20trek/wallhaven_5dk925_1920x1199.jpg "wallhaven_5dk925_1920x1199.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/wallhaven_5dk925_1920x1199.jpg)
@@ -2345,6 +2359,19 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](https://
 [![Zz Dd The Mines Of Moria by Alan Lee](/.internals/thumbnails/mobile/tolkien/zz_dd_the%20mines%20of%20moria%20by%20alan%20lee.jpg "Zz Dd The Mines Of Moria by Alan Lee")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/zz_dd_the%20mines%20of%20moria%20by%20alan%20lee.jpg)
 [![zz_dd_WallsofMoria-donato-1500.jpg](/.internals/thumbnails/mobile/tolkien/zz_dd_WallsofMoria-donato-1500.jpg "zz_dd_WallsofMoria-donato-1500.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/zz_dd_WallsofMoria-donato-1500.jpg)
 [![Zz Dd West Door Of Moria by Aegeri](/.internals/thumbnails/mobile/tolkien/zz_dd_west_door_of_moria_by_aegeri.jpg "Zz Dd West Door Of Moria by Aegeri")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tolkien/zz_dd_west_door_of_moria_by_aegeri.jpg)
+
+<a id="ubuntu"></a>
+
+## [ubuntu](/mobile/ubuntu/README.MD) - 9
+[![23.04-Lunar-Lobster.jpg](/.internals/thumbnails/mobile/ubuntu/23.04-Lunar-Lobster.jpg "23.04-Lunar-Lobster.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/23.04-Lunar-Lobster.jpg)
+[![23.10-Mantic-Minotaur.png](/.internals/thumbnails/mobile/ubuntu/23.10-Mantic-Minotaur.png "23.10-Mantic-Minotaur.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/23.10-Mantic-Minotaur.png)
+[![24.04-Noble-Numbat.jpg](/.internals/thumbnails/mobile/ubuntu/24.04-Noble-Numbat.jpg "24.04-Noble-Numbat.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/24.04-Noble-Numbat.jpg)
+[![24.10-Oracular-Oriole.jpg](/.internals/thumbnails/mobile/ubuntu/24.10-Oracular-Oriole.jpg "24.10-Oracular-Oriole.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/24.10-Oracular-Oriole.jpg)
+[![Lunarlobster2 by Realritikthapa](/.internals/thumbnails/mobile/ubuntu/lunarlobster2%20by%20realritikthapa.jpg "Lunarlobster2 by Realritikthapa")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/lunarlobster2%20by%20realritikthapa.jpg)
+[![Mantic Maze by Mo Taymour](/.internals/thumbnails/mobile/ubuntu/Mantic-Maze%20by%20mo-taymour.jpg "Mantic Maze by Mo Taymour")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/Mantic-Maze%20by%20mo-taymour.jpg)
+[![Morrow Bay Rock Texture by Nilgi25](/.internals/thumbnails/mobile/ubuntu/morrow_bay_rock_texture_by_nilgi25.jpg "Morrow Bay Rock Texture by Nilgi25")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/morrow_bay_rock_texture_by_nilgi25.jpg)
+[![Oriole Photo by Schabing](/.internals/thumbnails/mobile/ubuntu/oriole%20photo%20by%20schabing.jpg "Oriole Photo by Schabing")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/oriole%20photo%20by%20schabing.jpg)
+[![Ubuntu Warrior by Jt05](/.internals/thumbnails/mobile/ubuntu/ubuntu%20warrior%20by%20jt05.png "Ubuntu Warrior by Jt05")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/ubuntu/ubuntu%20warrior%20by%20jt05.png)
 
 
 [back to top](#)

@@ -1,6 +1,6 @@
-# grey on alpha - 163
+# grey on alpha - 166
 - [big](#big) - 52
-- [little](#little) - 111
+- [little](#little) - 114
 
 <a id="big"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="little"></a>
 
-## [little](/terminal/grey%20on%20alpha/little/README.MD) - 111
+## [little](/terminal/grey%20on%20alpha/little/README.MD) - 114
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -135,7 +135,6 @@
 [![tree_curly.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_curly.png "tree_curly.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_curly.png)
 [![tree_w_roots.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png "tree_w_roots.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tree_w_roots.png)
 [![tribal_animals_tattoo_designs_y.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png "tribal_animals_tattoo_designs_y.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/tribal_animals_tattoo_designs_y.png)
-[![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/ubuntu_circle_of_friends_old.png)
 [![vegvisir_and_runes_parsarart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png "vegvisir_and_runes_parsarart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/vegvisir_and_runes_parsarart.png)
 [![南中_小学校理科.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/南中_小学校理科.png "南中_小学校理科.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/misc/南中_小学校理科.png)
 [![esoteric_moon_artstudiodesignsvg.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/moons/esoteric_moon_artstudiodesignsvg.png "esoteric_moon_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/moons/esoteric_moon_artstudiodesignsvg.png)
@@ -172,6 +171,10 @@
 [![tolkien_lonely_mountain_map.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png "tolkien_lonely_mountain_map.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png)
 [![tolkien_monogram.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png)
 [![tolkien_white_tree_of_gondor.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png)
+[![23_10_mantic_minotaur.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/23_10_mantic_minotaur.png "23_10_mantic_minotaur.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/23_10_mantic_minotaur.png)
+[![24_04_noble_numbat.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/24_04_noble_numbat.png "24_04_noble_numbat.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/24_04_noble_numbat.png)
+[![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png)
+[![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png)
 
 
 [back to top](#)

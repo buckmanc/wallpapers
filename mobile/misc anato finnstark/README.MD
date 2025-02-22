@@ -1,9 +1,11 @@
-# misc anato finnstark - 32
+# misc anato finnstark - 33
 [![20240716_1412_Yennefer_(_The_witcher_).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg "20240716_1412_Yennefer_(_The_witcher_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20240716_1412_Yennefer_(_The_witcher_).jpg)
 
 [![20250202_1814_Calling_For_Help_(_Arcane_).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Calling_For_Help_(_Arcane_).jpg "20250202_1814_Calling_For_Help_(_Arcane_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Calling_For_Help_(_Arcane_).jpg)
 
 [![20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg "20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250202_1814_Screaming_For_vengeance_(_Arcane_).jpg)
+
+[![20250217_0913_Mordred_the_usurper.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250217_0913_Mordred_the_usurper.jpg "20250217_0913_Mordred_the_usurper.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/20250217_0913_Mordred_the_usurper.jpg)
 
 [![ Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg " Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/misc%20anato%20finnstark/adepta_sororitas_warhammer_40k_drawn_by_anato_finnstark__9a0745e7f28811a9b76dbad934e3c6f6.jpg)\
  Adepta Sororitas Warhammer 40k Drawn by Anato Finnstark 9a0745e7f28811a9b76dbad934e3c6f6

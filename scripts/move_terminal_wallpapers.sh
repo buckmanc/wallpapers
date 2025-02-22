@@ -97,7 +97,6 @@ do
 	xmv tree_w_roots.png
 	xmv tree_autumn.png
 	xmv tribal_animals_tattoo_designs_y.png
-	xmv ubuntu_circle_of_friends_old.png
 	xmv vegvisir_and_runes_parsarart.png
 	xmv 南中_小学校理科.png
 
@@ -198,6 +197,12 @@ do
 	xmv zelda_botw_sheikah_eye.png
 	xmv zelda_botw_stabby_z.png
 	xmv zelda_hylian_shield.png
+
+	dest="little/ubuntu"
+	xmv ubuntu*.png
+	xmv 23_10*.png
+	xmv 24_04*.png
+	xmv 24_10*.png
 
 	# big
 	dest="big/magic circles/bayonetta"
