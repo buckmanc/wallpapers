@@ -12,6 +12,8 @@ then
 else
 	# smooth out unattended updates
 	rm -f "$gitRoot/.git/index.lock"
+	git checkout .
+	git clean -f .
 	git reset --hard origin/main
 	git clean -dfx
 	git gc --prune=all
