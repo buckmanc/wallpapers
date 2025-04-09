@@ -1,6 +1,6 @@
-# chromatic aberration - 166
+# chromatic aberration - 167
 - [big](#big) - 52
-- [little](#little) - 114
+- [little](#little) - 115
 
 <a id="big"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="little"></a>
 
-## [little](/terminal/chromatic%20aberration/little/README.MD) - 114
+## [little](/terminal/chromatic%20aberration/little/README.MD) - 115
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -145,6 +145,7 @@
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png)
+[![Pirate Metroid by Omnimnim](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png)
 [![pokeball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/smash_ball.png)

@@ -162,9 +162,8 @@ do
 	xmv pixel_mario_3_map_tile.png
 
 	dest="little/nintendo"
-	xmv metroid_symbol_smash_bros_brawl.png
-	xmv nintendo_official_seal.png
-	xmv nintendo_switch_logo_without_text.png
+	xmv *metroid*
+	xmv *nintendo*
 	xmv pokeball.png
 	xmv samus_helm.png
 	xmv smash_ball.png

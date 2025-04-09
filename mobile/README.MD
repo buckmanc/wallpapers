@@ -1,4 +1,4 @@
-# mobile - 2,025
+# mobile - 2,029
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
@@ -21,7 +21,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 85
+- [music](#music) - 89
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -1480,7 +1480,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 85
+## [music](/mobile/music/README.MD) - 89
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1497,6 +1497,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Bridge City Sinners - In the Age of Doubt.jpg](/.internals/thumbnails/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg "Bridge City Sinners - In the Age of Doubt.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg)
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 [![Darkher - Where the Devil Waits.jpg](/.internals/thumbnails/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
+[![DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg](/.internals/thumbnails/mobile/music/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg "DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 [![Elffor - Temple of the Dead.jpg](/.internals/thumbnails/mobile/music/Elffor%20-%20Temple%20of%20the%20Dead.jpg "Elffor - Temple of the Dead.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Elffor%20-%20Temple%20of%20the%20Dead.jpg)
 [![Enterprise Earth - Luciferous _Deluxe Edition_.jpg](/.internals/thumbnails/mobile/music/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg "Enterprise Earth - Luciferous _Deluxe Edition_.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg)
@@ -1539,6 +1540,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
 [![Osi And The Jupiter - Uthuling Hyl.jpg](/.internals/thumbnails/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
+[![Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg](/.internals/thumbnails/mobile/music/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg "Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg)
 [![Picture Talk - Moonlight Lullaby.jpg](/.internals/thumbnails/mobile/music/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg "Picture Talk - Moonlight Lullaby.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg)
 [![Reliqa - Eventide.jpg](/.internals/thumbnails/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
 [![Rose Funeral - Father Death.jpg](/.internals/thumbnails/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Rose%20Funeral%20-%20Father%20Death.jpg)
@@ -1548,12 +1550,14 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 [![silentsoul - strange.jpg](/.internals/thumbnails/mobile/music/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
+[![Sophie Powers - Better On Mute.jpg](/.internals/thumbnails/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg "Sophie Powers - Better On Mute.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
+[![Twin Temple - Girl Trouble.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Girl%20Trouble.jpg "Twin Temple - Girl Trouble.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Girl%20Trouble.jpg)
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 [![Varien - Born of Blood, Risen from Ash.png](/.internals/thumbnails/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
 [![Various Artists - A Symphony of Screams Vol.1.jpg](/.internals/thumbnails/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)

@@ -1,11 +1,11 @@
-# terminal - 498
-- [chromatic aberration](#chromatic-aberration) - 166
-- [grey on alpha](#grey-on-alpha) - 166
-- [grey on black](#grey-on-black) - 166
+# terminal - 501
+- [chromatic aberration](#chromatic-aberration) - 167
+- [grey on alpha](#grey-on-alpha) - 167
+- [grey on black](#grey-on-black) - 167
 
 <a id="chromatic-aberration"></a>
 
-## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 166
+## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 167
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -142,6 +142,7 @@
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png)
+[![Pirate Metroid by Omnimnim](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png)
 [![pokeball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/smash_ball.png)
@@ -175,7 +176,7 @@
 
 <a id="grey-on-alpha"></a>
 
-## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 166
+## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 167
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -312,6 +313,7 @@
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/nintendo_switch_logo_without_text.png)
+[![Pirate Metroid by Omnimnim](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/pirate_metroid_by_omnimnim.png)
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png)
@@ -345,7 +347,7 @@
 
 <a id="grey-on-black"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 166
+## [grey on black](/terminal/grey%20on%20black/README.MD) - 167
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -482,6 +484,7 @@
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/nintendo_switch_logo_without_text.png)
+[![Pirate Metroid by Omnimnim](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/pirate_metroid_by_omnimnim.png)
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/nintendo/smash_ball.png)

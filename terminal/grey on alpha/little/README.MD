@@ -1,4 +1,4 @@
-# little - 114
+# little - 115
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 9
 - [elder scrolls](#elder-scrolls) - 3
@@ -8,7 +8,7 @@
 - [mario](#mario) - 6
 - [misc](#misc) - 37
 - [moons](#moons) - 5
-- [nintendo](#nintendo) - 6
+- [nintendo](#nintendo) - 7
 - [star trek](#star-trek) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 8
 - [tmnt](#tmnt) - 8
@@ -134,10 +134,11 @@
 
 <a id="nintendo"></a>
 
-## [nintendo](/terminal/grey%20on%20alpha/little/nintendo/README.MD) - 6
+## [nintendo](/terminal/grey%20on%20alpha/little/nintendo/README.MD) - 7
 [![metroid_symbol_smash_bros_brawl.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 [![nintendo_official_seal.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/nintendo_official_seal.png)
 [![nintendo_switch_logo_without_text.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/nintendo_switch_logo_without_text.png)
+[![Pirate Metroid by Omnimnim](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/pirate_metroid_by_omnimnim.png)
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png "samus_helm.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png)

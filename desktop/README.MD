@@ -1,4 +1,4 @@
-# desktop - 676
+# desktop - 677
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -12,7 +12,7 @@
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 110
 - [misc anato finnstark](#misc-anato-finnstark) - 4
-- [music](#music) - 4
+- [music](#music) - 5
 - [orbite](#orbite) - 9
 - [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
@@ -420,10 +420,11 @@ Era 2 Triptych by Marc Simonetti")](https://raw.githubusercontent.com/buckmanc/w
 
 <a id="music"></a>
 
-## [music](/desktop/music/README.MD) - 4
+## [music](/desktop/music/README.MD) - 5
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
 [![Laurence Manning - Piano Collections_ Castlevania.jpg](/.internals/thumbnails/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
 [![Living Tombstone - Spotify.jpg](/.internals/thumbnails/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)
+[![solar-eruption-the-demons-house.jpg](/.internals/thumbnails/desktop/music/solar-eruption-the-demons-house.jpg "solar-eruption-the-demons-house.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/solar-eruption-the-demons-house.jpg)
 [![So This Is Suffering Spotify header.jpg](/.internals/thumbnails/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 
 <a id="orbite"></a>

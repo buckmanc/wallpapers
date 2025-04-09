@@ -1,9 +1,12 @@
-# nintendo - 6
+# nintendo - 7
 [![metroid_symbol_smash_bros_brawl.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png "metroid_symbol_smash_bros_brawl.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/metroid_symbol_smash_bros_brawl.png)
 
 [![nintendo_official_seal.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png "nintendo_official_seal.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_official_seal.png)
 
 [![nintendo_switch_logo_without_text.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png "nintendo_switch_logo_without_text.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/nintendo_switch_logo_without_text.png)
+
+[![Pirate Metroid by Omnimnim](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png "Pirate Metroid by Omnimnim")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pirate_metroid_by_omnimnim.png)\
+Pirate Metroid by Omnimnim
 
 [![pokeball.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pokeball.png "pokeball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/pokeball.png)
 

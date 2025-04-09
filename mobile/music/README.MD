@@ -1,4 +1,4 @@
-# music - 85
+# music - 89
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -30,6 +30,8 @@
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 
 [![Darkher - Where the Devil Waits.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
+
+[![DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg "DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg)
 
 [![Dwarrowdelf - The Sons of Fëanor.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
 
@@ -115,6 +117,8 @@
 
 [![Ov Sulfur - Behind the Hand of God.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
 
+[![Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg "Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg)
+
 [![Picture Talk - Moonlight Lullaby.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg "Picture Talk - Moonlight Lullaby.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg)
 
 [![Reliqa - Eventide.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Reliqa%20-%20Eventide.jpg)
@@ -133,6 +137,8 @@
 
 [![Skálmöld - Börn Loka.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
 
+[![Sophie Powers - Better On Mute.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg "Sophie Powers - Better On Mute.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg)
+
 [![Sowulo - Full Mōna.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 
 [![Spire of Lazarus - Omen.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
@@ -144,6 +150,8 @@
 [![Suldusk - Lunar Falls.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Suldusk%20-%20Lunar%20Falls.jpg)
 
 [![The Sword - Gods of the Earth.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
+
+[![Twin Temple - Girl Trouble.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Girl%20Trouble.jpg "Twin Temple - Girl Trouble.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Girl%20Trouble.jpg)
 
 [![Twin Temple - Satan_s a Woman.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 
