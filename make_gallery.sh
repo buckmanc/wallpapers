@@ -23,7 +23,7 @@ fileListDir="${path_root}/.internals/filelist"
 fileListFile="$fileListDir/${branchName}.log"
 fileListFileMain="$fileListDir/main.log"
 
-headerDirNameRegex='s/^(\d{2}|[zZ][xyzXYZ])[ -_]{1,3}//g'
+headerDirNameRegex='s/^(\d{2}|[zZ][xyzXYZ])[ \-_]{1,3}//g'
 
 rm "$tocMD" > /dev/null 2>&1 || true
 
@@ -76,7 +76,11 @@ getModEpoch() {
 }
 
 fitDir="$path_root/.internals/wallpapers_to_fit"
-imagesToFit="$(find-images "$fitDir")"
+if [[ -d "$fitDir" ]]
+then
+	imagesToFit="$(find-images "$fitDir")"
+fi
+
 i=0
 totalImagesToFit=$(echo "$imagesToFit" | wc -l)
 
@@ -284,7 +288,8 @@ echo "$imgFilesAll" | while read -r src; do
 		fi
 
 		# resize images, then crop to the desired resolution
-		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target"
+		# write a filler image on failure
+		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target" || convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
 
 		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
 

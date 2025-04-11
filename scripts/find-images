@@ -2,16 +2,20 @@
 
 # echo "args received by find-images: $@" > $(tty)
 
-input="$1"
-if [ -z "$input" ] || [[ ! -d "$input" ]]
+dirPath="$1"
+if [[ -z "$dirPath" ]] || [[ "$dirPath" == "-"* && ! -d "$dirPath" ]]
 then
-  input="."
+  dirPath="."
+elif [[ -n "$dirPath" && ! -d "$dirPath" ]]
+then
+  echo "directory does not exist: $dirPath" >&2
+  exit 1
 else
   shift
 fi
 
 # stackoverflow.com/a/60559975/1995812
-find "$input" "$@" -type f |
+find "$dirPath" "$@" -type f |
 file --mime-type -f - |
 grep -F image/ |
 grep -iPo '^.*(?=:[^:]+$)' |
