@@ -17,6 +17,10 @@ g	geometry; WxH percent offset
 s	image scale percent
 a	color using image alpha
 r	rotate degrees, or h or v for horizontal/vertical flip
+n	no centertrim (to handle rare bugs in centertrim)
+F	overwrite destination if exists
+B	background color (defaults to upper left corner)
+c	add chromatic aberration
 "
 }
 
@@ -34,11 +38,16 @@ defaultIconColor="white"
 defaultBg="black"
 defaultLength="4000"
 maxRes="4000x4000>^"
+optForce=0
+optNoCenterTrim=0
+optChromaticAberration=0
+bgColor=""
 
 imageOutlinePath="$HOME/bin/image-outline"
 centerTrimPath="$HOME/bin/centertrim"
+chromaticAberrationPath="$HOME/bin/chromatically_aberrate"
 
-while getopts ":t:f:i:o:g:s:m:r:bvha" opt
+while getopts ":t:f:i:o:g:s:m:r:bvhaFnB:c" opt
 do
 	case "${opt}" in
 		i)
@@ -78,13 +87,28 @@ do
 			help
 			exit 0
 			;;
+		F)
+			optForce=1
+			;;
+		n)
+			optNoCenterTrim=1
+			;;
+		B)
+			bgColor="${OPTARG,,}"
+			;;
+		c)
+			optChromaticAberration=1
+			;;
 		\?)
 			echo "invalid option: $name"
 			exit 1
 			;;
 		*)
-			echo "not sure what happened here: $name"
-			exit 1
+			if [[ -n "$name" ]]
+			then
+				echo "not sure what happened here: $name"
+				exit 1
+			fi
 			;;
 	esac
 done
@@ -106,6 +130,10 @@ then
 	echo "input path does not exist:"
 	echo "$inPath"
 	exit 1
+elif [[ -f "$outPath" && "$optForce" == 0 ]]
+then
+	echo "$(basename "$outPath") already exists"
+	exit 0
 fi
 
 if [[ "$geoOffset" != *"x"* ]]
@@ -123,9 +151,27 @@ inPathExt="${inPath##*.}"
 inPathExt="${inPathExt,,}"
 outPathExt="${outPath##*.}"
 outPathExt="${outPathExt,,}"
+outPathNoExt="${outPath%.*}"
 tempDir="$(dirname "$(mktemp -u)")"
 inPathTemp="$tempDir/wallpaper-magick-$(basename "$outPath")"
 inPathTemp="$(echo "$inPathTemp" | sed 's/ /-/g')"
+
+# this check needs to be high up so needless file operations aren't done
+if [[ -z "$bgColor" && "$mode" == *"terminal"* ]]
+then
+	# bgColor="$defaultBg"
+
+	thisScript="$0"
+
+	# if no background is given for a terminal wallpaper
+	# then spin up three different presets
+	"$thisScript" -B "$defaultBg" "$@" -o "${outPathNoExt}_$defaultBg.$outPathExt"
+	"$thisScript" -B "none" "$@" -o "${outPathNoExt}_alpha.$outPathExt"
+	"$thisScript" -B "none" -c "$@" -o "${outPathNoExt}_chromab.$outPathExt"
+	exit
+
+fi
+
 
 if [[ "$inPathExt" == "svg" ]]
 then
@@ -154,14 +200,14 @@ fi
 
 # thanks Fred
 # https://www.fmwconcepts.com/imagemagick/centertrim/index.php
-if [[ -f "$centerTrimPath" ]]
+if [[ -f "$centerTrimPath" && "$optNoCenterTrim" == 0 ]]
 then
 	"$centerTrimPath" "$inPathTemp" "$inPathTemp"
 fi
 
 if [[ "$rotateDegrees" -gt 0 ]]
 then
-	convert "$inPathTemp" -rotate "$rotateDegrees" "PNG64:$inPathTemp"
+	convert "$inPathTemp" -background none -rotate "$rotateDegrees" "PNG64:$inPathTemp"
 elif [[ "$rotateDegrees" == "h" ]]
 then
 	convert "$inPathTemp" -flop "PNG64:$inPathTemp"
@@ -172,12 +218,10 @@ fi
 
 # echo -n "line $LINENO: " && identify -format '%wx%h\n' "$inPathTemp"
 
-bgColor="$(convert "$inPathTemp" -format "%[pixel:p{0,0}]" info:)"
-if [[ "$mode" == "terminal"* && ! "$bgColor" =~ [1-9] ]] # regex must be unquoted
+if [[ -z "$bgColor" ]]
 then
-	# bgColorOriginal is only used for verbose output / debugging
-	bgColorOriginal="$bgColor"
-	bgColor="$defaultBg"
+	bgColorOriginal="$(convert "$inPathTemp" -format "%[pixel:p{0,0}]" info:)"
+	bgColor="$bgColorOriginal"
 fi
 
 colorProfile="$(identify -format '%r' "$inPathTemp")"
@@ -186,9 +230,24 @@ height="$(identify -format '%h' "$inPathTemp")"
 
 if [[ "$optAlphaMask" == 1 ]]
 then
-	# TODO check that the image type supports transparentcy
+	# TODO check that the image type supports transparency
 	# https://superuser.com/questions/718755/transfer-transparency-from-one-image-to-another-using-imagemagick
 	convert \( -size "${width}x${height}" "xc:$defaultColor" \) "$inPathTemp" -compose CopyOpacity -composite "PNG64:$inPathTemp"
+fi
+
+if [[ "$optChromaticAberration" == 1 ]]
+then
+	if [[ "$optVerbose" == 1 ]]
+	then
+		verboseArg="--verbose"
+	else
+		verboseArg=""
+	fi
+
+	# testing only
+	# verboseArg="--verbose"
+
+	"$chromaticAberrationPath" "$inPathTemp" "$inPathTemp"	"$verboseArg"
 fi
 
 if [[ "$mode" == "landscape" ]]
@@ -369,5 +428,5 @@ fi
 # ascii-image-converter "$outPath" --color --full
 # echo "-------------"
 # identify -format "%wx%h\n" "$outPath"
-echo "$(basename "$outPath")"
+basename "$outPath"
 
