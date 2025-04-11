@@ -1,4 +1,4 @@
-# music - 89
+# music - 88
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -136,8 +136,6 @@
 [![silentsoul - strange.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg)
 
 [![Skálmöld - Börn Loka.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
-
-[![Sophie Powers - Better On Mute.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg "Sophie Powers - Better On Mute.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg)
 
 [![Sowulo - Full Mōna.jpg](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 

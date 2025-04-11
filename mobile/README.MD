@@ -1,4 +1,4 @@
-# mobile - 2,029
+# mobile - 2,028
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
@@ -21,7 +21,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 89
+- [music](#music) - 88
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -1480,7 +1480,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 89
+## [music](/mobile/music/README.MD) - 88
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1550,7 +1550,6 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Shrine%20-%20Quintessence.jpg)
 [![silentsoul - strange.jpg](/.internals/thumbnails/mobile/music/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/silentsoul%20-%20strange.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Skálmöld%20-%20Börn%20Loka.jpg)
-[![Sophie Powers - Better On Mute.jpg](/.internals/thumbnails/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg "Sophie Powers - Better On Mute.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sophie%20Powers%20-%20Better%20On%20Mute.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
