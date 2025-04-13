@@ -24,27 +24,34 @@ fileListFile="$fileListDir/${branchName}.log"
 fileListFileMain="$fileListDir/main.log"
 
 headerDirNameRegex='s/^(\d{2}|[zZ][xyzXYZ])[ \-_]{1,3}//g'
+subDirIdRegex='s/[ \-_"#]+/-/g'
 
 rm "$tocMD" > /dev/null 2>&1 || true
 
-# TODO fix this up, support others
-if [[ -f "$HOME/bin/find-images" ]]
-then
-	cp "$HOME/bin/find-images" "$path_root/scripts/find-images"
-fi
-if [[ -f "$HOME/bin/wallpaper-magick" ]]
-then
-	cp "$HOME/bin/wallpaper-magick" "$path_root/scripts/wallpaper-magick"
-fi
+update-script() {
+
+	filename="$1"
+	homePath="$HOME/bin/$filename"
+	scriptsPath="$path_root/scripts/$filename"
+	if [[ -f "$homePath" ]]
+	then
+		cp "$homePath" "$scriptsPath"
+	fi
+}
+
+update-script "find-images"
+update-script "find-videos"
+update-script "find-images-or-videos"
+update-script "wallpaper-magick"
 
 find-images() {
-	"$path_root/scripts/find-images" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$path_root/scripts/find-images-or-videos" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
 	find-images "$path_root" -mindepth 3 -not -path '*/.*'
 }
 find-images-including-thumbnails() {
-	"$path_root/scripts/find-images" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$path_root/scripts/find-images-or-videos" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-mod-time() {
 	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
@@ -73,6 +80,39 @@ getModEpoch() {
 	fi
 
 	echo "$modEpoch"
+}
+
+getThumbnailPath() {
+	path="$1"
+	optOld=0
+	if [[ "$2" == "--old" ]]
+	then
+		optOld=1
+	fi
+
+	ext="${path##*.}"
+	ext="${ext,,}"
+
+	if [[ "$optOld" == 0 ]]
+	then
+		target="${thumbnails_dir}/${path#"$path_root/"}"
+	else
+		target="${thumbnails_old_dir}/${path#"$path_root/"}"
+	fi
+
+	newExt=''
+
+	# if it's a known movie type, make a gif thumbnail
+	if [[ "$ext" =~ ^(3gp|avi|mp4|m4v|mpg|mov|wmv|webm|mkv|vob) ]]
+	then
+		target="$(echo "$target" | perl -pe 's/\.[^\.]+?$/.gif/g')"
+	# otherwise, limit thumbnail types
+	elif ! [[ "$ext" =~ ^(jpe?g|png|gif) ]]
+	then
+		target="$(echo "$target" | perl -pe 's/\.[^\.]+?$/.png/g')"
+	fi
+
+	echo "$target"
 }
 
 fitDir="$path_root/.internals/wallpapers_to_fit"
@@ -104,7 +144,7 @@ echo "$imagesToFit" | while read -r src; do
 	# swap jpegs to pngs to avoid a greyscaling bug
 
 	target="$(echo "$target" | perl -pe 's/\.(jpe?g|svg)$/.png/g')"
-	thumbnailPath="${target/#"$path_root"/"$thumbnails_dir"}"
+	thumbnailPath="$(getThumbnailPath "$target")"
 	targetDir="$(dirname "$target")"
 	srcExt="${src##*.}"
 	srcExt="${srcExt,,}"
@@ -181,7 +221,7 @@ then
 	echo "done!"
 fi
 
-echo -n "--checking for webp's to convert..."
+echo -n "--checking for webp's / bmp's to convert..."
 webpFiles="$(find "$path_root" -type f -iname '*.webp' -not -ipath '*/.internals/thumbnails/*')"
 echo "$webpFiles" | while read -r path
 do
@@ -190,7 +230,7 @@ do
 		continue
 	fi
 
-	target="$(echo "$path" | perl -pe 's/(\.(gif|jpe?g|png))?\.(webp|WEBP)$/.png/g')"
+	target="$(echo "$path" | perl -pe 's/(\.(gif|jpe?g|png|bmp))?\.(webp|WEBP|bmp|BMP)$/.png/g')"
 	echo -n "converting ${path/#"$path_root"/}..."
 	convert "${path}[0]" "$target" && rm "$path"
 	echo "done"
@@ -250,8 +290,8 @@ echo "$imgFilesAll" | while read -r src; do
 	filename="$(basename "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImages" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
-	target="${thumbnails_dir}/${src#"$path_root/"}"
-	thumbnail_old="${thumbnails_old_dir}/${src#"$path_root/"}"
+	target="$(getThumbnailPath "$src")"
+	thumbnail_old="$(getThumbnailPath "$src" --old)"
 
 	target_dir="$(dirname "$target")"
 	mkdir -p "$target_dir"
@@ -289,7 +329,7 @@ echo "$imgFilesAll" | while read -r src; do
 
 		# resize images, then crop to the desired resolution
 		# write a filler image on failure
-		convert -background "$bgColor" -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" +repage "$src" "$target" || convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
+	convert -background "$bgColor" -dispose none -auto-orient -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" -layers optimize +repage "$src"[0-30] "$target" || convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
 
 		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
 
@@ -378,13 +418,13 @@ while read -r dir; do
 	# fi
 
 	while read -r subDir; do
-				subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
+		subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
 
 		if [[ -z "$subDirName" ]]
 		then
 			continue
 		fi
-		customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
+		customHeaderID="$(echo "${subDirName}" | perl -pe "$subDirIdRegex")"
 		imgFolderPathReggie="$(quoteRe "${subDir}/")"
 		folderToc="- [$subDirName](#$customHeaderID) - $(echo "$imgFiles" | grep -iPc "$imgFolderPathReggie" | numfmt --grouping)"
 		if [[ "$folderToc" != *" - 0" ]]
@@ -429,7 +469,7 @@ while read -r dir; do
 				echo "$imgFilename $attrib" >> "$dirAttribPath"
 			fi
 
-			thumbnailPath="${thumbnails_dir}/${imgPath#"$path_root/"}"
+			thumbnailPath="$(getThumbnailPath "$imgPath")"
 			thumbnailUrl="${thumbnailPath/#"$path_root"/}"
 			thumbnailUrl="${thumbnailUrl// /%20}"
 			imageUrl="$raw_root${imgPath/#"$path_root"/}"
@@ -439,8 +479,8 @@ while read -r dir; do
 			subDirReadmeUrl="${subDirReadmeUrl#"$path_root"}"
 			subDirReadmeUrl="${subDirReadmeUrl// /%20}"
 
-					subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
-			customHeaderID="$(echo "${subDirName}" | perl -pe 's/[ -_"#]+/-/g')"
+			subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
+			customHeaderID="$(echo "${subDirName}" | perl -pe "$subDirIdRegex")"
 
 			if [ -n "$attrib" ]
 			then
@@ -548,7 +588,8 @@ rootDirs="$(echo "$imgFilesAll" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/
 
 echo "$rootDirs" | while read -r rootDir
 do
-	echo "- [$rootDir](/$rootDir/README.MD) - $(find-images "$path_root/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
+	rootDirEscaped="$(echo "$rootDir" | perl -pe 's/ /%20/g')"
+	echo "- [$rootDir](/$rootDirEscaped/README.MD) - $(find-images "$path_root/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
 	# echo $'\n' >> "$tocMD"
 done
 tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
