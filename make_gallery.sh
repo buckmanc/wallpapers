@@ -9,6 +9,7 @@ quoteRe() {
 }
 
 path_root="$(git rev-parse --show-toplevel)"
+rootDirName="$(basename "$path_root")"
 branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
@@ -16,6 +17,8 @@ raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
 # echo "shortRemoteName: $shortRemoteName"
 
 tocMD="${path_root}/.internals/tableofcontents.md"
+cssPathBigImages="/.internals/bigimages.css"
+cssPathTinyImages="/.internals/tinyimages.css"
 thumbnails_dir="${path_root}/.internals/thumbnails"
 thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
 readmeTemplatePath="${path_root}/.internals/README_template.md"
@@ -329,7 +332,8 @@ echo "$imgFilesAll" | while read -r src; do
 
 		# resize images, then crop to the desired resolution
 		# write a filler image on failure
-	convert -background "$bgColor" -dispose none -auto-orient -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" -layers optimize +repage "$src"[0-30] "$target" || convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
+	convert -background "$bgColor" -dispose none -auto-orient -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" -layers optimize +repage "$src"[0-30] "$target" \
+		|| convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
 
 		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
 
@@ -472,8 +476,9 @@ while read -r dir; do
 			thumbnailPath="$(getThumbnailPath "$imgPath")"
 			thumbnailUrl="${thumbnailPath/#"$path_root"/}"
 			thumbnailUrl="${thumbnailUrl// /%20}"
-			imageUrl="$raw_root${imgPath/#"$path_root"/}"
+			imageUrl="${imgPath/#"$path_root"/}"
 			imageUrl="${imageUrl// /%20}"
+			imageUrlRawRoot="$raw_root$imageUrl"
 
 			subDirReadmeUrl="$subDir/README.MD"
 			subDirReadmeUrl="${subDirReadmeUrl#"$path_root"}"
@@ -506,6 +511,7 @@ while read -r dir; do
 			if [[ "$bottomLevelDir" == 1 ]]
 			then
 
+				# mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrlRawRoot)"
 				mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)"
 
 				# have to do a bunch of shenanigans to get the attribution immediately below the picture
@@ -531,6 +537,7 @@ while read -r dir; do
 					mdText+="${subDirHeader}"$'\n'
 				fi
 
+				# mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrlRawRoot)"$'\n'
 				mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)"$'\n'
 
 
@@ -585,6 +592,7 @@ echo "$iMdUnchanged/$totalDirs md files unchanged"
 # build the root table of contents
 pathRootEscaped="$(quoteRe "$path_root/")"
 rootDirs="$(echo "$imgFilesAll" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/]+' | sort -u)"
+yearDirCount="$(echo "$rootDirs" | grep -iP '(^(19|20)\d\d|(19|20)\d\d$)' | wc -l)"
 
 echo "$rootDirs" | while read -r rootDir
 do
@@ -592,7 +600,14 @@ do
 	echo "- [$rootDir](/$rootDirEscaped/README.MD) - $(find-images "$path_root/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
 	# echo $'\n' >> "$tocMD"
 done
-tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
+
+# unless there are several year directories at the root, sort by number of images
+# otherwise leave the default alphabetical sort
+if [[ "$yearDirCount" -lt 3 ]]
+then
+	tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
+fi
+
 rm "$tocMD"
 
 if [[ -d "$path_root/mobile" ]]
@@ -608,7 +623,6 @@ else
 	echo "$readmeTemplate" > "$readmeTemplatePath"
 fi
 
-readmeTemplate="${readmeTemplate/\{thumbnails\}/"$thumbnailText"}" 
 readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
 readmeTemplate="${readmeTemplate/\{mobile size\}/"$mobileSize"}" 
 readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
@@ -626,6 +640,9 @@ if [[ "$mdTextOld" != "$readmeTemplate" ]]
 	then
 	echo "$readmeTemplate" > "$homeReadmePath"
 fi
+
+homeReadmeHtmlPath="${path_root}/README.html"
+indexHtmlPath="${path_root}/index.html"
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
@@ -664,89 +681,26 @@ then
 		mdDir="$(dirname "$src")"
 		bottomLevelDir="$(bottom-level-dir "$mdDir")"
 
-		if [ "${mdDir,,}" = "${path_root,,}" ]
+		if [[ "${mdDir,,}" = "${path_root,,}" ]]
 		then
-			metaTitle="Wallpapers"
+			metaTitle="$rootDirName"
+			cssPath="$cssPathBigImages"
+		elif [[ "$bottomLevelDir" == 1 ]]
+		then
+			cssPath="$cssPathBigImages"
+		else
+			cssPath="$cssPathTinyImages"
 		fi
 
-		htmlText=$(pandoc --from=gfm --to=html --standalone --metadata title="$metaTitle" "$src")
+		htmlText=$(pandoc --from=gfm --to=html --standalone --css="$cssPath" --metadata title="$metaTitle" "$src")
 		htmlText="${htmlText//.md/.html}"
 		htmlText="${htmlText//.MD/.html}"
 		htmlText="${htmlText//"$raw_root"/}"
 
-		echo "$htmlText" | while read -r htmlLine
-		do
-
-			# write existing line to file
-			echo "$htmlLine" >> "$htmlPath"
-
-			# only doing edits based on htmlLine on bottom level readmes
-			if [[ "$bottomLevelDir" == 0 ]]
-			then
-				continue
-			fi
-
-			if [[ "$htmlLine" == "</header>" ]]
-			then
-				modText="<iframe name=\"dummyframe\" id=\"dummyframe\" style=\"display: none;\"></iframe>"
-				echo "$modText" >> "$htmlPath"
-
-			fi
-
-			if [[ "$htmlLine" == *"href"* && "$htmlLine" == *"img src"* && "$htmlLine" != *".internals/thumbnails"* && "$htmlPath" != *"thumbnails_test"* ]]
-			then
-				href="$(echo "$htmlLine" | grep -iPo '(?<=href=")[^"]+' | urldecode)"
-				# title=$(echo "$htmlLine" | grep -iPo '(?<=title=")[^"]+')
-
-				renamePrefil="$(basename "$href")"
-				renamePrefil="${renamePrefil%.*}"
-				# TODO HTML decode this first
-				if [[ -f "${path_root}/${href}" ]]
-				then
-					resolution=$(identify -ping -format '%wx%h' "${path_root}/${href}" 2>&1)
-				else
-					resolution="???"
-				fi
-				
-				modText="
-				<form action=\"/cgi-bin/move\" target=\"dummyframe\" style='width:400px'>
-				<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
-				<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
-				<label>${resolution}</label>
-				<br>
-				<label for=\"destname\">new file name:</label>
-				<input type=\"text\" id=\"destname\" name=\"destname\" style='width:100%' value=\"$renamePrefil\"><br>
-				<input type=\"submit\" value=\"Rename\">
-				</form>
-				<form action=\"/cgi-bin/trim\" target=\"dummyframe\">
-				<input type=\"hidden\" id=\"dirname\" name=\"dirname\" value=\"$(dirname "$href")\">
-				<input type=\"hidden\" id=\"sourcename\" name=\"sourcename\" value=\"$(basename "$href")\">
-				<input type=\"submit\" value=\"Trim\">
-				</form>
-				<br>
-				"
-
-				# write new stuff to file
-				echo "$modText" >> "$htmlPath"
-
-			fi
-
-
-		done
-
-		if [[ "$bottomLevelDir" == 1 ]]
-		then
-			# make sure images don't blow out the page
-			sed -i '13i img {max-width: 100%;	height: auto;}' "$htmlPath"
-		else
-			# make sure images at least fit two columns
-			sed -i '13i img {max-width: 45%;	height: auto;}' "$htmlPath"
-		fi
-
 		# remove that double header
-		perl -i -00pe 's|<header.+?title-block-header.+?</header>||gs' "$htmlPath"
+		htmlText="$(echo "$htmlText" | perl -00pe 's|<header.+?title-block-header.+?</header>||gs')"
 
-		perl -i -pe 's/^max-width.+$//g' "$htmlPath"
+		echo "$htmlText" > "$htmlPath"
 
 		echo -en "\r"
 
@@ -759,6 +713,13 @@ then
 		echo
 		echo "skipped $iHtmlSkip/$total html files"
 	fi
+
+	# update an index file matching readme.html
+	if [[ -f "$homeReadmeHtmlPath" ]] && [[ "$homeReadmeHtmlPath" -nt "$indexHtmlPath" || ! -f "$indexHtmlPath" ]]
+	then
+		cp "$homeReadmeHtmlPath" "$indexHtmlPath"
+	fi
+
 fi
 
 echo "done at $(date)"
