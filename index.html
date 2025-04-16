@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Wallpapers</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="/.internals/bigimages.css" />
+</head>
+<body>
+
+<!--
+make sure you're editing the template, doofus
+-->
+
+<p><img src=".internals/headers/desktop.png"
+alt="desktop wallpapers" /></p>
+<h1 id="3457-wallpapers">3,457 Wallpapers</h1>
+<p>A simple repo to house my wallpapers for ease of use and
+automation.</p>
+<p><img src=".internals/headers/mobile.png"
+alt="mobile wallpapers" /></p>
+<h1 id="table-of-contents">Table of Contents</h1>
+<ul>
+<li><a href="/mobile/README.html">mobile</a> - 2,028</li>
+<li><a href="/desktop/README.html">desktop</a> - 677</li>
+<li><a href="/terminal/README.html">terminal</a> - 501</li>
+<li><a href="/floaters/README.html">floaters</a> - 251</li>
+</ul>
+<p><img src=".internals/headers/floaters.png"
+alt="floaters wallpapers" /></p>
+<h1 id="usage">Usage</h1>
+<h2 id="nab-individual-wallpapers">Nab Individual Wallpapers</h2>
+<p>Long press / right click &gt; save link. Just don't save the
+thumbnail by mistake!</p>
+<h2 id="shallow-clone">Shallow Clone</h2>
+<p>If using Git, I recommend making a shallow clone of this repo to pull
+only the current images and not the full history. A shallow <a
+href="update.sh">update script</a> is included for ease of use and
+scheduling.</p>
+<p>To make a simple shallow clone:</p>
+<pre class="shell"><code>git clone --depth 1 https://github.com/buckmanc/wallpapers</code></pre>
+<p>Or to clone only the directories you want in a shallow fashion (for
+example, to ignore the 3.5G mobile folder):</p>
+<pre class="shell"><code># shallow clone but download and checkout bupkis
+git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers
+
+# set git to only clone these folders
+git sparse-checkout set ./desktop ./terminal ./scripts
+
+# download and checkout
+git checkout main
+</code></pre>
+<p><img src=".internals/headers/terminal.png"
+alt="terminal wallpapers" /></p>
+<h1 id="attribution">Attribution</h1>
+<p>I've added attribution where I can. Feel free to contact me or submit
+a pull request to add missing attribution.</p>
+<h1 id="aesthetic-decisions">Aesthetic Decisions</h1>
+<ul>
+<li><strong>Desktop/homescreen: chill</strong>
+<ul>
+<li>Calming, spacious designs to underly busy windows and icons</li>
+</ul></li>
+<li><strong>Lockscreen: exciting</strong>
+<ul>
+<li>Anything goes</li>
+<li>Better with a neat and tidy lock screen</li>
+</ul></li>
+<li><strong>Floaters</strong>
+<ul>
+<li>To be centered on the screen</li>
+<li>Usually t-shirt designs</li>
+</ul></li>
+<li><strong>Terminal: elegant and subdued</strong>
+<ul>
+<li>Extremely simple, standardized designs on the opposite side from the
+text</li>
+</ul></li>
+</ul>
+<h1 id="shoutouts">Shoutouts</h1>
+<p>Thanks to <a
+href="https://github.com/jonascarpay/wallpapers">jonascarpay</a>, <a
+href="https://github.com/makccr/wallpapers">makccr</a>, and <a
+href="https://github.com/dharmx/walls">dharmx</a> for excellent examples
+of wallpaper repos, all the artists of various kinds for their work, and
+you as Mega Man X!</p>
+</body>
+</html>
