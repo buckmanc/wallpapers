@@ -511,8 +511,7 @@ while read -r dir; do
 			if [[ "$bottomLevelDir" == 1 ]]
 			then
 
-				# mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrlRawRoot)"
-				mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrl)"
+				mdText+="[![$alt_text]($imageUrl \"$alt_text\")]($imageUrlRawRoot)"
 
 				# have to do a bunch of shenanigans to get the attribution immediately below the picture
 				if [ -n "$attrib" ]
@@ -537,9 +536,7 @@ while read -r dir; do
 					mdText+="${subDirHeader}"$'\n'
 				fi
 
-				# mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrlRawRoot)"$'\n'
 				mdText+="[![$alt_text]($thumbnailUrl \"$alt_text\")]($imageUrl)"$'\n'
-
 
 			fi
 
