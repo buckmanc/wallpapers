@@ -8,21 +8,21 @@ quoteRe() {
 	sed -e 's/[^^]/[&]/g; s/\^/\\^/g; $!a\'$'\n''\\n' <<<"$1" | tr -d '\n'
 }
 
-path_root="$(git rev-parse --show-toplevel)"
-rootDirName="$(basename "$path_root")"
+gitRoot="$(git rev-parse --show-toplevel)"
+rootDirName="$(basename "$gitRoot")"
 branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
 
 # echo "shortRemoteName: $shortRemoteName"
 
-tocMD="${path_root}/.internals/tableofcontents.md"
+tocMD="${gitRoot}/.internals/tableofcontents.md"
 cssPathBigImages="/.internals/bigimages.css"
 cssPathTinyImages="/.internals/tinyimages.css"
-thumbnails_dir="${path_root}/.internals/thumbnails"
-thumbnails_old_dir="${path_root}/.internals/thumbnails_old"
-readmeTemplatePath="${path_root}/.internals/README_template.md"
-fileListDir="${path_root}/.internals/filelist"
+thumbnails_dir="${gitRoot}/.internals/thumbnails"
+thumbnails_old_dir="${gitRoot}/.internals/thumbnails_old"
+readmeTemplatePath="${gitRoot}/.internals/README_template.md"
+fileListDir="${gitRoot}/.internals/filelist"
 fileListFile="$fileListDir/${branchName}.log"
 fileListFileMain="$fileListDir/main.log"
 
@@ -35,7 +35,7 @@ update-script() {
 
 	filename="$1"
 	homePath="$HOME/bin/$filename"
-	scriptsPath="$path_root/scripts/$filename"
+	scriptsPath="$gitRoot/scripts/$filename"
 	if [[ -f "$homePath" ]]
 	then
 		cp "$homePath" "$scriptsPath"
@@ -48,19 +48,19 @@ update-script "find-images-or-videos"
 update-script "wallpaper-magick"
 
 find-images() {
-	"$path_root/scripts/find-images-or-videos" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$gitRoot/scripts/find-images-or-videos" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
-	find-images "$path_root" -mindepth 3 -not -path '*/.*'
+	find-images "$gitRoot" -mindepth 3 -not -path '*/.*'
 }
 find-images-including-thumbnails() {
-	"$path_root/scripts/find-images-or-videos" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$gitRoot/scripts/find-images-or-videos" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-mod-time() {
 	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
 }
 wallpaper-magick(){
-	"$path_root/scripts/wallpaper-magick" "$@"
+	"$gitRoot/scripts/wallpaper-magick" "$@"
 }
 bottom-level-dir(){
 	if [[ "$(find-images "$1" -maxdepth 1 | wc -l)" -gt 0 ]]
@@ -98,9 +98,9 @@ getThumbnailPath() {
 
 	if [[ "$optOld" == 0 ]]
 	then
-		target="${thumbnails_dir}/${path#"$path_root/"}"
+		target="${thumbnails_dir}/${path#"$gitRoot/"}"
 	else
-		target="${thumbnails_old_dir}/${path#"$path_root/"}"
+		target="${thumbnails_old_dir}/${path#"$gitRoot/"}"
 	fi
 
 	newExt=''
@@ -118,7 +118,7 @@ getThumbnailPath() {
 	echo "$target"
 }
 
-fitDir="$path_root/.internals/wallpapers_to_fit"
+fitDir="$gitRoot/.internals/wallpapers_to_fit"
 if [[ -d "$fitDir" ]]
 then
 	imagesToFit="$(find-images "$fitDir")"
@@ -137,7 +137,7 @@ echo "$imagesToFit" | while read -r src; do
 	filename="$(basename "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImagesToFit" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
-	target="${src/#"$fitDir"/"$path_root"}"
+	target="${src/#"$fitDir"/"$gitRoot"}"
 
 	# # temp fix: if jpeg target exists, burn it
 	# if [[ -f "$target" ]] && echo "$target" | grep -Piq "\.jpe?g$"
@@ -208,7 +208,7 @@ then
 	echo "$imgFiles" | while read -r path
 	do
 		filename="$(basename "$path")"
-		shortPath="${path/#"$path_root"/}"
+		shortPath="${path/#"$gitRoot"/}"
 		# only use perceptual hash filenames for specific folders
 		# only misc folders at one level deep
 		if echo "$shortPath" | grep -qiP "(/forests/|/space/|/space - fictional/|^/?[^/]+/misc/|/leaves/|/cityscapes/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
@@ -225,7 +225,7 @@ then
 fi
 
 echo -n "--checking for webp's / bmp's to convert..."
-webpFiles="$(find "$path_root" -type f -iname '*.webp' -not -ipath '*/.internals/thumbnails/*')"
+webpFiles="$(find "$gitRoot" -type f -iname '*.webp' -not -ipath '*/.internals/thumbnails/*')"
 echo "$webpFiles" | while read -r path
 do
 	if [[ -z "$path" ]]
@@ -234,7 +234,7 @@ do
 	fi
 
 	target="$(echo "$path" | perl -pe 's/(\.(gif|jpe?g|png|bmp))?\.(webp|WEBP|bmp|BMP)$/.png/g')"
-	echo -n "converting ${path/#"$path_root"/}..."
+	echo -n "converting ${path/#"$gitRoot"/}..."
 	convert "${path}[0]" "$target" && rm "$path"
 	echo "done"
 done
@@ -335,7 +335,7 @@ echo "$imgFilesAll" | while read -r src; do
 	convert -background "$bgColor" -dispose none -auto-orient -thumbnail "${targetDimensions}${fitCaret}" -unsharp 0x1.0 -gravity Center -extent "$targetDimensions" -layers optimize +repage "$src"[0-30] "$target" \
 		|| convert -background transparent -fill white -size "$targetDimensions" -gravity center -stroke black -strokewidth "4" caption:"?" "$target"
 
-		echo    "${src#"$path_root"}~$(date +%s)" >> "$fileListFile"
+		echo    "${src#"$gitRoot"}~$(date +%s)" >> "$fileListFile"
 
 		echo ""
 	else
@@ -352,11 +352,11 @@ echo ""
 
 echo "--updating readme md's..."
 
-homeReadmePath="${path_root}/README.MD"
-rootReadmePath="${path_root}/README_ALL.MD"
+homeReadmePath="${gitRoot}/README.MD"
+rootReadmePath="${gitRoot}/README_ALL.MD"
 
 # min depth > 0 disables the generation of readme_all / rootReadmePath
-directories="$(find "$path_root" -mindepth 1 -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
+directories="$(find "$gitRoot" -mindepth 1 -type d -not -path '*/.*' -not -path '*/scripts' -not -path '*/temp *' -not -path '*/thumbnails_test')"
 totalDirs="$(echo "$directories" | wc -l)"
 i=0
 iDir=0
@@ -365,8 +365,8 @@ iMdSkip=0
 while read -r dir; do
 	((iDir++)) || true
 	printf -v dirStatus '\033[2K%3d/%d:' "$iDir" "$totalDirs"
-	friendlyDirName="${dir/"$path_root"}"
-	thumbDir="$path_root/.internals/thumbnails/$friendlyDirName"
+	friendlyDirName="${dir/"$gitRoot"}"
+	thumbDir="$gitRoot/.internals/thumbnails/$friendlyDirName"
 
 	dirReadmePath="$dir/README.MD"
 	dirHtmlReadmePath="$dir/README.html"
@@ -474,14 +474,14 @@ while read -r dir; do
 			fi
 
 			thumbnailPath="$(getThumbnailPath "$imgPath")"
-			thumbnailUrl="${thumbnailPath/#"$path_root"/}"
+			thumbnailUrl="${thumbnailPath/#"$gitRoot"/}"
 			thumbnailUrl="${thumbnailUrl// /%20}"
-			imageUrl="${imgPath/#"$path_root"/}"
+			imageUrl="${imgPath/#"$gitRoot"/}"
 			imageUrl="${imageUrl// /%20}"
 			imageUrlRawRoot="$raw_root$imageUrl"
 
 			subDirReadmeUrl="$subDir/README.MD"
-			subDirReadmeUrl="${subDirReadmeUrl#"$path_root"}"
+			subDirReadmeUrl="${subDirReadmeUrl#"$gitRoot"}"
 			subDirReadmeUrl="${subDirReadmeUrl// /%20}"
 
 			subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
@@ -587,14 +587,14 @@ echo "$iMdSkip/$totalDirs md files skipped"
 echo "$iMdUnchanged/$totalDirs md files unchanged"
 
 # build the root table of contents
-pathRootEscaped="$(quoteRe "$path_root/")"
+pathRootEscaped="$(quoteRe "$gitRoot/")"
 rootDirs="$(echo "$imgFilesAll" | sed "s/^$pathRootEscaped//g" | grep -iPo '^[^/]+' | sort -u)"
 yearDirCount="$(echo "$rootDirs" | grep -iP '(^(19|20)\d\d|(19|20)\d\d$)' | wc -l)"
 
 echo "$rootDirs" | while read -r rootDir
 do
 	rootDirEscaped="$(echo "$rootDir" | perl -pe 's/ /%20/g')"
-	echo "- [$rootDir](/$rootDirEscaped/README.MD) - $(find-images "$path_root/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
+	echo "- [$rootDir](/$rootDirEscaped/README.MD) - $(find-images "$gitRoot/$rootDir" | wc -l | numfmt --grouping)" >> "$tocMD"
 	# echo $'\n' >> "$tocMD"
 done
 
@@ -609,9 +609,9 @@ fi
 
 rm "$tocMD"
 
-if [[ -d "$path_root/mobile" ]]
+if [[ -d "$gitRoot/mobile" ]]
 then
-	mobileSize="$(du "$path_root/mobile" --max-depth 0 --human-readable | cut -f1)"
+	mobileSize="$(du "$gitRoot/mobile" --max-depth 0 --human-readable | cut -f1)"
 fi
 
 if [[ -f "$readmeTemplatePath" ]]
@@ -640,14 +640,14 @@ if [[ "$mdTextOld" != "$readmeTemplate" ]]
 	echo "$readmeTemplate" > "$homeReadmePath"
 fi
 
-homeReadmeHtmlPath="${path_root}/README.html"
-indexHtmlPath="${path_root}/index.html"
+homeReadmeHtmlPath="${gitRoot}/README.html"
+indexHtmlPath="${gitRoot}/index.html"
 
 # if pandoc is installed, convert the markdown files to html for easy preview and debugging
 if type pandoc >/dev/null 2>&1
 then
 	echo "--updating readme html's..."
-	mdFiles=$(find "$path_root" -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
+	mdFiles=$(find "$gitRoot" -type f -iname '*.md' -not -path '*/.*' -not -iname 'attrib.md' | sort -t'/' -k1,1 -k2,2 -k3,3 -k4,4 -k5,5 -k6,6 -k7,7)
 
 	i=0
 	iHtmlSkip=0
@@ -674,13 +674,13 @@ then
 			rm "$htmlPath"
 		fi
 		metaTitle="${src%.*}"
-		metaTitle="${metaTitle#"$path_root"}"
+		metaTitle="${metaTitle#"$gitRoot"}"
 		metaTitle="${metaTitle#/}"
 		metaTitle="$(echo "$metaTitle" | sed 's|/README$||g')"
 		mdDir="$(dirname "$src")"
 		bottomLevelDir="$(bottom-level-dir "$mdDir")"
 
-		if [[ "${mdDir,,}" = "${path_root,,}" ]]
+		if [[ "${mdDir,,}" = "${gitRoot,,}" ]]
 		then
 			metaTitle="$rootDirName"
 			cssPath="$cssPathBigImages"
@@ -721,4 +721,15 @@ then
 
 fi
 
+# TODO exclude files already added
+lfsFiles="$(git -C "$gitRoot" lfs ls-files)"
+largeFiles="$("$gitRoot/scripts/find-images-or-videos" "$gitRoot" -not -ipath '*/.*' -size +100M | wc -l)"
+
+if [[ "$largeFiles" -gt 0 ]]
+then
+	echo
+	echo "$largeFiles are larger than Guthib's size limit. Add them to lfs with scripts/lfs_add.sh"
+fi
+
+echo
 echo "done at $(date)"
