@@ -606,6 +606,8 @@ done
 if [[ "$yearDirCount" -lt 3 ]]
 then
 	tocText="$(cat "$tocMD" | sort -rn -t '-' -k3)"
+else
+	tocText="$(cat "$tocMD")"
 fi
 
 rm "$tocMD"
