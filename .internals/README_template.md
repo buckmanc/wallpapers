@@ -21,6 +21,10 @@ A simple repo to house my wallpapers for ease of use and automation.
 
 Long press / right click > save link. Just don't save the thumbnail by mistake!
 
+## One Big Zip File
+
+You can always download everything as [one big zip file](https://github.com/buckmanc/wallpapers/archive/refs/heads/main.zip)
+
 ## Shallow Clone
 
 If using Git, I recommend making a shallow clone of this repo to pull only the current images and not the full history. A shallow [update script](update.sh) is included for ease of use and scheduling.
