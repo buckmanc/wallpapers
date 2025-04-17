@@ -1,4 +1,0 @@
-castlevania_glyph_agartha_by_pyderek.png Castlevania Glyph Agartha by Pyderek
-castlevania_glyph_dominus_agony_by_pyderek.png Castlevania Glyph Dominus Agony by Pyderek
-castlevania_glyph_dominus_anger_by_pyderek.png Castlevania Glyph Dominus Anger by Pyderek
-castlevania_glyph_dominus_hatred_by_pyderek.png Castlevania Glyph Dominus Hatred by Pyderek
