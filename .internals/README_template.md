@@ -4,9 +4,9 @@ make sure you're editing the template, doofus
 
 ![desktop wallpapers](.internals/headers/desktop.png)
 
-# {total} Wallpapers
+# {total} {repo name cap}
 
-A simple repo to house my wallpapers for ease of use and automation.
+A simple repo to house my {repo name} for ease of use and automation.
 
 ![mobile wallpapers](.internals/headers/mobile.png)
 
@@ -17,13 +17,13 @@ A simple repo to house my wallpapers for ease of use and automation.
 
 # Usage
 
-## Nab Individual Wallpapers
+## Nab Individual {repo name cap}
 
 Long press / right click > save link. Just don't save the thumbnail by mistake!
 
 ## One Big Zip File
 
-You can always download everything as [one big zip file](https://github.com/buckmanc/wallpapers/archive/refs/heads/main.zip)
+You can always download everything as [one big zip file]({repo url}/archive/refs/heads/main.zip)
 
 ## Shallow Clone
 
@@ -31,13 +31,13 @@ If using Git, I recommend making a shallow clone of this repo to pull only the c
 
 To make a simple shallow clone:
 ```shell
-git clone --depth 1 https://github.com/buckmanc/wallpapers
+git clone --depth 1 {repo url}
 ```
 
 Or to clone only the directories you want in a shallow fashion (for example, to ignore the {mobile size} mobile folder):
 ```shell
 # shallow clone but download and checkout bupkis
-git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers
+git clone --filter=blob:none --no-checkout --depth 1 {repo url}
 
 # set git to only clone these folders
 git sparse-checkout set ./desktop ./terminal ./scripts

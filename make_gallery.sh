@@ -9,10 +9,11 @@ quoteRe() {
 }
 
 gitRoot="$(git rev-parse --show-toplevel)"
-rootDirName="$(basename "$gitRoot")"
 branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
+repoUrl="https://github.com/$shortRemoteName"
+repoName="${shortRemoteName#*/}"
 
 # echo "shortRemoteName: $shortRemoteName"
 
@@ -618,13 +619,16 @@ if [[ -f "$readmeTemplatePath" ]]
 then
 	readmeTemplate="$(cat "$readmeTemplatePath")"
 else
-	readmeTemplate=$'# {total} Wallpapers\n\n{table of contents}'
+	readmeTemplate=$'# {total} {repo name cap}\n\n{table of contents}'
 	echo "$readmeTemplate" > "$readmeTemplatePath"
 fi
 
-readmeTemplate="${readmeTemplate/\{table of contents\}/"$tocText"}" 
-readmeTemplate="${readmeTemplate/\{mobile size\}/"$mobileSize"}" 
-readmeTemplate="${readmeTemplate/\{total\}/"$(numfmt --grouping "$totalImages")"}" 
+readmeTemplate="${readmeTemplate//\{table of contents\}/"$tocText"}" 
+readmeTemplate="${readmeTemplate//\{mobile size\}/"$mobileSize"}" 
+readmeTemplate="${readmeTemplate//\{total\}/"$(numfmt --grouping "$totalImages")"}" 
+readmeTemplate="${readmeTemplate//\{repo name\}/"${repoName,,}"}" 
+readmeTemplate="${readmeTemplate//\{repo name cap\}/"${repoName^}"}" 
+readmeTemplate="${readmeTemplate//\{repo url\}/"$repoUrl"}" 
 
 # only write if changed
 if [[ -f "$homeReadmePath" ]]
@@ -682,7 +686,7 @@ then
 
 		if [[ "${mdDir,,}" = "${gitRoot,,}" ]]
 		then
-			metaTitle="$rootDirName"
+			metaTitle="${repoName^}"
 			cssPath="$cssPathBigImages"
 		elif [[ "$bottomLevelDir" == 1 ]]
 		then
