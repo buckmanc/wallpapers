@@ -2,30 +2,36 @@
 
 set -e
 
-path_root="$(git rev-parse --show-toplevel)"
-tempImgPaths='/tmp/wallpaper-header-temp.txt'
+gitRoot="$(git rev-parse --show-toplevel)"
+thisScriptDir="$(dirname -- "$0")"
+
+tempImgPaths='/tmp/wallpaper-banner-temp.txt'
 targetWidth=3000
 
-rootDirs="$(find "$path_root/.internals/thumbnails" -mindepth 1 -maxdepth 1 -type d)"
+rootDirs="$(find "$gitRoot/.internals/thumbnails" -mindepth 1 -maxdepth 1 -type d)"
 
+iDir=0
 echo "$rootDirs" | while read -r rootDir
 do
+  iDir=$((iDir+1))
   rootDirName="$(basename "$rootDir")"
-  outpath="$path_root/.internals/headers/${rootDirName}.png"
-
-  echo "making $rootDirName header image..."
+  outpath="$gitRoot/.internals/banners/banner$iDir.png"
 
   if [[ -f "$tempImgPaths" ]]
   then
     rm "$tempImgPaths"
   fi
+  # skip if exists
+  # in other words, delete the banner to reshuffle it
   if [[ -f "$outpath" ]]
   then
-    rm "$outpath"
+    continue
   fi
 
+  echo "making $rootDirName banner image..."
+
   # do a rough calc to get the right amount of images
-  exampleImg="$("$path_root/scripts/find-images" "$rootDir" | head -n 1)" 
+  exampleImg="$("$thisScriptDir/scripts/find-images" "$rootDir" | head -n 1)" 
   imgWidth="$(identify -format '%w' "$exampleImg")"
   imgLimit="$(echo "($targetWidth / ($imgWidth+25)) -2" | bc -l | cut -d '.' -f1)"
 
@@ -48,7 +54,7 @@ do
       break
     fi
 
-    imgPaths="$("$path_root/scripts/find-images" "$dir" -maxdepth 1 | shuf -n "$imgPerDir" | xargs -d '\n' -I{} echo '"'"{}[0]"'"')"
+    imgPaths="$("$gitRoot/scripts/find-images" "$dir" -maxdepth 1 | shuf -n "$imgPerDir" | xargs -d '\n' -I{} echo '"'"{}[0]"'"')"
     if [[ -n "$imgPaths" ]]
     then
       echo "$imgPaths" >> "$tempImgPaths"
@@ -71,4 +77,5 @@ do
   then
     rm "$tempImgPaths"
   fi
+
 done

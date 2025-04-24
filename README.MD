@@ -2,13 +2,13 @@
 make sure you're editing the template, doofus
 -->
 
-![desktop wallpapers](.internals/headers/desktop.png)
+![desktop wallpapers](.internals/banners/banner1.png)
 
 # 3,457 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
-![mobile wallpapers](.internals/headers/mobile.png)
+![mobile wallpapers](.internals/banners/banner2.png)
 
 # Table of Contents
 - [mobile](/mobile/README.MD) - 2,028
@@ -16,7 +16,7 @@ A simple repo to house my wallpapers for ease of use and automation.
 - [terminal](/terminal/README.MD) - 501
 - [floaters](/floaters/README.MD) - 251
 
-![floaters wallpapers](.internals/headers/floaters.png)
+![floaters wallpapers](.internals/banners/banner3.png)
 
 # Usage
 
@@ -50,7 +50,7 @@ git checkout main
 
 ```
 
-![terminal wallpapers](.internals/headers/terminal.png)
+![terminal wallpapers](.internals/banners/banner4.png)
 
 # Attribution
 

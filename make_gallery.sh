@@ -9,6 +9,7 @@ quoteRe() {
 }
 
 gitRoot="$(git rev-parse --show-toplevel)"
+thisScriptDir="$(dirname -- "$0")"
 branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
 raw_root="https://raw.githubusercontent.com/$shortRemoteName/main"
@@ -638,6 +639,14 @@ else
 	mdTextOld=''
 fi
 
+# generate banners for the main page if missing
+makeBannersPath="$thisScriptDir/scripts/make_banners.sh"
+if [[ -e "$makeBannersPath" ]]
+then
+	"$makeBannersPath"
+else
+	echo "make_banners.sh not found"
+fi
 
 if [[ "$mdTextOld" != "$readmeTemplate" ]]
 	then
