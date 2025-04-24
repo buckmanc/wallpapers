@@ -8,7 +8,18 @@ quoteRe() {
 	sed -e 's/[^^]/[&]/g; s/\^/\\^/g; $!a\'$'\n''\\n' <<<"$1" | tr -d '\n'
 }
 
-gitRoot="$(git rev-parse --show-toplevel)"
+if [[ -n "$1" ]]
+then
+	gitRoot="$1"
+	if [[ ! -d "$gitRoot" ]]
+	then
+		echo "$gitRoot does not exist"
+		exit 1
+	fi
+else
+	gitRoot="$(git rev-parse --show-toplevel)"
+fi
+
 thisScriptDir="$(dirname -- "$0")"
 branchName="$(git branch --show-current)"
 shortRemoteName="$(git remote -v | grep -iP '(github|origin)' | grep -iPo '[^/:]+/[^/]+(?= )' | perl -pe 's/\.git$//g' | head -n1)"
@@ -21,10 +32,11 @@ repoName="${shortRemoteName#*/}"
 tocMD="${gitRoot}/.internals/tableofcontents.md"
 cssPathBigImages="/.internals/bigimages.css"
 cssPathTinyImages="/.internals/tinyimages.css"
-thumbnails_dir="${gitRoot}/.internals/thumbnails"
-thumbnails_old_dir="${gitRoot}/.internals/thumbnails_old"
-readmeTemplatePath="${gitRoot}/.internals/README_template.md"
-fileListDir="${gitRoot}/.internals/filelist"
+thumbnails_dir="$gitRoot/.internals/thumbnails"
+thumbnails_old_dir="$gitRoot/.internals/thumbnails_old"
+readmeTemplatePath="$gitRoot/.internals/README_template.md"
+readmeTemplateDefaultPath="$thisScriptDir/.internals/README_template.md"
+fileListDir="$gitRoot/.internals/filelist"
 fileListFile="$fileListDir/${branchName}.log"
 fileListFileMain="$fileListDir/main.log"
 
@@ -37,8 +49,8 @@ update-script() {
 
 	filename="$1"
 	homePath="$HOME/bin/$filename"
-	scriptsPath="$gitRoot/scripts/$filename"
-	if [[ -f "$homePath" ]]
+	scriptsPath="$thisScriptDir/scripts/$filename"
+	if [[ -f "$homePath" && "$gitRoot" == "$thisScriptDir" ]]
 	then
 		cp "$homePath" "$scriptsPath"
 	fi
@@ -50,19 +62,19 @@ update-script "find-images-or-videos"
 update-script "wallpaper-magick"
 
 find-images() {
-	"$gitRoot/scripts/find-images-or-videos" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$thisScriptDir/scripts/find-images-or-videos" "$@" -not -path '*/thumbnails*' -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-images-main() {
 	find-images "$gitRoot" -mindepth 3 -not -path '*/.*'
 }
 find-images-including-thumbnails() {
-	"$gitRoot/scripts/find-images-or-videos" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
+	"$thisScriptDir/scripts/find-images-or-videos" "$@" -not -path '*/scripts/*' -not -type l -not -path '*/temp *'
 }
 find-mod-time() {
 	find "$1" -type f -printf "%T+\n" | sort -nr | head -n 1
 }
 wallpaper-magick(){
-	"$gitRoot/scripts/wallpaper-magick" "$@"
+	"$thisScriptDir/scripts/wallpaper-magick" "$@"
 }
 bottom-level-dir(){
 	if [[ "$(find-images "$1" -maxdepth 1 | wc -l)" -gt 0 ]]
@@ -136,7 +148,7 @@ echo "$imagesToFit" | while read -r src; do
 	then
 		continue
 	fi
-	filename="$(basename "$src")"
+	filename="$(basename -- "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImagesToFit" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 	target="${src/#"$fitDir"/"$gitRoot"}"
@@ -150,7 +162,7 @@ echo "$imagesToFit" | while read -r src; do
 
 	target="$(echo "$target" | perl -pe 's/\.(jpe?g|svg)$/.png/g')"
 	thumbnailPath="$(getThumbnailPath "$target")"
-	targetDir="$(dirname "$target")"
+	targetDir="$(dirname -- "$target")"
 	srcExt="${src##*.}"
 	srcExt="${srcExt,,}"
 
@@ -209,14 +221,14 @@ then
 	imgFiles="$(find-images-main)"
 	echo "$imgFiles" | while read -r path
 	do
-		filename="$(basename "$path")"
+		filename="$(basename -- "$path")"
 		shortPath="${path/#"$gitRoot"/}"
 		# only use perceptual hash filenames for specific folders
 		# only misc folders at one level deep
 		if echo "$shortPath" | grep -qiP "(/forests/|/space/|/space - fictional/|^/?[^/]+/misc/|/leaves/|/cityscapes/)" && ! echo "$filename" | grep -qiP '^[a-f0-9]{16}_'
 		then
 			echo -n "moving $shortPath..."
-			newPath="$(dirname "$path")/$(pyphash "$path")_$filename"
+			newPath="$(dirname -- "$path")/$(pyphash "$path")_$filename"
 			mv --backup=numbered "$path" "$newPath"
 			echo "done"
 		fi
@@ -252,8 +264,8 @@ do
 		continue
 	fi
 
-	dir="$(dirname "$path")"
-	file="$(basename "$path")"
+	dir="$(dirname -- "$path")"
+	file="$(basename -- "$path")"
 	outFile="$(echo "$file" | perl -pe 's/^[_-]+//g')"
 	outPath="$dir/$outFile"
 
@@ -292,13 +304,13 @@ totalImages=$(echo "$imgFilesAll" | wc -l)
 
 echo "$imgFilesAll" | while read -r src; do
 	((i++)) || true
-	filename="$(basename "$src")"
+	filename="$(basename -- "$src")"
 	printf '\033[2K%4d/%d: %s...' "$i" "$totalImages" "$filename" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 	target="$(getThumbnailPath "$src")"
 	thumbnail_old="$(getThumbnailPath "$src" --old)"
 
-	target_dir="$(dirname "$target")"
+	target_dir="$(dirname -- "$target")"
 	mkdir -p "$target_dir"
 
 	if [[ ! -f "$thumbnail_old" ]]; then
@@ -393,7 +405,7 @@ while read -r dir; do
 
 	if [[ "$dirChangeEpoch" != 0 && "$mdChangeEpoch" != 0 && "$dirChangeEpoch" -le "$mdChangeEpoch" ]]
 	then
-		iMdSkip=$(($iMdSkip+ 1))
+		iMdSkip=$((iMdSkip+ 1))
 		echo -en '\r'
 		continue
 	fi
@@ -404,7 +416,7 @@ while read -r dir; do
 	i=0
 	totalDirImages=$(echo "$imgFiles" | wc -l)
 
-	headerDirName="$(basename "$dir" | perl -pe "$headerDirNameRegex")"
+	headerDirName="$(basename -- "$dir" | perl -pe "$headerDirNameRegex")"
 	mdText=''
 	mdText+="# $headerDirName - $(numfmt --grouping "$totalDirImages")"$'\n'
 
@@ -424,7 +436,7 @@ while read -r dir; do
 	# fi
 
 	while read -r subDir; do
-		subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
+		subDirName="$(basename -- "$subDir" | perl -pe "$headerDirNameRegex")"
 
 		if [[ -z "$subDirName" ]]
 		then
@@ -451,7 +463,7 @@ while read -r dir; do
 			fi
 
 			((i++)) || true
-			imgFilename="$(basename "$imgPath")"
+			imgFilename="$(basename -- "$imgPath")"
 			printf '%s%4d/%d: %s...' "$dirStatus" "$i" "$totalDirImages" "$friendlyDirName" | cut -c "-$COLUMNS" | tr -d $'\n'
 
 			imgDir="$(dirname "$imgPath")"
@@ -486,7 +498,7 @@ while read -r dir; do
 			subDirReadmeUrl="${subDirReadmeUrl#"$gitRoot"}"
 			subDirReadmeUrl="${subDirReadmeUrl// /%20}"
 
-			subDirName="$(basename "$subDir" | perl -pe "$headerDirNameRegex")"
+			subDirName="$(basename -- "$subDir" | perl -pe "$headerDirNameRegex")"
 			customHeaderID="$(echo "${subDirName}" | perl -pe "$subDirIdRegex")"
 
 			if [ -n "$attrib" ]
@@ -579,7 +591,7 @@ while read -r dir; do
 		# if we got here then readme mod time < dir mod time
 		# so we need to update the mod time to avoid having to reconstruct (but not write) the file perpetually
 		touch "$dirReadmePath"
-		iMdUnchanged=$(($iMdUnchanged + 1))
+		iMdUnchanged=$((iMdUnchanged + 1))
 	fi
 
 done < <( echo "$directories" )
@@ -616,12 +628,22 @@ then
 	mobileSize="$(du "$gitRoot/mobile" --max-depth 0 --human-readable | cut -f1)"
 fi
 
+# if the main readme template does not exist...
+if [[ ! -f "$readmeTemplatePath" ]]
+then
+	# use the gallery project's default template
+	if [[ -f "$readmeTemplateDefaultPath" ]]
+	then
+		cat "$readmeTemplateDefaultPath" > "$readmeTemplatePath"
+	# or a simple template if the default is missing
+	else
+		echo $'# {total} {repo name cap}\n\n{table of contents}' > "$readmeTemplatePath"
+	fi
+fi
+
 if [[ -f "$readmeTemplatePath" ]]
 then
 	readmeTemplate="$(cat "$readmeTemplatePath")"
-else
-	readmeTemplate=$'# {total} {repo name cap}\n\n{table of contents}'
-	echo "$readmeTemplate" > "$readmeTemplatePath"
 fi
 
 readmeTemplate="${readmeTemplate//\{table of contents\}/"$tocText"}" 
@@ -669,7 +691,7 @@ then
 	while read -r src
 	do
 		((i++)) || true
-		descname="$(basename "$(dirname "$src")")/$(basename "$src")"
+		descname="$(basename -- "$(dirname -- "$src")")/$(basename -- "$src")"
 
 		printf '\033[2K%4d/%d: %s...' "$i" "$total" "$descname" | cut -c "-$COLUMNS" | tr -d $'\n'
 
@@ -677,7 +699,7 @@ then
 		# skip if the underlying md hasn't changed since last html generation
 		if [[ "$htmlPath" -nt "$src" ]]
 		then
-			iHtmlSkip=$(($iHtmlSkip + 1))
+			iHtmlSkip=$((iHtmlSkip + 1))
 			echo -en '\r'
 			continue
 		fi
@@ -690,7 +712,7 @@ then
 		metaTitle="${metaTitle#"$gitRoot"}"
 		metaTitle="${metaTitle#/}"
 		metaTitle="$(echo "$metaTitle" | sed 's|/README$||g')"
-		mdDir="$(dirname "$src")"
+		mdDir="$(dirname -- "$src")"
 		bottomLevelDir="$(bottom-level-dir "$mdDir")"
 
 		if [[ "${mdDir,,}" = "${gitRoot,,}" ]]
@@ -736,7 +758,7 @@ fi
 
 # TODO exclude files already added
 lfsFiles="$(git -C "$gitRoot" lfs ls-files)"
-largeFiles="$("$gitRoot/scripts/find-images-or-videos" "$gitRoot" -not -ipath '*/.*' -size +100M | wc -l)"
+largeFiles="$("$thisScriptDir/scripts/find-images-or-videos" "$gitRoot" -not -ipath '*/.*' -size +100M | wc -l)"
 
 if [[ "$largeFiles" -gt 0 ]]
 then
