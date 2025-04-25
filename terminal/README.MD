@@ -1,11 +1,11 @@
-# terminal - 501
-- [chromatic aberration](#chromatic-aberration) - 167
-- [grey on alpha](#grey-on-alpha) - 167
-- [grey on black](#grey-on-black) - 167
+# terminal - 510
+- [chromatic aberration](#chromatic-aberration) - 170
+- [grey on alpha](#grey-on-alpha) - 170
+- [grey on black](#grey-on-black) - 170
 
 <a id="chromatic-aberration"></a>
 
-## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 167
+## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 170
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -66,6 +66,9 @@
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](/terminal/chromatic%20aberration/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/cosmere.png "cosmere.png")](/terminal/chromatic%20aberration/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/mistborn_atium.png "mistborn_atium.png")](/terminal/chromatic%20aberration/little/cosmere/mistborn_atium.png)
+[![mistborn_bronze.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/mistborn_bronze.png "mistborn_bronze.png")](/terminal/chromatic%20aberration/little/cosmere/mistborn_bronze.png)
+[![mistborn_chromium.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/mistborn_chromium.png "mistborn_chromium.png")](/terminal/chromatic%20aberration/little/cosmere/mistborn_chromium.png)
+[![mistborn_gold.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/mistborn_gold.png "mistborn_gold.png")](/terminal/chromatic%20aberration/little/cosmere/mistborn_gold.png)
 [![stormlight_glyph_kholin.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_kholin.png)
 [![stormlight_glyph_roshar.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_roshar.png)
 [![stormlight_glyph_thath_justice.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](/terminal/chromatic%20aberration/little/cosmere/stormlight_glyph_thath_justice.png)
@@ -176,7 +179,7 @@
 
 <a id="grey-on-alpha"></a>
 
-## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 167
+## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 170
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -237,6 +240,9 @@
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](/terminal/grey%20on%20alpha/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/cosmere.png "cosmere.png")](/terminal/grey%20on%20alpha/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_atium.png "mistborn_atium.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_atium.png)
+[![mistborn_bronze.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_bronze.png "mistborn_bronze.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_bronze.png)
+[![mistborn_chromium.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_chromium.png "mistborn_chromium.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_chromium.png)
+[![mistborn_gold.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_gold.png "mistborn_gold.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_gold.png)
 [![stormlight_glyph_kholin.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_kholin.png)
 [![stormlight_glyph_roshar.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_roshar.png)
 [![stormlight_glyph_thath_justice.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_thath_justice.png)
@@ -347,7 +353,7 @@
 
 <a id="grey-on-black"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 167
+## [grey on black](/terminal/grey%20on%20black/README.MD) - 170
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -408,6 +414,9 @@
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere.png "cosmere.png")](/terminal/grey%20on%20black/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png "mistborn_atium.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png)
+[![mistborn_bronze.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_bronze.png "mistborn_bronze.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_bronze.png)
+[![mistborn_chromium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_chromium.png "mistborn_chromium.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_chromium.png)
+[![mistborn_gold.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_gold.png "mistborn_gold.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_gold.png)
 [![stormlight_glyph_kholin.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_kholin.png)
 [![stormlight_glyph_roshar.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_roshar.png)
 [![stormlight_glyph_thath_justice.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_thath_justice.png)

@@ -1,6 +1,6 @@
-# grey on black - 167
+# grey on black - 170
 - [big](#big) - 52
-- [little](#little) - 115
+- [little](#little) - 118
 
 <a id="big"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="little"></a>
 
-## [little](/terminal/grey%20on%20black/little/README.MD) - 115
+## [little](/terminal/grey%20on%20black/little/README.MD) - 118
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -69,6 +69,9 @@
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](/terminal/grey%20on%20black/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/cosmere.png "cosmere.png")](/terminal/grey%20on%20black/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png "mistborn_atium.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_atium.png)
+[![mistborn_bronze.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_bronze.png "mistborn_bronze.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_bronze.png)
+[![mistborn_chromium.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_chromium.png "mistborn_chromium.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_chromium.png)
+[![mistborn_gold.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/mistborn_gold.png "mistborn_gold.png")](/terminal/grey%20on%20black/little/cosmere/mistborn_gold.png)
 [![stormlight_glyph_kholin.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_kholin.png)
 [![stormlight_glyph_roshar.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_roshar.png)
 [![stormlight_glyph_thath_justice.png](/.internals/thumbnails/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](/terminal/grey%20on%20black/little/cosmere/stormlight_glyph_thath_justice.png)

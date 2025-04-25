@@ -1,6 +1,6 @@
-# little - 115
+# little - 118
 - [castlevania](#castlevania) - 5
-- [cosmere](#cosmere) - 9
+- [cosmere](#cosmere) - 12
 - [elder scrolls](#elder-scrolls) - 3
 - [full metal alchemist](#full-metal-alchemist) - 3
 - [game icons dot net](#game-icons-dot-net) - 12
@@ -26,10 +26,13 @@
 
 <a id="cosmere"></a>
 
-## [cosmere](/terminal/grey%20on%20alpha/little/cosmere/README.MD) - 9
+## [cosmere](/terminal/grey%20on%20alpha/little/cosmere/README.MD) - 12
 [![cosmere_ghostbloods.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/cosmere_ghostbloods.png "cosmere_ghostbloods.png")](/terminal/grey%20on%20alpha/little/cosmere/cosmere_ghostbloods.png)
 [![cosmere.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/cosmere.png "cosmere.png")](/terminal/grey%20on%20alpha/little/cosmere/cosmere.png)
 [![mistborn_atium.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_atium.png "mistborn_atium.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_atium.png)
+[![mistborn_bronze.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_bronze.png "mistborn_bronze.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_bronze.png)
+[![mistborn_chromium.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_chromium.png "mistborn_chromium.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_chromium.png)
+[![mistborn_gold.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/mistborn_gold.png "mistborn_gold.png")](/terminal/grey%20on%20alpha/little/cosmere/mistborn_gold.png)
 [![stormlight_glyph_kholin.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_kholin.png "stormlight_glyph_kholin.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_kholin.png)
 [![stormlight_glyph_roshar.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_roshar.png "stormlight_glyph_roshar.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_roshar.png)
 [![stormlight_glyph_thath_justice.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_thath_justice.png "stormlight_glyph_thath_justice.png")](/terminal/grey%20on%20alpha/little/cosmere/stormlight_glyph_thath_justice.png)
