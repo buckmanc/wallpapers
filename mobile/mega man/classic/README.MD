@@ -1,4 +1,6 @@
-# classic - 44
+# classic - 45
+[![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
+
 [![106600405_p0.png](/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/106600405_p0.png)
 
 [![10th_Anniversary_A.png](/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/10th_Anniversary_A.png)

@@ -1,4 +1,4 @@
-# mobile - 2,028
+# mobile - 2,029
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
@@ -13,7 +13,7 @@
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 266
+- [mega man](#mega-man) - 267
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 90
@@ -809,7 +809,8 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 <a id="mega-man"></a>
 
-## [mega man](/mobile/mega%20man/README.MD) - 266
+## [mega man](/mobile/mega%20man/README.MD) - 267
+[![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
 [![110630159_p8.jpg](/.internals/thumbnails/mobile/mega%20man/classic/110630159_p8.jpg "110630159_p8.jpg")](/mobile/mega%20man/classic/110630159_p8.jpg)

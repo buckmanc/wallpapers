@@ -2,21 +2,21 @@
 make sure you're editing the template, doofus
 -->
 
-![desktop wallpapers](.internals/banners/banner1.png)
+![banner1](.internals/banners/banner1.png)
 
-# 3,466 Wallpapers
+# 3,467 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
-![mobile wallpapers](.internals/banners/banner2.png)
+![banner2](.internals/banners/banner2.png)
 
 # Table of Contents
-- [mobile](/mobile/README.MD) - 2,028
+- [mobile](/mobile/README.MD) - 2,029
 - [desktop](/desktop/README.MD) - 677
 - [terminal](/terminal/README.MD) - 510
 - [floaters](/floaters/README.MD) - 251
 
-![floaters wallpapers](.internals/banners/banner3.png)
+![banner3](.internals/banners/banner3.png)
 
 # Usage
 
@@ -34,13 +34,13 @@ If using Git, I recommend making a shallow clone of this repo to pull only the c
 
 To make a simple shallow clone:
 ```shell
-git clone --depth 1 https://github.com/buckmanc/wallpapers
+git clone --rescurse-submodules --depth 1 https://github.com/buckmanc/wallpapers
 ```
 
 Or to clone only the directories you want in a shallow fashion (for example, to ignore the 3.5G mobile folder):
 ```shell
 # shallow clone but download and checkout bupkis
-git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers
+git clone --filter=blob:none --no-checkout --recurse-submodules --shallow-submodules --depth 1 https://github.com/buckmanc/wallpapers
 
 # set git to only clone these folders
 git sparse-checkout set ./desktop ./terminal ./scripts
@@ -50,7 +50,7 @@ git checkout main
 
 ```
 
-![terminal wallpapers](.internals/banners/banner4.png)
+![banner4](.internals/banners/banner4.png)
 
 # Attribution
 
@@ -63,6 +63,7 @@ I've added attribution where I can. Feel free to contact me or submit a pull req
 - **Lockscreen: exciting**
   - Anything goes
   - Better with a neat and tidy lock screen
+    - Samsung Galaxy users can use [LockStar](https://galaxystore.samsung.com/detail/com.samsung.systemui.lockstar) to keep things clean
 - **Floaters**
   - To be centered on the screen
   - Usually t-shirt designs

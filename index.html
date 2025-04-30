@@ -30,22 +30,19 @@
 make sure you're editing the template, doofus
 -->
 
-<p><img src=".internals/banners/banner1.png"
-alt="desktop wallpapers" /></p>
-<h1 id="3466-wallpapers">3,466 Wallpapers</h1>
+<p><img src=".internals/banners/banner1.png" alt="banner1" /></p>
+<h1 id="3467-wallpapers">3,467 Wallpapers</h1>
 <p>A simple repo to house my wallpapers for ease of use and
 automation.</p>
-<p><img src=".internals/banners/banner2.png"
-alt="mobile wallpapers" /></p>
+<p><img src=".internals/banners/banner2.png" alt="banner2" /></p>
 <h1 id="table-of-contents">Table of Contents</h1>
 <ul>
-<li><a href="/mobile/README.html">mobile</a> - 2,028</li>
+<li><a href="/mobile/README.html">mobile</a> - 2,029</li>
 <li><a href="/desktop/README.html">desktop</a> - 677</li>
 <li><a href="/terminal/README.html">terminal</a> - 510</li>
 <li><a href="/floaters/README.html">floaters</a> - 251</li>
 </ul>
-<p><img src=".internals/banners/banner3.png"
-alt="floaters wallpapers" /></p>
+<p><img src=".internals/banners/banner3.png" alt="banner3" /></p>
 <h1 id="usage">Usage</h1>
 <h2 id="nab-individual-wallpapers">Nab Individual Wallpapers</h2>
 <p>Long press / right click &gt; save link. Just don't save the
@@ -60,11 +57,11 @@ only the current images and not the full history. A shallow <a
 href="update.sh">update script</a> is included for ease of use and
 scheduling.</p>
 <p>To make a simple shallow clone:</p>
-<pre class="shell"><code>git clone --depth 1 https://github.com/buckmanc/wallpapers</code></pre>
+<pre class="shell"><code>git clone --rescurse-submodules --depth 1 https://github.com/buckmanc/wallpapers</code></pre>
 <p>Or to clone only the directories you want in a shallow fashion (for
 example, to ignore the 3.5G mobile folder):</p>
 <pre class="shell"><code># shallow clone but download and checkout bupkis
-git clone --filter=blob:none --no-checkout --depth 1 https://github.com/buckmanc/wallpapers
+git clone --filter=blob:none --no-checkout --recurse-submodules --shallow-submodules --depth 1 https://github.com/buckmanc/wallpapers
 
 # set git to only clone these folders
 git sparse-checkout set ./desktop ./terminal ./scripts
@@ -72,8 +69,7 @@ git sparse-checkout set ./desktop ./terminal ./scripts
 # download and checkout
 git checkout main
 </code></pre>
-<p><img src=".internals/banners/banner4.png"
-alt="terminal wallpapers" /></p>
+<p><img src=".internals/banners/banner4.png" alt="banner4" /></p>
 <h1 id="attribution">Attribution</h1>
 <p>I've added attribution where I can. Feel free to contact me or submit
 a pull request to add missing attribution.</p>
@@ -86,7 +82,12 @@ a pull request to add missing attribution.</p>
 <li><strong>Lockscreen: exciting</strong>
 <ul>
 <li>Anything goes</li>
-<li>Better with a neat and tidy lock screen</li>
+<li>Better with a neat and tidy lock screen
+<ul>
+<li>Samsung Galaxy users can use <a
+href="https://galaxystore.samsung.com/detail/com.samsung.systemui.lockstar">LockStar</a>
+to keep things clean</li>
+</ul></li>
 </ul></li>
 <li><strong>Floaters</strong>
 <ul>

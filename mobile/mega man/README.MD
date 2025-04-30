@@ -1,5 +1,5 @@
-# mega man - 266
-- [classic](#classic) - 44
+# mega man - 267
+- [classic](#classic) - 45
 - [mega man x](#mega-man-x) - 123
 - [mega man x dive](#mega-man-x-dive) - 37
 - [mega man zero](#mega-man-zero) - 37
@@ -7,7 +7,8 @@
 
 <a id="classic"></a>
 
-## [classic](/mobile/mega%20man/classic/README.MD) - 44
+## [classic](/mobile/mega%20man/classic/README.MD) - 45
+[![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
 [![110630159_p8.jpg](/.internals/thumbnails/mobile/mega%20man/classic/110630159_p8.jpg "110630159_p8.jpg")](/mobile/mega%20man/classic/110630159_p8.jpg)
