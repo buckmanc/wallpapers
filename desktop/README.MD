@@ -1,4 +1,4 @@
-# desktop - 677
+# desktop - 678
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -12,7 +12,7 @@
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 110
 - [misc anato finnstark](#misc-anato-finnstark) - 4
-- [music](#music) - 5
+- [music](#music) - 6
 - [orbite](#orbite) - 9
 - [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
@@ -420,7 +420,8 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 <a id="music"></a>
 
-## [music](/desktop/music/README.MD) - 5
+## [music](/desktop/music/README.MD) - 6
+[![froglord_banner.jpg](/.internals/thumbnails/desktop/music/froglord_banner.jpg "froglord_banner.jpg")](/desktop/music/froglord_banner.jpg)
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
 [![Laurence Manning - Piano Collections_ Castlevania.jpg](/.internals/thumbnails/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
 [![Living Tombstone - Spotify.jpg](/.internals/thumbnails/desktop/music/Living%20Tombstone%20-%20Spotify.jpg "Living Tombstone - Spotify.jpg")](/desktop/music/Living%20Tombstone%20-%20Spotify.jpg)

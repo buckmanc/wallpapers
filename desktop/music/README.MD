@@ -1,4 +1,6 @@
-# music - 5
+# music - 6
+[![froglord_banner.jpg](/desktop/music/froglord_banner.jpg "froglord_banner.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/froglord_banner.jpg)
+
 [![Froglord - The Mystic Toad.png](/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
 
 [![Laurence Manning - Piano Collections_ Castlevania.jpg](/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
