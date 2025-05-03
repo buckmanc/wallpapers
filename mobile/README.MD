@@ -1,4 +1,4 @@
-# mobile - 2,035
+# mobile - 2,038
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 157
 - [dan mumford](#dan-mumford) - 43
@@ -21,7 +21,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 94
+- [music](#music) - 97
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -1481,7 +1481,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 94
+## [music](/mobile/music/README.MD) - 97
 [![472599241_18045556469202692_8586122138368260978_n.jpg](/.internals/thumbnails/mobile/music/froglord/472599241_18045556469202692_8586122138368260978_n.jpg "472599241_18045556469202692_8586122138368260978_n.jpg")](/mobile/music/froglord/472599241_18045556469202692_8586122138368260978_n.jpg)
 [![474795400_18044800016202692_5013128744720204853_n.jpg](/.internals/thumbnails/mobile/music/froglord/474795400_18044800016202692_5013128744720204853_n.jpg "474795400_18044800016202692_5013128744720204853_n.jpg")](/mobile/music/froglord/474795400_18044800016202692_5013128744720204853_n.jpg)
 [![481794556_18048059975202692_1444221546036138012_n.jpg](/.internals/thumbnails/mobile/music/froglord/481794556_18048059975202692_1444221546036138012_n.jpg "481794556_18048059975202692_1444221546036138012_n.jpg")](/mobile/music/froglord/481794556_18048059975202692_1444221546036138012_n.jpg)
@@ -1490,6 +1490,9 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Froglord 2025 01 11 by Michał Kwaśniewski](/.internals/thumbnails/mobile/music/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg "Froglord 2025 01 11 by Michał Kwaśniewski")](/mobile/music/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg)
 [![froglord - red eyed frogthulhu.jpg](/.internals/thumbnails/mobile/music/froglord/froglord%20-%20red%20eyed%20frogthulhu.jpg "froglord - red eyed frogthulhu.jpg")](/mobile/music/froglord/froglord%20-%20red%20eyed%20frogthulhu.jpg)
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/mobile/music/froglord/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](/mobile/music/froglord/Froglord%20-%20The%20Mystic%20Toad.png)
+[![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
+[![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
+[![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg)

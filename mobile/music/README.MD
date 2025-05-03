@@ -1,5 +1,6 @@
-# music - 94
+# music - 97
 - [froglord](#froglord) - 8
+- [ieschure](#ieschure) - 3
 - [misc](#misc) - 86
 
 <a id="froglord"></a>
@@ -13,6 +14,13 @@
 [![Froglord 2025 01 11 by Michał Kwaśniewski](/.internals/thumbnails/mobile/music/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg "Froglord 2025 01 11 by Michał Kwaśniewski")](/mobile/music/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg)
 [![froglord - red eyed frogthulhu.jpg](/.internals/thumbnails/mobile/music/froglord/froglord%20-%20red%20eyed%20frogthulhu.jpg "froglord - red eyed frogthulhu.jpg")](/mobile/music/froglord/froglord%20-%20red%20eyed%20frogthulhu.jpg)
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/mobile/music/froglord/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](/mobile/music/froglord/Froglord%20-%20The%20Mystic%20Toad.png)
+
+<a id="ieschure"></a>
+
+## [ieschure](/mobile/music/ieschure/README.MD) - 3
+[![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
+[![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
+[![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
 
 <a id="misc"></a>
 
