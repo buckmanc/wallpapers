@@ -60,3 +60,4 @@ __zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayam
 megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb
 mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg Mega Men by Ultimatemaverickx Dgrwc9w Fullview
 mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview
+mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9

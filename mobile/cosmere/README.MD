@@ -1,7 +1,7 @@
-# cosmere - 157
+# cosmere - 160
 - [mistborn](#mistborn) - 49
 - [stormlight](#stormlight) - 79
-- [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 12
+- [yumi and the nightmare painter](#yumi-and-the-nightmare-painter) - 15
 - [misc](#misc) - 17
 
 <a id="mistborn"></a>
@@ -196,7 +196,7 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 
 <a id="yumi-and-the-nightmare-painter"></a>
 
-## [yumi and the nightmare painter](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/README.MD) - 12
+## [yumi and the nightmare painter](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/README.MD) - 15
 [![Backlit by Wonder by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)
 [![Defending Kilahito by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg "Defending Kilahito by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg)
 [![Design With Hoid Statue by Botanicaxu](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg)
@@ -206,7 +206,10 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 [![Ritual Bathing by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Ritual_Bathing_by_Aliya_Chen.jpg "Ritual Bathing by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Ritual_Bathing_by_Aliya_Chen.jpg)
 [![The Stable Nightmare by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/The_Stable_Nightmare_by_Aliya_Chen.jpg "The Stable Nightmare by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/The_Stable_Nightmare_by_Aliya_Chen.jpg)
 [![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
+[![Yumi and The Nightmare Painter by Botanicaxu Df2j1j9](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_botanicaxu_df2j1j9.jpg "Yumi and The Nightmare Painter by Botanicaxu Df2j1j9")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_botanicaxu_df2j1j9.jpg)
 [![Yumi and The Nightmare Painter by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_jessi_chen_liu.png "Yumi and The Nightmare Painter by Jessi Chen Liu")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_jessi_chen_liu.png)
+[![Yumi and The Nightmare Painter Carnival Scene by Botanicaxu Dgu9xxb](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___carnival_scene_by_botanicaxu_dgu9xxb.jpg "Yumi and The Nightmare Painter Carnival Scene by Botanicaxu Dgu9xxb")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___carnival_scene_by_botanicaxu_dgu9xxb.jpg)
+[![Yumi and The Nightmare Painter Returning Scene by Botanicaxu Dimefls](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___returning_scene_by_botanicaxu_dimefls.jpg "Yumi and The Nightmare Painter Returning Scene by Botanicaxu Dimefls")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___returning_scene_by_botanicaxu_dimefls.jpg)
 [![Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)

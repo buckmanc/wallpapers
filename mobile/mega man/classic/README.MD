@@ -1,4 +1,4 @@
-# classic - 45
+# classic - 44
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 
 [![106600405_p0.png](/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/106600405_p0.png)
@@ -24,8 +24,6 @@
 [![72234438_p0.jpg](/mobile/mega%20man/classic/72234438_p0.jpg "72234438_p0.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/72234438_p0.jpg)
 
 [![74466237_p0.png](/mobile/mega%20man/classic/74466237_p0.png "74466237_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/74466237_p0.png)
-
-[![76153817_p0.png](/mobile/mega%20man/classic/76153817_p0.png "76153817_p0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/76153817_p0.png)
 
 [![76153817_p1.png](/mobile/mega%20man/classic/76153817_p1.png "76153817_p1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/76153817_p1.png)
 
@@ -67,7 +65,7 @@ Mega Man 2 by Dan Mumford
 
 [![mega-man-and-rush-72g3khhubrmaudwm.jpg](/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg "mega-man-and-rush-72g3khhubrmaudwm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg)
 
-[![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg)\
+[![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)\
 Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 
 [![Mega Men by Ultimatemaverickx Dgrwc9w Fullview](/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg "Mega Men by Ultimatemaverickx Dgrwc9w Fullview")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg)\

@@ -1,6 +1,6 @@
-# mobile - 2,038
+# mobile - 2,043
 - [castlevania](#castlevania) - 134
-- [cosmere](#cosmere) - 157
+- [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [elden ring](#elden-ring) - 20
@@ -13,15 +13,15 @@
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 267
+- [mega man](#mega-man) - 266
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 90
+- [misc](#misc) - 91
 - [misc anato finnstark](#misc-anato-finnstark) - 33
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 97
+- [music](#music) - 99
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -178,7 +178,7 @@
 
 <a id="cosmere"></a>
 
-## [cosmere](/mobile/cosmere/README.MD) - 157
+## [cosmere](/mobile/cosmere/README.MD) - 160
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -370,7 +370,10 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 [![Ritual Bathing by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Ritual_Bathing_by_Aliya_Chen.jpg "Ritual Bathing by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Ritual_Bathing_by_Aliya_Chen.jpg)
 [![The Stable Nightmare by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/The_Stable_Nightmare_by_Aliya_Chen.jpg "The Stable Nightmare by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/The_Stable_Nightmare_by_Aliya_Chen.jpg)
 [![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
+[![Yumi and The Nightmare Painter by Botanicaxu Df2j1j9](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_botanicaxu_df2j1j9.jpg "Yumi and The Nightmare Painter by Botanicaxu Df2j1j9")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_botanicaxu_df2j1j9.jpg)
 [![Yumi and The Nightmare Painter by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_jessi_chen_liu.png "Yumi and The Nightmare Painter by Jessi Chen Liu")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter_by_jessi_chen_liu.png)
+[![Yumi and The Nightmare Painter Carnival Scene by Botanicaxu Dgu9xxb](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___carnival_scene_by_botanicaxu_dgu9xxb.jpg "Yumi and The Nightmare Painter Carnival Scene by Botanicaxu Dgu9xxb")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___carnival_scene_by_botanicaxu_dgu9xxb.jpg)
+[![Yumi and The Nightmare Painter Returning Scene by Botanicaxu Dimefls](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___returning_scene_by_botanicaxu_dimefls.jpg "Yumi and The Nightmare Painter Returning Scene by Botanicaxu Dimefls")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/yumi_and_the_nightmare_painter___returning_scene_by_botanicaxu_dimefls.jpg)
 [![Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
@@ -809,7 +812,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 <a id="mega-man"></a>
 
-## [mega man](/mobile/mega%20man/README.MD) - 267
+## [mega man](/mobile/mega%20man/README.MD) - 266
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
@@ -823,7 +826,6 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![66329686_p1.png](/.internals/thumbnails/mobile/mega%20man/classic/66329686_p1.png "66329686_p1.png")](/mobile/mega%20man/classic/66329686_p1.png)
 [![72234438_p0.jpg](/.internals/thumbnails/mobile/mega%20man/classic/72234438_p0.jpg "72234438_p0.jpg")](/mobile/mega%20man/classic/72234438_p0.jpg)
 [![74466237_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/74466237_p0.png "74466237_p0.png")](/mobile/mega%20man/classic/74466237_p0.png)
-[![76153817_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/76153817_p0.png "76153817_p0.png")](/mobile/mega%20man/classic/76153817_p0.png)
 [![76153817_p1.png](/.internals/thumbnails/mobile/mega%20man/classic/76153817_p1.png "76153817_p1.png")](/mobile/mega%20man/classic/76153817_p1.png)
 [![7e7.jpg](/.internals/thumbnails/mobile/mega%20man/classic/7e7.jpg "7e7.jpg")](/mobile/mega%20man/classic/7e7.jpg)
 [![850865-megaman-wallpaper.jpg](/.internals/thumbnails/mobile/mega%20man/classic/850865-megaman-wallpaper.jpg "850865-megaman-wallpaper.jpg")](/mobile/mega%20man/classic/850865-megaman-wallpaper.jpg)
@@ -842,7 +844,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Megaman11-repair-shirt-design.png](/.internals/thumbnails/mobile/mega%20man/classic/Megaman11-repair-shirt-design.png "Megaman11-repair-shirt-design.png")](/mobile/mega%20man/classic/Megaman11-repair-shirt-design.png)
 [![Mega Man 2 by Dan Mumford](/.internals/thumbnails/mobile/mega%20man/classic/mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](/mobile/mega%20man/classic/mega_man_2_by_dan_mumford.jpg)
 [![mega-man-and-rush-72g3khhubrmaudwm.jpg](/.internals/thumbnails/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg "mega-man-and-rush-72g3khhubrmaudwm.jpg")](/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg)
-[![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.jpg)
+[![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 [![Mega Men by Ultimatemaverickx Dgrwc9w Fullview](/.internals/thumbnails/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg "Mega Men by Ultimatemaverickx Dgrwc9w Fullview")](/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg)
 [![Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview](/.internals/thumbnails/mobile/mega%20man/classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg "Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview")](/mobile/mega%20man/classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg)
 [![Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png "Mm1 11 The Collection Front and Back Box Art by Ultimatemaverickx")](/mobile/mega%20man/classic/mm1_11_the_collection_front_and_back_box_art_by_ultimatemaverickx.png)
@@ -1327,7 +1329,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="misc"></a>
 
-## [misc](/mobile/misc/README.MD) - 90
+## [misc](/mobile/misc/README.MD) - 91
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
 [![83c95c2c74d49b6b_SpyxFamily_sm.jpg](/.internals/thumbnails/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg "83c95c2c74d49b6b_SpyxFamily_sm.jpg")](/mobile/misc/83c95c2c74d49b6b_SpyxFamily_sm.jpg)
 [![840bcc9d3bb47965_nature (1).jpg](/.internals/thumbnails/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg "840bcc9d3bb47965_nature (1).jpg")](/mobile/misc/840bcc9d3bb47965_nature%20(1).jpg)
@@ -1372,6 +1374,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![9e49693438b333cd Iwilding Napstablook3 by Ian Wilding](/.internals/thumbnails/mobile/misc/9e49693438b333cd_iwilding_Napstablook3_by_ian_wilding.png "9e49693438b333cd Iwilding Napstablook3 by Ian Wilding")](/mobile/misc/9e49693438b333cd_iwilding_Napstablook3_by_ian_wilding.png)
 [![9e96c8b2b130ac7d_peakpx(10).jpg](/.internals/thumbnails/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg "9e96c8b2b130ac7d_peakpx(10).jpg")](/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg)
 [![9fd8602587ea383d_Magic Sunset.jpg](/.internals/thumbnails/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
+[![A11c58f702b77ba1 Graveborn by Umai](/.internals/thumbnails/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg "A11c58f702b77ba1 Graveborn by Umai")](/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg)
 [![A7944a19277cb9b2 Raven Altar by Sandara](/.internals/thumbnails/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg "A7944a19277cb9b2 Raven Altar by Sandara")](/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg)
 [![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](/.internals/thumbnails/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](/.internals/thumbnails/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
@@ -1481,7 +1484,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 97
+## [music](/mobile/music/README.MD) - 99
 [![472599241_18045556469202692_8586122138368260978_n.jpg](/.internals/thumbnails/mobile/music/froglord/472599241_18045556469202692_8586122138368260978_n.jpg "472599241_18045556469202692_8586122138368260978_n.jpg")](/mobile/music/froglord/472599241_18045556469202692_8586122138368260978_n.jpg)
 [![474795400_18044800016202692_5013128744720204853_n.jpg](/.internals/thumbnails/mobile/music/froglord/474795400_18044800016202692_5013128744720204853_n.jpg "474795400_18044800016202692_5013128744720204853_n.jpg")](/mobile/music/froglord/474795400_18044800016202692_5013128744720204853_n.jpg)
 [![481794556_18048059975202692_1444221546036138012_n.jpg](/.internals/thumbnails/mobile/music/froglord/481794556_18048059975202692_1444221546036138012_n.jpg "481794556_18048059975202692_1444221546036138012_n.jpg")](/mobile/music/froglord/481794556_18048059975202692_1444221546036138012_n.jpg)
@@ -1493,6 +1496,8 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
 [![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
 [![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
+[![Ieschure - Among The Swamps And Darkness.jpg](/.internals/thumbnails/mobile/music/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg "Ieschure - Among The Swamps And Darkness.jpg")](/mobile/music/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg)
+[![Mäleficentt - Night of Eternal Darkness.jpg](/.internals/thumbnails/mobile/music/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg "Mäleficentt - Night of Eternal Darkness.jpg")](/mobile/music/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg)
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg)
