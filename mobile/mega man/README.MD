@@ -1,6 +1,6 @@
-# mega man - 266
+# mega man - 268
 - [classic](#classic) - 44
-- [mega man x](#mega-man-x) - 123
+- [mega man x](#mega-man-x) - 125
 - [mega man x dive](#mega-man-x-dive) - 37
 - [mega man zero](#mega-man-zero) - 37
 - [pixel](#pixel) - 25
@@ -55,7 +55,7 @@
 
 <a id="mega-man-x"></a>
 
-## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD) - 123
+## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD) - 125
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
 [![00 Armors E Chae Rockman X1 First Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png "00 Armors E Chae Rockman X1 First Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png)
 [![00 Armors E Chae Rockman X2 2nd Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png "00 Armors E Chae Rockman X2 2nd Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png)
@@ -144,6 +144,8 @@
 [![Clipped_image_20231207_141932.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/Clipped_image_20231207_141932.png "Clipped_image_20231207_141932.png")](/mobile/mega%20man/mega%20man%20x/Clipped_image_20231207_141932.png)
 [![Death Grim Reaper and Sigma Mega Man and 3 More Drawn by Mizuno Keisuke 0cd0d4e64d0e26b9bb82709d9ee8b2c3](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/death_grim_reaper_and_sigma_mega_man_and_3_more_drawn_by_mizuno_keisuke_0cd0d4e64d0e26b9bb82709d9ee8b2c3.png "Death Grim Reaper and Sigma Mega Man and 3 More Drawn by Mizuno Keisuke 0cd0d4e64d0e26b9bb82709d9ee8b2c3")](/mobile/mega%20man/mega%20man%20x/death_grim_reaper_and_sigma_mega_man_and_3_more_drawn_by_mizuno_keisuke_0cd0d4e64d0e26b9bb82709d9ee8b2c3.png)
 [![Falcon and Gaea by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png "Falcon and Gaea by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png)
+[![FP-opPLaMAYM51-.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg "FP-opPLaMAYM51-.jpeg")](/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg)
+[![GEIjxd4a8AA6g64.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg "GEIjxd4a8AA6g64.jpeg")](/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg)
 [![i28b40jljvw61.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg "i28b40jljvw61.jpg")](/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg)
 [![illust_108228002_20250202_182349.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg "illust_108228002_20250202_182349.jpg")](/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg)
 [![illust_118506789_20250202_185605.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png "illust_118506789_20250202_185605.png")](/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png)

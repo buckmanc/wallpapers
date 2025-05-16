@@ -1,4 +1,4 @@
-# mega man x - 123
+# mega man x - 125
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)\
 00 Armors E Chae 00 Rockman X Org X and Zero by E Chae
 
@@ -198,6 +198,10 @@ Death Grim Reaper and Sigma Mega Man and 3 More Drawn by Mizuno Keisuke 0cd0d4e6
 
 [![Falcon and Gaea by Ultimatemaverickx](/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png "Falcon and Gaea by Ultimatemaverickx")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png)\
 Falcon and Gaea by Ultimatemaverickx
+
+[![FP-opPLaMAYM51-.jpeg](/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg "FP-opPLaMAYM51-.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg)
+
+[![GEIjxd4a8AA6g64.jpeg](/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg "GEIjxd4a8AA6g64.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg)
 
 [![i28b40jljvw61.jpg](/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg "i28b40jljvw61.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg)
 

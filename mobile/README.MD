@@ -1,4 +1,4 @@
-# mobile - 2,043
+# mobile - 2,045
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
@@ -13,7 +13,7 @@
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 266
+- [mega man](#mega-man) - 268
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 91
@@ -812,7 +812,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 <a id="mega-man"></a>
 
-## [mega man](/mobile/mega%20man/README.MD) - 266
+## [mega man](/mobile/mega%20man/README.MD) - 268
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
@@ -945,6 +945,8 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Clipped_image_20231207_141932.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/Clipped_image_20231207_141932.png "Clipped_image_20231207_141932.png")](/mobile/mega%20man/mega%20man%20x/Clipped_image_20231207_141932.png)
 [![Death Grim Reaper and Sigma Mega Man and 3 More Drawn by Mizuno Keisuke 0cd0d4e64d0e26b9bb82709d9ee8b2c3](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/death_grim_reaper_and_sigma_mega_man_and_3_more_drawn_by_mizuno_keisuke_0cd0d4e64d0e26b9bb82709d9ee8b2c3.png "Death Grim Reaper and Sigma Mega Man and 3 More Drawn by Mizuno Keisuke 0cd0d4e64d0e26b9bb82709d9ee8b2c3")](/mobile/mega%20man/mega%20man%20x/death_grim_reaper_and_sigma_mega_man_and_3_more_drawn_by_mizuno_keisuke_0cd0d4e64d0e26b9bb82709d9ee8b2c3.png)
 [![Falcon and Gaea by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png "Falcon and Gaea by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/falcon_and_gaea_by_ultimatemaverickx.png)
+[![FP-opPLaMAYM51-.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg "FP-opPLaMAYM51-.jpeg")](/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg)
+[![GEIjxd4a8AA6g64.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg "GEIjxd4a8AA6g64.jpeg")](/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg)
 [![i28b40jljvw61.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg "i28b40jljvw61.jpg")](/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg)
 [![illust_108228002_20250202_182349.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg "illust_108228002_20250202_182349.jpg")](/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg)
 [![illust_118506789_20250202_185605.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png "illust_118506789_20250202_185605.png")](/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png)
