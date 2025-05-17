@@ -67,3 +67,4 @@
 
 [back to top](#)
 [up one level](/mobile/castlevania/ayami%20kojima/README.MD)
+[home](/)

@@ -287,3 +287,4 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 [back to top](#)
 [up one level](/mobile/README.MD)
+[home](/)

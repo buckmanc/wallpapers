@@ -104,3 +104,4 @@ Triple Attack by Ultimatemaverickx
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)
+[home](/)

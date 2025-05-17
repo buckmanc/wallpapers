@@ -12,3 +12,4 @@ Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/big/magic%20circles/README.MD)
+[home](/)

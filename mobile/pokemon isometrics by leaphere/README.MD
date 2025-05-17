@@ -197,3 +197,4 @@ The Guildpokemonmysterydungeon Drawn by Leaphere Adde4551cfcf7d9466a4f562cc5276f
 
 [back to top](#)
 [up one level](/mobile/README.MD)
+[home](/)

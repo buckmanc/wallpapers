@@ -32,3 +32,4 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 
 [back to top](#)
 [up one level](/mobile/nintendo/README.MD)
+[home](/)

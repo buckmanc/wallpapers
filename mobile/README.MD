@@ -2396,3 +2396,4 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 
 [back to top](#)
 [up one level](/README.MD)
+[home](/)

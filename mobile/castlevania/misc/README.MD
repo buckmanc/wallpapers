@@ -146,3 +146,4 @@ The Devil Forgemaster by Al Santos
 
 [back to top](#)
 [up one level](/mobile/castlevania/README.MD)
+[home](/)

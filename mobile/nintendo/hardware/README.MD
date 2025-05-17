@@ -76,3 +76,4 @@ Nes Controller Wallpaper by Doctor G D41urm3
 
 [back to top](#)
 [up one level](/mobile/nintendo/README.MD)
+[home](/)

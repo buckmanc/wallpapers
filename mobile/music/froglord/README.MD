@@ -20,3 +20,4 @@ Froglord 2025 01 11 by Michał Kwaśniewski
 
 [back to top](#)
 [up one level](/mobile/music/README.MD)
+[home](/)
