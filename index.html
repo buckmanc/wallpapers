@@ -51,24 +51,11 @@ thumbnail by mistake!</p>
 <p>You can always download everything as <a
 href="https://github.com/buckmanc/wallpapers/archive/refs/heads/main.zip">one
 big zip file</a></p>
-<h2 id="shallow-clone">Shallow Clone</h2>
-<p>If using Git, I recommend making a shallow clone of this repo to pull
-only the current images and not the full history. A shallow <a
-href="update.sh">update script</a> is included for ease of use and
-scheduling.</p>
-<p>To make a simple shallow clone:</p>
-<pre class="shell"><code>git clone --rescurse-submodules --depth 1 https://github.com/buckmanc/wallpapers</code></pre>
-<p>Or to clone only the directories you want in a shallow fashion (for
-example, to ignore the 3.6G mobile folder):</p>
-<pre class="shell"><code># shallow clone but download and checkout bupkis
-git clone --filter=blob:none --no-checkout --recurse-submodules --shallow-submodules --depth 1 https://github.com/buckmanc/wallpapers
-
-# set git to only clone these folders
-git sparse-checkout set ./desktop ./terminal ./gallery_maker
-
-# download and checkout
-git checkout main
-</code></pre>
+<h2 id="regular-clone">Regular Clone</h2>
+<p>If you're a Git user and you have no storage concerns, just clone the
+whole thing. Otherwise, here are details on <a
+href="https://github.com/buckmanc/gallery_maker?tab=readme-ov-file#shallow-clone">more
+storage efficient options</a></p>
 <p><img src=".internals/banners/banner4.png" alt="banner4" /></p>
 <h1 id="attribution">Attribution</h1>
 <p>I've added attribution where I can. Feel free to contact me or submit
@@ -99,6 +86,14 @@ to keep things clean</li>
 <li>Extremely simple, standardized designs on the opposite side from the
 text</li>
 </ul></li>
+</ul>
+<h1 id="links">Links</h1>
+<ul>
+<li>made with <a
+href="https://github.com/buckmanc/gallery_maker">Gallery Maker</a></li>
+<li><a
+href="https://wallpapers.buckman.cc">wallpapers.buckman.cc</a></li>
+<li><a href="https://github.com/buckmanc/wallpapers">on github</a></li>
 </ul>
 <h1 id="shoutouts">Shoutouts</h1>
 <p>Thanks to <a
