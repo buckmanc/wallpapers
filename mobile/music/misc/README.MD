@@ -1,4 +1,4 @@
-# misc - 86
+# misc - 97
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -6,6 +6,8 @@
 [![A-bug - Ocarina of Time.jpg](/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/A-bug%20-%20Ocarina%20of%20Time.jpg)
 
 [![Acryl madness - Ritual.jpg](/mobile/music/misc/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Acryl%20madness%20-%20Ritual.jpg)
+
+[![ajackal - turtle town.jpg](/mobile/music/misc/ajackal%20-%20turtle%20town.jpg "ajackal - turtle town.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/ajackal%20-%20turtle%20town.jpg)
 
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/mobile/music/misc/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 
@@ -41,6 +43,8 @@
 
 [![Eurielle - We All Fall Down 2022.jpg](/mobile/music/misc/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
 
+[![fam0uz - Boys Interface - Slowed.jpg](/mobile/music/misc/fam0uz%20-%20Boys%20Interface%20-%20Slowed.jpg "fam0uz - Boys Interface - Slowed.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/fam0uz%20-%20Boys%20Interface%20-%20Slowed.jpg)
+
 [![Funeral Director - A Mark on Me.jpg](/mobile/music/misc/Funeral%20Director%20-%20A%20Mark%20on%20Me.jpg "Funeral Director - A Mark on Me.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Funeral%20Director%20-%20A%20Mark%20on%20Me.jpg)
 
 [![Fvrfvr - Sacrament of the Storm.jpg](/mobile/music/misc/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg "Fvrfvr - Sacrament of the Storm.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Fvrfvr%20-%20Sacrament%20of%20the%20Storm.jpg)
@@ -48,6 +52,8 @@
 [![GAUPA - Myriad.jpg](/mobile/music/misc/GAUPA%20-%20Myriad.jpg "GAUPA - Myriad.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/GAUPA%20-%20Myriad.jpg)
 
 [![Gealdýr - Sær.jpg](/mobile/music/misc/Gealdýr%20-%20Sær.jpg "Gealdýr - Sær.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Gealdýr%20-%20Sær.jpg)
+
+[![GNKofaebkAEZEUY.jpeg](/mobile/music/misc/GNKofaebkAEZEUY.jpeg "GNKofaebkAEZEUY.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/GNKofaebkAEZEUY.jpeg)
 
 [![Gost - Non Paradisi.jpg](/mobile/music/misc/Gost%20-%20Non%20Paradisi.jpg "Gost - Non Paradisi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Gost%20-%20Non%20Paradisi.jpg)
 
@@ -57,9 +63,17 @@
 
 [![Green Lung - Woodland Rites.jpg](/mobile/music/misc/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Green%20Lung%20-%20Woodland%20Rites.jpg)
 
+[![hMNQOjVBLiU (1).jpg](/mobile/music/misc/hMNQOjVBLiU%20(1).jpg "hMNQOjVBLiU (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/hMNQOjVBLiU%20(1).jpg)
+
 [![IC3PEAK - Kiss Of Death.jpg](/mobile/music/misc/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 
 [![IC3PEAK - Сладкая жизнь.jpg](/mobile/music/misc/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
+
+[![Ieschure - Among The Swamps And Darkness.jpg](/mobile/music/misc/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg "Ieschure - Among The Swamps And Darkness.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg)
+
+[![Ieschure - The Mystic Fields.jpg](/mobile/music/misc/Ieschure%20-%20The%20Mystic%20Fields.jpg "Ieschure - The Mystic Fields.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Ieschure%20-%20The%20Mystic%20Fields.jpg)
+
+[![Jonathan Young - Sea Shanty Metal.jpg](/mobile/music/misc/Jonathan%20Young%20-%20Sea%20Shanty%20Metal.jpg "Jonathan Young - Sea Shanty Metal.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Jonathan%20Young%20-%20Sea%20Shanty%20Metal.jpg)
 
 [![Kainbeats - Finding Light.jpg](/mobile/music/misc/Kainbeats%20-%20Finding%20Light.jpg "Kainbeats - Finding Light.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Kainbeats%20-%20Finding%20Light.jpg)
 
@@ -70,6 +84,8 @@
 [![Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png](/mobile/music/misc/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png "Keygen Church - Tenebre Rosso Sangue _ULTRAKILL Original Game Soundtrack_.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Keygen%20Church%20-%20Tenebre%20Rosso%20Sangue%20_ULTRAKILL%20Original%20Game%20Soundtrack_.png)
 
 [![Loafy Building - Butterflies.jpg](/mobile/music/misc/Loafy%20Building%20-%20Butterflies.jpg "Loafy Building - Butterflies.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Loafy%20Building%20-%20Butterflies.jpg)
+
+[![Mäleficentt - Night of Eternal Darkness.jpg](/mobile/music/misc/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg "Mäleficentt - Night of Eternal Darkness.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg)
 
 [![MASTER BOOT RECORD - C​__​​_CHKDSK _F.png](/mobile/music/misc/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png "MASTER BOOT RECORD - C​__​​_CHKDSK _F.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png)
 
@@ -121,9 +137,13 @@
 
 [![Rose Funeral - Father Death.jpg](/mobile/music/misc/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Rose%20Funeral%20-%20Father%20Death.jpg)
 
+[![Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg](/mobile/music/misc/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg "Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg)
+
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](/mobile/music/misc/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
 
 [![She Must Burn - Grimoire.jpg](/mobile/music/misc/She%20Must%20Burn%20-%20Grimoire.jpg "She Must Burn - Grimoire.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/She%20Must%20Burn%20-%20Grimoire.jpg)
+
+[![Shirobon - Special Selection, Vol.1 _2006-2019_.jpg](/mobile/music/misc/Shirobon%20-%20Special%20Selection,%20Vol.1%20_2006-2019_.jpg "Shirobon - Special Selection, Vol.1 _2006-2019_.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Shirobon%20-%20Special%20Selection,%20Vol.1%20_2006-2019_.jpg)
 
 [![Shrine - Celestial Fire.jpg](/mobile/music/misc/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Shrine%20-%20Celestial%20Fire.jpg)
 
@@ -144,6 +164,8 @@
 [![Suldusk - Lunar Falls.jpg](/mobile/music/misc/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Suldusk%20-%20Lunar%20Falls.jpg)
 
 [![The Sword - Gods of the Earth.jpg](/mobile/music/misc/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
+
+[![Trap Your Mind - Horror Dungeon Soundscapes.jpg](/mobile/music/misc/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg "Trap Your Mind - Horror Dungeon Soundscapes.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg)
 
 [![Twin Temple - Girl Trouble.jpg](/mobile/music/misc/Twin%20Temple%20-%20Girl%20Trouble.jpg "Twin Temple - Girl Trouble.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/misc/Twin%20Temple%20-%20Girl%20Trouble.jpg)
 
