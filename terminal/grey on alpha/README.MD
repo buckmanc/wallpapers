@@ -1,6 +1,6 @@
-# grey on alpha - 170
+# grey on alpha - 171
 - [big](#big) - 52
-- [little](#little) - 118
+- [little](#little) - 119
 
 <a id="big"></a>
 
@@ -60,7 +60,7 @@
 
 <a id="little"></a>
 
-## [little](/terminal/grey%20on%20alpha/little/README.MD) - 118
+## [little](/terminal/grey%20on%20alpha/little/README.MD) - 119
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](/terminal/grey%20on%20alpha/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -81,6 +81,8 @@
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png "skyrim.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png)
+[![colonel_sanders_kfc.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/fast%20food/colonel_sanders_kfc.png "colonel_sanders_kfc.png")](/terminal/grey%20on%20alpha/little/fast%20food/colonel_sanders_kfc.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20alpha/little/fast%20food/pizza_hut_1967_1999.png)
 [![full_metal_alchemist_blood_seal_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 [![full_metal_alchemist_flamel.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png)
 [![full_metal_alchemist_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
@@ -127,7 +129,6 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/painted_heart.png "painted_heart.png")](/terminal/grey%20on%20alpha/little/misc/painted_heart.png)
-[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/raven_animapins.png "raven_animapins.png")](/terminal/grey%20on%20alpha/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/small_knots_1.png "small_knots_1.png")](/terminal/grey%20on%20alpha/little/misc/small_knots_1.png)

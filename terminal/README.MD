@@ -1,11 +1,11 @@
-# terminal - 510
-- [chromatic aberration](#chromatic-aberration) - 170
-- [grey on alpha](#grey-on-alpha) - 170
-- [grey on black](#grey-on-black) - 170
+# terminal - 513
+- [chromatic aberration](#chromatic-aberration) - 171
+- [grey on alpha](#grey-on-alpha) - 171
+- [grey on black](#grey-on-black) - 171
 
 <a id="chromatic-aberration"></a>
 
-## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 170
+## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 171
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -78,6 +78,8 @@
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/skyrim.png "skyrim.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/skyrim.png)
+[![colonel_sanders_kfc.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/fast%20food/colonel_sanders_kfc.png "colonel_sanders_kfc.png")](/terminal/chromatic%20aberration/little/fast%20food/colonel_sanders_kfc.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png)
 [![full_metal_alchemist_blood_seal_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 [![full_metal_alchemist_flamel.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png)
 [![full_metal_alchemist_ouroboros.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](/terminal/chromatic%20aberration/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
@@ -124,7 +126,6 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](/terminal/chromatic%20aberration/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](/terminal/chromatic%20aberration/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/painted_heart.png "painted_heart.png")](/terminal/chromatic%20aberration/little/misc/painted_heart.png)
-[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/chromatic%20aberration/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/raven_animapins.png "raven_animapins.png")](/terminal/chromatic%20aberration/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](/terminal/chromatic%20aberration/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/small_knots_1.png "small_knots_1.png")](/terminal/chromatic%20aberration/little/misc/small_knots_1.png)
@@ -179,7 +180,7 @@
 
 <a id="grey-on-alpha"></a>
 
-## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 170
+## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 171
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -252,6 +253,8 @@
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png "skyrim.png")](/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png)
+[![colonel_sanders_kfc.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/fast%20food/colonel_sanders_kfc.png "colonel_sanders_kfc.png")](/terminal/grey%20on%20alpha/little/fast%20food/colonel_sanders_kfc.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20alpha/little/fast%20food/pizza_hut_1967_1999.png)
 [![full_metal_alchemist_blood_seal_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 [![full_metal_alchemist_flamel.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png)
 [![full_metal_alchemist_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](/terminal/grey%20on%20alpha/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
@@ -298,7 +301,6 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](/terminal/grey%20on%20alpha/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](/terminal/grey%20on%20alpha/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/painted_heart.png "painted_heart.png")](/terminal/grey%20on%20alpha/little/misc/painted_heart.png)
-[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20alpha/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/raven_animapins.png "raven_animapins.png")](/terminal/grey%20on%20alpha/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](/terminal/grey%20on%20alpha/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/misc/small_knots_1.png "small_knots_1.png")](/terminal/grey%20on%20alpha/little/misc/small_knots_1.png)
@@ -353,7 +355,7 @@
 
 <a id="grey-on-black"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 170
+## [grey on black](/terminal/grey%20on%20black/README.MD) - 171
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -426,6 +428,8 @@
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](/terminal/grey%20on%20black/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/grey%20on%20black/little/elder%20scrolls/skyrim.png "skyrim.png")](/terminal/grey%20on%20black/little/elder%20scrolls/skyrim.png)
+[![colonel_sanders_kfc.png](/.internals/thumbnails/terminal/grey%20on%20black/little/fast%20food/colonel_sanders_kfc.png "colonel_sanders_kfc.png")](/terminal/grey%20on%20black/little/fast%20food/colonel_sanders_kfc.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20black/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20black/little/fast%20food/pizza_hut_1967_1999.png)
 [![full_metal_alchemist_blood_seal_rosedesignestudio.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png "full_metal_alchemist_blood_seal_rosedesignestudio.png")](/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_blood_seal_rosedesignestudio.png)
 [![full_metal_alchemist_flamel.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png "full_metal_alchemist_flamel.png")](/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_flamel.png)
 [![full_metal_alchemist_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
@@ -472,7 +476,6 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](/terminal/grey%20on%20black/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](/terminal/grey%20on%20black/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/painted_heart.png "painted_heart.png")](/terminal/grey%20on%20black/little/misc/painted_heart.png)
-[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/raven_animapins.png "raven_animapins.png")](/terminal/grey%20on%20black/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](/terminal/grey%20on%20black/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/grey%20on%20black/little/misc/small_knots_1.png "small_knots_1.png")](/terminal/grey%20on%20black/little/misc/small_knots_1.png)

@@ -1,4 +1,4 @@
-# mobile - 2,057
+# mobile - 2,069
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
@@ -21,7 +21,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 108
+- [music](#music) - 120
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -1489,7 +1489,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 <a id="music"></a>
 
-## [music](/mobile/music/README.MD) - 108
+## [music](/mobile/music/README.MD) - 120
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -1502,6 +1502,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 [![Bell Witch - Longing.jpg](/.internals/thumbnails/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg)
 [![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
+[![Bloodywood - Nu Delhi.jpg](/.internals/thumbnails/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg "Bloodywood - Nu Delhi.jpg")](/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 [![Bridge City Sinners - Heres to the Devil.jpg](/.internals/thumbnails/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg "Bridge City Sinners - Heres to the Devil.jpg")](/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg)
 [![Bridge City Sinners - In the Age of Doubt.jpg](/.internals/thumbnails/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg "Bridge City Sinners - In the Age of Doubt.jpg")](/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg)
@@ -1589,15 +1590,26 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Yosuf - Butterfly.jpg](/.internals/thumbnails/mobile/music/album%20art/Yosuf%20-%20Butterfly.jpg "Yosuf - Butterfly.jpg")](/mobile/music/album%20art/Yosuf%20-%20Butterfly.jpg)
 [![Znous - Aleph.Beth.Gimel.jpg](/.internals/thumbnails/mobile/music/album%20art/Znous%20-%20Aleph.Beth.Gimel.jpg "Znous - Aleph.Beth.Gimel.jpg")](/mobile/music/album%20art/Znous%20-%20Aleph.Beth.Gimel.jpg)
 [![ZØMB - PEW PEW.jpg](/.internals/thumbnails/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg "ZØMB - PEW PEW.jpg")](/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg)
+[![3470313592801709036_3470313583515477091.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg "3470313592801709036_3470313583515477091.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg)
+[![3520037827628344901_3520037817880831226.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3520037827628344901_3520037817880831226.jpg "3520037827628344901_3520037817880831226.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3520037827628344901_3520037817880831226.jpg)
+[![3531680287626376331_3531680279640502242.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3531680287626376331_3531680279640502242.jpg "3531680287626376331_3531680279640502242.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3531680287626376331_3531680279640502242.jpg)
+[![3609201709411665302_3609201703019394979.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3609201709411665302_3609201703019394979.jpg "3609201709411665302_3609201703019394979.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3609201709411665302_3609201703019394979.jpg)
+[![3633814710069796935_3633814694265670723.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3633814710069796935_3633814694265670723.jpg "3633814710069796935_3633814694265670723.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3633814710069796935_3633814694265670723.jpg)
 [![472599241_18045556469202692_8586122138368260978_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/472599241_18045556469202692_8586122138368260978_n.jpg "472599241_18045556469202692_8586122138368260978_n.jpg")](/mobile/music/artist%20photos/froglord/472599241_18045556469202692_8586122138368260978_n.jpg)
 [![474795400_18044800016202692_5013128744720204853_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/474795400_18044800016202692_5013128744720204853_n.jpg "474795400_18044800016202692_5013128744720204853_n.jpg")](/mobile/music/artist%20photos/froglord/474795400_18044800016202692_5013128744720204853_n.jpg)
 [![481794556_18048059975202692_1444221546036138012_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/481794556_18048059975202692_1444221546036138012_n.jpg "481794556_18048059975202692_1444221546036138012_n.jpg")](/mobile/music/artist%20photos/froglord/481794556_18048059975202692_1444221546036138012_n.jpg)
 [![485855858_18050459735202692_3921672083426342195_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/485855858_18050459735202692_3921672083426342195_n.jpg "485855858_18050459735202692_3921672083426342195_n.jpg")](/mobile/music/artist%20photos/froglord/485855858_18050459735202692_3921672083426342195_n.jpg)
 [![487858370_18051662429202692_1245526886717347921_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/487858370_18051662429202692_1245526886717347921_n.jpg "487858370_18051662429202692_1245526886717347921_n.jpg")](/mobile/music/artist%20photos/froglord/487858370_18051662429202692_1245526886717347921_n.jpg)
 [![Froglord 2025 01 11 by Michał Kwaśniewski](/.internals/thumbnails/mobile/music/artist%20photos/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg "Froglord 2025 01 11 by Michał Kwaśniewski")](/mobile/music/artist%20photos/froglord/froglord_2025-01-11_by_michał_kwaśniewski.jpg)
+[![tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg](/.internals/thumbnails/mobile/music/artist%20photos/froglord/tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg "tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg")](/mobile/music/artist%20photos/froglord/tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg)
+[![3584813394533202642_3584813387495108802.jpg](/.internals/thumbnails/mobile/music/artist%20photos/harifa/3584813394533202642_3584813387495108802.jpg "3584813394533202642_3584813387495108802.jpg")](/mobile/music/artist%20photos/harifa/3584813394533202642_3584813387495108802.jpg)
+[![3602524049549339260.jpg](/.internals/thumbnails/mobile/music/artist%20photos/harifa/3602524049549339260.jpg "3602524049549339260.jpg")](/mobile/music/artist%20photos/harifa/3602524049549339260.jpg)
+[![3645231622473318948_3645231598381193172.jpg](/.internals/thumbnails/mobile/music/artist%20photos/harifa/3645231622473318948_3645231598381193172.jpg "3645231622473318948_3645231598381193172.jpg")](/mobile/music/artist%20photos/harifa/3645231622473318948_3645231598381193172.jpg)
+[![spotify_artist_photo_larger.jpg](/.internals/thumbnails/mobile/music/artist%20photos/harifa/spotify_artist_photo_larger.jpg "spotify_artist_photo_larger.jpg")](/mobile/music/artist%20photos/harifa/spotify_artist_photo_larger.jpg)
 [![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
 [![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
 [![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
+[![3540551220_photo.jpg](/.internals/thumbnails/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg "3540551220_photo.jpg")](/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg)
 
 <a id="nintendo"></a>
 

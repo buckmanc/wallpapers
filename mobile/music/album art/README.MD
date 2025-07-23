@@ -1,4 +1,4 @@
-# album art - 99
+# album art - 100
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -22,6 +22,8 @@
 [![Bell Witch - Longing.jpg](/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg)
 
 [![Blood Incantation - Absolute Elsewhere.jpg](/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
+
+[![Bloodywood - Nu Delhi.jpg](/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg "Bloodywood - Nu Delhi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg)
 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 

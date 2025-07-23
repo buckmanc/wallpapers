@@ -1,12 +1,13 @@
-# little - 118
+# little - 119
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 12
 - [elder scrolls](#elder-scrolls) - 3
+- [fast food](#fast-food) - 2
 - [full metal alchemist](#full-metal-alchemist) - 3
 - [game icons dot net](#game-icons-dot-net) - 12
 - [language](#language) - 1
 - [mario](#mario) - 6
-- [misc](#misc) - 37
+- [misc](#misc) - 36
 - [moons](#moons) - 5
 - [nintendo](#nintendo) - 7
 - [star trek](#star-trek) - 2
@@ -46,6 +47,12 @@
 [![elder_scrolls_mages_guild_thisonehaswares.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png "elder_scrolls_mages_guild_thisonehaswares.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_mages_guild_thisonehaswares.png)
 [![elder_scrolls_necromancy_sigil_thisonehaswares.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png "elder_scrolls_necromancy_sigil_thisonehaswares.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/elder_scrolls_necromancy_sigil_thisonehaswares.png)
 [![skyrim.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/elder%20scrolls/skyrim.png "skyrim.png")](/terminal/chromatic%20aberration/little/elder%20scrolls/skyrim.png)
+
+<a id="fast-food"></a>
+
+## [fast food](/terminal/chromatic%20aberration/little/fast%20food/README.MD) - 2
+[![colonel_sanders_kfc.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/fast%20food/colonel_sanders_kfc.png "colonel_sanders_kfc.png")](/terminal/chromatic%20aberration/little/fast%20food/colonel_sanders_kfc.png)
+[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png)
 
 <a id="full-metal-alchemist"></a>
 
@@ -87,7 +94,7 @@
 
 <a id="misc"></a>
 
-## [misc](/terminal/chromatic%20aberration/little/misc/README.MD) - 37
+## [misc](/terminal/chromatic%20aberration/little/misc/README.MD) - 36
 [![Acorn by Svgocean](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](/terminal/chromatic%20aberration/little/misc/acorn_by_svgocean.png)
 [![aperture_science.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/aperture_science.png "aperture_science.png")](/terminal/chromatic%20aberration/little/misc/aperture_science.png)
 [![buer_sigil_lineartboutique.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/buer_sigil_lineartboutique.png "buer_sigil_lineartboutique.png")](/terminal/chromatic%20aberration/little/misc/buer_sigil_lineartboutique.png)
@@ -112,7 +119,6 @@
 [![mushrooms_floral_mushroom_8_redearthandgumtrees.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png "mushrooms_floral_mushroom_8_redearthandgumtrees.png")](/terminal/chromatic%20aberration/little/misc/mushrooms_floral_mushroom_8_redearthandgumtrees.png)
 [![oxoglutarate_dehydrogenase_zh_cn.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](/terminal/chromatic%20aberration/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 [![painted_heart.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/painted_heart.png "painted_heart.png")](/terminal/chromatic%20aberration/little/misc/painted_heart.png)
-[![pizza_hut_1967_1999.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](/terminal/chromatic%20aberration/little/misc/pizza_hut_1967_1999.png)
 [![raven_animapins.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/raven_animapins.png "raven_animapins.png")](/terminal/chromatic%20aberration/little/misc/raven_animapins.png)
 [![skeleton_of_a_cat_diagram_ver_2.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/skeleton_of_a_cat_diagram_ver_2.png "skeleton_of_a_cat_diagram_ver_2.png")](/terminal/chromatic%20aberration/little/misc/skeleton_of_a_cat_diagram_ver_2.png)
 [![small_knots_1.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/misc/small_knots_1.png "small_knots_1.png")](/terminal/chromatic%20aberration/little/misc/small_knots_1.png)

@@ -1,4 +1,4 @@
-# misc - 37
+# misc - 36
 [![Acorn by Svgocean](/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png "Acorn by Svgocean")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/acorn_by_svgocean.png)\
 Acorn by Svgocean
 
@@ -47,8 +47,6 @@ Acorn by Svgocean
 [![oxoglutarate_dehydrogenase_zh_cn.png](/terminal/grey%20on%20black/little/misc/oxoglutarate_dehydrogenase_zh_cn.png "oxoglutarate_dehydrogenase_zh_cn.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/oxoglutarate_dehydrogenase_zh_cn.png)
 
 [![painted_heart.png](/terminal/grey%20on%20black/little/misc/painted_heart.png "painted_heart.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/painted_heart.png)
-
-[![pizza_hut_1967_1999.png](/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/pizza_hut_1967_1999.png)
 
 [![raven_animapins.png](/terminal/grey%20on%20black/little/misc/raven_animapins.png "raven_animapins.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/misc/raven_animapins.png)
 
