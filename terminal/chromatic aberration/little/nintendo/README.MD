@@ -15,6 +15,9 @@ Pirate Metroid by Omnimnim
 [![smash_ball.png](/terminal/chromatic%20aberration/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/nintendo/smash_ball.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

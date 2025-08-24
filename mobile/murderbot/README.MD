@@ -12,6 +12,9 @@
 [![tommy-arnold-arnold-network-effect-03-besupplyship.jpg](/mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg "tommy-arnold-arnold-network-effect-03-besupplyship.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/murderbot/tommy-arnold-arnold-network-effect-03-besupplyship.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

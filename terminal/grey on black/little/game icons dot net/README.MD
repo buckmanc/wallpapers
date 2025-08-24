@@ -24,6 +24,9 @@
 [![game_icons_dot_net_winged_sword.png](/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20black/little/README.MD)

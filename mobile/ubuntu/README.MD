@@ -23,6 +23,9 @@ Oriole Photo by Schabing
 Ubuntu Warrior by Jt05
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

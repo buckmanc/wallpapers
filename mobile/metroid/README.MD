@@ -437,6 +437,9 @@ The Hunter by Smolb D37f9em
 [![Игровой-арт-Игры-Metroid-Samus-Aran-1597788.png](/mobile/metroid/Игровой-арт-Игры-Metroid-Samus-Aran-1597788.png "Игровой-арт-Игры-Metroid-Samus-Aran-1597788.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/metroid/Игровой-арт-Игры-Metroid-Samus-Aran-1597788.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -4,7 +4,11 @@
 
 <a id="big"></a>
 
-## [big](/terminal/grey%20on%20black/big/README.MD) - 52
+## [big](/terminal/grey%20on%20black/big/README.MD)
+<details open>
+<summary>52 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -58,9 +62,16 @@
 [![Zelda Skyward Sword Gate Of Time by Tamalesyatole](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png)
 [![zelda_totk_ouroboros.png](/.internals/thumbnails/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](/terminal/grey%20on%20black/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png)
 
+</p>
+</details>
+
 <a id="little"></a>
 
-## [little](/terminal/grey%20on%20black/little/README.MD) - 119
+## [little](/terminal/grey%20on%20black/little/README.MD)
+<details open>
+<summary>119 files</summary>
+<p>
+
 [![Castlevania Glyph Agartha by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png "Castlevania Glyph Agartha by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_agartha_by_pyderek.png)
 [![Castlevania Glyph Dominus Agony by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png "Castlevania Glyph Dominus Agony by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_agony_by_pyderek.png)
 [![Castlevania Glyph Dominus Anger by Pyderek](/.internals/thumbnails/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png "Castlevania Glyph Dominus Anger by Pyderek")](/terminal/grey%20on%20black/little/castlevania/castlevania_glyph_dominus_anger_by_pyderek.png)
@@ -180,6 +191,9 @@
 [![24_04_noble_numbat.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/24_04_noble_numbat.png "24_04_noble_numbat.png")](/terminal/grey%20on%20black/little/ubuntu/24_04_noble_numbat.png)
 [![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](/terminal/grey%20on%20black/little/ubuntu/24_10_oracular_oriole.png)
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](/terminal/grey%20on%20black/little/ubuntu/ubuntu_circle_of_friends_old.png)
+
+</p>
+</details>
 
 
 [back to top](#)

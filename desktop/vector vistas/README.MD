@@ -26,6 +26,9 @@
 [![undefined - Imgur.png](/desktop/vector%20vistas/undefined%20-%20Imgur.png "undefined - Imgur.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/vector%20vistas/undefined%20-%20Imgur.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

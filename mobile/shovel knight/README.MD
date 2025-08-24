@@ -34,6 +34,9 @@ Shovel Knight Render by Incinaneverdies Dipsxw1
 [![z6b0smhdgwp81.jpg](/mobile/shovel%20knight/z6b0smhdgwp81.jpg "z6b0smhdgwp81.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/shovel%20knight/z6b0smhdgwp81.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

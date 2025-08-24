@@ -24,6 +24,9 @@
 [![stormlight_simple.png](/terminal/chromatic%20aberration/little/cosmere/stormlight_simple.png "stormlight_simple.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/cosmere/stormlight_simple.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

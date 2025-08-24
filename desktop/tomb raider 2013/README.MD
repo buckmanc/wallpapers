@@ -26,6 +26,9 @@ Tomb Raider 2013 Concept Art by Johann Papayou Blais Wallpaper 2560x1440
 [![WW2-SOS.jpg](/desktop/tomb%20raider%202013/WW2-SOS.jpg "WW2-SOS.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/tomb%20raider%202013/WW2-SOS.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

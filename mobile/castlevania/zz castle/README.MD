@@ -37,6 +37,9 @@ Draculas Castle by Ilo275
 Zz Castlevania by Ömer Tunç
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/castlevania/README.MD)

@@ -4,6 +4,9 @@
 [![stargate_pegasus.png](/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png "stargate_pegasus.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/big/README.MD)

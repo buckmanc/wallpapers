@@ -10,6 +10,9 @@
 [![tolkien_white_tree_of_gondor.png](/terminal/chromatic%20aberration/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/tolkien/tolkien_white_tree_of_gondor.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

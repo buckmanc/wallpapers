@@ -20,6 +20,9 @@ Tmnt Back 04 Michelangelo by Juliefoohandmade
 [![tmnt_svgrepo_com.png](/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png "tmnt_svgrepo_com.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/tmnt/tmnt_svgrepo_com.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20black/little/README.MD)

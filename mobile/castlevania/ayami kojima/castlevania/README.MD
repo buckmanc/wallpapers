@@ -64,6 +64,9 @@
 [![matthias_cronqvist_02.jpg](/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg "matthias_cronqvist_02.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/castlevania/ayami%20kojima/README.MD)

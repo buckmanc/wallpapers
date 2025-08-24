@@ -59,6 +59,9 @@ Tress Sipping Salty Tea by Howard Lyon
 Warbreaker Cover by Yasen Stoilov
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/cosmere/README.MD)

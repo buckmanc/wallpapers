@@ -50,6 +50,9 @@
 [![zz_logo_pxfuel_(3).jpg](/mobile/sea%20of%20thieves/zz_logo_pxfuel_(3).jpg "zz_logo_pxfuel_(3).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/sea%20of%20thieves/zz_logo_pxfuel_(3).jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

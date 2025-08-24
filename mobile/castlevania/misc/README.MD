@@ -143,6 +143,9 @@ The Devil Forgemaster by Al Santos
 [![wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg](/mobile/castlevania/misc/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg "wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/castlevania/misc/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/castlevania/README.MD)

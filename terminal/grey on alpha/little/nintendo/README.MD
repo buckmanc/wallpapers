@@ -15,6 +15,9 @@ Pirate Metroid by Omnimnim
 [![smash_ball.png](/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png "smash_ball.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/little/README.MD)

@@ -79,6 +79,9 @@ Mega Man Mega Man Drawn by Nakayama Tooru 07b3783041c215c2e5ac34839cdc27a6
  Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)

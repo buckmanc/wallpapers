@@ -56,6 +56,9 @@
 [![wallpaperflare.com_wallpaper.jpg](/desktop/synthwave/wallpaperflare.com_wallpaper.jpg "wallpaperflare.com_wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/synthwave/wallpaperflare.com_wallpaper.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

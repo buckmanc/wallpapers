@@ -8,6 +8,9 @@
 [![justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg](/mobile/justin%20gerard/justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg "justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/justin%20gerard/justin-gerard-justin-gerard-motm052-goo-detail-72web.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -24,6 +24,9 @@
 [![wallhaven_ym6v8g_6000x2824.png](/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png "wallhaven_ym6v8g_6000x2824.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

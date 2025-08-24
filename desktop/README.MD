@@ -35,7 +35,11 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/desktop/castlevania/README.MD) - 8
+## [castlevania](/desktop/castlevania/README.MD)
+<details open>
+<summary>8 files</summary>
+<p>
+
 [![446349.png](/.internals/thumbnails/desktop/castlevania/446349.png "446349.png")](/desktop/castlevania/446349.png)
 [![446389.jpg](/.internals/thumbnails/desktop/castlevania/446389.jpg "446389.jpg")](/desktop/castlevania/446389.jpg)
 [![castlevania_lords_of_shadows.jpg](/.internals/thumbnails/desktop/castlevania/castlevania_lords_of_shadows.jpg "castlevania_lords_of_shadows.jpg")](/desktop/castlevania/castlevania_lords_of_shadows.jpg)
@@ -45,9 +49,16 @@
 [![zz_castle_dracula's_castle_-_23.png](/.internals/thumbnails/desktop/castlevania/zz_castle_dracula's_castle_-_23.png "zz_castle_dracula's_castle_-_23.png")](/desktop/castlevania/zz_castle_dracula's_castle_-_23.png)
 [![zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg](/.internals/thumbnails/desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg "zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg")](/desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg)
 
+</p>
+</details>
+
 <a id="castlevania-pixel"></a>
 
-## [castlevania pixel](/desktop/castlevania%20pixel/README.MD) - 11
+## [castlevania pixel](/desktop/castlevania%20pixel/README.MD)
+<details open>
+<summary>11 files</summary>
+<p>
+
 [![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png)
 [![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
 [![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)
@@ -60,9 +71,16 @@
 [![sotn-marble_gallery-statue_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png "sotn-marble_gallery-statue_enlarged.png")](/desktop/castlevania%20pixel/sotn-marble_gallery-statue_enlarged.png)
 [![sotn-olroxsquarters-lair_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png "sotn-olroxsquarters-lair_enlarged.png")](/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png)
 
+</p>
+</details>
+
 <a id="cityscapes"></a>
 
-## [cityscapes](/desktop/cityscapes/README.MD) - 7
+## [cityscapes](/desktop/cityscapes/README.MD)
+<details open>
+<summary>7 files</summary>
+<p>
+
 [![85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg](/.internals/thumbnails/desktop/cityscapes/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg "85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg")](/desktop/cityscapes/85665a2c515fb726_01324_newyorkcitybypaulobarcellosjr_1920x1200.jpg)
 [![85b04e59f55e3e41_RDT_20240928_0545056442132680350643024.jpg](/.internals/thumbnails/desktop/cityscapes/85b04e59f55e3e41_RDT_20240928_0545056442132680350643024.jpg "85b04e59f55e3e41_RDT_20240928_0545056442132680350643024.jpg")](/desktop/cityscapes/85b04e59f55e3e41_RDT_20240928_0545056442132680350643024.jpg)
 [![9925669b9ca1716e_0003adef2077d0934e691e48482106df.jpg](/.internals/thumbnails/desktop/cityscapes/9925669b9ca1716e_0003adef2077d0934e691e48482106df.jpg "9925669b9ca1716e_0003adef2077d0934e691e48482106df.jpg")](/desktop/cityscapes/9925669b9ca1716e_0003adef2077d0934e691e48482106df.jpg)
@@ -71,9 +89,16 @@
 [![c9c77698d823273c_nyc3.jpg](/.internals/thumbnails/desktop/cityscapes/c9c77698d823273c_nyc3.jpg "c9c77698d823273c_nyc3.jpg")](/desktop/cityscapes/c9c77698d823273c_nyc3.jpg)
 [![d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg](/.internals/thumbnails/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg "d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg")](/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg)
 
+</p>
+</details>
+
 <a id="cosmere"></a>
 
-## [cosmere](/desktop/cosmere/README.MD) - 14
+## [cosmere](/desktop/cosmere/README.MD)
+<details open>
+<summary>14 files</summary>
+<p>
+
 [![00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek](/.internals/thumbnails/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg "00 Cover Db Mistborn 07 by Dominik Broniek
 The Lost Metal Cover by Dominik Broniek")](/desktop/cosmere/mistborn/00_cover_db_mistborn_07_by_dominik_broniek.jpg)
@@ -95,16 +120,30 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
+</p>
+</details>
+
 <a id="dungeons-and-dragons"></a>
 
-## [dungeons_and_dragons](/desktop/dungeons_and_dragons/README.MD) - 3
+## [dungeons_and_dragons](/desktop/dungeons_and_dragons/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
 [![5e_players_guide_cover.jpg](/.internals/thumbnails/desktop/dungeons_and_dragons/5e_players_guide_cover.jpg "5e_players_guide_cover.jpg")](/desktop/dungeons_and_dragons/5e_players_guide_cover.jpg)
 [![ghosts_of_saltmarsh_cover.jpg](/.internals/thumbnails/desktop/dungeons_and_dragons/ghosts_of_saltmarsh_cover.jpg "ghosts_of_saltmarsh_cover.jpg")](/desktop/dungeons_and_dragons/ghosts_of_saltmarsh_cover.jpg)
 [![Tashas Cauldron Of Everything Cover by Magali Villeneuve](/.internals/thumbnails/desktop/dungeons_and_dragons/tashas_cauldron_of_everything_cover_by_magali_villeneuve.png "Tashas Cauldron Of Everything Cover by Magali Villeneuve")](/desktop/dungeons_and_dragons/tashas_cauldron_of_everything_cover_by_magali_villeneuve.png)
 
+</p>
+</details>
+
 <a id="forests"></a>
 
-## [forests](/desktop/forests/README.MD) - 116
+## [forests](/desktop/forests/README.MD)
+<details open>
+<summary>116 files</summary>
+<p>
+
 [![81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg](/.internals/thumbnails/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg "81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg")](/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg)
 [![843b6a947bc23d63_istockphoto-1313980280-640x640.jpg](/.internals/thumbnails/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg "843b6a947bc23d63_istockphoto-1313980280-640x640.jpg")](/desktop/forests/843b6a947bc23d63_istockphoto-1313980280-640x640.jpg)
 [![84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg](/.internals/thumbnails/desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg "84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg")](/desktop/forests/84b53b7b629a9c2c_RDT_20231111_153038711334247116359361.jpg)
@@ -222,16 +261,30 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![f9f9d9d9f0b09080_WTDOBJB.jpg](/.internals/thumbnails/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg "f9f9d9d9f0b09080_WTDOBJB.jpg")](/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg)
 [![fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg](/.internals/thumbnails/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg "fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg")](/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg)
 
+</p>
+</details>
+
 <a id="justin-gerard"></a>
 
-## [justin gerard](/desktop/justin%20gerard/README.MD) - 3
+## [justin gerard](/desktop/justin%20gerard/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
 [![justin-gerard-2305-v2x02-a-300m.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg "justin-gerard-2305-v2x02-a-300m.jpg")](/desktop/justin%20gerard/justin-gerard-2305-v2x02-a-300m.jpg)
 [![justin-gerard-dh1900-n37v1x05-300m.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-dh1900-n37v1x05-300m.jpg "justin-gerard-dh1900-n37v1x05-300m.jpg")](/desktop/justin%20gerard/justin-gerard-dh1900-n37v1x05-300m.jpg)
 [![justin-gerard-dh1901-n32-v1x05a-72web.jpg](/.internals/thumbnails/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg "justin-gerard-dh1901-n32-v1x05a-72web.jpg")](/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg)
 
+</p>
+</details>
+
 <a id="magic-the-gathering"></a>
 
-## [magic the gathering](/desktop/magic%20the%20gathering/README.MD) - 10
+## [magic the gathering](/desktop/magic%20the%20gathering/README.MD)
+<details open>
+<summary>10 files</summary>
+<p>
+
 [![26e2df176778017.64ca9fc090534.jpg](/.internals/thumbnails/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg "26e2df176778017.64ca9fc090534.jpg")](/desktop/magic%20the%20gathering/26e2df176778017.64ca9fc090534.jpg)
 [![Ayula The Great Bear by Jesper Ejsing](/.internals/thumbnails/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png "Ayula The Great Bear by Jesper Ejsing")](/desktop/magic%20the%20gathering/ayula_the_great_bear_by_jesper_ejsing.png)
 [![Invasion_of_Innistrad_2560x1600_EN.png](/.internals/thumbnails/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png "Invasion_of_Innistrad_2560x1600_EN.png")](/desktop/magic%20the%20gathering/Invasion_of_Innistrad_2560x1600_EN.png)
@@ -243,18 +296,32 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![Wallpaper_2560x1600_Sunpetal_Grove.png](/.internals/thumbnails/desktop/magic%20the%20gathering/Wallpaper_2560x1600_Sunpetal_Grove.png "Wallpaper_2560x1600_Sunpetal_Grove.png")](/desktop/magic%20the%20gathering/Wallpaper_2560x1600_Sunpetal_Grove.png)
 [![You Look Upon The Tarrasque by Kekai Kotaki](/.internals/thumbnails/desktop/magic%20the%20gathering/you_look_upon_the_tarrasque_by_kekai_kotaki.jpg "You Look Upon The Tarrasque by Kekai Kotaki")](/desktop/magic%20the%20gathering/you_look_upon_the_tarrasque_by_kekai_kotaki.jpg)
 
+</p>
+</details>
+
 <a id="mega-man-pixel"></a>
 
-## [mega man pixel](/desktop/mega%20man%20pixel/README.MD) - 5
+## [mega man pixel](/desktop/mega%20man%20pixel/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![mmx1_highway_bg_1_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx1_highway_bg_1_enlarged.png "mmx1_highway_bg_1_enlarged.png")](/desktop/mega%20man%20pixel/mmx1_highway_bg_1_enlarged.png)
 [![mmx3_doppler_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_doppler_bg_enlarged.png "mmx3_doppler_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_doppler_bg_enlarged.png)
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png)
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png)
 
+</p>
+</details>
+
 <a id="metroid"></a>
 
-## [metroid](/desktop/metroid/README.MD) - 8
+## [metroid](/desktop/metroid/README.MD)
+<details open>
+<summary>8 files</summary>
+<p>
+
 [![Hjmdi1A-metroid-wallpaper.jpg](/.internals/thumbnails/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg "Hjmdi1A-metroid-wallpaper.jpg")](/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg)
 [![metroid-3nc8jol5751aw6co.jpg](/.internals/thumbnails/desktop/metroid/metroid-3nc8jol5751aw6co.jpg "metroid-3nc8jol5751aw6co.jpg")](/desktop/metroid/metroid-3nc8jol5751aw6co.jpg)
 [![metroid-the-forest-ee3581bggowaeid2.png](/.internals/thumbnails/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png "metroid-the-forest-ee3581bggowaeid2.png")](/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png)
@@ -264,9 +331,16 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![Tallon Overworld by Noble6design D9m6z0a Fullview](/.internals/thumbnails/desktop/metroid/tallon_overworld_by_noble6design_d9m6z0a-fullview.jpg "Tallon Overworld by Noble6design D9m6z0a Fullview")](/desktop/metroid/tallon_overworld_by_noble6design_d9m6z0a-fullview.jpg)
 [![wp2750407-super-metriod-wallpaper.jpg](/.internals/thumbnails/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg "wp2750407-super-metriod-wallpaper.jpg")](/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg)
 
+</p>
+</details>
+
 <a id="ming-fan-concept-art"></a>
 
-## [ming fan concept art](/desktop/ming%20fan%20concept%20art/README.MD) - 28
+## [ming fan concept art](/desktop/ming%20fan%20concept%20art/README.MD)
+<details open>
+<summary>28 files</summary>
+<p>
+
 [![desktopwallpapers.org.ua_13483.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/desktopwallpapers.org.ua_13483.jpg "desktopwallpapers.org.ua_13483.jpg")](/desktop/ming%20fan%20concept%20art/desktopwallpapers.org.ua_13483.jpg)
 [![Fan_Ming_Art_013b.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_013b.jpg "Fan_Ming_Art_013b.jpg")](/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_013b.jpg)
 [![Fan_Ming_Art_04b.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_04b.jpg "Fan_Ming_Art_04b.jpg")](/desktop/ming%20fan%20concept%20art/Fan_Ming_Art_04b.jpg)
@@ -296,9 +370,16 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![ming-fan-zzz.jpg](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/ming-fan-zzz.jpg "ming-fan-zzz.jpg")](/desktop/ming%20fan%20concept%20art/ming-fan-zzz.jpg)
 [![Unknown by Ming Fan](/.internals/thumbnails/desktop/ming%20fan%20concept%20art/unknown%20by%20ming%20fan.jpeg "Unknown by Ming Fan")](/desktop/ming%20fan%20concept%20art/unknown%20by%20ming%20fan.jpeg)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/desktop/misc/README.MD) - 110
+## [misc](/desktop/misc/README.MD)
+<details open>
+<summary>110 files</summary>
+<p>
+
 [![80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w](/.internals/thumbnails/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg "80813e966ed66f1e Plague Doctor On Duty by Daisanvisart Dc7dq5w")](/desktop/misc/80813e966ed66f1e_plague_doctor_on_duty_by_daisanvisart_dc7dq5w.jpg)
 [![8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg](/.internals/thumbnails/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg "8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg")](/desktop/misc/8093abac9f82d99d_michael-d-rnKqWvO80Y4-unsplash.jpg)
 [![856a7e192aa7d01f_towashi.jpg](/.internals/thumbnails/desktop/misc/856a7e192aa7d01f_towashi.jpg "856a7e192aa7d01f_towashi.jpg")](/desktop/misc/856a7e192aa7d01f_towashi.jpg)
@@ -410,17 +491,31 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg](/.internals/thumbnails/desktop/misc/e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg "e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg")](/desktop/misc/e5e2c6ce20dd22d9_wallhaven_g89pqd_1920x1080.jpg)
 [![f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg](/.internals/thumbnails/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg "f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg")](/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg)
 
+</p>
+</details>
+
 <a id="misc-anato-finnstark"></a>
 
-## [misc anato finnstark](/desktop/misc%20anato%20finnstark/README.MD) - 4
+## [misc anato finnstark](/desktop/misc%20anato%20finnstark/README.MD)
+<details open>
+<summary>4 files</summary>
+<p>
+
 [![Anato Finnstark Black Wings by Anatofinnstark Dd5faaz Fullview](/.internals/thumbnails/desktop/misc%20anato%20finnstark/anato-finnstark-black-wings-by-anatofinnstark-dd5faaz-fullview.jpg "Anato Finnstark Black Wings by Anatofinnstark Dd5faaz Fullview")](/desktop/misc%20anato%20finnstark/anato-finnstark-black-wings-by-anatofinnstark-dd5faaz-fullview.jpg)
 [![anato-finnstark-web-pe4tit.jpg](/.internals/thumbnails/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg "anato-finnstark-web-pe4tit.jpg")](/desktop/misc%20anato%20finnstark/anato-finnstark-web-pe4tit.jpg)
 [![Darth Vader by Anato Finnstark](/.internals/thumbnails/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg "Darth Vader by Anato Finnstark")](/desktop/misc%20anato%20finnstark/darth%20vader%20by%20anato%20finnstark.jpg)
 [![ Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c](/.internals/thumbnails/desktop/misc%20anato%20finnstark/lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg " Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c")](/desktop/misc%20anato%20finnstark/lilith_diablo_drawn_by_anato_finnstark__4ff4e01e14f4a4c3ca8e339c0a6b9e2c.jpg)
 
+</p>
+</details>
+
 <a id="music"></a>
 
-## [music](/desktop/music/README.MD) - 6
+## [music](/desktop/music/README.MD)
+<details open>
+<summary>6 files</summary>
+<p>
+
 [![froglord_banner.jpg](/.internals/thumbnails/desktop/music/froglord_banner.jpg "froglord_banner.jpg")](/desktop/music/froglord_banner.jpg)
 [![Froglord - The Mystic Toad.png](/.internals/thumbnails/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png "Froglord - The Mystic Toad.png")](/desktop/music/Froglord%20-%20The%20Mystic%20Toad.png)
 [![Laurence Manning - Piano Collections_ Castlevania.jpg](/.internals/thumbnails/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg "Laurence Manning - Piano Collections_ Castlevania.jpg")](/desktop/music/Laurence%20Manning%20-%20Piano%20Collections_%20Castlevania.jpg)
@@ -428,9 +523,16 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![solar-eruption-the-demons-house.jpg](/.internals/thumbnails/desktop/music/solar-eruption-the-demons-house.jpg "solar-eruption-the-demons-house.jpg")](/desktop/music/solar-eruption-the-demons-house.jpg)
 [![So This Is Suffering Spotify header.jpg](/.internals/thumbnails/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 
+</p>
+</details>
+
 <a id="orbite"></a>
 
-## [orbite](/desktop/orbite/README.MD) - 9
+## [orbite](/desktop/orbite/README.MD)
+<details open>
+<summary>9 files</summary>
+<p>
+
 [![Arizona_night.png](/.internals/thumbnails/desktop/orbite/Arizona_night.png "Arizona_night.png")](/desktop/orbite/Arizona_night.png)
 [![Aurora_Borealis.png](/.internals/thumbnails/desktop/orbite/Aurora_Borealis.png "Aurora_Borealis.png")](/desktop/orbite/Aurora_Borealis.png)
 [![Einsamer_Raum.png](/.internals/thumbnails/desktop/orbite/Einsamer_Raum.png "Einsamer_Raum.png")](/desktop/orbite/Einsamer_Raum.png)
@@ -441,18 +543,32 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![Sonnenunt_rgang_am_Wasserfall.png](/.internals/thumbnails/desktop/orbite/Sonnenunt_rgang_am_Wasserfall.png "Sonnenunt_rgang_am_Wasserfall.png")](/desktop/orbite/Sonnenunt_rgang_am_Wasserfall.png)
 [![wilde_Gänseblümchen.png](/.internals/thumbnails/desktop/orbite/wilde_Gänseblümchen.png "wilde_Gänseblümchen.png")](/desktop/orbite/wilde_Gänseblümchen.png)
 
+</p>
+</details>
+
 <a id="resident-evil"></a>
 
-## [resident evil](/desktop/resident%20evil/README.MD) - 5
+## [resident evil](/desktop/resident%20evil/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg](/.internals/thumbnails/desktop/resident%20evil/2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg "2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg")](/desktop/resident%20evil/2931-1920x1080-desktop-1080p-resident-evil-village-background.jpg)
 [![2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg](/.internals/thumbnails/desktop/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg "2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg")](/desktop/resident%20evil/2939-3840x2160-desktop-4k-resident-evil-village-wallpaper-image.jpg)
 [![89c8b1623675b7c5_peakpx (8).jpg](/.internals/thumbnails/desktop/resident%20evil/89c8b1623675b7c5_peakpx%20(8).jpg "89c8b1623675b7c5_peakpx (8).jpg")](/desktop/resident%20evil/89c8b1623675b7c5_peakpx%20(8).jpg)
 [![resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg](/.internals/thumbnails/desktop/resident%20evil/resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg "resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg")](/desktop/resident%20evil/resident-evil-8-village-4k-wallpaper-3840x2160-uhdpaper.com-53.1_a.jpg)
 [![resident-evil-village-uhdpaper.com-4K-5.2051.jpg](/.internals/thumbnails/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg "resident-evil-village-uhdpaper.com-4K-5.2051.jpg")](/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg)
 
+</p>
+</details>
+
 <a id="sea-of-thieves"></a>
 
-## [sea of thieves](/desktop/sea%20of%20thieves/README.MD) - 13
+## [sea of thieves](/desktop/sea%20of%20thieves/README.MD)
+<details open>
+<summary>13 files</summary>
+<p>
+
 [![1648939.jpg](/.internals/thumbnails/desktop/sea%20of%20thieves/1648939.jpg "1648939.jpg")](/desktop/sea%20of%20thieves/1648939.jpg)
 [![1648949.jpg](/.internals/thumbnails/desktop/sea%20of%20thieves/1648949.jpg "1648949.jpg")](/desktop/sea%20of%20thieves/1648949.jpg)
 [![1648951.jpg](/.internals/thumbnails/desktop/sea%20of%20thieves/1648951.jpg "1648951.jpg")](/desktop/sea%20of%20thieves/1648951.jpg)
@@ -467,15 +583,29 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![peakpx (30).jpg](/.internals/thumbnails/desktop/sea%20of%20thieves/peakpx%20(30).jpg "peakpx (30).jpg")](/desktop/sea%20of%20thieves/peakpx%20(30).jpg)
 [![peakpx (9).jpg](/.internals/thumbnails/desktop/sea%20of%20thieves/peakpx%20(9).jpg "peakpx (9).jpg")](/desktop/sea%20of%20thieves/peakpx%20(9).jpg)
 
+</p>
+</details>
+
 <a id="shovel-knight"></a>
 
-## [shovel knight](/desktop/shovel%20knight/README.MD) - 2
+## [shovel knight](/desktop/shovel%20knight/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
 [![629083.jpg](/.internals/thumbnails/desktop/shovel%20knight/629083.jpg "629083.jpg")](/desktop/shovel%20knight/629083.jpg)
 [![d89ZA7W.png](/.internals/thumbnails/desktop/shovel%20knight/d89ZA7W.png "d89ZA7W.png")](/desktop/shovel%20knight/d89ZA7W.png)
 
+</p>
+</details>
+
 <a id="skyrim-art"></a>
 
-## [skyrim art](/desktop/skyrim%20art/README.MD) - 9
+## [skyrim art](/desktop/skyrim%20art/README.MD)
+<details open>
+<summary>9 files</summary>
+<p>
+
 [![1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg](/.internals/thumbnails/desktop/skyrim%20art/1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg "1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg")](/desktop/skyrim%20art/1288bc227ee5911f0d95e5327ebe6c3f4e10b0d2.jpg)
 [![4a5e382798606393412cd932f11aad64eaadcb55.jpg](/.internals/thumbnails/desktop/skyrim%20art/4a5e382798606393412cd932f11aad64eaadcb55.jpg "4a5e382798606393412cd932f11aad64eaadcb55.jpg")](/desktop/skyrim%20art/4a5e382798606393412cd932f11aad64eaadcb55.jpg)
 [![7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg](/.internals/thumbnails/desktop/skyrim%20art/7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg "7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg")](/desktop/skyrim%20art/7ab24fbb3ddecf53fabfea44bf79629040d140ad.jpg)
@@ -492,9 +622,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk](/.internals/thumbnails/deskto
 The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_saddest_khajiit_part_2_by_darrengeers_d716zbk.jpg)
 [![YcqXdiz.jpg](/.internals/thumbnails/desktop/skyrim%20art/YcqXdiz.jpg "YcqXdiz.jpg")](/desktop/skyrim%20art/YcqXdiz.jpg)
 
+</p>
+</details>
+
 <a id="skyrim-captures"></a>
 
-## [skyrim captures](/desktop/skyrim%20captures/README.MD) - 13
+## [skyrim captures](/desktop/skyrim%20captures/README.MD)
+<details open>
+<summary>13 files</summary>
+<p>
+
 [![1094574-1321433670.jpg](/.internals/thumbnails/desktop/skyrim%20captures/1094574-1321433670.jpg "1094574-1321433670.jpg")](/desktop/skyrim%20captures/1094574-1321433670.jpg)
 [![26PUO4c.png](/.internals/thumbnails/desktop/skyrim%20captures/26PUO4c.png "26PUO4c.png")](/desktop/skyrim%20captures/26PUO4c.png)
 [![2sgKskc.png](/.internals/thumbnails/desktop/skyrim%20captures/2sgKskc.png "2sgKskc.png")](/desktop/skyrim%20captures/2sgKskc.png)
@@ -509,9 +646,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![Y4OwLAr.png](/.internals/thumbnails/desktop/skyrim%20captures/Y4OwLAr.png "Y4OwLAr.png")](/desktop/skyrim%20captures/Y4OwLAr.png)
 [![YNj67nj.jpg](/.internals/thumbnails/desktop/skyrim%20captures/YNj67nj.jpg "YNj67nj.jpg")](/desktop/skyrim%20captures/YNj67nj.jpg)
 
+</p>
+</details>
+
 <a id="soulsborne"></a>
 
-## [soulsborne](/desktop/soulsborne/README.MD) - 11
+## [soulsborne](/desktop/soulsborne/README.MD)
+<details open>
+<summary>11 files</summary>
+<p>
+
 [![1113054.jpg](/.internals/thumbnails/desktop/soulsborne/1113054.jpg "1113054.jpg")](/desktop/soulsborne/1113054.jpg)
 [![20240113_095357.jpg](/.internals/thumbnails/desktop/soulsborne/20240113_095357.jpg "20240113_095357.jpg")](/desktop/soulsborne/20240113_095357.jpg)
 [![anato-finnstark-web-petit (7).jpg](/.internals/thumbnails/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg "anato-finnstark-web-petit (7).jpg")](/desktop/soulsborne/anato-finnstark-web-petit%20(7).jpg)
@@ -524,9 +668,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![ Hunter Bloodborne Drawn by Anato Finnstark 67964a313dea81ea6f132b3fe8f650b6](/.internals/thumbnails/desktop/soulsborne/hunter_bloodborne_drawn_by_anato_finnstark__67964a313dea81ea6f132b3fe8f650b6.jpg " Hunter Bloodborne Drawn by Anato Finnstark 67964a313dea81ea6f132b3fe8f650b6")](/desktop/soulsborne/hunter_bloodborne_drawn_by_anato_finnstark__67964a313dea81ea6f132b3fe8f650b6.jpg)
 [![wallpaper_demons_souls_2020_03_1920x1080.jpg](/.internals/thumbnails/desktop/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg "wallpaper_demons_souls_2020_03_1920x1080.jpg")](/desktop/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg)
 
+</p>
+</details>
+
 <a id="space"></a>
 
-## [space](/desktop/space/README.MD) - 95
+## [space](/desktop/space/README.MD)
+<details open>
+<summary>95 files</summary>
+<p>
+
 [![81ad2655d87027fb Intricate Networks Of Gas and Dust In Nearby Galaxies 2 by JWST](/.internals/thumbnails/desktop/space/81ad2655d87027fb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_2_by_JWST.png "81ad2655d87027fb Intricate Networks Of Gas and Dust In Nearby Galaxies 2 by JWST")](/desktop/space/81ad2655d87027fb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_2_by_JWST.png)
 [![82686c93cb75b4cb Intricate Networks Of Gas and Dust In Nearby Galaxies 1 by JWST](/.internals/thumbnails/desktop/space/82686c93cb75b4cb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_1_by_JWST.png "82686c93cb75b4cb Intricate Networks Of Gas and Dust In Nearby Galaxies 1 by JWST")](/desktop/space/82686c93cb75b4cb_Intricate_Networks_of_Gas_and_Dust_in_Nearby_Galaxies_1_by_JWST.png)
 [![845e1de1ef1629c5_chen-liu-kZH8X0q4Nvo-unsplash.jpg](/.internals/thumbnails/desktop/space/845e1de1ef1629c5_chen-liu-kZH8X0q4Nvo-unsplash.jpg "845e1de1ef1629c5_chen-liu-kZH8X0q4Nvo-unsplash.jpg")](/desktop/space/845e1de1ef1629c5_chen-liu-kZH8X0q4Nvo-unsplash.jpg)
@@ -623,9 +774,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![e2191fe6f1001fce_nasa-0DjOJ6Q8wUs-unsplash.jpg](/.internals/thumbnails/desktop/space/e2191fe6f1001fce_nasa-0DjOJ6Q8wUs-unsplash.jpg "e2191fe6f1001fce_nasa-0DjOJ6Q8wUs-unsplash.jpg")](/desktop/space/e2191fe6f1001fce_nasa-0DjOJ6Q8wUs-unsplash.jpg)
 [![Fefa119b69e1080b M92 Webb Close Up NIRCam Image by JWST](/.internals/thumbnails/desktop/space/fefa119b69e1080b_M92_Webb_Close-up_NIRCam_Image_by_JWST.png "Fefa119b69e1080b M92 Webb Close Up NIRCam Image by JWST")](/desktop/space/fefa119b69e1080b_M92_Webb_Close-up_NIRCam_Image_by_JWST.png)
 
+</p>
+</details>
+
 <a id="space-fictional"></a>
 
-## [space - fictional](/desktop/space%20-%20fictional/README.MD) - 33
+## [space - fictional](/desktop/space%20-%20fictional/README.MD)
+<details open>
+<summary>33 files</summary>
+<p>
+
 [![845a4bc9bda768b4_VHlGdk5.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/845a4bc9bda768b4_VHlGdk5.jpg "845a4bc9bda768b4_VHlGdk5.jpg")](/desktop/space%20-%20fictional/845a4bc9bda768b4_VHlGdk5.jpg)
 [![868e4e6666e3838f_FbNU4z9.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/868e4e6666e3838f_FbNU4z9.jpg "868e4e6666e3838f_FbNU4z9.jpg")](/desktop/space%20-%20fictional/868e4e6666e3838f_FbNU4z9.jpg)
 [![895e3c91d26732e6_j2CSjak.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/895e3c91d26732e6_j2CSjak.jpg "895e3c91d26732e6_j2CSjak.jpg")](/desktop/space%20-%20fictional/895e3c91d26732e6_j2CSjak.jpg)
@@ -660,18 +818,32 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![e4f87167260c1dd9_atLastLight.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/e4f87167260c1dd9_atLastLight.jpg "e4f87167260c1dd9_atLastLight.jpg")](/desktop/space%20-%20fictional/e4f87167260c1dd9_atLastLight.jpg)
 [![f8ffc0fd0e06101e_8JGlkCr.png](/.internals/thumbnails/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png "f8ffc0fd0e06101e_8JGlkCr.png")](/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png)
 
+</p>
+</details>
+
 <a id="stargate"></a>
 
-## [stargate](/desktop/stargate/README.MD) - 5
+## [stargate](/desktop/stargate/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![9191727263d39b99_Stargate - 1220x604.jpg](/.internals/thumbnails/desktop/stargate/9191727263d39b99_Stargate%20-%201220x604.jpg "9191727263d39b99_Stargate - 1220x604.jpg")](/desktop/stargate/9191727263d39b99_Stargate%20-%201220x604.jpg)
 [![wallhaven_42yg7m_2560x1440.jpg](/.internals/thumbnails/desktop/stargate/wallhaven_42yg7m_2560x1440.jpg "wallhaven_42yg7m_2560x1440.jpg")](/desktop/stargate/wallhaven_42yg7m_2560x1440.jpg)
 [![wallhaven_48g3k0_1920x1080.jpg](/.internals/thumbnails/desktop/stargate/wallhaven_48g3k0_1920x1080.jpg "wallhaven_48g3k0_1920x1080.jpg")](/desktop/stargate/wallhaven_48g3k0_1920x1080.jpg)
 [![wallhaven_5wq8q3_1920x1080.jpg](/.internals/thumbnails/desktop/stargate/wallhaven_5wq8q3_1920x1080.jpg "wallhaven_5wq8q3_1920x1080.jpg")](/desktop/stargate/wallhaven_5wq8q3_1920x1080.jpg)
 [![wallhaven_nm1lyk_1920x1080.jpg](/.internals/thumbnails/desktop/stargate/wallhaven_nm1lyk_1920x1080.jpg "wallhaven_nm1lyk_1920x1080.jpg")](/desktop/stargate/wallhaven_nm1lyk_1920x1080.jpg)
 
+</p>
+</details>
+
 <a id="star-trek"></a>
 
-## [star trek](/desktop/star%20trek/README.MD) - 9
+## [star trek](/desktop/star%20trek/README.MD)
+<details open>
+<summary>9 files</summary>
+<p>
+
 [![imgur_7QQkxzC_I made a Defiant wallpaper that's a little easier on the eyes, with a simple backdrop and dark colors..png](/.internals/thumbnails/desktop/star%20trek/imgur_7QQkxzC_I%20made%20a%20Defiant%20wallpaper%20that's%20a%20little%20easier%20on%20the%20eyes,%20with%20a%20simple%20backdrop%20and%20dark%20colors..png "imgur_7QQkxzC_I made a Defiant wallpaper that's a little easier on the eyes, with a simple backdrop and dark colors..png")](/desktop/star%20trek/imgur_7QQkxzC_I%20made%20a%20Defiant%20wallpaper%20that's%20a%20little%20easier%20on%20the%20eyes,%20with%20a%20simple%20backdrop%20and%20dark%20colors..png)
 [![wallhaven_0qvvqr_2560x1440.jpg](/.internals/thumbnails/desktop/star%20trek/wallhaven_0qvvqr_2560x1440.jpg "wallhaven_0qvvqr_2560x1440.jpg")](/desktop/star%20trek/wallhaven_0qvvqr_2560x1440.jpg)
 [![wallhaven_45qwp1_2880x1800.jpg](/.internals/thumbnails/desktop/star%20trek/wallhaven_45qwp1_2880x1800.jpg "wallhaven_45qwp1_2880x1800.jpg")](/desktop/star%20trek/wallhaven_45qwp1_2880x1800.jpg)
@@ -682,9 +854,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![wallhaven_5dk925_1920x1199.jpg](/.internals/thumbnails/desktop/star%20trek/wallhaven_5dk925_1920x1199.jpg "wallhaven_5dk925_1920x1199.jpg")](/desktop/star%20trek/wallhaven_5dk925_1920x1199.jpg)
 [![wallhaven_oxxpwp_3840x2160.jpg](/.internals/thumbnails/desktop/star%20trek/wallhaven_oxxpwp_3840x2160.jpg "wallhaven_oxxpwp_3840x2160.jpg")](/desktop/star%20trek/wallhaven_oxxpwp_3840x2160.jpg)
 
+</p>
+</details>
+
 <a id="star-trek-technical"></a>
 
-## [star trek technical](/desktop/star%20trek%20technical/README.MD) - 12
+## [star trek technical](/desktop/star%20trek%20technical/README.MD)
+<details open>
+<summary>12 files</summary>
+<p>
+
 [![wallhaven_01zlw1_3840x2400.png](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_01zlw1_3840x2400.png "wallhaven_01zlw1_3840x2400.png")](/desktop/star%20trek%20technical/wallhaven_01zlw1_3840x2400.png)
 [![wallhaven_0wrldx_5120x2880.jpg](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_0wrldx_5120x2880.jpg "wallhaven_0wrldx_5120x2880.jpg")](/desktop/star%20trek%20technical/wallhaven_0wrldx_5120x2880.jpg)
 [![wallhaven_39my56_2560x1440.jpg](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_39my56_2560x1440.jpg "wallhaven_39my56_2560x1440.jpg")](/desktop/star%20trek%20technical/wallhaven_39my56_2560x1440.jpg)
@@ -698,9 +877,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![wallhaven_nzvx8g_1920x1200.jpg](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_nzvx8g_1920x1200.jpg "wallhaven_nzvx8g_1920x1200.jpg")](/desktop/star%20trek%20technical/wallhaven_nzvx8g_1920x1200.jpg)
 [![wallhaven_ym6v8g_6000x2824.png](/.internals/thumbnails/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png "wallhaven_ym6v8g_6000x2824.png")](/desktop/star%20trek%20technical/wallhaven_ym6v8g_6000x2824.png)
 
+</p>
+</details>
+
 <a id="synthwave"></a>
 
-## [synthwave](/desktop/synthwave/README.MD) - 28
+## [synthwave](/desktop/synthwave/README.MD)
+<details open>
+<summary>28 files</summary>
+<p>
+
 [![1188016.jpg](/.internals/thumbnails/desktop/synthwave/1188016.jpg "1188016.jpg")](/desktop/synthwave/1188016.jpg)
 [![17740155_159Z_2107.w026.n002.628B.p1.628.jpg](/.internals/thumbnails/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg "17740155_159Z_2107.w026.n002.628B.p1.628.jpg")](/desktop/synthwave/17740155_159Z_2107.w026.n002.628B.p1.628.jpg)
 [![5236169.jpg](/.internals/thumbnails/desktop/synthwave/5236169.jpg "5236169.jpg")](/desktop/synthwave/5236169.jpg)
@@ -730,9 +916,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![wallpaperflare.com_wallpaper (7).jpg](/.internals/thumbnails/desktop/synthwave/wallpaperflare.com_wallpaper%20(7).jpg "wallpaperflare.com_wallpaper (7).jpg")](/desktop/synthwave/wallpaperflare.com_wallpaper%20(7).jpg)
 [![wallpaperflare.com_wallpaper.jpg](/.internals/thumbnails/desktop/synthwave/wallpaperflare.com_wallpaper.jpg "wallpaperflare.com_wallpaper.jpg")](/desktop/synthwave/wallpaperflare.com_wallpaper.jpg)
 
+</p>
+</details>
+
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/desktop/the%20legend%20of%20zelda/README.MD) - 6
+## [the legend of zelda](/desktop/the%20legend%20of%20zelda/README.MD)
+<details open>
+<summary>6 files</summary>
+<p>
+
 [![ Link and Light Dragon The Legend Of Zelda and 1 More Drawn by Fmorich 3c13151d87e78f0a208078ff9b9a8ecd](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/link_and_light_dragon_the_legend_of_zelda_and_1_more_drawn_by_fmorich__3c13151d87e78f0a208078ff9b9a8ecd.jpg " Link and Light Dragon The Legend Of Zelda and 1 More Drawn by Fmorich 3c13151d87e78f0a208078ff9b9a8ecd")](/desktop/the%20legend%20of%20zelda/link_and_light_dragon_the_legend_of_zelda_and_1_more_drawn_by_fmorich__3c13151d87e78f0a208078ff9b9a8ecd.jpg)
 [![pxfuel (10).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(10).jpg "pxfuel (10).jpg")](/desktop/the%20legend%20of%20zelda/pxfuel%20(10).jpg)
 [![pxfuel (11).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(11).jpg "pxfuel (11).jpg")](/desktop/the%20legend%20of%20zelda/pxfuel%20(11).jpg)
@@ -740,9 +933,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![pxfuel (7).jpg](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/pxfuel%20(7).jpg "pxfuel (7).jpg")](/desktop/the%20legend%20of%20zelda/pxfuel%20(7).jpg)
 [![The Legend Of Zelda Camping In The Wild by Atarts Db72g3j](/.internals/thumbnails/desktop/the%20legend%20of%20zelda/the_legend_of_zelda-camping_in_the_wild_by_atarts_db72g3j.jpg "The Legend Of Zelda Camping In The Wild by Atarts Db72g3j")](/desktop/the%20legend%20of%20zelda/the_legend_of_zelda-camping_in_the_wild_by_atarts_db72g3j.jpg)
 
+</p>
+</details>
+
 <a id="tmnt"></a>
 
-## [tmnt](/desktop/tmnt/README.MD) - 15
+## [tmnt](/desktop/tmnt/README.MD)
+<details open>
+<summary>15 files</summary>
+<p>
+
 [![1337531.png](/.internals/thumbnails/desktop/tmnt/1337531.png "1337531.png")](/desktop/tmnt/1337531.png)
 [![222365.jpg](/.internals/thumbnails/desktop/tmnt/222365.jpg "222365.jpg")](/desktop/tmnt/222365.jpg)
 [![361249.jpg](/.internals/thumbnails/desktop/tmnt/361249.jpg "361249.jpg")](/desktop/tmnt/361249.jpg)
@@ -759,9 +959,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![zz_set_01_03_raphael.jpg](/.internals/thumbnails/desktop/tmnt/zz_set_01_03_raphael.jpg "zz_set_01_03_raphael.jpg")](/desktop/tmnt/zz_set_01_03_raphael.jpg)
 [![zz_set_01_04_michelangelo.jpg](/.internals/thumbnails/desktop/tmnt/zz_set_01_04_michelangelo.jpg "zz_set_01_04_michelangelo.jpg")](/desktop/tmnt/zz_set_01_04_michelangelo.jpg)
 
+</p>
+</details>
+
 <a id="tolkien"></a>
 
-## [tolkien](/desktop/tolkien/README.MD) - 51
+## [tolkien](/desktop/tolkien/README.MD)
+<details open>
+<summary>51 files</summary>
+<p>
+
 [![1ZlXSLP.jpeg](/.internals/thumbnails/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](/desktop/tolkien/1ZlXSLP.jpeg)
 [![20240113_094430.jpg](/.internals/thumbnails/desktop/tolkien/20240113_094430.jpg "20240113_094430.jpg")](/desktop/tolkien/20240113_094430.jpg)
 [![3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg](/.internals/thumbnails/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg "3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg")](/desktop/tolkien/3MOl_udCc2.jpg.27a8fb8f2a6dc5dcd4ae767851f6455b.jpg)
@@ -814,9 +1021,16 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![vDuSCPs.jpeg](/.internals/thumbnails/desktop/tolkien/vDuSCPs.jpeg "vDuSCPs.jpeg")](/desktop/tolkien/vDuSCPs.jpeg)
 [![wallhaven_q6k5dq_3840x2160.png](/.internals/thumbnails/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png "wallhaven_q6k5dq_3840x2160.png")](/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png)
 
+</p>
+</details>
+
 <a id="tomb-raider-2013"></a>
 
-## [tomb raider 2013](/desktop/tomb%20raider%202013/README.MD) - 11
+## [tomb raider 2013](/desktop/tomb%20raider%202013/README.MD)
+<details open>
+<summary>11 files</summary>
+<p>
+
 [![basecamp.jpg](/.internals/thumbnails/desktop/tomb%20raider%202013/basecamp.jpg "basecamp.jpg")](/desktop/tomb%20raider%202013/basecamp.jpg)
 [![campsite.jpg](/.internals/thumbnails/desktop/tomb%20raider%202013/campsite.jpg "campsite.jpg")](/desktop/tomb%20raider%202013/campsite.jpg)
 [![cliffhanger.jpg](/.internals/thumbnails/desktop/tomb%20raider%202013/cliffhanger.jpg "cliffhanger.jpg")](/desktop/tomb%20raider%202013/cliffhanger.jpg)
@@ -831,9 +1045,16 @@ Tomb Raider 2013 Concept Art by Johann Papayou Blais Wallpaper 2560x1440")](/des
 [![Tomb Raider Underworld Art Wallpaper 1920x1080 Tomb Raider ....jpg](/.internals/thumbnails/desktop/tomb%20raider%202013/Tomb%20Raider%20Underworld%20Art%20Wallpaper%201920x1080%20Tomb%20Raider%20....jpg "Tomb Raider Underworld Art Wallpaper 1920x1080 Tomb Raider ....jpg")](/desktop/tomb%20raider%202013/Tomb%20Raider%20Underworld%20Art%20Wallpaper%201920x1080%20Tomb%20Raider%20....jpg)
 [![WW2-SOS.jpg](/.internals/thumbnails/desktop/tomb%20raider%202013/WW2-SOS.jpg "WW2-SOS.jpg")](/desktop/tomb%20raider%202013/WW2-SOS.jpg)
 
+</p>
+</details>
+
 <a id="vector-vistas"></a>
 
-## [vector vistas](/desktop/vector%20vistas/README.MD) - 13
+## [vector vistas](/desktop/vector%20vistas/README.MD)
+<details open>
+<summary>13 files</summary>
+<p>
+
 [![93306c4bb36d18f6_minimal_landscape.jpg](/.internals/thumbnails/desktop/vector%20vistas/93306c4bb36d18f6_minimal_landscape.jpg "93306c4bb36d18f6_minimal_landscape.jpg")](/desktop/vector%20vistas/93306c4bb36d18f6_minimal_landscape.jpg)
 [![d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg](/.internals/thumbnails/desktop/vector%20vistas/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg "d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg")](/desktop/vector%20vistas/d96f33840f8768d8_RDT_20231106_0046546244189923785616235.jpg)
 [![d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg](/.internals/thumbnails/desktop/vector%20vistas/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg "d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg")](/desktop/vector%20vistas/d9a62619d9e60739_RDT_20231106_0046137176026357718837753.jpg)
@@ -848,14 +1069,24 @@ Tomb Raider 2013 Concept Art by Johann Papayou Blais Wallpaper 2560x1440")](/des
 [![undefined - Imgur (4).jpg](/.internals/thumbnails/desktop/vector%20vistas/undefined%20-%20Imgur%20(4).jpg "undefined - Imgur (4).jpg")](/desktop/vector%20vistas/undefined%20-%20Imgur%20(4).jpg)
 [![undefined - Imgur.png](/.internals/thumbnails/desktop/vector%20vistas/undefined%20-%20Imgur.png "undefined - Imgur.png")](/desktop/vector%20vistas/undefined%20-%20Imgur.png)
 
+</p>
+</details>
+
 <a id="villages"></a>
 
-## [villages](/desktop/villages/README.MD) - 5
+## [villages](/desktop/villages/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![cute-town-dark.png](/.internals/thumbnails/desktop/villages/cute-town-dark.png "cute-town-dark.png")](/desktop/villages/cute-town-dark.png)
 [![forest.png](/.internals/thumbnails/desktop/villages/forest.png "forest.png")](/desktop/villages/forest.png)
 [![japan3.jpg](/.internals/thumbnails/desktop/villages/japan3.jpg "japan3.jpg")](/desktop/villages/japan3.jpg)
 [![japan.png](/.internals/thumbnails/desktop/villages/japan.png "japan.png")](/desktop/villages/japan.png)
 [![landscape2.jpg](/.internals/thumbnails/desktop/villages/landscape2.jpg "landscape2.jpg")](/desktop/villages/landscape2.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

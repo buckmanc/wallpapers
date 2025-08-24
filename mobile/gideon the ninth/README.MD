@@ -12,6 +12,9 @@
 [![lars-bundvx-amodt-standingshothood.jpg](/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg "lars-bundvx-amodt-standingshothood.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

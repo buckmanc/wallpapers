@@ -69,6 +69,9 @@ Unhinged Forest by John Avon
 You Look Upon The Tarrasque by Kekai Kotaki
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -1,10 +1,14 @@
-# music - 120
-- [album art](#album-art) - 100
-- [artist photos](#artist-photos) - 20
+# music - 130
+- [album art](#album-art) - 108
+- [artist photos](#artist-photos) - 22
 
 <a id="album-art"></a>
 
-## [album art](/mobile/music/album%20art/README.MD) - 100
+## [album art](/mobile/music/album%20art/README.MD)
+<details open>
+<summary>108 files</summary>
+<p>
+
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg)
@@ -16,6 +20,7 @@
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/album%20art/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](/mobile/music/album%20art/Apocryphos%20-%20Against%20Civilization.jpg)
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 [![Bell Witch - Longing.jpg](/.internals/thumbnails/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg)
+[![Black Spell - The Purple Skull.jpg](/.internals/thumbnails/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg "Black Spell - The Purple Skull.jpg")](/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg)
 [![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 [![Bloodywood - Nu Delhi.jpg](/.internals/thumbnails/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg "Bloodywood - Nu Delhi.jpg")](/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg)
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
@@ -25,6 +30,8 @@
 [![Darkher - Where the Devil Waits.jpg](/.internals/thumbnails/mobile/music/album%20art/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](/mobile/music/album%20art/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
 [![DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg](/.internals/thumbnails/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg "DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg")](/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg)
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/.internals/thumbnails/mobile/music/album%20art/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](/mobile/music/album%20art/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
+[![Ecstatic - Wildest Dreams.png](/.internals/thumbnails/mobile/music/album%20art/Ecstatic%20-%20Wildest%20Dreams.png "Ecstatic - Wildest Dreams.png")](/mobile/music/album%20art/Ecstatic%20-%20Wildest%20Dreams.png)
+[![Elderwind - The Magic of Nature.jpg](/.internals/thumbnails/mobile/music/album%20art/Elderwind%20-%20The%20Magic%20of%20Nature.jpg "Elderwind - The Magic of Nature.jpg")](/mobile/music/album%20art/Elderwind%20-%20The%20Magic%20of%20Nature.jpg)
 [![Elffor - Temple of the Dead.jpg](/.internals/thumbnails/mobile/music/album%20art/Elffor%20-%20Temple%20of%20the%20Dead.jpg "Elffor - Temple of the Dead.jpg")](/mobile/music/album%20art/Elffor%20-%20Temple%20of%20the%20Dead.jpg)
 [![Enterprise Earth - Luciferous _Deluxe Edition_.jpg](/.internals/thumbnails/mobile/music/album%20art/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg "Enterprise Earth - Luciferous _Deluxe Edition_.jpg")](/mobile/music/album%20art/Enterprise%20Earth%20-%20Luciferous%20_Deluxe%20Edition_.jpg)
 [![Eurielle - We All Fall Down 2022.jpg](/.internals/thumbnails/mobile/music/album%20art/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg "Eurielle - We All Fall Down 2022.jpg")](/mobile/music/album%20art/Eurielle%20-%20We%20All%20Fall%20Down%202022.jpg)
@@ -40,6 +47,7 @@
 [![Green Lung - Black Harvest.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20Black%20Harvest.jpg "Green Lung - Black Harvest.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20Black%20Harvest.jpg)
 [![Green Lung - This Heathen Land.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
 [![Green Lung - Woodland Rites.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg)
+[![Hermóðr - Forest Sky.jpg](/.internals/thumbnails/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg "Hermóðr - Forest Sky.jpg")](/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg)
 [![hMNQOjVBLiU (1).jpg](/.internals/thumbnails/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg "hMNQOjVBLiU (1).jpg")](/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg)
 [![IC3PEAK - Kiss Of Death.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 [![IC3PEAK - Сладкая жизнь.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
@@ -71,14 +79,18 @@
 [![Odem Medo - Pumpkin Pandemonium!.jpg](/.internals/thumbnails/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg "Odem Medo - Pumpkin Pandemonium!.jpg")](/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg)
 [![Old Sorcery - Dragon Citadel Elegies.png](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png "Old Sorcery - Dragon Citadel Elegies.png")](/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png)
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
+[![ONMYO-ZA - 龍凰童子.jpg](/.internals/thumbnails/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg "ONMYO-ZA - 龍凰童子.jpg")](/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg)
 [![Osi And The Jupiter - Uthuling Hyl.jpg](/.internals/thumbnails/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
+[![Paleowolf - Prehistoric Meditations.jpg](/.internals/thumbnails/mobile/music/album%20art/Paleowolf%20-%20Prehistoric%20Meditations.jpg "Paleowolf - Prehistoric Meditations.jpg")](/mobile/music/album%20art/Paleowolf%20-%20Prehistoric%20Meditations.jpg)
 [![Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg](/.internals/thumbnails/mobile/music/album%20art/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg "Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg")](/mobile/music/album%20art/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg)
 [![Picture Talk - Moonlight Lullaby.jpg](/.internals/thumbnails/mobile/music/album%20art/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg "Picture Talk - Moonlight Lullaby.jpg")](/mobile/music/album%20art/Picture%20Talk%20-%20Moonlight%20Lullaby.jpg)
 [![Reliqa - Eventide.jpg](/.internals/thumbnails/mobile/music/album%20art/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](/mobile/music/album%20art/Reliqa%20-%20Eventide.jpg)
+[![Rifti Beats - Lofi of the Lost Woods.jpg](/.internals/thumbnails/mobile/music/album%20art/Rifti%20Beats%20-%20Lofi%20of%20the%20Lost%20Woods.jpg "Rifti Beats - Lofi of the Lost Woods.jpg")](/mobile/music/album%20art/Rifti%20Beats%20-%20Lofi%20of%20the%20Lost%20Woods.jpg)
 [![Rose Funeral - Father Death.jpg](/.internals/thumbnails/mobile/music/album%20art/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](/mobile/music/album%20art/Rose%20Funeral%20-%20Father%20Death.jpg)
 [![Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg](/.internals/thumbnails/mobile/music/album%20art/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg "Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg")](/mobile/music/album%20art/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg)
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](/.internals/thumbnails/mobile/music/album%20art/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](/mobile/music/album%20art/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
+[![Seth - La France des Maudits.jpg](/.internals/thumbnails/mobile/music/album%20art/Seth%20-%20La%20France%20des%20Maudits.jpg "Seth - La France des Maudits.jpg")](/mobile/music/album%20art/Seth%20-%20La%20France%20des%20Maudits.jpg)
 [![She Must Burn - Grimoire.jpg](/.internals/thumbnails/mobile/music/album%20art/She%20Must%20Burn%20-%20Grimoire.jpg "She Must Burn - Grimoire.jpg")](/mobile/music/album%20art/She%20Must%20Burn%20-%20Grimoire.jpg)
 [![Shirobon - Special Selection, Vol.1 _2006-2019_.jpg](/.internals/thumbnails/mobile/music/album%20art/Shirobon%20-%20Special%20Selection,%20Vol.1%20_2006-2019_.jpg "Shirobon - Special Selection, Vol.1 _2006-2019_.jpg")](/mobile/music/album%20art/Shirobon%20-%20Special%20Selection,%20Vol.1%20_2006-2019_.jpg)
 [![Shrine - Celestial Fire.jpg](/.internals/thumbnails/mobile/music/album%20art/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](/mobile/music/album%20art/Shrine%20-%20Celestial%20Fire.jpg)
@@ -106,9 +118,16 @@
 [![Znous - Aleph.Beth.Gimel.jpg](/.internals/thumbnails/mobile/music/album%20art/Znous%20-%20Aleph.Beth.Gimel.jpg "Znous - Aleph.Beth.Gimel.jpg")](/mobile/music/album%20art/Znous%20-%20Aleph.Beth.Gimel.jpg)
 [![ZØMB - PEW PEW.jpg](/.internals/thumbnails/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg "ZØMB - PEW PEW.jpg")](/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg)
 
+</p>
+</details>
+
 <a id="artist-photos"></a>
 
-## [artist photos](/mobile/music/artist%20photos/README.MD) - 20
+## [artist photos](/mobile/music/artist%20photos/README.MD)
+<details open>
+<summary>22 files</summary>
+<p>
+
 [![3470313592801709036_3470313583515477091.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg "3470313592801709036_3470313583515477091.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg)
 [![3520037827628344901_3520037817880831226.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3520037827628344901_3520037817880831226.jpg "3520037827628344901_3520037817880831226.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3520037827628344901_3520037817880831226.jpg)
 [![3531680287626376331_3531680279640502242.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3531680287626376331_3531680279640502242.jpg "3531680287626376331_3531680279640502242.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3531680287626376331_3531680279640502242.jpg)
@@ -128,7 +147,12 @@
 [![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
 [![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
 [![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
+[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/misc/firtan-2.jpg)
+[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg)
 [![3540551220_photo.jpg](/.internals/thumbnails/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg "3540551220_photo.jpg")](/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

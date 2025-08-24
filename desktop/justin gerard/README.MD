@@ -6,6 +6,9 @@
 [![justin-gerard-dh1901-n32-v1x05a-72web.jpg](/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg "justin-gerard-dh1901-n32-v1x05a-72web.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/justin%20gerard/justin-gerard-dh1901-n32-v1x05a-72web.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

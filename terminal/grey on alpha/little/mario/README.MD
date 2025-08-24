@@ -12,6 +12,9 @@
 [![shy_guy.png](/terminal/grey%20on%20alpha/little/mario/shy_guy.png "shy_guy.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/mario/shy_guy.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/little/README.MD)

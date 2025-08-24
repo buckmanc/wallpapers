@@ -30,6 +30,9 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk
 [![YcqXdiz.jpg](/desktop/skyrim%20art/YcqXdiz.jpg "YcqXdiz.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20art/YcqXdiz.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

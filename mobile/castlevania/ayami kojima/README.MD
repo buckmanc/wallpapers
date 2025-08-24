@@ -4,7 +4,11 @@
 
 <a id="castlevania"></a>
 
-## [castlevania](/mobile/castlevania/ayami%20kojima/castlevania/README.MD) - 32
+## [castlevania](/mobile/castlevania/ayami%20kojima/castlevania/README.MD)
+<details open>
+<summary>32 files</summary>
+<p>
+
 [![09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg "09-castlevania.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg)
 [![10_-_okwphcm.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/10_-_okwphcm.png "10_-_okwphcm.png")](/mobile/castlevania/ayami%20kojima/castlevania/10_-_okwphcm.png)
 [![12_-_k4ddwli.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/12_-_k4ddwli.png "12_-_k4ddwli.png")](/mobile/castlevania/ayami%20kojima/castlevania/12_-_k4ddwli.png)
@@ -38,9 +42,16 @@
 [![mathias_cronqvist.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png "mathias_cronqvist.png")](/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png)
 [![matthias_cronqvist_02.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg "matthias_cronqvist_02.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg)
 
+</p>
+</details>
+
 <a id="original"></a>
 
-## [original](/mobile/castlevania/ayami%20kojima/original/README.MD) - 14
+## [original](/mobile/castlevania/ayami%20kojima/original/README.MD)
+<details open>
+<summary>14 files</summary>
+<p>
+
 [![030-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/030-color.jpg "030-color.jpg")](/mobile/castlevania/ayami%20kojima/original/030-color.jpg)
 [![045-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/045-color.jpg "045-color.jpg")](/mobile/castlevania/ayami%20kojima/original/045-color.jpg)
 [![072-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/072-color.jpg "072-color.jpg")](/mobile/castlevania/ayami%20kojima/original/072-color.jpg)
@@ -55,6 +66,9 @@
 [![postcard01.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/postcard01.jpg "postcard01.jpg")](/mobile/castlevania/ayami%20kojima/original/postcard01.jpg)
 [![postcard02.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/postcard02.jpg "postcard02.jpg")](/mobile/castlevania/ayami%20kojima/original/postcard02.jpg)
 [![postcard03.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/postcard03.jpg "postcard03.jpg")](/mobile/castlevania/ayami%20kojima/original/postcard03.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

@@ -101,6 +101,9 @@ Transformation by Ultimatemaverickx
 Triple Attack by Ultimatemaverickx
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)

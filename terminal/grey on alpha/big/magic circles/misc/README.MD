@@ -57,6 +57,9 @@ Magic Circle Lycarus by Dragonphyrre
 [![magic_circle_planets_drawing.png](/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/big/magic%20circles/misc/magic_circle_planets_drawing.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/big/magic%20circles/README.MD)

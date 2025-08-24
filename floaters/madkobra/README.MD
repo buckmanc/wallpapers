@@ -18,6 +18,9 @@
 [![shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png](/floaters/madkobra/shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png "shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/floaters/madkobra/shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/floaters/README.MD)

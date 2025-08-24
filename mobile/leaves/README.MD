@@ -38,6 +38,9 @@
 [![f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg](/mobile/leaves/f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg "f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/leaves/f894254bdd46b89c_84dd16067c81e3f6d32438e61deda0c0.jpeg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

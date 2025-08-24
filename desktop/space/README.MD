@@ -236,6 +236,9 @@ Dc56335a01f3e781 The Heart Of The Phantom Galaxy by JWST
 Fefa119b69e1080b M92 Webb Close Up NIRCam Image by JWST
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

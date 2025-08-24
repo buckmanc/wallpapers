@@ -14,6 +14,9 @@
 [![d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg](/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg "d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cityscapes/d28e6971292d2df4_andre-benz-JBkwaYMuhdc-unsplash.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

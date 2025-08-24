@@ -18,6 +18,9 @@
 [![wallhaven_oxxpwp_3840x2160.jpg](/desktop/star%20trek/wallhaven_oxxpwp_3840x2160.jpg "wallhaven_oxxpwp_3840x2160.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/star%20trek/wallhaven_oxxpwp_3840x2160.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

@@ -8,6 +8,9 @@
 [![ubuntu_circle_of_friends_old.png](/terminal/chromatic%20aberration/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/ubuntu/ubuntu_circle_of_friends_old.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

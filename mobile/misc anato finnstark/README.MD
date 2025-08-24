@@ -81,6 +81,9 @@ Darth Vader by Anato Finnstark
  Paul Atreides Dune Drawn by Anato Finnstark 36847304eefc6632ad82550e526f36f0
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -47,6 +47,9 @@ Yumi Back Endpaper by Aliya Chen
 [![Yumi_wallpaper_horizontal_no_title.jpg](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/cosmere/README.MD)

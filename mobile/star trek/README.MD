@@ -18,6 +18,9 @@
 [![wallhaven_yjl1lg_1920x1080.jpg](/mobile/star%20trek/wallhaven_yjl1lg_1920x1080.jpg "wallhaven_yjl1lg_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/star%20trek/wallhaven_yjl1lg_1920x1080.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

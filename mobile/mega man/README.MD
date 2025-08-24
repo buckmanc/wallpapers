@@ -7,7 +7,11 @@
 
 <a id="classic"></a>
 
-## [classic](/mobile/mega%20man/classic/README.MD) - 44
+## [classic](/mobile/mega%20man/classic/README.MD)
+<details open>
+<summary>44 files</summary>
+<p>
+
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
@@ -53,9 +57,16 @@
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
 [![Triple Attack by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png "Triple Attack by Ultimatemaverickx")](/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png)
 
+</p>
+</details>
+
 <a id="mega-man-x"></a>
 
-## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD) - 125
+## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD)
+<details open>
+<summary>125 files</summary>
+<p>
+
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
 [![00 Armors E Chae Rockman X1 First Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png "00 Armors E Chae Rockman X1 First Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png)
 [![00 Armors E Chae Rockman X2 2nd Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png "00 Armors E Chae Rockman X2 2nd Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png)
@@ -182,9 +193,16 @@
 [![ X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png " X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707")](/mobile/mega%20man/mega%20man%20x/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png)
 [![Zero and Dr Wily Mega Man by Hoshi Mikan](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](/mobile/mega%20man/mega%20man%20x/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)
 
+</p>
+</details>
+
 <a id="mega-man-x-dive"></a>
 
-## [mega man x dive](/mobile/mega%20man/mega%20man%20x%20dive/README.MD) - 37
+## [mega man x dive](/mobile/mega%20man/mega%20man%20x%20dive/README.MD)
+<details open>
+<summary>37 files</summary>
+<p>
+
 [![00_armors_mmx_dive_rockman_x0_x.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png "00_armors_mmx_dive_rockman_x0_x.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png)
 [![00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png "00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png)
 [![00_armors_mmx_dive_rockman_x2_second_armor_dive.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x2_second_armor_dive.png "00_armors_mmx_dive_rockman_x2_second_armor_dive.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x2_second_armor_dive.png)
@@ -223,9 +241,16 @@
 [![00_mmx_dive_zz_mmxd_via_2.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_mmx_dive_zz_mmxd_via_2.png "00_mmx_dive_zz_mmxd_via_2.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_mmx_dive_zz_mmxd_via_2.png)
 [![106494042_p17.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/106494042_p17.png "106494042_p17.png")](/mobile/mega%20man/mega%20man%20x%20dive/106494042_p17.png)
 
+</p>
+</details>
+
 <a id="mega-man-zero"></a>
 
-## [mega man zero](/mobile/mega%20man/mega%20man%20zero/README.MD) - 37
+## [mega man zero](/mobile/mega%20man/mega%20man%20zero/README.MD)
+<details open>
+<summary>37 files</summary>
+<p>
+
 [![104358541_p0.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg)
 [![104922899_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/104922899_p0.png "104922899_p0.png")](/mobile/mega%20man/mega%20man%20zero/104922899_p0.png)
 [![105250432_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/105250432_p0.png "105250432_p0.png")](/mobile/mega%20man/mega%20man%20zero/105250432_p0.png)
@@ -264,9 +289,16 @@
 [![ Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg " Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29")](/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
 
+</p>
+</details>
+
 <a id="pixel"></a>
 
-## [pixel](/mobile/mega%20man/pixel/README.MD) - 25
+## [pixel](/mobile/mega%20man/pixel/README.MD)
+<details open>
+<summary>25 files</summary>
+<p>
+
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
 [![gbmm2-wily_castle_w2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png "gbmm2-wily_castle_w2_enlarged.png")](/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png)
 [![gbmm3-wily_castle_w3_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png "gbmm3-wily_castle_w3_enlarged.png")](/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png)
@@ -292,6 +324,9 @@
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png)
 [![pcmm3-wilyfor3pc_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png "pcmm3-wilyfor3pc_enlarged.png")](/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png)
+
+</p>
+</details>
 
 
 [back to top](#)

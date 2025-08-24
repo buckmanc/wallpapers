@@ -76,6 +76,9 @@ C3cc2cb33297cb2c Iwilding Demonssouls by Ian Wilding
 [![wallpaper_demons_souls_2020_03_1920x1080.jpg](/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg "wallpaper_demons_souls_2020_03_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

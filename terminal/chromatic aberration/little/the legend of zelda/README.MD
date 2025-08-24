@@ -16,6 +16,9 @@
 [![zelda_hylian_shield.png](/terminal/chromatic%20aberration/little/the%20legend%20of%20zelda/zelda_hylian_shield.png "zelda_hylian_shield.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/the%20legend%20of%20zelda/zelda_hylian_shield.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

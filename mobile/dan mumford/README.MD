@@ -88,6 +88,9 @@ Mega Man X by Dan Mumford
 [![ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg](/mobile/dan%20mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg "ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/dan%20mumford/ZRP3uMyOjPwOknQH1NBw--1--2lt5a_2x.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

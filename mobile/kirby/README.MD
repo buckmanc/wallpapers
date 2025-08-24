@@ -176,6 +176,9 @@ Vacation Kirby by X Xasm
 [![yq1zf9cmgci21.jpg](/mobile/kirby/yq1zf9cmgci21.jpg "yq1zf9cmgci21.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/kirby/yq1zf9cmgci21.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

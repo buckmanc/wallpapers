@@ -5,7 +5,11 @@
 
 <a id="madkobra"></a>
 
-## [madkobra](/floaters/madkobra/README.MD) - 9
+## [madkobra](/floaters/madkobra/README.MD)
+<details open>
+<summary>9 files</summary>
+<p>
+
 [![next-level-ramen.png](/.internals/thumbnails/floaters/madkobra/next-level-ramen.png "next-level-ramen.png")](/floaters/madkobra/next-level-ramen.png)
 [![shirt-1556630796-50ba3d1f37773f068e62d25ae0a40e99.png](/.internals/thumbnails/floaters/madkobra/shirt-1556630796-50ba3d1f37773f068e62d25ae0a40e99.png "shirt-1556630796-50ba3d1f37773f068e62d25ae0a40e99.png")](/floaters/madkobra/shirt-1556630796-50ba3d1f37773f068e62d25ae0a40e99.png)
 [![shirt-1556633013-2cce594a686c45a41c443d6770894445.png](/.internals/thumbnails/floaters/madkobra/shirt-1556633013-2cce594a686c45a41c443d6770894445.png "shirt-1556633013-2cce594a686c45a41c443d6770894445.png")](/floaters/madkobra/shirt-1556633013-2cce594a686c45a41c443d6770894445.png)
@@ -16,9 +20,16 @@
 [![shirt-1562876082-a9cb967036d893aa5553a2e8fb5a41e6.png](/.internals/thumbnails/floaters/madkobra/shirt-1562876082-a9cb967036d893aa5553a2e8fb5a41e6.png "shirt-1562876082-a9cb967036d893aa5553a2e8fb5a41e6.png")](/floaters/madkobra/shirt-1562876082-a9cb967036d893aa5553a2e8fb5a41e6.png)
 [![shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png](/.internals/thumbnails/floaters/madkobra/shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png "shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png")](/floaters/madkobra/shirt-1600965661-3b238ce411b7a1e84ce571e15966c1e5.png)
 
+</p>
+</details>
+
 <a id="steven-rhodes"></a>
 
-## [steven rhodes](/floaters/steven%20rhodes/README.MD) - 188
+## [steven rhodes](/floaters/steven%20rhodes/README.MD)
+<details open>
+<summary>188 files</summary>
+<p>
+
 [![achieve-your-dreams.png](/.internals/thumbnails/floaters/steven%20rhodes/achieve-your-dreams.png "achieve-your-dreams.png")](/floaters/steven%20rhodes/achieve-your-dreams.png)
 [![a-cure-for-stupid-people.png](/.internals/thumbnails/floaters/steven%20rhodes/a-cure-for-stupid-people.png "a-cure-for-stupid-people.png")](/floaters/steven%20rhodes/a-cure-for-stupid-people.png)
 [![adopt-a-familiar-part-2.png](/.internals/thumbnails/floaters/steven%20rhodes/adopt-a-familiar-part-2.png "adopt-a-familiar-part-2.png")](/floaters/steven%20rhodes/adopt-a-familiar-part-2.png)
@@ -208,9 +219,16 @@
 [![youre-killing-it.png](/.internals/thumbnails/floaters/steven%20rhodes/youre-killing-it.png "youre-killing-it.png")](/floaters/steven%20rhodes/youre-killing-it.png)
 [![youre-my-crush.png](/.internals/thumbnails/floaters/steven%20rhodes/youre-my-crush.png "youre-my-crush.png")](/floaters/steven%20rhodes/youre-my-crush.png)
 
+</p>
+</details>
+
 <a id="teeturtle"></a>
 
-## [teeturtle](/floaters/teeturtle/README.MD) - 54
+## [teeturtle](/floaters/teeturtle/README.MD)
+<details open>
+<summary>54 files</summary>
+<p>
+
 [![Bats-and-Baubles.jpg](/.internals/thumbnails/floaters/teeturtle/Bats-and-Baubles.jpg "Bats-and-Baubles.jpg")](/floaters/teeturtle/Bats-and-Baubles.jpg)
 [![Blood-Moon-Dragon.jpg](/.internals/thumbnails/floaters/teeturtle/Blood-Moon-Dragon.jpg "Blood-Moon-Dragon.jpg")](/floaters/teeturtle/Blood-Moon-Dragon.jpg)
 [![Book-Hoarder.jpg](/.internals/thumbnails/floaters/teeturtle/Book-Hoarder.jpg "Book-Hoarder.jpg")](/floaters/teeturtle/Book-Hoarder.jpg)
@@ -265,6 +283,9 @@
 [![zz02-reading99-Tale-of-Scales.jpg](/.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tale-of-Scales.jpg "zz02-reading99-Tale-of-Scales.jpg")](/floaters/teeturtle/zz02-reading99-Tale-of-Scales.jpg)
 [![zz02-reading99-Tale-of-Tails.jpg](/.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tale-of-Tails.jpg "zz02-reading99-Tale-of-Tails.jpg")](/floaters/teeturtle/zz02-reading99-Tale-of-Tails.jpg)
 [![zz02-reading99-Tales-of-Magic.jpg](/.internals/thumbnails/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg "zz02-reading99-Tales-of-Magic.jpg")](/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

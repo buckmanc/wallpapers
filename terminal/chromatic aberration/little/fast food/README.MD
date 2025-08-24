@@ -4,6 +4,9 @@
 [![pizza_hut_1967_1999.png](/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png "pizza_hut_1967_1999.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/fast%20food/pizza_hut_1967_1999.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

@@ -28,6 +28,9 @@
 [![postcard03.jpg](/mobile/castlevania/ayami%20kojima/original/postcard03.jpg "postcard03.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/castlevania/ayami%20kojima/original/postcard03.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/castlevania/ayami%20kojima/README.MD)

@@ -12,6 +12,9 @@
 [![Widerspruch_2.png](/mobile/orbite/Widerspruch_2.png "Widerspruch_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/orbite/Widerspruch_2.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

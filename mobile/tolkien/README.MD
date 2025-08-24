@@ -247,6 +247,9 @@ Zz Dd The Mines Of Moria by Alan Lee
 Zz Dd West Door Of Moria by Aegeri
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

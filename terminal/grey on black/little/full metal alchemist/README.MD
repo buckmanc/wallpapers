@@ -6,6 +6,9 @@
 [![full_metal_alchemist_ouroboros.png](/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png "full_metal_alchemist_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/full%20metal%20alchemist/full_metal_alchemist_ouroboros.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20black/little/README.MD)

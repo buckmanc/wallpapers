@@ -11,6 +11,9 @@ Thirty Seven Spirits by Aliya Chen
 [![Yumi_wallpaper_horizontal_no_title.jpg](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/cosmere/README.MD)

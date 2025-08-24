@@ -26,6 +26,9 @@
 [![peakpx (9).jpg](/desktop/sea%20of%20thieves/peakpx%20(9).jpg "peakpx (9).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/sea%20of%20thieves/peakpx%20(9).jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

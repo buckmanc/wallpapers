@@ -73,6 +73,9 @@ Nes Controller Wallpaper by Doctor G D41urm3
 [![wp9759104-game-boy-color-wallpapers.png](/mobile/nintendo/hardware/wp9759104-game-boy-color-wallpapers.png "wp9759104-game-boy-color-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/nintendo/hardware/wp9759104-game-boy-color-wallpapers.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/nintendo/README.MD)

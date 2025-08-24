@@ -10,6 +10,9 @@
 [![wallhaven_nm1lyk_1920x1080.jpg](/desktop/stargate/wallhaven_nm1lyk_1920x1080.jpg "wallhaven_nm1lyk_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/stargate/wallhaven_nm1lyk_1920x1080.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

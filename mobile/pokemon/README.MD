@@ -254,6 +254,9 @@ Wooloo Wooloo Wooo by Twinchesterz Ddacjgo
 [![wp5834646-pokemon-pc-desktop-wallpapers.png](/mobile/pokemon/wp5834646-pokemon-pc-desktop-wallpapers.png "wp5834646-pokemon-pc-desktop-wallpapers.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/pokemon/wp5834646-pokemon-pc-desktop-wallpapers.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

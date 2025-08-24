@@ -6,6 +6,9 @@
 [![skyrim.png](/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png "skyrim.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/elder%20scrolls/skyrim.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/little/README.MD)

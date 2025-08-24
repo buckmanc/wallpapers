@@ -15,6 +15,9 @@ Odium Reigns by Ari Ibarra
 Vasher and Nightblood by Dominik Broniek
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/cosmere/README.MD)

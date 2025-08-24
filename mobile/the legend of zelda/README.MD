@@ -1,5 +1,7 @@
-# the legend of zelda - 203
+# the legend of zelda - 204
 [![136703.jpg](/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/136703.jpg)
+
+[![2016-12-28 18.10.09.jpg](/mobile/the%20legend%20of%20zelda/2016-12-28%2018.10.09.jpg "2016-12-28 18.10.09.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/2016-12-28%2018.10.09.jpg)
 
 [![20231209_105546.jpg](/mobile/the%20legend%20of%20zelda/20231209_105546.jpg "20231209_105546.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/20231209_105546.jpg)
 
@@ -515,6 +517,9 @@ Zz Triforce Vibrant Triforce HD Wallpaper Legend Of Zelda Theme by Laxmonaut
 
 [![陳立婷_晨夜 (@shinnya_anim) on X.jpeg](/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg "陳立婷_晨夜 (@shinnya_anim) on X.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda/陳立婷_晨夜%20(@shinnya_anim)%20on%20X.jpeg)
 
+
+</p>
+</details>
 
 
 [back to top](#)

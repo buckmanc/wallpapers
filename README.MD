@@ -4,14 +4,14 @@ make sure you're editing the template, doofus
 
 ![banner1](.internals/banners/banner1.png)
 
-# 3,510 Wallpapers
+# 3,522 Wallpapers
 
 A simple repo to house my wallpapers for ease of use and automation.
 
 ![banner2](.internals/banners/banner2.png)
 
 # Table of Contents
-- [mobile](/mobile/README.MD) - 2,068
+- [mobile](/mobile/README.MD) - 2,080
 - [desktop](/desktop/README.MD) - 677
 - [terminal](/terminal/README.MD) - 512
 - [floaters](/floaters/README.MD) - 250

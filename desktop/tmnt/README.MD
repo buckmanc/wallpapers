@@ -30,6 +30,9 @@
 [![zz_set_01_04_michelangelo.jpg](/desktop/tmnt/zz_set_01_04_michelangelo.jpg "zz_set_01_04_michelangelo.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/tmnt/zz_set_01_04_michelangelo.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

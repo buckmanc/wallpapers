@@ -32,6 +32,9 @@
 [![sotn-zz-shield_rod_effects-sword_out_enlarged.png](/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png "sotn-zz-shield_rod_effects-sword_out_enlarged.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/castlevania/README.MD)

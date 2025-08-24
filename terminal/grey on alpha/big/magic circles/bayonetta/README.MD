@@ -9,6 +9,9 @@ Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon
 Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/grey%20on%20alpha/big/magic%20circles/README.MD)

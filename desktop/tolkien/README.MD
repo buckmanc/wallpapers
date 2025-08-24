@@ -132,6 +132,9 @@ Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 [![wallhaven_q6k5dq_3840x2160.png](/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png "wallhaven_q6k5dq_3840x2160.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/tolkien/wallhaven_q6k5dq_3840x2160.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

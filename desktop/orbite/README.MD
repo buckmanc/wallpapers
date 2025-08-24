@@ -18,6 +18,9 @@
 [![wilde_Gänseblümchen.png](/desktop/orbite/wilde_Gänseblümchen.png "wilde_Gänseblümchen.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/orbite/wilde_Gänseblümchen.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

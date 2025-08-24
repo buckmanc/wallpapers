@@ -17,6 +17,9 @@ Tallon Overworld by Noble6design D9m6z0a Fullview
 [![wp2750407-super-metriod-wallpaper.jpg](/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg "wp2750407-super-metriod-wallpaper.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/metroid/wp2750407-super-metriod-wallpaper.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

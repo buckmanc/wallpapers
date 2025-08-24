@@ -4,7 +4,11 @@
 
 <a id="hardware"></a>
 
-## [hardware](/mobile/nintendo/hardware/README.MD) - 36
+## [hardware](/mobile/nintendo/hardware/README.MD)
+<details open>
+<summary>36 files</summary>
+<p>
+
 [![1996 Green pocket gameboy.jpeg](/.internals/thumbnails/mobile/nintendo/hardware/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](/mobile/nintendo/hardware/1996%20Green%20pocket%20gameboy.jpeg)
 [![3703516.jpg](/.internals/thumbnails/mobile/nintendo/hardware/3703516.jpg "3703516.jpg")](/mobile/nintendo/hardware/3703516.jpg)
 [![8997831.png](/.internals/thumbnails/mobile/nintendo/hardware/8997831.png "8997831.png")](/mobile/nintendo/hardware/8997831.png)
@@ -42,9 +46,16 @@
 [![wp8687460-gameboy-color-iphone-wallpapers.jpg](/.internals/thumbnails/mobile/nintendo/hardware/wp8687460-gameboy-color-iphone-wallpapers.jpg "wp8687460-gameboy-color-iphone-wallpapers.jpg")](/mobile/nintendo/hardware/wp8687460-gameboy-color-iphone-wallpapers.jpg)
 [![wp9759104-game-boy-color-wallpapers.png](/.internals/thumbnails/mobile/nintendo/hardware/wp9759104-game-boy-color-wallpapers.png "wp9759104-game-boy-color-wallpapers.png")](/mobile/nintendo/hardware/wp9759104-game-boy-color-wallpapers.png)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/mobile/nintendo/misc/README.MD) - 13
+## [misc](/mobile/nintendo/misc/README.MD)
+<details open>
+<summary>13 files</summary>
+<p>
+
 [![1445886.jpg](/.internals/thumbnails/mobile/nintendo/misc/1445886.jpg "1445886.jpg")](/mobile/nintendo/misc/1445886.jpg)
 [![3191590.png](/.internals/thumbnails/mobile/nintendo/misc/3191590.png "3191590.png")](/mobile/nintendo/misc/3191590.png)
 [![3191681.jpg](/.internals/thumbnails/mobile/nintendo/misc/3191681.jpg "3191681.jpg")](/mobile/nintendo/misc/3191681.jpg)
@@ -58,6 +69,9 @@
 [![Sleeping Phoenix - Video Game Lofi Compilation 1.jpg](/.internals/thumbnails/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg "Sleeping Phoenix - Video Game Lofi Compilation 1.jpg")](/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg)
 [![SMB1.png](/.internals/thumbnails/mobile/nintendo/misc/SMB1.png "SMB1.png")](/mobile/nintendo/misc/SMB1.png)
 [![SSB4_-_Robin_Lucina_Illustration.jpg](/.internals/thumbnails/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

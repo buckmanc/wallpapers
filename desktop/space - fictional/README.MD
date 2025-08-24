@@ -69,6 +69,9 @@ Cda63cd8e30658f1 Space Collage by Mclayer D42gz2k
 [![f8ffc0fd0e06101e_8JGlkCr.png](/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png "f8ffc0fd0e06101e_8JGlkCr.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

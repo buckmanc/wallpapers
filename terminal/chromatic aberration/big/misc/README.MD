@@ -10,6 +10,9 @@
 [![tree_of_life_svg.png](/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png "tree_of_life_svg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/big/README.MD)

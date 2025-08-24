@@ -73,6 +73,9 @@ Acorn by Svgocean
 [![南中_小学校理科.png](/terminal/chromatic%20aberration/little/misc/南中_小学校理科.png "南中_小学校理科.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/misc/南中_小学校理科.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

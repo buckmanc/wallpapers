@@ -6,7 +6,11 @@
 
 <a id="ayami-kojima"></a>
 
-## [ayami kojima](/mobile/castlevania/ayami%20kojima/README.MD) - 46
+## [ayami kojima](/mobile/castlevania/ayami%20kojima/README.MD)
+<details open>
+<summary>46 files</summary>
+<p>
+
 [![09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg "09-castlevania.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg)
 [![10_-_okwphcm.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/10_-_okwphcm.png "10_-_okwphcm.png")](/mobile/castlevania/ayami%20kojima/castlevania/10_-_okwphcm.png)
 [![12_-_k4ddwli.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/12_-_k4ddwli.png "12_-_k4ddwli.png")](/mobile/castlevania/ayami%20kojima/castlevania/12_-_k4ddwli.png)
@@ -54,9 +58,16 @@
 [![postcard02.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/postcard02.jpg "postcard02.jpg")](/mobile/castlevania/ayami%20kojima/original/postcard02.jpg)
 [![postcard03.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/postcard03.jpg "postcard03.jpg")](/mobile/castlevania/ayami%20kojima/original/postcard03.jpg)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/mobile/castlevania/misc/README.MD) - 55
+## [misc](/mobile/castlevania/misc/README.MD)
+<details open>
+<summary>55 files</summary>
+<p>
+
 [![14 - pdydhcq.jpg](/.internals/thumbnails/mobile/castlevania/misc/14%20-%20pdydhcq.jpg "14 - pdydhcq.jpg")](/mobile/castlevania/misc/14%20-%20pdydhcq.jpg)
 [![15 Portrait Of Ruin Poster by Fumi Ishikawa](/.internals/thumbnails/mobile/castlevania/misc/15%20-%20Portrait%20of%20Ruin%20poster%20by%20Fumi%20Ishikawa.jpg "15 Portrait Of Ruin Poster by Fumi Ishikawa")](/mobile/castlevania/misc/15%20-%20Portrait%20of%20Ruin%20poster%20by%20Fumi%20Ishikawa.jpg)
 [![16 - uBD0R8V.jpg](/.internals/thumbnails/mobile/castlevania/misc/16%20-%20uBD0R8V.jpg "16 - uBD0R8V.jpg")](/mobile/castlevania/misc/16%20-%20uBD0R8V.jpg)
@@ -113,9 +124,16 @@
 [![wp4374297-bloodstained-ritual-of-the-night-wallpapers.png](/.internals/thumbnails/mobile/castlevania/misc/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png "wp4374297-bloodstained-ritual-of-the-night-wallpapers.png")](/mobile/castlevania/misc/wp4374297-bloodstained-ritual-of-the-night-wallpapers.png)
 [![wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg](/.internals/thumbnails/mobile/castlevania/misc/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg "wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg")](/mobile/castlevania/misc/wp4374356-bloodstained-ritual-of-the-night-wallpapers.jpg)
 
+</p>
+</details>
+
 <a id="castle"></a>
 
-## [castle](/mobile/castlevania/zz%20castle/README.MD) - 17
+## [castle](/mobile/castlevania/zz%20castle/README.MD)
+<details open>
+<summary>17 files</summary>
+<p>
+
 [![anime_02.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/anime_02.jpg "anime_02.jpg")](/mobile/castlevania/zz%20castle/anime_02.jpg)
 [![anime_03.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/anime_03.jpg "anime_03.jpg")](/mobile/castlevania/zz%20castle/anime_03.jpg)
 [![anime.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/anime.jpg "anime.jpg")](/mobile/castlevania/zz%20castle/anime.jpg)
@@ -134,9 +152,16 @@
 [![Sebastien Skaf - Castlevania_Vol_1.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg "Sebastien Skaf - Castlevania_Vol_1.jpg")](/mobile/castlevania/zz%20castle/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg)
 [![Zz Castlevania by Ömer Tunç](/.internals/thumbnails/mobile/castlevania/zz%20castle/zz_castlevania_by_ömer_tunç.jpg "Zz Castlevania by Ömer Tunç")](/mobile/castlevania/zz%20castle/zz_castlevania_by_ömer_tunç.jpg)
 
+</p>
+</details>
+
 <a id="pixel"></a>
 
-## [pixel](/mobile/castlevania/zz%20pixel/README.MD) - 16
+## [pixel](/mobile/castlevania/zz%20pixel/README.MD)
+<details open>
+<summary>16 files</summary>
+<p>
+
 [![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png)
 [![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
 [![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)
@@ -153,6 +178,9 @@
 [![sotn-zz-magic_missile_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-magic_missile_out_enlarged.png "sotn-zz-magic_missile_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-magic_missile_out_enlarged.png)
 [![sotn-zz-pentagram_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-pentagram_out_enlarged.png "sotn-zz-pentagram_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-pentagram_out_enlarged.png)
 [![sotn-zz-shield_rod_effects-sword_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png "sotn-zz-shield_rod_effects-sword_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png)
+
+</p>
+</details>
 
 
 [back to top](#)

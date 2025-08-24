@@ -8,6 +8,9 @@
 [![spotify_artist_photo_larger.jpg](/mobile/music/artist%20photos/harifa/spotify_artist_photo_larger.jpg "spotify_artist_photo_larger.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/artist%20photos/harifa/spotify_artist_photo_larger.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/music/artist%20photos/README.MD)

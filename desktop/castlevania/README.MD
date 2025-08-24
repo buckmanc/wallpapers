@@ -17,6 +17,9 @@ Dead by Daylight Dracula Wallpaper 01
 [![zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg](/desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg "zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/castlevania/zz_castle_dracula's_castle_-_moonlight_rhapsody_-_01.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

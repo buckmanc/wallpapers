@@ -12,6 +12,9 @@
 [![resident-evil-village-uhdpaper.com-4K-5.2051.jpg](/mobile/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg "resident-evil-village-uhdpaper.com-4K-5.2051.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

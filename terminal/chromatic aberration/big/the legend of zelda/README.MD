@@ -14,6 +14,9 @@ Zelda Skyward Sword Gate Of Time by Tamalesyatole
 [![zelda_totk_ouroboros.png](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/big/README.MD)

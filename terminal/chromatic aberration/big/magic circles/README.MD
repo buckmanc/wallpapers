@@ -5,22 +5,40 @@
 
 <a id="bayonetta"></a>
 
-## [bayonetta](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/README.MD) - 3
+## [bayonetta](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
 
+</p>
+</details>
+
 <a id="full-metal-alchemist"></a>
 
-## [full metal alchemist](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/README.MD) - 4
+## [full metal alchemist](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/README.MD)
+<details open>
+<summary>4 files</summary>
+<p>
+
 [![magic_circle_full_metal_alchemist_02.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png "magic_circle_full_metal_alchemist_02.png")](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02.png)
 [![magic_circle_full_metal_alchemist_02_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png "magic_circle_full_metal_alchemist_02_rosedesignestudio.png")](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_02_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_03_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png "magic_circle_full_metal_alchemist_03_rosedesignestudio.png")](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_03_rosedesignestudio.png)
 [![magic_circle_full_metal_alchemist_04_rosedesignestudio.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png "magic_circle_full_metal_alchemist_04_rosedesignestudio.png")](/terminal/chromatic%20aberration/big/magic%20circles/full%20metal%20alchemist/magic_circle_full_metal_alchemist_04_rosedesignestudio.png)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/terminal/chromatic%20aberration/big/magic%20circles/misc/README.MD) - 27
+## [misc](/terminal/chromatic%20aberration/big/magic%20circles/misc/README.MD)
+<details open>
+<summary>27 files</summary>
+<p>
+
 [![magic_circle_01.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_01.png "magic_circle_01.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_01.png)
 [![magic_circle_02.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_02.png "magic_circle_02.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_02.png)
 [![magic_circle_03.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_03.png "magic_circle_03.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_03.png)
@@ -48,6 +66,9 @@
 [![magic_circle_doctor_strange.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_doctor_strange.png "magic_circle_doctor_strange.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_doctor_strange.png)
 [![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)
 [![magic_circle_planets_drawing.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png)
+
+</p>
+</details>
 
 
 [back to top](#)

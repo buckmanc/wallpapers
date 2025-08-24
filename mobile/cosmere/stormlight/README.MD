@@ -247,6 +247,9 @@ Cultivation by Miranda Meeks
 Honor by Donato Giancola
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/cosmere/README.MD)

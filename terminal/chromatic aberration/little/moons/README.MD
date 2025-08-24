@@ -10,6 +10,9 @@
 [![moon_crystals_artstudiodesignsvg.png](/terminal/chromatic%20aberration/little/moons/moon_crystals_artstudiodesignsvg.png "moon_crystals_artstudiodesignsvg.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/moons/moon_crystals_artstudiodesignsvg.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

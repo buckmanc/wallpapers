@@ -194,6 +194,9 @@ Tea Time Drawn by Leaphere 20c2581df8fff7ed5abbcb1d9122601f
 The Guildpokemonmysterydungeon Drawn by Leaphere Adde4551cfcf7d9466a4f562cc5276f1
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

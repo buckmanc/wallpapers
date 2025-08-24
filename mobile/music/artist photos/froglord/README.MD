@@ -15,6 +15,9 @@ Froglord 2025 01 11 by Michał Kwaśniewski
 [![tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg](/mobile/music/artist%20photos/froglord/tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg "tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/artist%20photos/froglord/tumblr_0346975cea83e2e98f2f36eb77059bef_c90c6a76_1280.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/music/artist%20photos/README.MD)

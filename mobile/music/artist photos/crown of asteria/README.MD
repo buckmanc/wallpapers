@@ -10,6 +10,9 @@
 [![3633814710069796935_3633814694265670723.jpg](/mobile/music/artist%20photos/crown%20of%20asteria/3633814710069796935_3633814694265670723.jpg "3633814710069796935_3633814694265670723.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/artist%20photos/crown%20of%20asteria/3633814710069796935_3633814694265670723.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/music/artist%20photos/README.MD)

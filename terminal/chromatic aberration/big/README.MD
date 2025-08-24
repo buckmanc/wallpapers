@@ -8,7 +8,11 @@
 
 <a id="magic-circles"></a>
 
-## [magic circles](/terminal/chromatic%20aberration/big/magic%20circles/README.MD) - 34
+## [magic circles](/terminal/chromatic%20aberration/big/magic%20circles/README.MD)
+<details open>
+<summary>34 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -44,43 +48,81 @@
 [![Magic Circle Lycarus by Dragonphyrre](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png "Magic Circle Lycarus by Dragonphyrre")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_lycarus_by_dragonphyrre.png)
 [![magic_circle_planets_drawing.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png "magic_circle_planets_drawing.png")](/terminal/chromatic%20aberration/big/magic%20circles/misc/magic_circle_planets_drawing.png)
 
+</p>
+</details>
+
 <a id="mandalas"></a>
 
-## [mandalas](/terminal/chromatic%20aberration/big/mandalas/README.MD) - 4
+## [mandalas](/terminal/chromatic%20aberration/big/mandalas/README.MD)
+<details open>
+<summary>4 files</summary>
+<p>
+
 [![mandala_02.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/mandalas/mandala_02.png "mandala_02.png")](/terminal/chromatic%20aberration/big/mandalas/mandala_02.png)
 [![mandala_03.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/mandalas/mandala_03.png "mandala_03.png")](/terminal/chromatic%20aberration/big/mandalas/mandala_03.png)
 [![mandala_05.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/mandalas/mandala_05.png "mandala_05.png")](/terminal/chromatic%20aberration/big/mandalas/mandala_05.png)
 [![mandala_10.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/mandalas/mandala_10.png "mandala_10.png")](/terminal/chromatic%20aberration/big/mandalas/mandala_10.png)
 
+</p>
+</details>
+
 <a id="maps"></a>
 
-## [maps](/terminal/chromatic%20aberration/big/maps/README.MD) - 2
+## [maps](/terminal/chromatic%20aberration/big/maps/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
 [![new_york_city_subway_map.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/maps/new_york_city_subway_map.png "new_york_city_subway_map.png")](/terminal/chromatic%20aberration/big/maps/new_york_city_subway_map.png)
 [![tehran_metro_map_v1_0.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/maps/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](/terminal/chromatic%20aberration/big/maps/tehran_metro_map_v1_0.png)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/terminal/chromatic%20aberration/big/misc/README.MD) - 5
+## [misc](/terminal/chromatic%20aberration/big/misc/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![20_ponted_cross_graph.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/20_ponted_cross_graph.png "20_ponted_cross_graph.png")](/terminal/chromatic%20aberration/big/misc/20_ponted_cross_graph.png)
 [![circle_squares.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/circle_squares.png "circle_squares.png")](/terminal/chromatic%20aberration/big/misc/circle_squares.png)
 [![compass_rose_cantino.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/compass_rose_cantino.png "compass_rose_cantino.png")](/terminal/chromatic%20aberration/big/misc/compass_rose_cantino.png)
 [![maze.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/maze.png "maze.png")](/terminal/chromatic%20aberration/big/misc/maze.png)
 [![tree_of_life_svg.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png "tree_of_life_svg.png")](/terminal/chromatic%20aberration/big/misc/tree_of_life_svg.png)
 
+</p>
+</details>
+
 <a id="stargate"></a>
 
-## [stargate](/terminal/chromatic%20aberration/big/stargate/README.MD) - 2
+## [stargate](/terminal/chromatic%20aberration/big/stargate/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
 [![stargate_milkyway.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png "stargate_milkyway.png")](/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png)
 [![stargate_pegasus.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png "stargate_pegasus.png")](/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png)
 
+</p>
+</details>
+
 <a id="the-legend-of-zelda"></a>
 
-## [the legend of zelda](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/README.MD) - 5
+## [the legend of zelda](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
 [![Twlight Portal by Ohcooldesigns](/.internals/thumbnails/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/twlight_portal_by_ohcooldesigns.png "Twlight Portal by Ohcooldesigns")](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/twlight_portal_by_ohcooldesigns.png)
 [![Zelda Collection 02 Arts and Artifacts by Japatonic](/.internals/thumbnails/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_collection_02_arts_and_artifacts_by_japatonic.png "Zelda Collection 02 Arts and Artifacts by Japatonic")](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_collection_02_arts_and_artifacts_by_japatonic.png)
 [![Zelda Collection 03 Encylopedia by Japatonic](/.internals/thumbnails/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png "Zelda Collection 03 Encylopedia by Japatonic")](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_collection_03_encylopedia_by_japatonic.png)
 [![Zelda Skyward Sword Gate Of Time by Tamalesyatole](/.internals/thumbnails/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png "Zelda Skyward Sword Gate Of Time by Tamalesyatole")](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_skyward_sword_gate_of_time_by_tamalesyatole.png)
 [![zelda_totk_ouroboros.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png "zelda_totk_ouroboros.png")](/terminal/chromatic%20aberration/big/the%20legend%20of%20zelda/zelda_totk_ouroboros.png)
+
+</p>
+</details>
 
 
 [back to top](#)

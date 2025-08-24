@@ -26,6 +26,9 @@
 [![YNj67nj.jpg](/desktop/skyrim%20captures/YNj67nj.jpg "YNj67nj.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/skyrim%20captures/YNj67nj.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

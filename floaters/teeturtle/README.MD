@@ -109,6 +109,9 @@ Celestial Current
 [![zz02-reading99-Tales-of-Magic.jpg](/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg "zz02-reading99-Tales-of-Magic.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/floaters/teeturtle/zz02-reading99-Tales-of-Magic.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/floaters/README.MD)

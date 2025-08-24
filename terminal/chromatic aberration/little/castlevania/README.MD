@@ -14,6 +14,9 @@ Castlevania Glyph Dominus Hatred by Pyderek
 [![castlevania_silhouette_pngfind.png](/terminal/chromatic%20aberration/little/castlevania/castlevania_silhouette_pngfind.png "castlevania_silhouette_pngfind.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/castlevania/castlevania_silhouette_pngfind.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

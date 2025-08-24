@@ -12,6 +12,9 @@
 [![shy_guy.png](/terminal/chromatic%20aberration/little/mario/shy_guy.png "shy_guy.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/little/mario/shy_guy.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/little/README.MD)

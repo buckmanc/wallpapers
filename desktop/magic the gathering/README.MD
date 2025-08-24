@@ -23,6 +23,9 @@ The Goose Mother by Jesper Ejsing
 You Look Upon The Tarrasque by Kekai Kotaki
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

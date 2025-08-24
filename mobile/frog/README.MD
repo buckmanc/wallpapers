@@ -40,6 +40,9 @@ Frog Wizard by Greenbeedrill888 Dg1y4lx
 Wizard Frog by Dingzhong Hu
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -50,6 +50,9 @@
 [![pcmm3-wilyfor3pc_enlarged.png](/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png "pcmm3-wilyfor3pc_enlarged.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)

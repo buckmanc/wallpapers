@@ -44,6 +44,9 @@ A Princess and Her Vassal by Quirkilicious Df3fi0i
 [![wp11118725-elden-ring-ranni-the-witch-wallpapers.jpg](/mobile/elden%20ring/wp11118725-elden-ring-ranni-the-witch-wallpapers.jpg "wp11118725-elden-ring-ranni-the-witch-wallpapers.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/elden%20ring/wp11118725-elden-ring-ranni-the-witch-wallpapers.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

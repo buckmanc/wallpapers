@@ -7,6 +7,9 @@
 Tashas Cauldron Of Everything Cover by Magali Villeneuve
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

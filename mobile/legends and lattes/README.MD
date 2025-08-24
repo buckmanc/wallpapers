@@ -6,6 +6,9 @@
 02 Bookshops and Bonedust Cover by Carson Daniel Lowmiller
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

@@ -10,6 +10,9 @@
 [![lttp-LightWorld.png](/mobile/the%20legend%20of%20zelda%20pixel/lttp-LightWorld.png "lttp-LightWorld.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/the%20legend%20of%20zelda%20pixel/lttp-LightWorld.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

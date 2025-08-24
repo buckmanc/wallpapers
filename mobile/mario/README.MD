@@ -284,6 +284,9 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![yoshi_touch_and_go_art_24c178b2.jpeg](/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg "yoshi_touch_and_go_art_24c178b2.jpeg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mario/yoshi_touch_and_go_art_24c178b2.jpeg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

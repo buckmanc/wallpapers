@@ -1,4 +1,4 @@
-# album art - 100
+# album art - 108
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
@@ -21,6 +21,8 @@
 
 [![Bell Witch - Longing.jpg](/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg)
 
+[![Black Spell - The Purple Skull.jpg](/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg "Black Spell - The Purple Skull.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg)
+
 [![Blood Incantation - Absolute Elsewhere.jpg](/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 
 [![Bloodywood - Nu Delhi.jpg](/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg "Bloodywood - Nu Delhi.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg)
@@ -38,6 +40,10 @@
 [![DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg](/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg "DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg)
 
 [![Dwarrowdelf - The Sons of Fëanor.jpg](/mobile/music/album%20art/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg "Dwarrowdelf - The Sons of Fëanor.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Dwarrowdelf%20-%20The%20Sons%20of%20Fëanor.jpg)
+
+[![Ecstatic - Wildest Dreams.png](/mobile/music/album%20art/Ecstatic%20-%20Wildest%20Dreams.png "Ecstatic - Wildest Dreams.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Ecstatic%20-%20Wildest%20Dreams.png)
+
+[![Elderwind - The Magic of Nature.jpg](/mobile/music/album%20art/Elderwind%20-%20The%20Magic%20of%20Nature.jpg "Elderwind - The Magic of Nature.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Elderwind%20-%20The%20Magic%20of%20Nature.jpg)
 
 [![Elffor - Temple of the Dead.jpg](/mobile/music/album%20art/Elffor%20-%20Temple%20of%20the%20Dead.jpg "Elffor - Temple of the Dead.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Elffor%20-%20Temple%20of%20the%20Dead.jpg)
 
@@ -68,6 +74,8 @@
 [![Green Lung - This Heathen Land.jpg](/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
 
 [![Green Lung - Woodland Rites.jpg](/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg)
+
+[![Hermóðr - Forest Sky.jpg](/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg "Hermóðr - Forest Sky.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg)
 
 [![hMNQOjVBLiU (1).jpg](/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg "hMNQOjVBLiU (1).jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg)
 
@@ -131,9 +139,13 @@
 
 [![Old Sorcery - Strange and Eternal.jpg](/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
 
+[![ONMYO-ZA - 龍凰童子.jpg](/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg "ONMYO-ZA - 龍凰童子.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg)
+
 [![Osi And The Jupiter - Uthuling Hyl.jpg](/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 
 [![Ov Sulfur - Behind the Hand of God.jpg](/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
+
+[![Paleowolf - Prehistoric Meditations.jpg](/mobile/music/album%20art/Paleowolf%20-%20Prehistoric%20Meditations.jpg "Paleowolf - Prehistoric Meditations.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Paleowolf%20-%20Prehistoric%20Meditations.jpg)
 
 [![Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg](/mobile/music/album%20art/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg "Phonk Killer - NEON JUMP _SUPER SLOWED + REVERB_.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Phonk%20Killer%20-%20NEON%20JUMP%20_SUPER%20SLOWED%20+%20REVERB_.jpg)
 
@@ -141,11 +153,15 @@
 
 [![Reliqa - Eventide.jpg](/mobile/music/album%20art/Reliqa%20-%20Eventide.jpg "Reliqa - Eventide.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Reliqa%20-%20Eventide.jpg)
 
+[![Rifti Beats - Lofi of the Lost Woods.jpg](/mobile/music/album%20art/Rifti%20Beats%20-%20Lofi%20of%20the%20Lost%20Woods.jpg "Rifti Beats - Lofi of the Lost Woods.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Rifti%20Beats%20-%20Lofi%20of%20the%20Lost%20Woods.jpg)
+
 [![Rose Funeral - Father Death.jpg](/mobile/music/album%20art/Rose%20Funeral%20-%20Father%20Death.jpg "Rose Funeral - Father Death.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Rose%20Funeral%20-%20Father%20Death.jpg)
 
 [![Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg](/mobile/music/album%20art/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg "Sad Gatomon - Pokemon Black & White Lofi Sleep.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Sad%20Gatomon%20-%20Pokemon%20Black%20&%20White%20Lofi%20Sleep.jpg)
 
 [![Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg](/mobile/music/album%20art/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg "Sad Gatomon - Skyrim_ Chilling in the Cloud District.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Sad%20Gatomon%20-%20Skyrim_%20Chilling%20in%20the%20Cloud%20District.jpg)
+
+[![Seth - La France des Maudits.jpg](/mobile/music/album%20art/Seth%20-%20La%20France%20des%20Maudits.jpg "Seth - La France des Maudits.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/Seth%20-%20La%20France%20des%20Maudits.jpg)
 
 [![She Must Burn - Grimoire.jpg](/mobile/music/album%20art/She%20Must%20Burn%20-%20Grimoire.jpg "She Must Burn - Grimoire.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/She%20Must%20Burn%20-%20Grimoire.jpg)
 
@@ -199,6 +215,9 @@
 
 [![ZØMB - PEW PEW.jpg](/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg "ZØMB - PEW PEW.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/music/album%20art/ZØMB%20-%20PEW%20PEW.jpg)
 
+
+</p>
+</details>
 
 
 [back to top](#)

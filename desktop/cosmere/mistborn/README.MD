@@ -24,6 +24,9 @@ Cognitive Realm by Ricky Ho
 The Final Empire by Ed Marinas
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/cosmere/README.MD)

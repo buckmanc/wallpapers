@@ -4,6 +4,9 @@
 [![tehran_metro_map_v1_0.png](/terminal/chromatic%20aberration/big/maps/tehran_metro_map_v1_0.png "tehran_metro_map_v1_0.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/maps/tehran_metro_map_v1_0.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/terminal/chromatic%20aberration/big/README.MD)

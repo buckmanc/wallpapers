@@ -294,6 +294,9 @@ X Legacy by Ultimatemaverickx Dgkx59m Fullview
 Zero and Dr Wily Mega Man by Hoshi Mikan
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)

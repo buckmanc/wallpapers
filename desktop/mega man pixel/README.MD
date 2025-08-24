@@ -10,6 +10,9 @@
 [![mmx3_vile_bg_enlarged.png](/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

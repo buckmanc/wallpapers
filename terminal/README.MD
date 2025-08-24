@@ -5,7 +5,11 @@
 
 <a id="chromatic-aberration"></a>
 
-## [chromatic aberration](/terminal/chromatic%20aberration/README.MD) - 171
+## [chromatic aberration](/terminal/chromatic%20aberration/README.MD)
+<details open>
+<summary>171 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -178,9 +182,16 @@
 [![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](/terminal/chromatic%20aberration/little/ubuntu/24_10_oracular_oriole.png)
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](/terminal/chromatic%20aberration/little/ubuntu/ubuntu_circle_of_friends_old.png)
 
+</p>
+</details>
+
 <a id="grey-on-alpha"></a>
 
-## [grey on alpha](/terminal/grey%20on%20alpha/README.MD) - 171
+## [grey on alpha](/terminal/grey%20on%20alpha/README.MD)
+<details open>
+<summary>171 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -353,9 +364,16 @@
 [![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](/terminal/grey%20on%20alpha/little/ubuntu/24_10_oracular_oriole.png)
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](/terminal/grey%20on%20alpha/little/ubuntu/ubuntu_circle_of_friends_old.png)
 
+</p>
+</details>
+
 <a id="grey-on-black"></a>
 
-## [grey on black](/terminal/grey%20on%20black/README.MD) - 171
+## [grey on black](/terminal/grey%20on%20black/README.MD)
+<details open>
+<summary>171 files</summary>
+<p>
+
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
 [![Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png "Magic Circle Bayonetta Inferno Umbra Witch Seal by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_inferno_umbra_witch_seal_by_lcl_simon.png)
 [![Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png "Magic Circle Bayonetta Moon Of Mahaa Kalaa by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_moon_of_mahaa_kalaa_by_lcl_simon.png)
@@ -527,6 +545,9 @@
 [![24_04_noble_numbat.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/24_04_noble_numbat.png "24_04_noble_numbat.png")](/terminal/grey%20on%20black/little/ubuntu/24_04_noble_numbat.png)
 [![24_10_oracular_oriole.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/24_10_oracular_oriole.png "24_10_oracular_oriole.png")](/terminal/grey%20on%20black/little/ubuntu/24_10_oracular_oriole.png)
 [![ubuntu_circle_of_friends_old.png](/.internals/thumbnails/terminal/grey%20on%20black/little/ubuntu/ubuntu_circle_of_friends_old.png "ubuntu_circle_of_friends_old.png")](/terminal/grey%20on%20black/little/ubuntu/ubuntu_circle_of_friends_old.png)
+
+</p>
+</details>
 
 
 [back to top](#)

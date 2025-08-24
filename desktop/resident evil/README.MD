@@ -10,6 +10,9 @@
 [![resident-evil-village-uhdpaper.com-4K-5.2051.jpg](/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg "resident-evil-village-uhdpaper.com-4K-5.2051.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/resident%20evil/resident-evil-village-uhdpaper.com-4K-5.2051.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

@@ -12,6 +12,9 @@
 [![So This Is Suffering Spotify header.jpg](/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg "So This Is Suffering Spotify header.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/music/So%20This%20Is%20Suffering%20Spotify%20header.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

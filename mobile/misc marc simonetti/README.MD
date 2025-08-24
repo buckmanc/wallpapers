@@ -12,6 +12,9 @@ Queen Of Storms Cover by Marc Simonetti
 Toll The Hounds Interior Illustration by Marc Simonetti
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

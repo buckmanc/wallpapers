@@ -6,7 +6,11 @@
 
 <a id="mistborn"></a>
 
-## [mistborn](/mobile/cosmere/mistborn/README.MD) - 49
+## [mistborn](/mobile/cosmere/mistborn/README.MD)
+<details open>
+<summary>49 files</summary>
+<p>
+
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -103,9 +107,16 @@ Vin The Ascendant Warrior by Miranda Meeks")](/mobile/cosmere/mistborn/Vin_The_A
 Wax Miles Hundredlives by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/mistborn/wax_miles_hundredlives_by_ari_ibarra.jpg "Miles Hundredlives by Ari Ibarra
 Wax Miles Hundredlives by Ari Ibarra")](/mobile/cosmere/mistborn/wax_miles_hundredlives_by_ari_ibarra.jpg)
 
+</p>
+</details>
+
 <a id="stormlight"></a>
 
-## [stormlight](/mobile/cosmere/stormlight/README.MD) - 79
+## [stormlight](/mobile/cosmere/stormlight/README.MD)
+<details open>
+<summary>79 files</summary>
+<p>
+
 [![Dalinar by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)
 [![Dalinar by Dominik Broniek](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg "Dalinar by Dominik Broniek")](/mobile/cosmere/stormlight/01_dalinar_by_dominik_broniek.jpg)
 [![Dalinar by Randy Vargas](/.internals/thumbnails/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg "Dalinar by Randy Vargas")](/mobile/cosmere/stormlight/01_dalinar_by_randy_vargas.jpg)
@@ -194,9 +205,16 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 [![Cultivation by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/zZ_cultivation_by_miranda_meeks.png "Cultivation by Miranda Meeks")](/mobile/cosmere/stormlight/zZ_cultivation_by_miranda_meeks.png)
 [![Honor by Donato Giancola](/.internals/thumbnails/mobile/cosmere/stormlight/zZ_honor_by_donato_giancola.png "Honor by Donato Giancola")](/mobile/cosmere/stormlight/zZ_honor_by_donato_giancola.png)
 
+</p>
+</details>
+
 <a id="yumi-and-the-nightmare-painter"></a>
 
-## [yumi and the nightmare painter](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/README.MD) - 15
+## [yumi and the nightmare painter](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/README.MD)
+<details open>
+<summary>15 files</summary>
+<p>
+
 [![Backlit by Wonder by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)
 [![Defending Kilahito by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg "Defending Kilahito by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg)
 [![Design With Hoid Statue by Botanicaxu](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg)
@@ -215,9 +233,16 @@ Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20a
 Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
 
+</p>
+</details>
+
 <a id="misc"></a>
 
-## [misc](/mobile/cosmere/zz%20misc/README.MD) - 17
+## [misc](/mobile/cosmere/zz%20misc/README.MD)
+<details open>
+<summary>17 files</summary>
+<p>
+
 [![carlos-guimerà-alientodioses-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg "carlos-guimerà-alientodioses-mediana.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg)
 [![carlos-guimerà-capitulo-5.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg "carlos-guimerà-capitulo-5.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg)
 [![carlos-guimerà-cosmere-october-roto-2.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg "carlos-guimerà-cosmere-october-roto-2.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg)
@@ -245,6 +270,9 @@ Tress Midnight by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_midnight_by_how
 Tress Sipping Salty Tea by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg "Sipping Salty Tea by Howard Lyon
 Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg)
 [![Warbreaker Cover by Yasen Stoilov](/.internals/thumbnails/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg "Warbreaker Cover by Yasen Stoilov")](/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg)
+
+</p>
+</details>
 
 
 [back to top](#)

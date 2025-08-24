@@ -74,6 +74,9 @@
 [![106494042_p17.png](/mobile/mega%20man/mega%20man%20x%20dive/106494042_p17.png "106494042_p17.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/mega%20man/mega%20man%20x%20dive/106494042_p17.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/mega%20man/README.MD)

@@ -20,6 +20,9 @@
 [![mistborn-vermell-copia3.jpg](/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg "mistborn-vermell-copia3.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/cosmere/mistborn/carlos%20guimerà/mistborn-vermell-copia3.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/cosmere/mistborn/README.MD)

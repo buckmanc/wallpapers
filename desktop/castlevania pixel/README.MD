@@ -22,6 +22,9 @@
 [![sotn-olroxsquarters-lair_enlarged.png](/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png "sotn-olroxsquarters-lair_enlarged.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/castlevania%20pixel/sotn-olroxsquarters-lair_enlarged.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

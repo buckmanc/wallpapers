@@ -161,6 +161,9 @@ Tmnt Leonardo Colors by Le0arts Da7hjun
 [![tumblr_m5k6muiyHi1ry28s9o1_640.png](/mobile/tmnt/tumblr_m5k6muiyHi1ry28s9o1_640.png "tumblr_m5k6muiyHi1ry28s9o1_640.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/tmnt/tumblr_m5k6muiyHi1ry28s9o1_640.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/README.MD)

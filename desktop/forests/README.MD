@@ -233,6 +233,9 @@
 [![fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg](/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg "fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

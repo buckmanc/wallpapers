@@ -28,6 +28,9 @@
 [![wallpaper_demons_souls_2020_03_1920x1080.jpg](/desktop/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg "wallpaper_demons_souls_2020_03_1920x1080.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

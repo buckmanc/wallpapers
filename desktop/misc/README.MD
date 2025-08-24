@@ -232,6 +232,9 @@ E3e1559d06c75887 Gloria Sobble and Wooloo Pokemon and 1 More Drawn by Flyaspring
 [![f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg](/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg "f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/misc/f6f96886b5795a00_3d-pine-tree-landscape-against-space-sky.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

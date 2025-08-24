@@ -10,6 +10,9 @@
 [![landscape2.jpg](/desktop/villages/landscape2.jpg "landscape2.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/desktop/villages/landscape2.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)

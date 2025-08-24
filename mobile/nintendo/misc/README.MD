@@ -29,6 +29,9 @@ Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higu
 [![SSB4_-_Robin_Lucina_Illustration.jpg](/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/mobile/nintendo/README.MD)

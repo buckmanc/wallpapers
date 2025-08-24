@@ -377,6 +377,9 @@ Trial by Combat
 [![youre-my-crush.png](/floaters/steven%20rhodes/youre-my-crush.png "youre-my-crush.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/floaters/steven%20rhodes/youre-my-crush.png)
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/floaters/README.MD)

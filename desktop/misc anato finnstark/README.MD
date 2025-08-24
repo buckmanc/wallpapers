@@ -11,6 +11,9 @@ Darth Vader by Anato Finnstark
  Lilith Diablo Drawn by Anato Finnstark 4ff4e01e14f4a4c3ca8e339c0a6b9e2c
 
 
+</p>
+</details>
+
 
 [back to top](#)
 [up one level](/desktop/README.MD)
