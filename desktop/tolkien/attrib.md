@@ -53,3 +53,7 @@ sauron_tolkien_s_legendarium_drawn_by_akreon.jpg Sauron Tolkien S Legendarium Dr
 __smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark__f53b6cabe4b7eb14f14fc2d96fdb93b0.jpg   Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark  F53b6cabe4b7eb14f14fc2d96fdb93b0
 smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark
 __ancalagon_and_earendil_tolkien_s_legendarium_and_1_more_drawn_by_manuel_castanon__20c811678d296d68851769a0527af000.jpg   Ancalagon and Earendil Tolkien S Legendarium and 1 More Drawn by Manuel Castanon  20c811678d296d68851769a0527af000
+ralph-damiani-a-shot-in-the-dark-by-ralphdamiani.jpg Ralph Damiani A Shot In The Dark by Ralphdamiani
+ralph-damiani-grond-by-ralphdamiani.jpg Ralph Damiani Grond by Ralphdamiani
+ralph-damiani-helmsdeep-by-ralphdamiani.jpg Ralph Damiani Helmsdeep by Ralphdamiani
+ralph-damiani-the-cleansing-of-dol-guldur-by-ralph-damiani.jpg Ralph Damiani The Cleansing Of Dol Guldur by Ralph Damiani

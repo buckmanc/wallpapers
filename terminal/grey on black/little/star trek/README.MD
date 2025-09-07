@@ -1,8 +1,14 @@
 # star trek - 2
-[![star_trek_klingon_symbol.png](/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png)
 
-[![star_trek_starfleet_insignia.png](/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png)
+<a id=""></a>
 
+## [](/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
+[![star_trek_klingon_symbol.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png)
+[![star_trek_starfleet_insignia.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png)
 
 </p>
 </details>

@@ -1,14 +1,17 @@
 # tolkien - 5
-[![one_ring_inscription_ring_a_ling.png](/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png)
 
-[![tolkien_eye_of_sauron.png](/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png "tolkien_eye_of_sauron.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png)
+<a id=""></a>
 
-[![tolkien_lonely_mountain_map.png](/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png "tolkien_lonely_mountain_map.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png)
+## [](/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
 
-[![tolkien_monogram.png](/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png)
-
-[![tolkien_white_tree_of_gondor.png](/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png)
-
+[![one_ring_inscription_ring_a_ling.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png "one_ring_inscription_ring_a_ling.png")](/terminal/grey%20on%20alpha/little/tolkien/one_ring_inscription_ring_a_ling.png)
+[![tolkien_eye_of_sauron.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png "tolkien_eye_of_sauron.png")](/terminal/grey%20on%20alpha/little/tolkien/tolkien_eye_of_sauron.png)
+[![tolkien_lonely_mountain_map.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png "tolkien_lonely_mountain_map.png")](/terminal/grey%20on%20alpha/little/tolkien/tolkien_lonely_mountain_map.png)
+[![tolkien_monogram.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png "tolkien_monogram.png")](/terminal/grey%20on%20alpha/little/tolkien/tolkien_monogram.png)
+[![tolkien_white_tree_of_gondor.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png "tolkien_white_tree_of_gondor.png")](/terminal/grey%20on%20alpha/little/tolkien/tolkien_white_tree_of_gondor.png)
 
 </p>
 </details>

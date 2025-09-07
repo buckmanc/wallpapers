@@ -1,8 +1,14 @@
 # stargate - 2
-[![stargate_milkyway.png](/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png "stargate_milkyway.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png)
 
-[![stargate_pegasus.png](/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png "stargate_pegasus.png")](https://raw.githubusercontent.com/buckmanc/wallpapers/main/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png)
+<a id=""></a>
 
+## [](/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
+[![stargate_milkyway.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png "stargate_milkyway.png")](/terminal/chromatic%20aberration/big/stargate/stargate_milkyway.png)
+[![stargate_pegasus.png](/.internals/thumbnails/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png "stargate_pegasus.png")](/terminal/chromatic%20aberration/big/stargate/stargate_pegasus.png)
 
 </p>
 </details>
