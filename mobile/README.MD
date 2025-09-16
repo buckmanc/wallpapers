@@ -1,4 +1,4 @@
-# mobile - 2,081
+# mobile - 2,082
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
@@ -35,7 +35,7 @@
 - [the legend of zelda](#the-legend-of-zelda) - 204
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 76
-- [tolkien](#tolkien) - 96
+- [tolkien](#tolkien) - 97
 - [ubuntu](#ubuntu) - 9
 
 <a id="castlevania"></a>
@@ -2572,7 +2572,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 
 ## [tolkien](/mobile/tolkien/README.MD)
 <details open>
-<summary>96 files</summary>
+<summary>97 files</summary>
 <p>
 
 [![1876125.jpg](/.internals/thumbnails/mobile/tolkien/1876125.jpg "1876125.jpg")](/mobile/tolkien/1876125.jpg)
@@ -2655,6 +2655,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 [![ted-nasmith--the-king-of-the-oathbreakers.png](/.internals/thumbnails/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png "ted-nasmith--the-king-of-the-oathbreakers.png")](/mobile/tolkien/ted-nasmith--the-king-of-the-oathbreakers.png)
 [![ted-nasmith--tuor-and-ulmo.jpg](/.internals/thumbnails/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg "ted-nasmith--tuor-and-ulmo.jpg")](/mobile/tolkien/ted-nasmith--tuor-and-ulmo.jpg)
 [![ted-nasmith--tuor-at-vinyamar.png](/.internals/thumbnails/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png "ted-nasmith--tuor-at-vinyamar.png")](/mobile/tolkien/ted-nasmith--tuor-at-vinyamar.png)
+[![The Curious Fox by Matěj Čadil](/.internals/thumbnails/mobile/tolkien/The%20Curious%20Fox%20by%20Matěj%20Čadil.jpg "The Curious Fox by Matěj Čadil")](/mobile/tolkien/The%20Curious%20Fox%20by%20Matěj%20Čadil.jpg)
 [![The Trolls by JRR Tolkien](/.internals/thumbnails/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg "The Trolls by JRR Tolkien")](/mobile/tolkien/The%20Trolls%20by%20JRR%20Tolkien.jpg)
 [![Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre](/.internals/thumbnails/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg "Turin and Glaurung Tolkien S Legendarium Drawn by Coliandre")](/mobile/tolkien/turin_and_glaurung_tolkien_s_legendarium_drawn_by_coliandre.jpg)
 [![Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1](/.internals/thumbnails/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg "Ulmo Appears Before Tuor Painting by Alan Lee Edited As A V0 4z7xhuzhcsra1")](/mobile/tolkien/ulmo-appears-before-tuor-painting-by-alan-lee-edited-as-a-v0-4z7xhuzhcsra1.jpg)

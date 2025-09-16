@@ -88,3 +88,4 @@ glorfindel-by-audrey-hotte.jpg Glorfindel by Audrey Hotte
 maglor-by-gemennair.jpg Maglor by Gemennair
 morgoth-by-ranuunculus.jpg Morgoth by Ranuunculus
 The Trolls by JRR Tolkien.jpg The Trolls by JRR Tolkien
+The Curious Fox by Matěj Čadil.jpg The Curious Fox by Matěj Čadil

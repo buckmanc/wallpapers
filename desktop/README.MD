@@ -1,4 +1,4 @@
-# desktop - 678
+# desktop - 682
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -28,7 +28,7 @@
 - [synthwave](#synthwave) - 28
 - [the legend of zelda](#the-legend-of-zelda) - 6
 - [tmnt](#tmnt) - 15
-- [tolkien](#tolkien) - 51
+- [tolkien](#tolkien) - 55
 - [tomb raider 2013](#tomb-raider-2013) - 11
 - [vector vistas](#vector-vistas) - 13
 - [villages](#villages) - 5
@@ -966,7 +966,7 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 
 ## [tolkien](/desktop/tolkien/README.MD)
 <details open>
-<summary>51 files</summary>
+<summary>55 files</summary>
 <p>
 
 [![1ZlXSLP.jpeg](/.internals/thumbnails/desktop/tolkien/1ZlXSLP.jpeg "1ZlXSLP.jpeg")](/desktop/tolkien/1ZlXSLP.jpeg)
@@ -1016,6 +1016,10 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert](/.internals/thumbnails/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg "Nazgul Tolkien S Legendarium and 1 More Drawn by Exclusiverobert")](/desktop/tolkien/nazgul_tolkien_s_legendarium_and_1_more_drawn_by_exclusiverobert.jpg)
 [![omer-tunc-1-1.jpg](/.internals/thumbnails/desktop/tolkien/omer-tunc-1-1.jpg "omer-tunc-1-1.jpg")](/desktop/tolkien/omer-tunc-1-1.jpg)
 [![pxfuel (8).jpg](/.internals/thumbnails/desktop/tolkien/pxfuel%20(8).jpg "pxfuel (8).jpg")](/desktop/tolkien/pxfuel%20(8).jpg)
+[![Ralph Damiani A Shot In The Dark by Ralphdamiani](/.internals/thumbnails/desktop/tolkien/ralph-damiani-a-shot-in-the-dark-by-ralphdamiani.jpg "Ralph Damiani A Shot In The Dark by Ralphdamiani")](/desktop/tolkien/ralph-damiani-a-shot-in-the-dark-by-ralphdamiani.jpg)
+[![Ralph Damiani Grond by Ralphdamiani](/.internals/thumbnails/desktop/tolkien/ralph-damiani-grond-by-ralphdamiani.jpg "Ralph Damiani Grond by Ralphdamiani")](/desktop/tolkien/ralph-damiani-grond-by-ralphdamiani.jpg)
+[![Ralph Damiani Helmsdeep by Ralphdamiani](/.internals/thumbnails/desktop/tolkien/ralph-damiani-helmsdeep-by-ralphdamiani.jpg "Ralph Damiani Helmsdeep by Ralphdamiani")](/desktop/tolkien/ralph-damiani-helmsdeep-by-ralphdamiani.jpg)
+[![Ralph Damiani The Cleansing Of Dol Guldur by Ralph Damiani](/.internals/thumbnails/desktop/tolkien/ralph-damiani-the-cleansing-of-dol-guldur-by-ralph-damiani.jpg "Ralph Damiani The Cleansing Of Dol Guldur by Ralph Damiani")](/desktop/tolkien/ralph-damiani-the-cleansing-of-dol-guldur-by-ralph-damiani.jpg)
 [![Sauron Tolkien S Legendarium Drawn by Akreon](/.internals/thumbnails/desktop/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg "Sauron Tolkien S Legendarium Drawn by Akreon")](/desktop/tolkien/sauron_tolkien_s_legendarium_drawn_by_akreon.jpg)
 [![Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark](/.internals/thumbnails/desktop/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg "Smaug and Bard Tolkien S Legendarium and 1 More Drawn by Anato Finnstark")](/desktop/tolkien/smaug_and_bard_tolkien_s_legendarium_and_1_more_drawn_by_anato_finnstark.jpg)
 [![vDuSCPs.jpeg](/.internals/thumbnails/desktop/tolkien/vDuSCPs.jpeg "vDuSCPs.jpeg")](/desktop/tolkien/vDuSCPs.jpeg)
