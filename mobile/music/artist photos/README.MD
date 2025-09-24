@@ -1,10 +1,10 @@
-# artist photos - 22
+# artist photos - 23
 - [crown of asteria](#crown-of-asteria) - 5
 - [froglord](#froglord) - 7
 - [harifa](#harifa) - 4
 - [ieschure](#ieschure) - 3
-- [misc](#misc) - 2
 - [my last promise](#my-last-promise) - 1
+- [misc](#misc) - 3
 
 <a id="crown-of-asteria"></a>
 
@@ -69,19 +69,6 @@
 </p>
 </details>
 
-<a id="misc"></a>
-
-## [misc](/mobile/music/artist%20photos/misc/README.MD)
-<details open>
-<summary>2 files</summary>
-<p>
-
-[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/misc/firtan-2.jpg)
-[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg)
-
-</p>
-</details>
-
 <a id="my-last-promise"></a>
 
 ## [my last promise](/mobile/music/artist%20photos/my%20last%20promise/README.MD)
@@ -90,6 +77,20 @@
 <p>
 
 [![3540551220_photo.jpg](/.internals/thumbnails/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg "3540551220_photo.jpg")](/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg)
+
+</p>
+</details>
+
+<a id="misc"></a>
+
+## [misc](/mobile/music/artist%20photos/zz%20misc/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
+[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg)
+[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg)
+[![Lauren Babic - Pink Pony Club.png](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png "Lauren Babic - Pink Pony Club.png")](/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png)
 
 </p>
 </details>

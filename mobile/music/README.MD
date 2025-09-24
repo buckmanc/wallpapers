@@ -1,6 +1,6 @@
-# music - 130
+# music - 131
 - [album art](#album-art) - 108
-- [artist photos](#artist-photos) - 22
+- [artist photos](#artist-photos) - 23
 
 <a id="album-art"></a>
 
@@ -48,7 +48,6 @@
 [![Green Lung - This Heathen Land.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
 [![Green Lung - Woodland Rites.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg)
 [![Hermóðr - Forest Sky.jpg](/.internals/thumbnails/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg "Hermóðr - Forest Sky.jpg")](/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg)
-[![hMNQOjVBLiU (1).jpg](/.internals/thumbnails/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg "hMNQOjVBLiU (1).jpg")](/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg)
 [![IC3PEAK - Kiss Of Death.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 [![IC3PEAK - Сладкая жизнь.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
 [![Ieschure - Among The Swamps And Darkness.jpg](/.internals/thumbnails/mobile/music/album%20art/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg "Ieschure - Among The Swamps And Darkness.jpg")](/mobile/music/album%20art/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg)
@@ -99,6 +98,7 @@
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
+[![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
@@ -125,7 +125,7 @@
 
 ## [artist photos](/mobile/music/artist%20photos/README.MD)
 <details open>
-<summary>22 files</summary>
+<summary>23 files</summary>
 <p>
 
 [![3470313592801709036_3470313583515477091.jpg](/.internals/thumbnails/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg "3470313592801709036_3470313583515477091.jpg")](/mobile/music/artist%20photos/crown%20of%20asteria/3470313592801709036_3470313583515477091.jpg)
@@ -147,9 +147,10 @@
 [![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
 [![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
 [![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
-[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/misc/firtan-2.jpg)
-[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg)
 [![3540551220_photo.jpg](/.internals/thumbnails/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg "3540551220_photo.jpg")](/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg)
+[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg)
+[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg)
+[![Lauren Babic - Pink Pony Club.png](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png "Lauren Babic - Pink Pony Club.png")](/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png)
 
 </p>
 </details>

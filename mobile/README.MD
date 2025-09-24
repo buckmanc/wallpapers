@@ -1,4 +1,4 @@
-# mobile - 2,082
+# mobile - 2,090
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
@@ -6,6 +6,7 @@
 - [elden ring](#elden-ring) - 20
 - [frog](#frog) - 16
 - [gideon the ninth](#gideon-the-ninth) - 6
+- [glitched](#glitched) - 7
 - [justin gerard](#justin-gerard) - 4
 - [kirby](#kirby) - 67
 - [leaves](#leaves) - 19
@@ -21,7 +22,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 130
+- [music](#music) - 131
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -559,6 +560,24 @@ Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sippin
 [![gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg](/.internals/thumbnails/mobile/gideon%20the%20ninth/gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg "gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg")](/mobile/gideon%20the%20ninth/gaoz-artworks-photo-12-21-20-7-13-22-pm.jpg)
 [![Gideon-the-Ninth-artwork.jpg](/.internals/thumbnails/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg "Gideon-the-Ninth-artwork.jpg")](/mobile/gideon%20the%20ninth/Gideon-the-Ninth-artwork.jpg)
 [![lars-bundvx-amodt-standingshothood.jpg](/.internals/thumbnails/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg "lars-bundvx-amodt-standingshothood.jpg")](/mobile/gideon%20the%20ninth/lars-bundvx-amodt-standingshothood.jpg)
+
+</p>
+</details>
+
+<a id="glitched"></a>
+
+## [glitched](/mobile/glitched/README.MD)
+<details open>
+<summary>7 files</summary>
+<p>
+
+[![glitched_104053780_p0.jpg](/.internals/thumbnails/mobile/glitched/glitched_104053780_p0.jpg "glitched_104053780_p0.jpg")](/mobile/glitched/glitched_104053780_p0.jpg)
+[![glitched_105207102_p28.jpg](/.internals/thumbnails/mobile/glitched/glitched_105207102_p28.jpg "glitched_105207102_p28.jpg")](/mobile/glitched/glitched_105207102_p28.jpg)
+[![glitched_1264868.jpg](/.internals/thumbnails/mobile/glitched/glitched_1264868.jpg "glitched_1264868.jpg")](/mobile/glitched/glitched_1264868.jpg)
+[![glitched_1_-_wyzd3zs.png](/.internals/thumbnails/mobile/glitched/glitched_1_-_wyzd3zs.png "glitched_1_-_wyzd3zs.png")](/mobile/glitched/glitched_1_-_wyzd3zs.png)
+[![glitched_53801a9ecbf64c864e521370ba2e1268.jpg](/.internals/thumbnails/mobile/glitched/glitched_53801a9ecbf64c864e521370ba2e1268.jpg "glitched_53801a9ecbf64c864e521370ba2e1268.jpg")](/mobile/glitched/glitched_53801a9ecbf64c864e521370ba2e1268.jpg)
+[![glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg](/.internals/thumbnails/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg "glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg")](/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg)
+[![glitched_portrait bw.png](/.internals/thumbnails/mobile/glitched/glitched_portrait%20bw.png "glitched_portrait bw.png")](/mobile/glitched/glitched_portrait%20bw.png)
 
 </p>
 </details>
@@ -1646,7 +1665,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [music](/mobile/music/README.MD)
 <details open>
-<summary>130 files</summary>
+<summary>131 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -1688,7 +1707,6 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Green Lung - This Heathen Land.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg "Green Lung - This Heathen Land.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20This%20Heathen%20Land.jpg)
 [![Green Lung - Woodland Rites.jpg](/.internals/thumbnails/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg "Green Lung - Woodland Rites.jpg")](/mobile/music/album%20art/Green%20Lung%20-%20Woodland%20Rites.jpg)
 [![Hermóðr - Forest Sky.jpg](/.internals/thumbnails/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg "Hermóðr - Forest Sky.jpg")](/mobile/music/album%20art/Hermóðr%20-%20Forest%20Sky.jpg)
-[![hMNQOjVBLiU (1).jpg](/.internals/thumbnails/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg "hMNQOjVBLiU (1).jpg")](/mobile/music/album%20art/hMNQOjVBLiU%20(1).jpg)
 [![IC3PEAK - Kiss Of Death.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg "IC3PEAK - Kiss Of Death.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Kiss%20Of%20Death.jpg)
 [![IC3PEAK - Сладкая жизнь.jpg](/.internals/thumbnails/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg "IC3PEAK - Сладкая жизнь.jpg")](/mobile/music/album%20art/IC3PEAK%20-%20Сладкая%20жизнь.jpg)
 [![Ieschure - Among The Swamps And Darkness.jpg](/.internals/thumbnails/mobile/music/album%20art/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg "Ieschure - Among The Swamps And Darkness.jpg")](/mobile/music/album%20art/Ieschure%20-%20Among%20The%20Swamps%20And%20Darkness.jpg)
@@ -1739,6 +1757,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
+[![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
@@ -1776,9 +1795,10 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![472125567_1160244645525874_1648540252416320948_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg "472125567_1160244645525874_1648540252416320948_n.jpg")](/mobile/music/artist%20photos/ieschure/472125567_1160244645525874_1648540252416320948_n.jpg)
 [![486767060_1189287049873030_7204972972806762586_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg "486767060_1189287049873030_7204972972806762586_n.jpg")](/mobile/music/artist%20photos/ieschure/486767060_1189287049873030_7204972972806762586_n.jpg)
 [![488798652_1197863569015378_2285208083799450272_n.jpg](/.internals/thumbnails/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg "488798652_1197863569015378_2285208083799450272_n.jpg")](/mobile/music/artist%20photos/ieschure/488798652_1197863569015378_2285208083799450272_n.jpg)
-[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/misc/firtan-2.jpg)
-[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/misc/FIRTAN-band-photo-2.jpg)
 [![3540551220_photo.jpg](/.internals/thumbnails/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg "3540551220_photo.jpg")](/mobile/music/artist%20photos/my%20last%20promise/3540551220_photo.jpg)
+[![firtan-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg "firtan-2.jpg")](/mobile/music/artist%20photos/zz%20misc/firtan-2.jpg)
+[![FIRTAN-band-photo-2.jpg](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg "FIRTAN-band-photo-2.jpg")](/mobile/music/artist%20photos/zz%20misc/FIRTAN-band-photo-2.jpg)
+[![Lauren Babic - Pink Pony Club.png](/.internals/thumbnails/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png "Lauren Babic - Pink Pony Club.png")](/mobile/music/artist%20photos/zz%20misc/Lauren%20Babic%20-%20Pink%20Pony%20Club.png)
 
 </p>
 </details>
