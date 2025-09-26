@@ -1,4 +1,4 @@
-# mobile - 2,090
+# mobile - 2,097
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
@@ -6,7 +6,7 @@
 - [elden ring](#elden-ring) - 20
 - [frog](#frog) - 16
 - [gideon the ninth](#gideon-the-ninth) - 6
-- [glitched](#glitched) - 7
+- [glitched](#glitched) - 12
 - [justin gerard](#justin-gerard) - 4
 - [kirby](#kirby) - 67
 - [leaves](#leaves) - 19
@@ -14,7 +14,7 @@
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 268
+- [mega man](#mega-man) - 267
 - [metroid](#metroid) - 156
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 94
@@ -22,7 +22,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 131
+- [music](#music) - 134
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 113
@@ -568,7 +568,7 @@ Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sippin
 
 ## [glitched](/mobile/glitched/README.MD)
 <details open>
-<summary>7 files</summary>
+<summary>12 files</summary>
 <p>
 
 [![glitched_104053780_p0.jpg](/.internals/thumbnails/mobile/glitched/glitched_104053780_p0.jpg "glitched_104053780_p0.jpg")](/mobile/glitched/glitched_104053780_p0.jpg)
@@ -576,8 +576,15 @@ Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sippin
 [![glitched_1264868.jpg](/.internals/thumbnails/mobile/glitched/glitched_1264868.jpg "glitched_1264868.jpg")](/mobile/glitched/glitched_1264868.jpg)
 [![glitched_1_-_wyzd3zs.png](/.internals/thumbnails/mobile/glitched/glitched_1_-_wyzd3zs.png "glitched_1_-_wyzd3zs.png")](/mobile/glitched/glitched_1_-_wyzd3zs.png)
 [![glitched_53801a9ecbf64c864e521370ba2e1268.jpg](/.internals/thumbnails/mobile/glitched/glitched_53801a9ecbf64c864e521370ba2e1268.jpg "glitched_53801a9ecbf64c864e521370ba2e1268.jpg")](/mobile/glitched/glitched_53801a9ecbf64c864e521370ba2e1268.jpg)
+[![glitched_74466237_p0.png](/.internals/thumbnails/mobile/glitched/glitched_74466237_p0.png "glitched_74466237_p0.png")](/mobile/glitched/glitched_74466237_p0.png)
 [![glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg](/.internals/thumbnails/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg "glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg")](/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg)
+[![Glitched Brothers by Ultimatemaverickx](/.internals/thumbnails/mobile/glitched/glitched_brothers_by_ultimatemaverickx.jpg "Glitched Brothers by Ultimatemaverickx")](/mobile/glitched/glitched_brothers_by_ultimatemaverickx.jpg)
+[![glitched_glitched_20231207_142220.jpg](/.internals/thumbnails/mobile/glitched/glitched_glitched_20231207_142220.jpg "glitched_glitched_20231207_142220.jpg")](/mobile/glitched/glitched_glitched_20231207_142220.jpg)
+[![Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
+Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/glitched/glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
+Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 [![glitched_portrait bw.png](/.internals/thumbnails/mobile/glitched/glitched_portrait%20bw.png "glitched_portrait bw.png")](/mobile/glitched/glitched_portrait%20bw.png)
+[![Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 
 </p>
 </details>
@@ -932,7 +939,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>268 files</summary>
+<summary>267 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -974,7 +981,6 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Proto Man Skies 1920x1200 by Alby13](/.internals/thumbnails/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg "Proto Man Skies 1920x1200 by Alby13")](/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg)
 [![pxfuel_3_.jpg](/.internals/thumbnails/mobile/mega%20man/classic/pxfuel_3_.jpg "pxfuel_3_.jpg")](/mobile/mega%20man/classic/pxfuel_3_.jpg)
 [![Robot Masters Rampage by Xamoel](/.internals/thumbnails/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg "Robot Masters Rampage by Xamoel")](/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg)
-[![RockMan._Character_.full.2401781.png](/.internals/thumbnails/mobile/mega%20man/classic/RockMan._Character_.full.2401781.png "RockMan._Character_.full.2401781.png")](/mobile/mega%20man/classic/RockMan._Character_.full.2401781.png)
 [![Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png "Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec")](/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png)
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
@@ -1665,7 +1671,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [music](/mobile/music/README.MD)
 <details open>
-<summary>131 files</summary>
+<summary>134 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -1685,6 +1691,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![bobacupcake - theme of frog whos just kind of taking it easy right now.jpg](/.internals/thumbnails/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg "bobacupcake - theme of frog whos just kind of taking it easy right now.jpg")](/mobile/music/album%20art/bobacupcake%20-%20theme%20of%20frog%20whos%20just%20kind%20of%20taking%20it%20easy%20right%20now.jpg)
 [![Bridge City Sinners - Heres to the Devil.jpg](/.internals/thumbnails/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg "Bridge City Sinners - Heres to the Devil.jpg")](/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20Heres%20to%20the%20Devil.jpg)
 [![Bridge City Sinners - In the Age of Doubt.jpg](/.internals/thumbnails/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg "Bridge City Sinners - In the Age of Doubt.jpg")](/mobile/music/album%20art/Bridge%20City%20Sinners%20-%20In%20the%20Age%20of%20Doubt.jpg)
+[![Corpo-Mente - Corpo-Mente.jpg](/.internals/thumbnails/mobile/music/album%20art/Corpo-Mente%20-%20Corpo-Mente.jpg "Corpo-Mente - Corpo-Mente.jpg")](/mobile/music/album%20art/Corpo-Mente%20-%20Corpo-Mente.jpg)
 [![Cosmic Sand - Back to the Moonlight Sonata.jpg](/.internals/thumbnails/mobile/music/album%20art/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg "Cosmic Sand - Back to the Moonlight Sonata.jpg")](/mobile/music/album%20art/Cosmic%20Sand%20-%20Back%20to%20the%20Moonlight%20Sonata.jpg)
 [![Darkher - Where the Devil Waits.jpg](/.internals/thumbnails/mobile/music/album%20art/Darkher%20-%20Where%20the%20Devil%20Waits.jpg "Darkher - Where the Devil Waits.jpg")](/mobile/music/album%20art/Darkher%20-%20Where%20the%20Devil%20Waits.jpg)
 [![DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg](/.internals/thumbnails/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg "DJ EL FUNK TESTOSTERONA - MONTAGEM NOSTALGIA DEPRESSIVO.jpg")](/mobile/music/album%20art/DJ%20EL%20FUNK%20TESTOSTERONA%20-%20MONTAGEM%20NOSTALGIA%20DEPRESSIVO.jpg)
@@ -1720,6 +1727,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Mäleficentt - Night of Eternal Darkness.jpg](/.internals/thumbnails/mobile/music/album%20art/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg "Mäleficentt - Night of Eternal Darkness.jpg")](/mobile/music/album%20art/Mäleficentt%20-%20Night%20of%20Eternal%20Darkness.jpg)
 [![MASTER BOOT RECORD - C​__​​_CHKDSK _F.png](/.internals/thumbnails/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png "MASTER BOOT RECORD - C​__​​_CHKDSK _F.png")](/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20C​__​​_CHKDSK%20_F.png)
 [![MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg](/.internals/thumbnails/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg "MASTER BOOT RECORD - C___COPY _._ A_ _V.jpg")](/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20C___COPY%20_._%20A_%20_V.jpg)
+[![MASTER BOOT RECORD - Hardwarez.jpg](/.internals/thumbnails/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20Hardwarez.jpg "MASTER BOOT RECORD - Hardwarez.jpg")](/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20Hardwarez.jpg)
 [![MASTER BOOT RECORD - VIRTUAVERSE.OST.jpg](/.internals/thumbnails/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20VIRTUAVERSE.OST.jpg "MASTER BOOT RECORD - VIRTUAVERSE.OST.jpg")](/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20VIRTUAVERSE.OST.jpg)
 [![MASTER BOOT RECORD - Virus.Dos.png](/.internals/thumbnails/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20Virus.Dos.png "MASTER BOOT RECORD - Virus.Dos.png")](/mobile/music/album%20art/MASTER%20BOOT%20RECORD%20-%20Virus.Dos.png)
 [![Mikel-Zelda-Chill-cover-part-1.jpg](/.internals/thumbnails/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg "Mikel-Zelda-Chill-cover-part-1.jpg")](/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg)
@@ -1761,6 +1769,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
+[![The Algorithm - Data Renaissance.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg "The Algorithm - Data Renaissance.jpg")](/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Trap Your Mind - Horror Dungeon Soundscapes.jpg](/.internals/thumbnails/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg "Trap Your Mind - Horror Dungeon Soundscapes.jpg")](/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg)
 [![Twin Temple - Girl Trouble.jpg](/.internals/thumbnails/mobile/music/album%20art/Twin%20Temple%20-%20Girl%20Trouble.jpg "Twin Temple - Girl Trouble.jpg")](/mobile/music/album%20art/Twin%20Temple%20-%20Girl%20Trouble.jpg)

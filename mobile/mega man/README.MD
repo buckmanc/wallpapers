@@ -1,5 +1,5 @@
-# mega man - 268
-- [classic](#classic) - 44
+# mega man - 267
+- [classic](#classic) - 43
 - [mega man x](#mega-man-x) - 125
 - [mega man x dive](#mega-man-x-dive) - 37
 - [mega man zero](#mega-man-zero) - 37
@@ -9,7 +9,7 @@
 
 ## [classic](/mobile/mega%20man/classic/README.MD)
 <details open>
-<summary>44 files</summary>
+<summary>43 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -51,7 +51,6 @@
 [![Proto Man Skies 1920x1200 by Alby13](/.internals/thumbnails/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg "Proto Man Skies 1920x1200 by Alby13")](/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg)
 [![pxfuel_3_.jpg](/.internals/thumbnails/mobile/mega%20man/classic/pxfuel_3_.jpg "pxfuel_3_.jpg")](/mobile/mega%20man/classic/pxfuel_3_.jpg)
 [![Robot Masters Rampage by Xamoel](/.internals/thumbnails/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg "Robot Masters Rampage by Xamoel")](/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg)
-[![RockMan._Character_.full.2401781.png](/.internals/thumbnails/mobile/mega%20man/classic/RockMan._Character_.full.2401781.png "RockMan._Character_.full.2401781.png")](/mobile/mega%20man/classic/RockMan._Character_.full.2401781.png)
 [![Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png "Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec")](/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png)
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
