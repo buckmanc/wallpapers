@@ -1,16 +1,17 @@
-# classic - 43
+# classic - 45
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>43 files</summary>
+<summary>45 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
 [![106600405_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/106600405_p0.png "106600405_p0.png")](/mobile/mega%20man/classic/106600405_p0.png)
 [![10th_Anniversary_A.png](/.internals/thumbnails/mobile/mega%20man/classic/10th_Anniversary_A.png "10th_Anniversary_A.png")](/mobile/mega%20man/classic/10th_Anniversary_A.png)
 [![110630159_p8.jpg](/.internals/thumbnails/mobile/mega%20man/classic/110630159_p8.jpg "110630159_p8.jpg")](/mobile/mega%20man/classic/110630159_p8.jpg)
+[![114870309_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/114870309_p0.png "114870309_p0.png")](/mobile/mega%20man/classic/114870309_p0.png)
 [![12585771_p0.png](/.internals/thumbnails/mobile/mega%20man/classic/12585771_p0.png "12585771_p0.png")](/mobile/mega%20man/classic/12585771_p0.png)
 [![1264785.png](/.internals/thumbnails/mobile/mega%20man/classic/1264785.png "1264785.png")](/mobile/mega%20man/classic/1264785.png)
 [![1264793.jpg](/.internals/thumbnails/mobile/mega%20man/classic/1264793.jpg "1264793.jpg")](/mobile/mega%20man/classic/1264793.jpg)
@@ -46,6 +47,7 @@
 [![Proto Man Skies 1920x1200 by Alby13](/.internals/thumbnails/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg "Proto Man Skies 1920x1200 by Alby13")](/mobile/mega%20man/classic/proto_man_skies_1920x1200_by_alby13.jpg)
 [![pxfuel_3_.jpg](/.internals/thumbnails/mobile/mega%20man/classic/pxfuel_3_.jpg "pxfuel_3_.jpg")](/mobile/mega%20man/classic/pxfuel_3_.jpg)
 [![Robot Masters Rampage by Xamoel](/.internals/thumbnails/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg "Robot Masters Rampage by Xamoel")](/mobile/mega%20man/classic/robot_masters_rampage_by_xamoel.jpg)
+[![Rockman_30th_Anniversary_-_Antagonists.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Rockman_30th_Anniversary_-_Antagonists.jpg "Rockman_30th_Anniversary_-_Antagonists.jpg")](/mobile/mega%20man/classic/Rockman_30th_Anniversary_-_Antagonists.jpg)
 [![Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png "Roll Mega Man and Dr Wily Mega Man and 2 More Drawn by Tomycase Aae4b7207558fc536df23e5ae747aeec")](/mobile/mega%20man/classic/roll_mega_man_and_dr_wily_mega_man_and_2_more_drawn_by_tomycase_aae4b7207558fc536df23e5ae747aeec.png)
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)

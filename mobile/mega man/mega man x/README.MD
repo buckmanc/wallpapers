@@ -1,10 +1,10 @@
-# mega man x - 125
+# mega man x - 126
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>125 files</summary>
+<summary>126 files</summary>
 <p>
 
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
@@ -48,6 +48,7 @@
 [![111940162_p1.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/111940162_p1.png "111940162_p1.png")](/mobile/mega%20man/mega%20man%20x/111940162_p1.png)
 [![112746567_p23.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/112746567_p23.jpg "112746567_p23.jpg")](/mobile/mega%20man/mega%20man%20x/112746567_p23.jpg)
 [![1264868.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/1264868.jpg "1264868.jpg")](/mobile/mega%20man/mega%20man%20x/1264868.jpg)
+[![129515264_p8.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/129515264_p8.jpg "129515264_p8.jpg")](/mobile/mega%20man/mega%20man%20x/129515264_p8.jpg)
 [![1.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/1.jpg "1.jpg")](/mobile/mega%20man/mega%20man%20x/1.jpg)
 [![20231207_140007.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/20231207_140007.png "20231207_140007.png")](/mobile/mega%20man/mega%20man%20x/20231207_140007.png)
 [![20231207_142220.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/20231207_142220.jpg "20231207_142220.jpg")](/mobile/mega%20man/mega%20man%20x/20231207_142220.jpg)

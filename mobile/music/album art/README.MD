@@ -1,10 +1,10 @@
-# album art - 111
+# album art - 112
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>111 files</summary>
+<summary>112 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -99,6 +99,7 @@
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
+[![STOMACH BOOK - GOODNIGHT HYPNOPOMP.png](/.internals/thumbnails/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png "STOMACH BOOK - GOODNIGHT HYPNOPOMP.png")](/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
