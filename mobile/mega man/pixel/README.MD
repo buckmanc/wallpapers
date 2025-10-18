@@ -1,10 +1,10 @@
-# pixel - 25
+# pixel - 32
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>25 files</summary>
+<summary>32 files</summary>
 <p>
 
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
@@ -23,6 +23,13 @@
 [![mm07-wily-mm7-wilycapsule_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm07-wily-mm7-wilycapsule_enlarged.png "mm07-wily-mm7-wilycapsule_enlarged.png")](/mobile/mega%20man/pixel/mm07-wily-mm7-wilycapsule_enlarged.png)
 [![mm09-wily_castle_9_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm09-wily_castle_9_enlarged.png "mm09-wily_castle_9_enlarged.png")](/mobile/mega%20man/pixel/mm09-wily_castle_9_enlarged.png)
 [![mm10-wily_castle_10_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png "mm10-wily_castle_10_enlarged.png")](/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png)
+[![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
+[![mm7 - junk man - shaft narrower centered_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20shaft%20narrower%20centered_enlarged.png "mm7 - junk man - shaft narrower centered_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20shaft%20narrower%20centered_enlarged.png)
+[![mm7 - shade man bg 2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png "mm7 - shade man bg 2_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png)
+[![mm7 - shade man bg - mobile_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%20-%20mobile_enlarged.png "mm7 - shade man bg - mobile_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%20-%20mobile_enlarged.png)
+[![mm7 - wily 1 - bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20wily%201%20-%20bg_enlarged.png "mm7 - wily 1 - bg_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20wily%201%20-%20bg_enlarged.png)
+[![mm7 - wily 2 - bg1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20wily%202%20-%20bg1_enlarged.png "mm7 - wily 2 - bg1_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20wily%202%20-%20bg1_enlarged.png)
+[![mm7 - wily 4 - bg1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20wily%204%20-%20bg1_enlarged.png "mm7 - wily 4 - bg1_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20wily%204%20-%20bg1_enlarged.png)
 [![mms-wily_castle_s_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mms-wily_castle_s_enlarged.png "mms-wily_castle_s_enlarged.png")](/mobile/mega%20man/pixel/mms-wily_castle_s_enlarged.png)
 [![mmww-wilytowerww_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmww-wilytowerww_enlarged.png "mmww-wilytowerww_enlarged.png")](/mobile/mega%20man/pixel/mmww-wilytowerww_enlarged.png)
 [![mmx1_highway_bg_1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx1_highway_bg_1_enlarged.png "mmx1_highway_bg_1_enlarged.png")](/mobile/mega%20man/pixel/mmx1_highway_bg_1_enlarged.png)

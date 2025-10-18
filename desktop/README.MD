@@ -1,4 +1,4 @@
-# desktop - 682
+# desktop - 688
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -7,7 +7,7 @@
 - [forests](#forests) - 116
 - [justin gerard](#justin-gerard) - 3
 - [magic the gathering](#magic-the-gathering) - 10
-- [mega man pixel](#mega-man-pixel) - 5
+- [mega man pixel](#mega-man-pixel) - 11
 - [metroid](#metroid) - 8
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 110
@@ -303,9 +303,15 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 ## [mega man pixel](/desktop/mega%20man%20pixel/README.MD)
 <details open>
-<summary>5 files</summary>
+<summary>11 files</summary>
 <p>
 
+[![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
+[![mm7 - shade man bg 2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png "mm7 - shade man bg 2_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png)
+[![mm7 - shade man bg - desktop_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%20-%20desktop_enlarged.png "mm7 - shade man bg - desktop_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%20-%20desktop_enlarged.png)
+[![mm7 - wily 1 - bg2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20wily%201%20-%20bg2_enlarged.png "mm7 - wily 1 - bg2_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20wily%201%20-%20bg2_enlarged.png)
+[![mm7 - wily 1 - bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20wily%201%20-%20bg_enlarged.png "mm7 - wily 1 - bg_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20wily%201%20-%20bg_enlarged.png)
+[![mm7 - wily 2 - bg1_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20wily%202%20-%20bg1_enlarged.png "mm7 - wily 2 - bg1_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20wily%202%20-%20bg1_enlarged.png)
 [![mmx1_highway_bg_1_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx1_highway_bg_1_enlarged.png "mmx1_highway_bg_1_enlarged.png")](/desktop/mega%20man%20pixel/mmx1_highway_bg_1_enlarged.png)
 [![mmx3_doppler_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_doppler_bg_enlarged.png "mmx3_doppler_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_doppler_bg_enlarged.png)
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png)

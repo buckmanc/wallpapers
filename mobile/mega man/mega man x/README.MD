@@ -1,10 +1,10 @@
-# mega man x - 126
+# mega man x - 155
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>126 files</summary>
+<summary>155 files</summary>
 <p>
 
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
@@ -99,8 +99,35 @@
 [![FP-opPLaMAYM51-.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg "FP-opPLaMAYM51-.jpeg")](/mobile/mega%20man/mega%20man%20x/FP-opPLaMAYM51-.jpeg)
 [![GEIjxd4a8AA6g64.jpeg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg "GEIjxd4a8AA6g64.jpeg")](/mobile/mega%20man/mega%20man%20x/GEIjxd4a8AA6g64.jpeg)
 [![i28b40jljvw61.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg "i28b40jljvw61.jpg")](/mobile/mega%20man/mega%20man%20x/i28b40jljvw61.jpg)
+[![illust_107788645_20251017_082925.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_107788645_20251017_082925.jpg "illust_107788645_20251017_082925.jpg")](/mobile/mega%20man/mega%20man%20x/illust_107788645_20251017_082925.jpg)
 [![illust_108228002_20250202_182349.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg "illust_108228002_20250202_182349.jpg")](/mobile/mega%20man/mega%20man%20x/illust_108228002_20250202_182349.jpg)
+[![illust_111079394_20251017_082902.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_111079394_20251017_082902.jpg "illust_111079394_20251017_082902.jpg")](/mobile/mega%20man/mega%20man%20x/illust_111079394_20251017_082902.jpg)
+[![illust_112746567_20251017_082744.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082744.jpg "illust_112746567_20251017_082744.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082744.jpg)
+[![illust_112746567_20251017_082756.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082756.jpg "illust_112746567_20251017_082756.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082756.jpg)
+[![illust_112746567_20251017_082826.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082826.jpg "illust_112746567_20251017_082826.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082826.jpg)
+[![illust_112746567_20251017_082839.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082839.jpg "illust_112746567_20251017_082839.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082839.jpg)
+[![illust_112746567_20251017_082843.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082843.jpg "illust_112746567_20251017_082843.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082843.jpg)
+[![illust_112746567_20251017_082846.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082846.jpg "illust_112746567_20251017_082846.jpg")](/mobile/mega%20man/mega%20man%20x/illust_112746567_20251017_082846.jpg)
+[![illust_115133622_20251017_082651.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082651.jpg "illust_115133622_20251017_082651.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082651.jpg)
+[![illust_115133622_20251017_082712.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082712.jpg "illust_115133622_20251017_082712.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082712.jpg)
+[![illust_115133622_20251017_082715.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082715.jpg "illust_115133622_20251017_082715.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082715.jpg)
+[![illust_115133622_20251017_082718.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082718.jpg "illust_115133622_20251017_082718.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082718.jpg)
+[![illust_115133622_20251017_082720.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082720.jpg "illust_115133622_20251017_082720.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082720.jpg)
+[![illust_115133622_20251017_082723.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082723.jpg "illust_115133622_20251017_082723.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082723.jpg)
+[![illust_115133622_20251017_082726.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082726.jpg "illust_115133622_20251017_082726.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115133622_20251017_082726.jpg)
+[![illust_115636923_20251017_082733.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_115636923_20251017_082733.jpg "illust_115636923_20251017_082733.jpg")](/mobile/mega%20man/mega%20man%20x/illust_115636923_20251017_082733.jpg)
 [![illust_118506789_20250202_185605.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png "illust_118506789_20250202_185605.png")](/mobile/mega%20man/mega%20man%20x/illust_118506789_20250202_185605.png)
+[![illust_126920541_20251017_082416.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082416.jpg "illust_126920541_20251017_082416.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082416.jpg)
+[![illust_126920541_20251017_082431.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082431.jpg "illust_126920541_20251017_082431.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082431.jpg)
+[![illust_126920541_20251017_082449.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082449.jpg "illust_126920541_20251017_082449.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082449.jpg)
+[![illust_126920541_20251017_082517.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082517.jpg "illust_126920541_20251017_082517.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082517.jpg)
+[![illust_126920541_20251017_082520.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082520.jpg "illust_126920541_20251017_082520.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082520.jpg)
+[![illust_126920541_20251017_082539.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082539.jpg "illust_126920541_20251017_082539.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082539.jpg)
+[![illust_126920541_20251017_082552.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082552.jpg "illust_126920541_20251017_082552.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082552.jpg)
+[![illust_126920541_20251017_082619.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082619.jpg "illust_126920541_20251017_082619.jpg")](/mobile/mega%20man/mega%20man%20x/illust_126920541_20251017_082619.jpg)
+[![illust_129515471_20251014_090650.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090650.jpg "illust_129515471_20251014_090650.jpg")](/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090650.jpg)
+[![illust_129515471_20251014_090732.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090732.jpg "illust_129515471_20251014_090732.jpg")](/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090732.jpg)
+[![illust_129515471_20251014_090845.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090845.jpg "illust_129515471_20251014_090845.jpg")](/mobile/mega%20man/mega%20man%20x/illust_129515471_20251014_090845.jpg)
 [![illust_87229658_20250202_182513.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/illust_87229658_20250202_182513.jpg "illust_87229658_20250202_182513.jpg")](/mobile/mega%20man/mega%20man%20x/illust_87229658_20250202_182513.jpg)
 [![Light S Armor by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/light_s_armor_by_ultimatemaverickx.png "Light S Armor by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/light_s_armor_by_ultimatemaverickx.png)
 [![Mega Man X2 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/mega_man_x2_by_ultimatemaverickx.png "Mega Man X2 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/mega_man_x2_by_ultimatemaverickx.png)
@@ -108,6 +135,7 @@
 [![megamanx5_1.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/megamanx5_1.jpg "megamanx5_1.jpg")](/mobile/mega%20man/mega%20man%20x/megamanx5_1.jpg)
 [![Mega Man X by Dan Mumford](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/mega_man_x_by_dan_mumford.jpg "Mega Man X by Dan Mumford")](/mobile/mega%20man/mega%20man%20x/mega_man_x_by_dan_mumford.jpg)
 [![Mega Man X by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/mega_man_x_by_ultimatemaverickx.png "Mega Man X by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/mega_man_x_by_ultimatemaverickx.png)
+[![mega_man_x_hanx_montage.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/mega_man_x_hanx_montage.png "mega_man_x_hanx_montage.png")](/mobile/mega%20man/mega%20man%20x/mega_man_x_hanx_montage.png)
 [![Megaman X Legacy Wallpaper 2 B by Falconburst322](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/megaman_x_legacy_wallpaper_2_b_by_falconburst322.jpg "Megaman X Legacy Wallpaper 2 B by Falconburst322")](/mobile/mega%20man/mega%20man%20x/megaman_x_legacy_wallpaper_2_b_by_falconburst322.jpg)
 [![Megaman X Legacy Wallpaper 3 by Falconburst322](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/megaman_x_legacy_wallpaper_3_by_falconburst322.jpg "Megaman X Legacy Wallpaper 3 by Falconburst322")](/mobile/mega%20man/mega%20man%20x/megaman_x_legacy_wallpaper_3_by_falconburst322.jpg)
 [![Megaman X Wallpaper 2 A by Falconburst322](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/megaman_x_wallpaper_2_a_by_falconburst322.jpg "Megaman X Wallpaper 2 A by Falconburst322")](/mobile/mega%20man/mega%20man%20x/megaman_x_wallpaper_2_a_by_falconburst322.jpg)
@@ -126,6 +154,7 @@
 [![TEPPEN_SI_075_art.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/TEPPEN_SI_075_art.png "TEPPEN_SI_075_art.png")](/mobile/mega%20man/mega%20man%20x/TEPPEN_SI_075_art.png)
 [![TEPPEN_SI_079_art.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/TEPPEN_SI_079_art.png "TEPPEN_SI_079_art.png")](/mobile/mega%20man/mega%20man%20x/TEPPEN_SI_079_art.png)
 [![TEPPEN_T097_art.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/TEPPEN_T097_art.png "TEPPEN_T097_art.png")](/mobile/mega%20man/mega%20man%20x/TEPPEN_T097_art.png)
+[![tumblr_09e56041e3e5bc0e4e94f9a479c947f2_1a7650df_1280.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/tumblr_09e56041e3e5bc0e4e94f9a479c947f2_1a7650df_1280.jpg "tumblr_09e56041e3e5bc0e4e94f9a479c947f2_1a7650df_1280.jpg")](/mobile/mega%20man/mega%20man%20x/tumblr_09e56041e3e5bc0e4e94f9a479c947f2_1a7650df_1280.jpg)
 [![Variable X by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/variable_x_by_ultimatemaverickx.jpg "Variable X by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/variable_x_by_ultimatemaverickx.jpg)
 [![Vile by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/vile_by_ultimatemaverickx.png "Vile by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/vile_by_ultimatemaverickx.png)
 [![ X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg " X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59")](/mobile/mega%20man/mega%20man%20x/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg)
