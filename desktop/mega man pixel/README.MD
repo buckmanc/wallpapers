@@ -1,10 +1,10 @@
-# mega man pixel - 11
+# mega man pixel - 12
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>11 files</summary>
+<summary>12 files</summary>
 <p>
 
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
@@ -18,6 +18,7 @@
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png)
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png)
+[![mmx - sigma 2 bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx%20-%20sigma%202%20bg_enlarged.png "mmx - sigma 2 bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx%20-%20sigma%202%20bg_enlarged.png)
 
 </p>
 </details>

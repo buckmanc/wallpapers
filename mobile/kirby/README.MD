@@ -1,10 +1,10 @@
-# kirby - 67
+# kirby - 70
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>67 files</summary>
+<summary>70 files</summary>
 <p>
 
 [![1188727.jpg](/.internals/thumbnails/mobile/kirby/1188727.jpg "1188727.jpg")](/mobile/kirby/1188727.jpg)
@@ -52,6 +52,8 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 [![ Kirby Meta Knight Waddle Dee and Ghost Kirby Kirby Drawn by Harukui 7748fe1ee6e4b18f4d9e977ea593512f](/.internals/thumbnails/mobile/kirby/kirby_meta_knight_waddle_dee_and_ghost_kirby_kirby_drawn_by_harukui__7748fe1ee6e4b18f4d9e977ea593512f.jpg " Kirby Meta Knight Waddle Dee and Ghost Kirby Kirby Drawn by Harukui 7748fe1ee6e4b18f4d9e977ea593512f")](/mobile/kirby/kirby_meta_knight_waddle_dee_and_ghost_kirby_kirby_drawn_by_harukui__7748fe1ee6e4b18f4d9e977ea593512f.jpg)
 [![kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png](/.internals/thumbnails/mobile/kirby/kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png "kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png")](/mobile/kirby/kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png)
 [![kirby-nintendo-retro-wallpaper-mobile.jpg](/.internals/thumbnails/mobile/kirby/kirby-nintendo-retro-wallpaper-mobile.jpg "kirby-nintendo-retro-wallpaper-mobile.jpg")](/mobile/kirby/kirby-nintendo-retro-wallpaper-mobile.jpg)
+[![kirby super star - marx arena_enlarged.png](/.internals/thumbnails/mobile/kirby/kirby%20super%20star%20-%20marx%20arena_enlarged.png "kirby super star - marx arena_enlarged.png")](/mobile/kirby/kirby%20super%20star%20-%20marx%20arena_enlarged.png)
+[![kirby super star - milky way wishes cutscene_enlarged.png](/.internals/thumbnails/mobile/kirby/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png "kirby super star - milky way wishes cutscene_enlarged.png")](/mobile/kirby/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png)
 [![ Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png " Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d")](/mobile/kirby/kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png)
 [![ Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg " Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280")](/mobile/kirby/kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg)
 [![ Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg " Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64")](/mobile/kirby/kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg)
@@ -72,6 +74,7 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 [![pxfuel (1).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(1).jpg "pxfuel (1).jpg")](/mobile/kirby/pxfuel%20(1).jpg)
 [![pxfuel (2).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(2).jpg "pxfuel (2).jpg")](/mobile/kirby/pxfuel%20(2).jpg)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/kirby/pxfuel.jpg "pxfuel.jpg")](/mobile/kirby/pxfuel.jpg)
+[![super_star_ability_tiles_enlarged.png](/.internals/thumbnails/mobile/kirby/super_star_ability_tiles_enlarged.png "super_star_ability_tiles_enlarged.png")](/mobile/kirby/super_star_ability_tiles_enlarged.png)
 [![uwp2743031.jpeg](/.internals/thumbnails/mobile/kirby/uwp2743031.jpeg "uwp2743031.jpeg")](/mobile/kirby/uwp2743031.jpeg)
 [![Vacation Kirby by X Xasm](/.internals/thumbnails/mobile/kirby/vacation_kirby_by_x_xasm.png "Vacation Kirby by X Xasm")](/mobile/kirby/vacation_kirby_by_x_xasm.png)
 [![wp4856708-pokemon-pc-desktop-wallpapers.jpg](/.internals/thumbnails/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg "wp4856708-pokemon-pc-desktop-wallpapers.jpg")](/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg)

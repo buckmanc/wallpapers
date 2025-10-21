@@ -1,9 +1,9 @@
-# mega man - 315
+# mega man - 316
 - [classic](#classic) - 45
 - [mega man x](#mega-man-x) - 155
 - [mega man x dive](#mega-man-x-dive) - 38
 - [mega man zero](#mega-man-zero) - 45
-- [pixel](#pixel) - 32
+- [pixel](#pixel) - 33
 
 <a id="classic"></a>
 
@@ -336,7 +336,7 @@
 
 ## [pixel](/mobile/mega%20man/pixel/README.MD)
 <details open>
-<summary>32 files</summary>
+<summary>33 files</summary>
 <p>
 
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
@@ -370,6 +370,7 @@
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/mobile/mega%20man/pixel/mmx3_intro_city_bg_enlarged.png)
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png)
+[![mmx - sigma 2 bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx%20-%20sigma%202%20bg_enlarged.png "mmx - sigma 2 bg_enlarged.png")](/mobile/mega%20man/pixel/mmx%20-%20sigma%202%20bg_enlarged.png)
 [![pcmm3-wilyfor3pc_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png "pcmm3-wilyfor3pc_enlarged.png")](/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png)
 
 </p>

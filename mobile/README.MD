@@ -1,4 +1,4 @@
-# mobile - 2,177
+# mobile - 2,188
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 134
 - [cosmere](#cosmere) - 160
@@ -11,14 +11,15 @@
 - [hollow knight](#hollow-knight) - 12
 - [horizon](#horizon) - 2
 - [justin gerard](#justin-gerard) - 4
-- [kirby](#kirby) - 67
+- [kirby](#kirby) - 70
 - [leaves](#leaves) - 19
 - [legends and lattes](#legends-and-lattes) - 2
 - [magic the gathering](#magic-the-gathering) - 30
 - [mario](#mario) - 100
+- [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 315
-- [metroid](#metroid) - 156
+- [mega man](#mega-man) - 316
+- [metroid](#metroid) - 161
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 95
 - [misc anato finnstark](#misc-anato-finnstark) - 35
@@ -35,6 +36,7 @@
 - [sea of thieves](#sea-of-thieves) - 25
 - [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
+- [star fox pixel](#star-fox-pixel) - 1
 - [star trek](#star-trek) - 9
 - [the legend of zelda](#the-legend-of-zelda) - 204
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
@@ -672,7 +674,7 @@ Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man 
 
 ## [kirby](/mobile/kirby/README.MD)
 <details open>
-<summary>67 files</summary>
+<summary>70 files</summary>
 <p>
 
 [![1188727.jpg](/.internals/thumbnails/mobile/kirby/1188727.jpg "1188727.jpg")](/mobile/kirby/1188727.jpg)
@@ -720,6 +722,8 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 [![ Kirby Meta Knight Waddle Dee and Ghost Kirby Kirby Drawn by Harukui 7748fe1ee6e4b18f4d9e977ea593512f](/.internals/thumbnails/mobile/kirby/kirby_meta_knight_waddle_dee_and_ghost_kirby_kirby_drawn_by_harukui__7748fe1ee6e4b18f4d9e977ea593512f.jpg " Kirby Meta Knight Waddle Dee and Ghost Kirby Kirby Drawn by Harukui 7748fe1ee6e4b18f4d9e977ea593512f")](/mobile/kirby/kirby_meta_knight_waddle_dee_and_ghost_kirby_kirby_drawn_by_harukui__7748fe1ee6e4b18f4d9e977ea593512f.jpg)
 [![kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png](/.internals/thumbnails/mobile/kirby/kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png "kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png")](/mobile/kirby/kirby_meta_knight_waddle_dee_king_dedede_magolor_kirby__501a1b3ee9ebbb0a5fb4db2854f589ab.png)
 [![kirby-nintendo-retro-wallpaper-mobile.jpg](/.internals/thumbnails/mobile/kirby/kirby-nintendo-retro-wallpaper-mobile.jpg "kirby-nintendo-retro-wallpaper-mobile.jpg")](/mobile/kirby/kirby-nintendo-retro-wallpaper-mobile.jpg)
+[![kirby super star - marx arena_enlarged.png](/.internals/thumbnails/mobile/kirby/kirby%20super%20star%20-%20marx%20arena_enlarged.png "kirby super star - marx arena_enlarged.png")](/mobile/kirby/kirby%20super%20star%20-%20marx%20arena_enlarged.png)
+[![kirby super star - milky way wishes cutscene_enlarged.png](/.internals/thumbnails/mobile/kirby/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png "kirby super star - milky way wishes cutscene_enlarged.png")](/mobile/kirby/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png)
 [![ Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png " Kirby Waddle Dee and Ghost Kirby Kirby Drawn by Mutekyan C3ccb08d398c37c1b607c236eacc9c2d")](/mobile/kirby/kirby_waddle_dee_and_ghost_kirby_kirby_drawn_by_mutekyan__c3ccb08d398c37c1b607c236eacc9c2d.png)
 [![ Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg " Kirby Waddle Dee Bandana Waddle Dee and Delivery Waddle Dee Kirby and 1 More Drawn by Suyasuyabi E6ea7eb69c2b42707184d609addf6280")](/mobile/kirby/kirby_waddle_dee_bandana_waddle_dee_and_delivery_waddle_dee_kirby_and_1_more_drawn_by_suyasuyabi__e6ea7eb69c2b42707184d609addf6280.jpg)
 [![ Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64](/.internals/thumbnails/mobile/kirby/kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg " Kirby Waddle Dee Waddle Doo Whispy Woods and Sleep Kirby Kirby Drawn by Miclot B4fe025c637d9ae5204b0e3556b0fd64")](/mobile/kirby/kirby_waddle_dee_waddle_doo_whispy_woods_and_sleep_kirby_kirby_drawn_by_miclot__b4fe025c637d9ae5204b0e3556b0fd64.jpg)
@@ -740,6 +744,7 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 [![pxfuel (1).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(1).jpg "pxfuel (1).jpg")](/mobile/kirby/pxfuel%20(1).jpg)
 [![pxfuel (2).jpg](/.internals/thumbnails/mobile/kirby/pxfuel%20(2).jpg "pxfuel (2).jpg")](/mobile/kirby/pxfuel%20(2).jpg)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/kirby/pxfuel.jpg "pxfuel.jpg")](/mobile/kirby/pxfuel.jpg)
+[![super_star_ability_tiles_enlarged.png](/.internals/thumbnails/mobile/kirby/super_star_ability_tiles_enlarged.png "super_star_ability_tiles_enlarged.png")](/mobile/kirby/super_star_ability_tiles_enlarged.png)
 [![uwp2743031.jpeg](/.internals/thumbnails/mobile/kirby/uwp2743031.jpeg "uwp2743031.jpeg")](/mobile/kirby/uwp2743031.jpeg)
 [![Vacation Kirby by X Xasm](/.internals/thumbnails/mobile/kirby/vacation_kirby_by_x_xasm.png "Vacation Kirby by X Xasm")](/mobile/kirby/vacation_kirby_by_x_xasm.png)
 [![wp4856708-pokemon-pc-desktop-wallpapers.jpg](/.internals/thumbnails/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg "wp4856708-pokemon-pc-desktop-wallpapers.jpg")](/mobile/kirby/wp4856708-pokemon-pc-desktop-wallpapers.jpg)
@@ -979,6 +984,18 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 </p>
 </details>
 
+<a id="mario-pixel"></a>
+
+## [mario pixel](/mobile/mario%20pixel/README.MD)
+<details open>
+<summary>1 files</summary>
+<p>
+
+[![mario maker 2 - smw ghost house_enlarged.png](/.internals/thumbnails/mobile/mario%20pixel/mario%20maker%202%20-%20smw%20ghost%20house_enlarged.png "mario maker 2 - smw ghost house_enlarged.png")](/mobile/mario%20pixel/mario%20maker%202%20-%20smw%20ghost%20house_enlarged.png)
+
+</p>
+</details>
+
 <a id="maxime-desmettre"></a>
 
 ## [maxime desmettre](/mobile/maxime%20desmettre/README.MD)
@@ -1003,7 +1020,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>315 files</summary>
+<summary>316 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -1320,6 +1337,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/mobile/mega%20man/pixel/mmx3_intro_city_bg_enlarged.png)
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/mobile/mega%20man/pixel/mmx3_vile_bg_enlarged.png)
+[![mmx - sigma 2 bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mmx%20-%20sigma%202%20bg_enlarged.png "mmx - sigma 2 bg_enlarged.png")](/mobile/mega%20man/pixel/mmx%20-%20sigma%202%20bg_enlarged.png)
 [![pcmm3-wilyfor3pc_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png "pcmm3-wilyfor3pc_enlarged.png")](/mobile/mega%20man/pixel/pcmm3-wilyfor3pc_enlarged.png)
 
 </p>
@@ -1329,7 +1347,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [metroid](/mobile/metroid/README.MD)
 <details open>
-<summary>156 files</summary>
+<summary>161 files</summary>
 <p>
 
 [![013ajqkptu571.jpg](/.internals/thumbnails/mobile/metroid/013ajqkptu571.jpg "013ajqkptu571.jpg")](/mobile/metroid/013ajqkptu571.jpg)
@@ -1412,11 +1430,16 @@ Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da4963
 [![metroid-dread.jpg](/.internals/thumbnails/mobile/metroid/metroid-dread.jpg "metroid-dread.jpg")](/mobile/metroid/metroid-dread.jpg)
 [![MetroidDread_Samus.jpg](/.internals/thumbnails/mobile/metroid/MetroidDread_Samus.jpg "MetroidDread_Samus.jpg")](/mobile/metroid/MetroidDread_Samus.jpg)
 [![Metroid-Dread-Wallpaper-3.jpg](/.internals/thumbnails/mobile/metroid/Metroid-Dread-Wallpaper-3.jpg "Metroid-Dread-Wallpaper-3.jpg")](/mobile/metroid/Metroid-Dread-Wallpaper-3.jpg)
+[![metroid fusion - intro stars_enlarged.png](/.internals/thumbnails/mobile/metroid/metroid%20fusion%20-%20intro%20stars_enlarged.png "metroid fusion - intro stars_enlarged.png")](/mobile/metroid/metroid%20fusion%20-%20intro%20stars_enlarged.png)
 [![Metroid Prime 3 Corruption Varia Suit by Garymotherpuckingoak D8ec0mg](/.internals/thumbnails/mobile/metroid/metroid_prime_3__corruption___varia_suit_by_garymotherpuckingoak_d8ec0mg.png "Metroid Prime 3 Corruption Varia Suit by Garymotherpuckingoak D8ec0mg")](/mobile/metroid/metroid_prime_3__corruption___varia_suit_by_garymotherpuckingoak_d8ec0mg.png)
 [![Metroid_Prime_Falcon_Zero_1920x1080.jpg](/.internals/thumbnails/mobile/metroid/Metroid_Prime_Falcon_Zero_1920x1080.jpg "Metroid_Prime_Falcon_Zero_1920x1080.jpg")](/mobile/metroid/Metroid_Prime_Falcon_Zero_1920x1080.jpg)
 [![Metroid_Prime_Paintingesque_1920x1200.jpg](/.internals/thumbnails/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg "Metroid_Prime_Paintingesque_1920x1200.jpg")](/mobile/metroid/Metroid_Prime_Paintingesque_1920x1200.jpg)
 [![Metroid The Brain by Nick Derington](/.internals/thumbnails/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png "Metroid The Brain by Nick Derington")](/mobile/metroid/Metroid%20-%20The%20Brain%20by%20Nick%20Derington.png)
 [![metroid-the-forest-ee3581bggowaeid2.png](/.internals/thumbnails/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.png "metroid-the-forest-ee3581bggowaeid2.png")](/mobile/metroid/metroid-the-forest-ee3581bggowaeid2.png)
+[![metroid zero mission - misc bg_enlarged.png](/.internals/thumbnails/mobile/metroid/metroid%20zero%20mission%20-%20misc%20bg_enlarged.png "metroid zero mission - misc bg_enlarged.png")](/mobile/metroid/metroid%20zero%20mission%20-%20misc%20bg_enlarged.png)
+[![metroid zero mission - stars 2_enlarged.png](/.internals/thumbnails/mobile/metroid/metroid%20zero%20mission%20-%20stars%202_enlarged.png "metroid zero mission - stars 2_enlarged.png")](/mobile/metroid/metroid%20zero%20mission%20-%20stars%202_enlarged.png)
+[![metroid zero mission - stars 3_enlarged.png](/.internals/thumbnails/mobile/metroid/metroid%20zero%20mission%20-%20stars%203_enlarged.png "metroid zero mission - stars 3_enlarged.png")](/mobile/metroid/metroid%20zero%20mission%20-%20stars%203_enlarged.png)
+[![metroid zero mission - stars_enlarged.png](/.internals/thumbnails/mobile/metroid/metroid%20zero%20mission%20-%20stars_enlarged.png "metroid zero mission - stars_enlarged.png")](/mobile/metroid/metroid%20zero%20mission%20-%20stars_enlarged.png)
 [![mfend_d_enlarged.png](/.internals/thumbnails/mobile/metroid/mfend_d_enlarged.png "mfend_d_enlarged.png")](/mobile/metroid/mfend_d_enlarged.png)
 [![mf_metroid.png](/.internals/thumbnails/mobile/metroid/mf_metroid.png "mf_metroid.png")](/mobile/metroid/mf_metroid.png)
 [![Mother Brain by Oldhat104 D5abekh](/.internals/thumbnails/mobile/metroid/mother_brain_by_oldhat104_d5abekh.png "Mother Brain by Oldhat104 D5abekh")](/mobile/metroid/mother_brain_by_oldhat104_d5abekh.png)
@@ -2369,6 +2392,18 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![pavel-goloviy-fools-idol-church-concept.jpg](/.internals/thumbnails/mobile/soulsborne/pavel-goloviy-fools-idol-church-concept.jpg "pavel-goloviy-fools-idol-church-concept.jpg")](/mobile/soulsborne/pavel-goloviy-fools-idol-church-concept.jpg)
 [![pavel-goloviy-gothic-entrance-concept.jpg](/.internals/thumbnails/mobile/soulsborne/pavel-goloviy-gothic-entrance-concept.jpg "pavel-goloviy-gothic-entrance-concept.jpg")](/mobile/soulsborne/pavel-goloviy-gothic-entrance-concept.jpg)
 [![wallpaper_demons_souls_2020_03_1920x1080.jpg](/.internals/thumbnails/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg "wallpaper_demons_souls_2020_03_1920x1080.jpg")](/mobile/soulsborne/wallpaper_demons_souls_2020_03_1920x1080.jpg)
+
+</p>
+</details>
+
+<a id="star-fox-pixel"></a>
+
+## [star fox pixel](/mobile/star%20fox%20pixel/README.MD)
+<details open>
+<summary>1 files</summary>
+<p>
+
+[![star fox - sector x_enlarged.png](/.internals/thumbnails/mobile/star%20fox%20pixel/star%20fox%20-%20sector%20x_enlarged.png "star fox - sector x_enlarged.png")](/mobile/star%20fox%20pixel/star%20fox%20-%20sector%20x_enlarged.png)
 
 </p>
 </details>

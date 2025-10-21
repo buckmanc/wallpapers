@@ -1,4 +1,4 @@
-# desktop - 688
+# desktop - 698
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
@@ -6,9 +6,11 @@
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 116
 - [justin gerard](#justin-gerard) - 3
+- [kirby pixel](#kirby-pixel) - 2
 - [magic the gathering](#magic-the-gathering) - 10
-- [mega man pixel](#mega-man-pixel) - 11
-- [metroid](#metroid) - 8
+- [mario pixel](#mario-pixel) - 1
+- [mega man pixel](#mega-man-pixel) - 12
+- [metroid](#metroid) - 13
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 110
 - [misc anato finnstark](#misc-anato-finnstark) - 4
@@ -22,6 +24,7 @@
 - [soulsborne](#soulsborne) - 11
 - [space](#space) - 95
 - [space - fictional](#space-fictional) - 33
+- [star fox pixel](#star-fox-pixel) - 1
 - [stargate](#stargate) - 5
 - [star trek](#star-trek) - 9
 - [star trek technical](#star-trek-technical) - 12
@@ -278,6 +281,19 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 </p>
 </details>
 
+<a id="kirby-pixel"></a>
+
+## [kirby pixel](/desktop/kirby%20pixel/README.MD)
+<details open>
+<summary>2 files</summary>
+<p>
+
+[![kirby super star - marx arena_enlarged.png](/.internals/thumbnails/desktop/kirby%20pixel/kirby%20super%20star%20-%20marx%20arena_enlarged.png "kirby super star - marx arena_enlarged.png")](/desktop/kirby%20pixel/kirby%20super%20star%20-%20marx%20arena_enlarged.png)
+[![kirby super star - milky way wishes cutscene_enlarged.png](/.internals/thumbnails/desktop/kirby%20pixel/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png "kirby super star - milky way wishes cutscene_enlarged.png")](/desktop/kirby%20pixel/kirby%20super%20star%20-%20milky%20way%20wishes%20cutscene_enlarged.png)
+
+</p>
+</details>
+
 <a id="magic-the-gathering"></a>
 
 ## [magic the gathering](/desktop/magic%20the%20gathering/README.MD)
@@ -299,11 +315,23 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 </p>
 </details>
 
+<a id="mario-pixel"></a>
+
+## [mario pixel](/desktop/mario%20pixel/README.MD)
+<details open>
+<summary>1 files</summary>
+<p>
+
+[![mario maker 2 - smw ghost house_enlarged.png](/.internals/thumbnails/desktop/mario%20pixel/mario%20maker%202%20-%20smw%20ghost%20house_enlarged.png "mario maker 2 - smw ghost house_enlarged.png")](/desktop/mario%20pixel/mario%20maker%202%20-%20smw%20ghost%20house_enlarged.png)
+
+</p>
+</details>
+
 <a id="mega-man-pixel"></a>
 
 ## [mega man pixel](/desktop/mega%20man%20pixel/README.MD)
 <details open>
-<summary>11 files</summary>
+<summary>12 files</summary>
 <p>
 
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
@@ -317,6 +345,7 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![mmx3_intro_city_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png "mmx3_intro_city_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_intro_city_bg_enlarged.png)
 [![mmx3_vile_bg_2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png "mmx3_vile_bg_2_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_2_enlarged.png)
 [![mmx3_vile_bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png "mmx3_vile_bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx3_vile_bg_enlarged.png)
+[![mmx - sigma 2 bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mmx%20-%20sigma%202%20bg_enlarged.png "mmx - sigma 2 bg_enlarged.png")](/desktop/mega%20man%20pixel/mmx%20-%20sigma%202%20bg_enlarged.png)
 
 </p>
 </details>
@@ -325,12 +354,17 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 ## [metroid](/desktop/metroid/README.MD)
 <details open>
-<summary>8 files</summary>
+<summary>13 files</summary>
 <p>
 
 [![Hjmdi1A-metroid-wallpaper.jpg](/.internals/thumbnails/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg "Hjmdi1A-metroid-wallpaper.jpg")](/desktop/metroid/Hjmdi1A-metroid-wallpaper.jpg)
 [![metroid-3nc8jol5751aw6co.jpg](/.internals/thumbnails/desktop/metroid/metroid-3nc8jol5751aw6co.jpg "metroid-3nc8jol5751aw6co.jpg")](/desktop/metroid/metroid-3nc8jol5751aw6co.jpg)
+[![metroid fusion - intro stars_enlarged.png](/.internals/thumbnails/desktop/metroid/metroid%20fusion%20-%20intro%20stars_enlarged.png "metroid fusion - intro stars_enlarged.png")](/desktop/metroid/metroid%20fusion%20-%20intro%20stars_enlarged.png)
 [![metroid-the-forest-ee3581bggowaeid2.png](/.internals/thumbnails/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png "metroid-the-forest-ee3581bggowaeid2.png")](/desktop/metroid/metroid-the-forest-ee3581bggowaeid2.png)
+[![metroid zero mission - misc bg_enlarged.png](/.internals/thumbnails/desktop/metroid/metroid%20zero%20mission%20-%20misc%20bg_enlarged.png "metroid zero mission - misc bg_enlarged.png")](/desktop/metroid/metroid%20zero%20mission%20-%20misc%20bg_enlarged.png)
+[![metroid zero mission - stars 2_enlarged.png](/.internals/thumbnails/desktop/metroid/metroid%20zero%20mission%20-%20stars%202_enlarged.png "metroid zero mission - stars 2_enlarged.png")](/desktop/metroid/metroid%20zero%20mission%20-%20stars%202_enlarged.png)
+[![metroid zero mission - stars 3_enlarged.png](/.internals/thumbnails/desktop/metroid/metroid%20zero%20mission%20-%20stars%203_enlarged.png "metroid zero mission - stars 3_enlarged.png")](/desktop/metroid/metroid%20zero%20mission%20-%20stars%203_enlarged.png)
+[![metroid zero mission - stars_enlarged.png](/.internals/thumbnails/desktop/metroid/metroid%20zero%20mission%20-%20stars_enlarged.png "metroid zero mission - stars_enlarged.png")](/desktop/metroid/metroid%20zero%20mission%20-%20stars_enlarged.png)
 [![pxfuel.jpg](/.internals/thumbnails/desktop/metroid/pxfuel.jpg "pxfuel.jpg")](/desktop/metroid/pxfuel.jpg)
 [![sm_zebes_enlarged.png](/.internals/thumbnails/desktop/metroid/sm_zebes_enlarged.png "sm_zebes_enlarged.png")](/desktop/metroid/sm_zebes_enlarged.png)
 [![sRBr53E.jpeg](/.internals/thumbnails/desktop/metroid/sRBr53E.jpeg "sRBr53E.jpeg")](/desktop/metroid/sRBr53E.jpeg)
@@ -823,6 +857,18 @@ The Saddest Khajiit Part 2 by Darrengeers D716zbk")](/desktop/skyrim%20art/the_s
 [![dc89393236e7c68c_u5jezlG.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/dc89393236e7c68c_u5jezlG.jpg "dc89393236e7c68c_u5jezlG.jpg")](/desktop/space%20-%20fictional/dc89393236e7c68c_u5jezlG.jpg)
 [![e4f87167260c1dd9_atLastLight.jpg](/.internals/thumbnails/desktop/space%20-%20fictional/e4f87167260c1dd9_atLastLight.jpg "e4f87167260c1dd9_atLastLight.jpg")](/desktop/space%20-%20fictional/e4f87167260c1dd9_atLastLight.jpg)
 [![f8ffc0fd0e06101e_8JGlkCr.png](/.internals/thumbnails/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png "f8ffc0fd0e06101e_8JGlkCr.png")](/desktop/space%20-%20fictional/f8ffc0fd0e06101e_8JGlkCr.png)
+
+</p>
+</details>
+
+<a id="star-fox-pixel"></a>
+
+## [star fox pixel](/desktop/star%20fox%20pixel/README.MD)
+<details open>
+<summary>1 files</summary>
+<p>
+
+[![star fox - sector x_enlarged.png](/.internals/thumbnails/desktop/star%20fox%20pixel/star%20fox%20-%20sector%20x_enlarged.png "star fox - sector x_enlarged.png")](/desktop/star%20fox%20pixel/star%20fox%20-%20sector%20x_enlarged.png)
 
 </p>
 </details>
