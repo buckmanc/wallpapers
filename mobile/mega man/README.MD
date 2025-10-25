@@ -1,8 +1,8 @@
-# mega man - 327
+# mega man - 335
 - [classic](#classic) - 46
-- [mega man x](#mega-man-x) - 164
+- [mega man x](#mega-man-x) - 167
 - [mega man x dive](#mega-man-x-dive) - 38
-- [mega man zero](#mega-man-zero) - 46
+- [mega man zero](#mega-man-zero) - 51
 - [pixel](#pixel) - 33
 
 <a id="classic"></a>
@@ -66,7 +66,7 @@
 
 ## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD)
 <details open>
-<summary>164 files</summary>
+<summary>167 files</summary>
 <p>
 
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
@@ -230,9 +230,12 @@
 [![X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg "X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59")](/mobile/mega%20man/mega%20man%20x/misc/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg)
 [![X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg "X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0")](/mobile/mega%20man/mega%20man%20x/misc/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg)
 [![X Legacy by Ultimatemaverickx Dgkx59m Fullview](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg "X Legacy by Ultimatemaverickx Dgkx59m Fullview")](/mobile/mega%20man/mega%20man%20x/misc/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg)
+[![X Mega Man 3392686 2019 01 22 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x__mega_man__3392686_2019-01-22_by_guutara.jpg "X Mega Man 3392686 2019 01 22 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/x__mega_man__3392686_2019-01-22_by_guutara.jpg)
 [![X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png "X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707")](/mobile/mega%20man/mega%20man%20x/misc/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png)
 [![Zero and Dr Wily Mega Man by Hoshi Mikan](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](/mobile/mega%20man/mega%20man%20x/misc/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)
 [![Zero and Zero Z Mega Man and 2 More Drawn by Guutara 1641998aed1fb310c771f1af46330910](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero_and_zero_z_mega_man_and_2_more_drawn_by_guutara__1641998aed1fb310c771f1af46330910.jpg "Zero and Zero Z Mega Man and 2 More Drawn by Guutara 1641998aed1fb310c771f1af46330910")](/mobile/mega%20man/mega%20man%20x/misc/zero_and_zero_z_mega_man_and_2_more_drawn_by_guutara__1641998aed1fb310c771f1af46330910.jpg)
+[![Zero Mega Man 3393584 2019 01 23 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__3393584_2019-01-23_by_guutara.jpg "Zero Mega Man 3393584 2019 01 23 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__3393584_2019-01-23_by_guutara.jpg)
+[![Zero Mega Man 9474060 2025 06 15 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__9474060_2025-06-15_by_guutara.jpg "Zero Mega Man 9474060 2025 06 15 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__9474060_2025-06-15_by_guutara.jpg)
 
 </p>
 </details>
@@ -290,7 +293,7 @@
 
 ## [mega man zero](/mobile/mega%20man/mega%20man%20zero/README.MD)
 <details open>
-<summary>46 files</summary>
+<summary>51 files</summary>
 <p>
 
 [![104358541_p0.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg)
@@ -320,7 +323,11 @@
 [![95197156_p10.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95197156_p10.jpg "95197156_p10.jpg")](/mobile/mega%20man/mega%20man%20zero/95197156_p10.jpg)
 [![95291265_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95291265_p0.png "95291265_p0.png")](/mobile/mega%20man/mega%20man%20zero/95291265_p0.png)
 [![95905485_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95905485_p0.png "95905485_p0.png")](/mobile/mega%20man/mega%20man%20zero/95905485_p0.png)
+[![Alouette Mega Man Ciel Mega Man Copy X Mega Man Craft Mega Man Dr](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/alouette__mega_man_%20ciel__mega_man_%20copy_x__mega_man_%20craft__mega_man_%20dr._weil__mega_man_%20elpizo__mega_man_%20fairy_leviathan__mega_man_%20fighting_fefnir__mega_man_%20hidden_phantom__mega_man_%20omega__mega_9453802_2025-06-11_by_hi-go_.jpg "Alouette Mega Man Ciel Mega Man Copy X Mega Man Craft Mega Man Dr")](/mobile/mega%20man/mega%20man%20zero/alouette__mega_man_%20ciel__mega_man_%20copy_x__mega_man_%20craft__mega_man_%20dr._weil__mega_man_%20elpizo__mega_man_%20fairy_leviathan__mega_man_%20fighting_fefnir__mega_man_%20hidden_phantom__mega_man_%20omega__mega_9453802_2025-06-11_by_hi-go_.jpg)
 [![aurjdgv5ywg51.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/aurjdgv5ywg51.jpg "aurjdgv5ywg51.jpg")](/mobile/mega%20man/mega%20man%20zero/aurjdgv5ywg51.jpg)
+[![Ciel Mega Man 7684391 2024 06 07 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684391_2024-06-07_by_hi-go_.jpg "Ciel Mega Man 7684391 2024 06 07 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684391_2024-06-07_by_hi-go_.jpg)
+[![Ciel Mega Man 7684452 2024 06 07 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684452_2024-06-07_by_hi-go_.jpg "Ciel Mega Man 7684452 2024 06 07 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684452_2024-06-07_by_hi-go_.jpg)
+[![Ciel Mega Man Dr](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man_%20dr._weil__mega_man_%20iris__mega_man_%20omega__mega_man_%20sigma__mega_man_%20vile__mega_man_%20vile_v__mega_man_%20zero_z___mega_man_%20zero__mega_man__9902973_2025-09-02_by_hi-go_.jpg "Ciel Mega Man Dr")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man_%20dr._weil__mega_man_%20iris__mega_man_%20omega__mega_man_%20sigma__mega_man_%20vile__mega_man_%20vile_v__mega_man_%20zero_z___mega_man_%20zero__mega_man__9902973_2025-09-02_by_hi-go_.jpg)
 [![Clipped_image_20231207_144612.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/Clipped_image_20231207_144612.png "Clipped_image_20231207_144612.png")](/mobile/mega%20man/mega%20man%20zero/Clipped_image_20231207_144612.png)
 [![Dwn Infinity by Blopa Inf](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/dwn_infinity_by_blopa_inf.jpg "Dwn Infinity by Blopa Inf")](/mobile/mega%20man/mega%20man%20zero/dwn_infinity_by_blopa_inf.jpg)
 [![e858c0f7592e18e1e907a8999fb11bf4.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/e858c0f7592e18e1e907a8999fb11bf4.jpg "e858c0f7592e18e1e907a8999fb11bf4.jpg")](/mobile/mega%20man/mega%20man%20zero/e858c0f7592e18e1e907a8999fb11bf4.jpg)
@@ -339,6 +346,7 @@
 [![ Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg " Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29")](/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg)
 [![Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg "Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
+[![Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg "Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg)
 
 </p>
 </details>

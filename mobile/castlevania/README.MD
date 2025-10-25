@@ -1,6 +1,6 @@
-# castlevania - 134
-- [ayami kojima](#ayami-kojima) - 46
-- [misc](#misc) - 55
+# castlevania - 138
+- [ayami kojima](#ayami-kojima) - 47
+- [misc](#misc) - 58
 - [castle](#castle) - 17
 - [pixel](#pixel) - 16
 
@@ -8,7 +8,7 @@
 
 ## [ayami kojima](/mobile/castlevania/ayami%20kojima/README.MD)
 <details open>
-<summary>46 files</summary>
+<summary>47 files</summary>
 <p>
 
 [![09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg "09-castlevania.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg)
@@ -43,6 +43,7 @@
 [![manga_ee80f1b6e244af88b37313b7f9c67d33.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/manga_ee80f1b6e244af88b37313b7f9c67d33.jpg "manga_ee80f1b6e244af88b37313b7f9c67d33.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/manga_ee80f1b6e244af88b37313b7f9c67d33.jpg)
 [![mathias_cronqvist.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png "mathias_cronqvist.png")](/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png)
 [![matthias_cronqvist_02.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg "matthias_cronqvist_02.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg)
+[![Soma Cruz 210884 2008 03 09 by Kojima Ayami](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/soma_cruz_210884_2008-03-09_by_kojima_ayami.jpg "Soma Cruz 210884 2008 03 09 by Kojima Ayami")](/mobile/castlevania/ayami%20kojima/castlevania/soma_cruz_210884_2008-03-09_by_kojima_ayami.jpg)
 [![030-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/030-color.jpg "030-color.jpg")](/mobile/castlevania/ayami%20kojima/original/030-color.jpg)
 [![045-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/045-color.jpg "045-color.jpg")](/mobile/castlevania/ayami%20kojima/original/045-color.jpg)
 [![072-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/072-color.jpg "072-color.jpg")](/mobile/castlevania/ayami%20kojima/original/072-color.jpg)
@@ -65,7 +66,7 @@
 
 ## [misc](/mobile/castlevania/misc/README.MD)
 <details open>
-<summary>55 files</summary>
+<summary>58 files</summary>
 <p>
 
 [![14 - pdydhcq.jpg](/.internals/thumbnails/mobile/castlevania/misc/14%20-%20pdydhcq.jpg "14 - pdydhcq.jpg")](/mobile/castlevania/misc/14%20-%20pdydhcq.jpg)
@@ -87,6 +88,7 @@
 [![Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg "Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg)
 [![Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg "Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg)
 [![Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg "Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg)
+[![Alucard Castlevania Arikado Genya Soma Cruz 852849 2011 02 13 by Guutara](/.internals/thumbnails/mobile/castlevania/misc/alucard__castlevania_%20arikado_genya%20soma_cruz_852849_2011-02-13_by_guutara.jpg "Alucard Castlevania Arikado Genya Soma Cruz 852849 2011 02 13 by Guutara")](/mobile/castlevania/misc/alucard__castlevania_%20arikado_genya%20soma_cruz_852849_2011-02-13_by_guutara.jpg)
 [![Alucard Dhampir Prince by Nina Matsumoto](/.internals/thumbnails/mobile/castlevania/misc/alucard_dhampir_prince_by_nina_matsumoto.png "Alucard Dhampir Prince by Nina Matsumoto")](/mobile/castlevania/misc/alucard_dhampir_prince_by_nina_matsumoto.png)
 [![An Rf Art Nouveau Alucard by Ranefea](/.internals/thumbnails/mobile/castlevania/misc/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](/mobile/castlevania/misc/an_rf_art_nouveau_alucard_by_ranefea.jpg)
 [![ASVpzIy.jpeg](/.internals/thumbnails/mobile/castlevania/misc/ASVpzIy.jpeg "ASVpzIy.jpeg")](/mobile/castlevania/misc/ASVpzIy.jpeg)
@@ -97,6 +99,7 @@
 [![Castlevania Season 2 Background Visdev Of Dracula's Study by Danny Moll](/.internals/thumbnails/mobile/castlevania/misc/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg "Castlevania Season 2 Background Visdev Of Dracula's Study by Danny Moll")](/mobile/castlevania/misc/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg)
 [![Castlevania Symphony Of The Night by Nicolas Delort](/.internals/thumbnails/mobile/castlevania/misc/castlevania_symphony_of_the_night_by_nicolas_delort.jpg "Castlevania Symphony Of The Night by Nicolas Delort")](/mobile/castlevania/misc/castlevania_symphony_of_the_night_by_nicolas_delort.jpg)
 [![CcgelJfUMAEoFjK.jpg_large.jpg](/.internals/thumbnails/mobile/castlevania/misc/CcgelJfUMAEoFjK.jpg_large.jpg "CcgelJfUMAEoFjK.jpg_large.jpg")](/mobile/castlevania/misc/CcgelJfUMAEoFjK.jpg_large.jpg)
+[![Charlotte Aulin Jonathan Morris Shanoa Castlevania Soma Cruz 8750268 2025 01 23 by Nina Matsumoto](/.internals/thumbnails/mobile/castlevania/misc/charlotte_aulin%20jonathan_morris%20shanoa__castlevania_%20soma_cruz_8750268_2025-01-23_by_nina_matsumoto.png "Charlotte Aulin Jonathan Morris Shanoa Castlevania Soma Cruz 8750268 2025 01 23 by Nina Matsumoto")](/mobile/castlevania/misc/charlotte_aulin%20jonathan_morris%20shanoa__castlevania_%20soma_cruz_8750268_2025-01-23_by_nina_matsumoto.png)
 [![dan_mumford_alucard.jpg](/.internals/thumbnails/mobile/castlevania/misc/dan_mumford_alucard.jpg "dan_mumford_alucard.jpg")](/mobile/castlevania/misc/dan_mumford_alucard.jpg)
 [![dan_mumford_richter.jpg](/.internals/thumbnails/mobile/castlevania/misc/dan_mumford_richter.jpg "dan_mumford_richter.jpg")](/mobile/castlevania/misc/dan_mumford_richter.jpg)
 [![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](/.internals/thumbnails/mobile/castlevania/misc/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](/mobile/castlevania/misc/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
@@ -117,6 +120,7 @@
 [![Portrait Tepes Family Portrait by Katie Silva](/.internals/thumbnails/mobile/castlevania/misc/portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva")](/mobile/castlevania/misc/portrait_tepes_family_portrait_by_katie_silva.png)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/castlevania/misc/pxfuel.jpg "pxfuel.jpg")](/mobile/castlevania/misc/pxfuel.jpg)
 [![Quest_map_1_4.png](/.internals/thumbnails/mobile/castlevania/misc/Quest_map_1_4.png "Quest_map_1_4.png")](/mobile/castlevania/misc/Quest_map_1_4.png)
+[![Soma Cruz 3961452 2020 06 19 by Johan Johan13 ](/.internals/thumbnails/mobile/castlevania/misc/soma_cruz_3961452_2020-06-19_by_johan__johan13_.jpg "Soma Cruz 3961452 2020 06 19 by Johan Johan13 ")](/mobile/castlevania/misc/soma_cruz_3961452_2020-06-19_by_johan__johan13_.jpg)
 [![SotN Poster Alucard by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg "SotN Poster Alucard by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Dracula by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg "SotN Poster Dracula by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Richter by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg "SotN Poster Richter by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg)

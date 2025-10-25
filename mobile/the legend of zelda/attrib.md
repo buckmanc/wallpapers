@@ -116,3 +116,7 @@ The Legend Of Zelda - The Pig by Nick Derington.jpg The Legend Of Zelda   The Pi
 Zelda_Link_Reincarnation_by_Sarcastic_Sketches.png Zelda Link Reincarnation by Sarcastic Sketches
 The Legend Of Zelda - The Pig by Nick Derington.png The Legend Of Zelda   The Pig by Nick Derington
 zz_triforce_Vibrant Triforce HD Wallpaper - Legend of Zelda Theme by Laxmonaut.png Zz Triforce Vibrant Triforce HD Wallpaper   Legend Of Zelda Theme by Laxmonaut
+black_knight__zelda_ darknut ezlo link toon_link_6330268_2023-05-22_by_sensei_haruki_suetsugu.png Black Knight  Zelda  Darknut Ezlo Link Toon Link 6330268 2023 05 22 by Sensei Haruki Suetsugu
+chuchu__zelda_ ezlo link toon_link_6330271_2023-05-22_by_sensei_haruki_suetsugu.png Chuchu  Zelda  Ezlo Link Toon Link 6330271 2023 05 22 by Sensei Haruki Suetsugu
+ezlo link toon_link_6330038_2023-05-22_by_sensei_haruki_suetsugu.png Ezlo Link Toon Link 6330038 2023 05 22 by Sensei Haruki Suetsugu
+ezlo link toon_link_6330260_2023-05-22_by_sensei_haruki_suetsugu.png Ezlo Link Toon Link 6330260 2023 05 22 by Sensei Haruki Suetsugu

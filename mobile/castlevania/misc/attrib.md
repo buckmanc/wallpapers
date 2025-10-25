@@ -31,3 +31,6 @@ SotN Poster - Alucard by Jhony Caballero.jpg SotN Poster   Alucard by Jhony Caba
 SotN Poster - Dracula by Jhony Caballero.jpg SotN Poster   Dracula by Jhony Caballero
 SotN Poster - Richter by Jhony Caballero.jpg SotN Poster   Richter by Jhony Caballero
 The Devil Forgemaster by Al Santos.jpg The Devil Forgemaster by Al Santos
+alucard__castlevania_ arikado_genya soma_cruz_852849_2011-02-13_by_guutara.jpg Alucard  Castlevania  Arikado Genya Soma Cruz 852849 2011 02 13 by Guutara
+charlotte_aulin jonathan_morris shanoa__castlevania_ soma_cruz_8750268_2025-01-23_by_nina_matsumoto.png Charlotte Aulin Jonathan Morris Shanoa  Castlevania  Soma Cruz 8750268 2025 01 23 by Nina Matsumoto
+soma_cruz_3961452_2020-06-19_by_johan__johan13_.jpg Soma Cruz 3961452 2020 06 19 by Johan  Johan13 

@@ -1,10 +1,11 @@
-# desktop - 698
+# desktop - 702
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 11
 - [cityscapes](#cityscapes) - 7
 - [cosmere](#cosmere) - 14
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 116
+- [halo](#halo) - 4
 - [justin gerard](#justin-gerard) - 3
 - [kirby pixel](#kirby-pixel) - 2
 - [magic the gathering](#magic-the-gathering) - 10
@@ -263,6 +264,21 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![e03f1bc627689627_RycKnX9-dark-forest-background.jpg](/.internals/thumbnails/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg "e03f1bc627689627_RycKnX9-dark-forest-background.jpg")](/desktop/forests/e03f1bc627689627_RycKnX9-dark-forest-background.jpg)
 [![f9f9d9d9f0b09080_WTDOBJB.jpg](/.internals/thumbnails/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg "f9f9d9d9f0b09080_WTDOBJB.jpg")](/desktop/forests/f9f9d9d9f0b09080_WTDOBJB.jpg)
 [![fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg](/.internals/thumbnails/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg "fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg")](/desktop/forests/fcfe0ac47d0a720c_Xpd9NA_E730ucdGnWq8-EsfsmTMq6DmBpXL2WBoRawY.jpg)
+
+</p>
+</details>
+
+<a id="halo"></a>
+
+## [halo](/desktop/halo/README.MD)
+<details open>
+<summary>4 files</summary>
+<p>
+
+[![297951.jpg](/.internals/thumbnails/desktop/halo/297951.jpg "297951.jpg")](/desktop/halo/297951.jpg)
+[![8780916 2025 01 29 by Theadamtaylor](/.internals/thumbnails/desktop/halo/8780916_2025-01-29_by_theadamtaylor.jpg "8780916 2025 01 29 by Theadamtaylor")](/desktop/halo/8780916_2025-01-29_by_theadamtaylor.jpg)
+[![wp12639503-halo-4k-pc-wallpapers.png](/.internals/thumbnails/desktop/halo/wp12639503-halo-4k-pc-wallpapers.png "wp12639503-halo-4k-pc-wallpapers.png")](/desktop/halo/wp12639503-halo-4k-pc-wallpapers.png)
+[![wp7017665-halo-infinite-4k-wallpapers.png](/.internals/thumbnails/desktop/halo/wp7017665-halo-infinite-4k-wallpapers.png "wp7017665-halo-infinite-4k-wallpapers.png")](/desktop/halo/wp7017665-halo-infinite-4k-wallpapers.png)
 
 </p>
 </details>

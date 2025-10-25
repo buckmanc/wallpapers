@@ -27,3 +27,6 @@ x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da
 zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan
 zero_and_zero_z_mega_man_and_2_more_drawn_by_guutara__1641998aed1fb310c771f1af46330910.jpg Zero and Zero Z Mega Man and 2 More Drawn by Guutara  1641998aed1fb310c771f1af46330910
 mega_man__character_ x__mega_man__7697227_2024-06-10_by_dauntedx.png Mega Man  Character  X  Mega Man  7697227 2024 06 10 by Dauntedx
+x__mega_man__3392686_2019-01-22_by_guutara.jpg X  Mega Man  3392686 2019 01 22 by Guutara
+zero__mega_man__3393584_2019-01-23_by_guutara.jpg Zero  Mega Man  3393584 2019 01 23 by Guutara
+zero__mega_man__9474060_2025-06-15_by_guutara.jpg Zero  Mega Man  9474060 2025 06 15 by Guutara

@@ -1,10 +1,10 @@
-# the legend of zelda - 204
+# the legend of zelda - 208
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>204 files</summary>
+<summary>208 files</summary>
 <p>
 
 [![136703.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](/mobile/the%20legend%20of%20zelda/136703.jpg)
@@ -36,12 +36,16 @@
 [![Bg Light The Way by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_brady_goldsmith.jpg "Bg Light The Way by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_brady_goldsmith.jpg)
 [![Bg Minuet Of Forest Dark by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg "Bg Minuet Of Forest Dark by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg)
 [![Bg Mothula Fire Rod by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg "Bg Mothula Fire Rod by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg)
+[![Black Knight Zelda Darknut Ezlo Link Toon Link 6330268 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/black_knight__zelda_%20darknut%20ezlo%20link%20toon_link_6330268_2023-05-22_by_sensei_haruki_suetsugu.png "Black Knight Zelda Darknut Ezlo Link Toon Link 6330268 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/black_knight__zelda_%20darknut%20ezlo%20link%20toon_link_6330268_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![BotW_Calamity_Ganon_Artwork.png](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/BotW_Calamity_Ganon_Artwork.png "BotW_Calamity_Ganon_Artwork.png")](/mobile/the%20legend%20of%20zelda/BotW_Calamity_Ganon_Artwork.png)
 [![c6b49d709042f09ef7155ca57bc2b332.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/c6b49d709042f09ef7155ca57bc2b332.jpg "c6b49d709042f09ef7155ca57bc2b332.jpg")](/mobile/the%20legend%20of%20zelda/c6b49d709042f09ef7155ca57bc2b332.jpg)
 [![Charged Armor by Werlosk](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/charged%20armor%20by%20werlosk.jpg "Charged Armor by Werlosk")](/mobile/the%20legend%20of%20zelda/charged%20armor%20by%20werlosk.jpg)
+[![Chuchu Zelda Ezlo Link Toon Link 6330271 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/chuchu__zelda_%20ezlo%20link%20toon_link_6330271_2023-05-22_by_sensei_haruki_suetsugu.png "Chuchu Zelda Ezlo Link Toon Link 6330271 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/chuchu__zelda_%20ezlo%20link%20toon_link_6330271_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg "desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg")](/mobile/the%20legend%20of%20zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg)
 [![E67dj_HXsAUBhex.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg "E67dj_HXsAUBhex.jpeg")](/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg)
 [![eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg "eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg")](/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg)
+[![Ezlo Link Toon Link 6330038 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330038_2023-05-22_by_sensei_haruki_suetsugu.png "Ezlo Link Toon Link 6330038 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330038_2023-05-22_by_sensei_haruki_suetsugu.png)
+[![Ezlo Link Toon Link 6330260 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330260_2023-05-22_by_sensei_haruki_suetsugu.png "Ezlo Link Toon Link 6330260 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330260_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg "fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg")](/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg)
 [![FB_IMG_1735952911109.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg "FB_IMG_1735952911109.jpg")](/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg)
 [![FItNNLIagAAfobf.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg "FItNNLIagAAfobf.jpeg")](/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg)

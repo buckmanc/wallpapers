@@ -1,6 +1,6 @@
-# mobile - 2,296
+# mobile - 2,318
 - [batman](#batman) - 6
-- [castlevania](#castlevania) - 134
+- [castlevania](#castlevania) - 138
 - [cosmere](#cosmere) - 160
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -8,6 +8,7 @@
 - [frog](#frog) - 16
 - [gideon the ninth](#gideon-the-ninth) - 6
 - [glitched](#glitched) - 20
+- [halo](#halo) - 5
 - [hollow knight](#hollow-knight) - 88
 - [horizon](#horizon) - 3
 - [justin gerard](#justin-gerard) - 4
@@ -18,10 +19,10 @@
 - [mario](#mario) - 108
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 327
+- [mega man](#mega-man) - 335
 - [metroid](#metroid) - 161
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 95
+- [misc](#misc) - 96
 - [misc anato finnstark](#misc-anato-finnstark) - 35
 - [misc devin elle kurtz](#misc-devin-elle-kurtz) - 6
 - [misc marc simonetti](#misc-marc-simonetti) - 4
@@ -39,7 +40,7 @@
 - [soulsborne](#soulsborne) - 29
 - [star fox pixel](#star-fox-pixel) - 1
 - [star trek](#star-trek) - 9
-- [the legend of zelda](#the-legend-of-zelda) - 204
+- [the legend of zelda](#the-legend-of-zelda) - 208
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
 - [tmnt](#tmnt) - 76
 - [tolkien](#tolkien) - 97
@@ -66,7 +67,7 @@
 
 ## [castlevania](/mobile/castlevania/README.MD)
 <details open>
-<summary>134 files</summary>
+<summary>138 files</summary>
 <p>
 
 [![09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg "09-castlevania.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg)
@@ -101,6 +102,7 @@
 [![manga_ee80f1b6e244af88b37313b7f9c67d33.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/manga_ee80f1b6e244af88b37313b7f9c67d33.jpg "manga_ee80f1b6e244af88b37313b7f9c67d33.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/manga_ee80f1b6e244af88b37313b7f9c67d33.jpg)
 [![mathias_cronqvist.png](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png "mathias_cronqvist.png")](/mobile/castlevania/ayami%20kojima/castlevania/mathias_cronqvist.png)
 [![matthias_cronqvist_02.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg "matthias_cronqvist_02.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/matthias_cronqvist_02.jpg)
+[![Soma Cruz 210884 2008 03 09 by Kojima Ayami](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/soma_cruz_210884_2008-03-09_by_kojima_ayami.jpg "Soma Cruz 210884 2008 03 09 by Kojima Ayami")](/mobile/castlevania/ayami%20kojima/castlevania/soma_cruz_210884_2008-03-09_by_kojima_ayami.jpg)
 [![030-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/030-color.jpg "030-color.jpg")](/mobile/castlevania/ayami%20kojima/original/030-color.jpg)
 [![045-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/045-color.jpg "045-color.jpg")](/mobile/castlevania/ayami%20kojima/original/045-color.jpg)
 [![072-color.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/original/072-color.jpg "072-color.jpg")](/mobile/castlevania/ayami%20kojima/original/072-color.jpg)
@@ -134,6 +136,7 @@
 [![Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg "Alucard Castlevania and 1 More Drawn by Ngop Cdf4f72dba0421f8596b72653e518405")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_ngop__cdf4f72dba0421f8596b72653e518405.jpg)
 [![Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg "Alucard Castlevania and 1 More Drawn by Nigelgraz 4518ac23f2839609ba33642dc0579f1f")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__4518ac23f2839609ba33642dc0579f1f.jpg)
 [![Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040](/.internals/thumbnails/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg "Alucard Castlevania and 1 More Drawn by Nigelgraz 69e0aeacbd21aa926397336178e1c040")](/mobile/castlevania/misc/alucard_castlevania_and_1_more_drawn_by_nigelgraz__69e0aeacbd21aa926397336178e1c040.jpg)
+[![Alucard Castlevania Arikado Genya Soma Cruz 852849 2011 02 13 by Guutara](/.internals/thumbnails/mobile/castlevania/misc/alucard__castlevania_%20arikado_genya%20soma_cruz_852849_2011-02-13_by_guutara.jpg "Alucard Castlevania Arikado Genya Soma Cruz 852849 2011 02 13 by Guutara")](/mobile/castlevania/misc/alucard__castlevania_%20arikado_genya%20soma_cruz_852849_2011-02-13_by_guutara.jpg)
 [![Alucard Dhampir Prince by Nina Matsumoto](/.internals/thumbnails/mobile/castlevania/misc/alucard_dhampir_prince_by_nina_matsumoto.png "Alucard Dhampir Prince by Nina Matsumoto")](/mobile/castlevania/misc/alucard_dhampir_prince_by_nina_matsumoto.png)
 [![An Rf Art Nouveau Alucard by Ranefea](/.internals/thumbnails/mobile/castlevania/misc/an_rf_art_nouveau_alucard_by_ranefea.jpg "An Rf Art Nouveau Alucard by Ranefea")](/mobile/castlevania/misc/an_rf_art_nouveau_alucard_by_ranefea.jpg)
 [![ASVpzIy.jpeg](/.internals/thumbnails/mobile/castlevania/misc/ASVpzIy.jpeg "ASVpzIy.jpeg")](/mobile/castlevania/misc/ASVpzIy.jpeg)
@@ -144,6 +147,7 @@
 [![Castlevania Season 2 Background Visdev Of Dracula's Study by Danny Moll](/.internals/thumbnails/mobile/castlevania/misc/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg "Castlevania Season 2 Background Visdev Of Dracula's Study by Danny Moll")](/mobile/castlevania/misc/Castlevania_Season_2_Background-_Visdev_of_Dracula's_Study_by_Danny_Moll.jpg)
 [![Castlevania Symphony Of The Night by Nicolas Delort](/.internals/thumbnails/mobile/castlevania/misc/castlevania_symphony_of_the_night_by_nicolas_delort.jpg "Castlevania Symphony Of The Night by Nicolas Delort")](/mobile/castlevania/misc/castlevania_symphony_of_the_night_by_nicolas_delort.jpg)
 [![CcgelJfUMAEoFjK.jpg_large.jpg](/.internals/thumbnails/mobile/castlevania/misc/CcgelJfUMAEoFjK.jpg_large.jpg "CcgelJfUMAEoFjK.jpg_large.jpg")](/mobile/castlevania/misc/CcgelJfUMAEoFjK.jpg_large.jpg)
+[![Charlotte Aulin Jonathan Morris Shanoa Castlevania Soma Cruz 8750268 2025 01 23 by Nina Matsumoto](/.internals/thumbnails/mobile/castlevania/misc/charlotte_aulin%20jonathan_morris%20shanoa__castlevania_%20soma_cruz_8750268_2025-01-23_by_nina_matsumoto.png "Charlotte Aulin Jonathan Morris Shanoa Castlevania Soma Cruz 8750268 2025 01 23 by Nina Matsumoto")](/mobile/castlevania/misc/charlotte_aulin%20jonathan_morris%20shanoa__castlevania_%20soma_cruz_8750268_2025-01-23_by_nina_matsumoto.png)
 [![dan_mumford_alucard.jpg](/.internals/thumbnails/mobile/castlevania/misc/dan_mumford_alucard.jpg "dan_mumford_alucard.jpg")](/mobile/castlevania/misc/dan_mumford_alucard.jpg)
 [![dan_mumford_richter.jpg](/.internals/thumbnails/mobile/castlevania/misc/dan_mumford_richter.jpg "dan_mumford_richter.jpg")](/mobile/castlevania/misc/dan_mumford_richter.jpg)
 [![david-thor-fjalarsson-collectorcoverart1-m-s.jpg](/.internals/thumbnails/mobile/castlevania/misc/david-thor-fjalarsson-collectorcoverart1-m-s.jpg "david-thor-fjalarsson-collectorcoverart1-m-s.jpg")](/mobile/castlevania/misc/david-thor-fjalarsson-collectorcoverart1-m-s.jpg)
@@ -164,6 +168,7 @@
 [![Portrait Tepes Family Portrait by Katie Silva](/.internals/thumbnails/mobile/castlevania/misc/portrait_tepes_family_portrait_by_katie_silva.png "Portrait Tepes Family Portrait by Katie Silva")](/mobile/castlevania/misc/portrait_tepes_family_portrait_by_katie_silva.png)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/castlevania/misc/pxfuel.jpg "pxfuel.jpg")](/mobile/castlevania/misc/pxfuel.jpg)
 [![Quest_map_1_4.png](/.internals/thumbnails/mobile/castlevania/misc/Quest_map_1_4.png "Quest_map_1_4.png")](/mobile/castlevania/misc/Quest_map_1_4.png)
+[![Soma Cruz 3961452 2020 06 19 by Johan Johan13 ](/.internals/thumbnails/mobile/castlevania/misc/soma_cruz_3961452_2020-06-19_by_johan__johan13_.jpg "Soma Cruz 3961452 2020 06 19 by Johan Johan13 ")](/mobile/castlevania/misc/soma_cruz_3961452_2020-06-19_by_johan__johan13_.jpg)
 [![SotN Poster Alucard by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg "SotN Poster Alucard by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Alucard%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Dracula by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg "SotN Poster Dracula by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Dracula%20by%20Jhony%20Caballero.jpg)
 [![SotN Poster Richter by Jhony Caballero](/.internals/thumbnails/mobile/castlevania/misc/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg "SotN Poster Richter by Jhony Caballero")](/mobile/castlevania/misc/SotN%20Poster%20-%20Richter%20by%20Jhony%20Caballero.jpg)
@@ -616,6 +621,22 @@ Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man 
 Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 [![glitched_portrait bw.png](/.internals/thumbnails/mobile/glitched/glitched_portrait%20bw.png "glitched_portrait bw.png")](/mobile/glitched/glitched_portrait%20bw.png)
 [![Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
+
+</p>
+</details>
+
+<a id="halo"></a>
+
+## [halo](/mobile/halo/README.MD)
+<details open>
+<summary>5 files</summary>
+<p>
+
+[![1399554.jpg](/.internals/thumbnails/mobile/halo/1399554.jpg "1399554.jpg")](/mobile/halo/1399554.jpg)
+[![297951.jpg](/.internals/thumbnails/mobile/halo/297951.jpg "297951.jpg")](/mobile/halo/297951.jpg)
+[![8780916 2025 01 29 by Theadamtaylor](/.internals/thumbnails/mobile/halo/8780916_2025-01-29_by_theadamtaylor.jpg "8780916 2025 01 29 by Theadamtaylor")](/mobile/halo/8780916_2025-01-29_by_theadamtaylor.jpg)
+[![wp12639503-halo-4k-pc-wallpapers.png](/.internals/thumbnails/mobile/halo/wp12639503-halo-4k-pc-wallpapers.png "wp12639503-halo-4k-pc-wallpapers.png")](/mobile/halo/wp12639503-halo-4k-pc-wallpapers.png)
+[![wp7017665-halo-infinite-4k-wallpapers.png](/.internals/thumbnails/mobile/halo/wp7017665-halo-infinite-4k-wallpapers.png "wp7017665-halo-infinite-4k-wallpapers.png")](/mobile/halo/wp7017665-halo-infinite-4k-wallpapers.png)
 
 </p>
 </details>
@@ -1107,7 +1128,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>327 files</summary>
+<summary>335 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -1317,9 +1338,12 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg "X Altaria Swablu and Falcon Armor X Pokemon and 2 More Drawn by U Wstr E20033c5765f347e96a7135d8461ff59")](/mobile/mega%20man/mega%20man%20x/misc/x_altaria_swablu_and_falcon_armor_x_pokemon_and_2_more_drawn_by_u_wstr__e20033c5765f347e96a7135d8461ff59.jpg)
 [![X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg "X and Second Armor X Mega Man and 3 More Drawn by Tanaka Is2 P Bc1db10b4a3a9488eace9ade5fb278e0")](/mobile/mega%20man/mega%20man%20x/misc/x_and_second_armor_x_mega_man_and_3_more_drawn_by_tanaka_is2_p__bc1db10b4a3a9488eace9ade5fb278e0.jpg)
 [![X Legacy by Ultimatemaverickx Dgkx59m Fullview](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg "X Legacy by Ultimatemaverickx Dgkx59m Fullview")](/mobile/mega%20man/mega%20man%20x/misc/x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg)
+[![X Mega Man 3392686 2019 01 22 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x__mega_man__3392686_2019-01-22_by_guutara.jpg "X Mega Man 3392686 2019 01 22 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/x__mega_man__3392686_2019-01-22_by_guutara.jpg)
 [![X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png "X Sigma and First Armor X Mega Man and 2 More Drawn by U Wstr 17ee815d18ab917da59a7dabf0819707")](/mobile/mega%20man/mega%20man%20x/misc/x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917da59a7dabf0819707.png)
 [![Zero and Dr Wily Mega Man by Hoshi Mikan](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero_and_dr_wily_mega_man_by_hoshi_mikan.png "Zero and Dr Wily Mega Man by Hoshi Mikan")](/mobile/mega%20man/mega%20man%20x/misc/zero_and_dr_wily_mega_man_by_hoshi_mikan.png)
 [![Zero and Zero Z Mega Man and 2 More Drawn by Guutara 1641998aed1fb310c771f1af46330910](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero_and_zero_z_mega_man_and_2_more_drawn_by_guutara__1641998aed1fb310c771f1af46330910.jpg "Zero and Zero Z Mega Man and 2 More Drawn by Guutara 1641998aed1fb310c771f1af46330910")](/mobile/mega%20man/mega%20man%20x/misc/zero_and_zero_z_mega_man_and_2_more_drawn_by_guutara__1641998aed1fb310c771f1af46330910.jpg)
+[![Zero Mega Man 3393584 2019 01 23 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__3393584_2019-01-23_by_guutara.jpg "Zero Mega Man 3393584 2019 01 23 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__3393584_2019-01-23_by_guutara.jpg)
+[![Zero Mega Man 9474060 2025 06 15 by Guutara](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__9474060_2025-06-15_by_guutara.jpg "Zero Mega Man 9474060 2025 06 15 by Guutara")](/mobile/mega%20man/mega%20man%20x/misc/zero__mega_man__9474060_2025-06-15_by_guutara.jpg)
 [![00_armors_mmx_dive_rockman_x0_x.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png "00_armors_mmx_dive_rockman_x0_x.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x0_x.png)
 [![00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png "00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x1_first_armor_x_1_.png)
 [![00_armors_mmx_dive_rockman_x2_second_armor_dive.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x2_second_armor_dive.png "00_armors_mmx_dive_rockman_x2_second_armor_dive.png")](/mobile/mega%20man/mega%20man%20x%20dive/00_armors_mmx_dive_rockman_x2_second_armor_dive.png)
@@ -1385,7 +1409,11 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![95197156_p10.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95197156_p10.jpg "95197156_p10.jpg")](/mobile/mega%20man/mega%20man%20zero/95197156_p10.jpg)
 [![95291265_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95291265_p0.png "95291265_p0.png")](/mobile/mega%20man/mega%20man%20zero/95291265_p0.png)
 [![95905485_p0.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/95905485_p0.png "95905485_p0.png")](/mobile/mega%20man/mega%20man%20zero/95905485_p0.png)
+[![Alouette Mega Man Ciel Mega Man Copy X Mega Man Craft Mega Man Dr](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/alouette__mega_man_%20ciel__mega_man_%20copy_x__mega_man_%20craft__mega_man_%20dr._weil__mega_man_%20elpizo__mega_man_%20fairy_leviathan__mega_man_%20fighting_fefnir__mega_man_%20hidden_phantom__mega_man_%20omega__mega_9453802_2025-06-11_by_hi-go_.jpg "Alouette Mega Man Ciel Mega Man Copy X Mega Man Craft Mega Man Dr")](/mobile/mega%20man/mega%20man%20zero/alouette__mega_man_%20ciel__mega_man_%20copy_x__mega_man_%20craft__mega_man_%20dr._weil__mega_man_%20elpizo__mega_man_%20fairy_leviathan__mega_man_%20fighting_fefnir__mega_man_%20hidden_phantom__mega_man_%20omega__mega_9453802_2025-06-11_by_hi-go_.jpg)
 [![aurjdgv5ywg51.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/aurjdgv5ywg51.jpg "aurjdgv5ywg51.jpg")](/mobile/mega%20man/mega%20man%20zero/aurjdgv5ywg51.jpg)
+[![Ciel Mega Man 7684391 2024 06 07 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684391_2024-06-07_by_hi-go_.jpg "Ciel Mega Man 7684391 2024 06 07 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684391_2024-06-07_by_hi-go_.jpg)
+[![Ciel Mega Man 7684452 2024 06 07 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684452_2024-06-07_by_hi-go_.jpg "Ciel Mega Man 7684452 2024 06 07 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man__7684452_2024-06-07_by_hi-go_.jpg)
+[![Ciel Mega Man Dr](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/ciel__mega_man_%20dr._weil__mega_man_%20iris__mega_man_%20omega__mega_man_%20sigma__mega_man_%20vile__mega_man_%20vile_v__mega_man_%20zero_z___mega_man_%20zero__mega_man__9902973_2025-09-02_by_hi-go_.jpg "Ciel Mega Man Dr")](/mobile/mega%20man/mega%20man%20zero/ciel__mega_man_%20dr._weil__mega_man_%20iris__mega_man_%20omega__mega_man_%20sigma__mega_man_%20vile__mega_man_%20vile_v__mega_man_%20zero_z___mega_man_%20zero__mega_man__9902973_2025-09-02_by_hi-go_.jpg)
 [![Clipped_image_20231207_144612.png](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/Clipped_image_20231207_144612.png "Clipped_image_20231207_144612.png")](/mobile/mega%20man/mega%20man%20zero/Clipped_image_20231207_144612.png)
 [![Dwn Infinity by Blopa Inf](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/dwn_infinity_by_blopa_inf.jpg "Dwn Infinity by Blopa Inf")](/mobile/mega%20man/mega%20man%20zero/dwn_infinity_by_blopa_inf.jpg)
 [![e858c0f7592e18e1e907a8999fb11bf4.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/e858c0f7592e18e1e907a8999fb11bf4.jpg "e858c0f7592e18e1e907a8999fb11bf4.jpg")](/mobile/mega%20man/mega%20man%20zero/e858c0f7592e18e1e907a8999fb11bf4.jpg)
@@ -1404,6 +1432,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![ Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg " Zero and Zero Z Mega Man and 2 More Drawn by Nakayama Tooru Fb17eafd70694b193b85605db4fe8a29")](/mobile/mega%20man/mega%20man%20zero/zero_and_zero_z_mega_man_and_2_more_drawn_by_nakayama_tooru__fb17eafd70694b193b85605db4fe8a29.jpg)
 [![Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg "Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
+[![Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg "Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg)
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
 [![gbmm2-wily_castle_w2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png "gbmm2-wily_castle_w2_enlarged.png")](/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png)
 [![gbmm3-wily_castle_w3_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png "gbmm3-wily_castle_w3_enlarged.png")](/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png)
@@ -1711,7 +1740,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [misc](/mobile/misc/README.MD)
 <details open>
-<summary>95 files</summary>
+<summary>96 files</summary>
 <p>
 
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
@@ -1772,6 +1801,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![c10e0cf69af79319_pxfuel (37).jpg](/.internals/thumbnails/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg "c10e0cf69af79319_pxfuel (37).jpg")](/mobile/misc/c10e0cf69af79319_pxfuel%20(37).jpg)
 [![C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit](/.internals/thumbnails/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg "C1616b4a0e6df0cf Ox DFNiAzOVYAABVpS by Oxfruit")](/mobile/misc/c1616b4a0e6df0cf_ox_DFNiAzOVYAABVpS_by_oxfruit.jpeg)
 [![C17cc5983cbc3f14 by Inkeyjay](/.internals/thumbnails/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg "C17cc5983cbc3f14 by Inkeyjay")](/mobile/misc/c17cc5983cbc3f14_by%20inkeyjay.jpg)
+[![C1933e78c18f3d70 8780931 2025 01 29 by Theadamtaylor](/.internals/thumbnails/mobile/misc/c1933e78c18f3d70__8780931_2025-01-29_by_theadamtaylor.jpg "C1933e78c18f3d70 8780931 2025 01 29 by Theadamtaylor")](/mobile/misc/c1933e78c18f3d70__8780931_2025-01-29_by_theadamtaylor.jpg)
 [![c1f21a2ce7d18c1f_peakpx(8).jpg](/.internals/thumbnails/mobile/misc/c1f21a2ce7d18c1f_peakpx(8).jpg "c1f21a2ce7d18c1f_peakpx(8).jpg")](/mobile/misc/c1f21a2ce7d18c1f_peakpx(8).jpg)
 [![c3cb2836f20a34bf_undefined - Imgur (5).jpg](/.internals/thumbnails/mobile/misc/c3cb2836f20a34bf_undefined%20-%20Imgur%20(5).jpg "c3cb2836f20a34bf_undefined - Imgur (5).jpg")](/mobile/misc/c3cb2836f20a34bf_undefined%20-%20Imgur%20(5).jpg)
 [![c4c47b1ee4e59a94_pxfuel.jpg](/.internals/thumbnails/mobile/misc/c4c47b1ee4e59a94_pxfuel.jpg "c4c47b1ee4e59a94_pxfuel.jpg")](/mobile/misc/c4c47b1ee4e59a94_pxfuel.jpg)
@@ -2552,7 +2582,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [the legend of zelda](/mobile/the%20legend%20of%20zelda/README.MD)
 <details open>
-<summary>204 files</summary>
+<summary>208 files</summary>
 <p>
 
 [![136703.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/136703.jpg "136703.jpg")](/mobile/the%20legend%20of%20zelda/136703.jpg)
@@ -2584,12 +2614,16 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Bg Light The Way by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_brady_goldsmith.jpg "Bg Light The Way by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg_light_the_way_by_brady_goldsmith.jpg)
 [![Bg Minuet Of Forest Dark by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg "Bg Minuet Of Forest Dark by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg-minuet-of-forest-dark-by-brady-goldsmith.jpg)
 [![Bg Mothula Fire Rod by Brady Goldsmith](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg "Bg Mothula Fire Rod by Brady Goldsmith")](/mobile/the%20legend%20of%20zelda/bg-mothula-fire-rod-by-brady-goldsmith.jpg)
+[![Black Knight Zelda Darknut Ezlo Link Toon Link 6330268 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/black_knight__zelda_%20darknut%20ezlo%20link%20toon_link_6330268_2023-05-22_by_sensei_haruki_suetsugu.png "Black Knight Zelda Darknut Ezlo Link Toon Link 6330268 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/black_knight__zelda_%20darknut%20ezlo%20link%20toon_link_6330268_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![BotW_Calamity_Ganon_Artwork.png](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/BotW_Calamity_Ganon_Artwork.png "BotW_Calamity_Ganon_Artwork.png")](/mobile/the%20legend%20of%20zelda/BotW_Calamity_Ganon_Artwork.png)
 [![c6b49d709042f09ef7155ca57bc2b332.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/c6b49d709042f09ef7155ca57bc2b332.jpg "c6b49d709042f09ef7155ca57bc2b332.jpg")](/mobile/the%20legend%20of%20zelda/c6b49d709042f09ef7155ca57bc2b332.jpg)
 [![Charged Armor by Werlosk](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/charged%20armor%20by%20werlosk.jpg "Charged Armor by Werlosk")](/mobile/the%20legend%20of%20zelda/charged%20armor%20by%20werlosk.jpg)
+[![Chuchu Zelda Ezlo Link Toon Link 6330271 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/chuchu__zelda_%20ezlo%20link%20toon_link_6330271_2023-05-22_by_sensei_haruki_suetsugu.png "Chuchu Zelda Ezlo Link Toon Link 6330271 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/chuchu__zelda_%20ezlo%20link%20toon_link_6330271_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg "desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg")](/mobile/the%20legend%20of%20zelda/desktop-wallpaper-zelda-link-s-awakening-phone-legend-of-zelda.jpg)
 [![E67dj_HXsAUBhex.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg "E67dj_HXsAUBhex.jpeg")](/mobile/the%20legend%20of%20zelda/E67dj_HXsAUBhex.jpeg)
 [![eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg "eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg")](/mobile/the%20legend%20of%20zelda/eec4964f-2807-4910-bcfa-a2062dd3ab68.jpeg)
+[![Ezlo Link Toon Link 6330038 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330038_2023-05-22_by_sensei_haruki_suetsugu.png "Ezlo Link Toon Link 6330038 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330038_2023-05-22_by_sensei_haruki_suetsugu.png)
+[![Ezlo Link Toon Link 6330260 2023 05 22 by Sensei Haruki Suetsugu](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330260_2023-05-22_by_sensei_haruki_suetsugu.png "Ezlo Link Toon Link 6330260 2023 05 22 by Sensei Haruki Suetsugu")](/mobile/the%20legend%20of%20zelda/ezlo%20link%20toon_link_6330260_2023-05-22_by_sensei_haruki_suetsugu.png)
 [![fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg "fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg")](/mobile/the%20legend%20of%20zelda/fa3167a9-d486-4fff-8c88-68361cd194c5.jpeg)
 [![FB_IMG_1735952911109.jpg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg "FB_IMG_1735952911109.jpg")](/mobile/the%20legend%20of%20zelda/FB_IMG_1735952911109.jpg)
 [![FItNNLIagAAfobf.jpeg](/.internals/thumbnails/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg "FItNNLIagAAfobf.jpeg")](/mobile/the%20legend%20of%20zelda/FItNNLIagAAfobf.jpeg)
