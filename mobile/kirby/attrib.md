@@ -46,3 +46,4 @@ pattern_bee_kirby_by_x_xasm.jpg Bee Kirby Pattern by X Xasm
 cone_kirby_by_x_xasm.png Cone Kirby by X Xasm
 pattern_lemon_kirby_by_x_xasm.jpg Lemon Kirby Pattern by X Xasm
 vacation_kirby_by_x_xasm.png Vacation Kirby by X Xasm
+amamiya_ren bayonetta blue_toad__mario_ bowser captain_falcon charizard cloud_strife dark_pit diddy_kong donkey_kong dr._mario falco_lombardi fox_mccloud greninja gyroid__animal_crossing_ incineroar i_9213574_2025-04-26_by_miclot.jpg Amamiya Ren Bayonetta Blue Toad  Mario  Bowser Captain Falcon Charizard Cloud Strife Dark Pit Diddy Kong Donkey Kong Dr

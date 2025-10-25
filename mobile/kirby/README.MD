@@ -1,10 +1,10 @@
-# kirby - 70
+# kirby - 71
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>70 files</summary>
+<summary>71 files</summary>
 <p>
 
 [![1188727.jpg](/.internals/thumbnails/mobile/kirby/1188727.jpg "1188727.jpg")](/mobile/kirby/1188727.jpg)
@@ -16,6 +16,7 @@
 [![70959531_p13.png](/.internals/thumbnails/mobile/kirby/70959531_p13.png "70959531_p13.png")](/mobile/kirby/70959531_p13.png)
 [![70959531_p2 (1).png](/.internals/thumbnails/mobile/kirby/70959531_p2%20(1).png "70959531_p2 (1).png")](/mobile/kirby/70959531_p2%20(1).png)
 [![84a0af973d6a926d_1279640.jpg](/.internals/thumbnails/mobile/kirby/84a0af973d6a926d_1279640.jpg "84a0af973d6a926d_1279640.jpg")](/mobile/kirby/84a0af973d6a926d_1279640.jpg)
+[![Amamiya Ren Bayonetta Blue Toad Mario Bowser Captain Falcon Charizard Cloud Strife Dark Pit Diddy Kong Donkey Kong Dr](/.internals/thumbnails/mobile/kirby/amamiya_ren%20bayonetta%20blue_toad__mario_%20bowser%20captain_falcon%20charizard%20cloud_strife%20dark_pit%20diddy_kong%20donkey_kong%20dr._mario%20falco_lombardi%20fox_mccloud%20greninja%20gyroid__animal_crossing_%20incineroar%20i_9213574_2025-04-26_by_miclot.jpg "Amamiya Ren Bayonetta Blue Toad Mario Bowser Captain Falcon Charizard Cloud Strife Dark Pit Diddy Kong Donkey Kong Dr")](/mobile/kirby/amamiya_ren%20bayonetta%20blue_toad__mario_%20bowser%20captain_falcon%20charizard%20cloud_strife%20dark_pit%20diddy_kong%20donkey_kong%20dr._mario%20falco_lombardi%20fox_mccloud%20greninja%20gyroid__animal_crossing_%20incineroar%20i_9213574_2025-04-26_by_miclot.jpg)
 [![Bee Kirby by X Xasm
 Bee Kirby Pattern by X Xasm](/.internals/thumbnails/mobile/kirby/bee_kirby_by_x_xasm.jpg "Bee Kirby by X Xasm
 Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)

@@ -1,10 +1,10 @@
-# classic - 45
+# classic - 46
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>45 files</summary>
+<summary>46 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -39,6 +39,7 @@
 [![Megaman11-repair-shirt-design.png](/.internals/thumbnails/mobile/mega%20man/classic/Megaman11-repair-shirt-design.png "Megaman11-repair-shirt-design.png")](/mobile/mega%20man/classic/Megaman11-repair-shirt-design.png)
 [![Mega Man 2 by Dan Mumford](/.internals/thumbnails/mobile/mega%20man/classic/mega_man_2_by_dan_mumford.jpg "Mega Man 2 by Dan Mumford")](/mobile/mega%20man/classic/mega_man_2_by_dan_mumford.jpg)
 [![mega-man-and-rush-72g3khhubrmaudwm.jpg](/.internals/thumbnails/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg "mega-man-and-rush-72g3khhubrmaudwm.jpg")](/mobile/mega%20man/classic/mega-man-and-rush-72g3khhubrmaudwm.jpg)
+[![Mega Man Character X Mega Man 7697227 2024 06 10 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/classic/mega_man__character_%20x__mega_man__7697227_2024-06-10_by_dauntedx.png "Mega Man Character X Mega Man 7697227 2024 06 10 by Dauntedx")](/mobile/mega%20man/classic/mega_man__character_%20x__mega_man__7697227_2024-06-10_by_dauntedx.png)
 [![Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/mega%20man/classic/mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 [![Mega Men by Ultimatemaverickx Dgrwc9w Fullview](/.internals/thumbnails/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg "Mega Men by Ultimatemaverickx Dgrwc9w Fullview")](/mobile/mega%20man/classic/mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg)
 [![Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview](/.internals/thumbnails/mobile/mega%20man/classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg "Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview")](/mobile/mega%20man/classic/mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg)
