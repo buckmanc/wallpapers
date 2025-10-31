@@ -1,12 +1,12 @@
-# music - 135
-- [album art](#album-art) - 112
+# music - 136
+- [album art](#album-art) - 113
 - [artist photos](#artist-photos) - 23
 
 <a id="album-art"></a>
 
 ## [album art](/mobile/music/album%20art/README.MD)
 <details open>
-<summary>112 files</summary>
+<summary>113 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -80,6 +80,8 @@
 [![Odem Medo - Pumpkin Pandemonium!.jpg](/.internals/thumbnails/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg "Odem Medo - Pumpkin Pandemonium!.jpg")](/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg)
 [![Old Sorcery - Dragon Citadel Elegies.png](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png "Old Sorcery - Dragon Citadel Elegies.png")](/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png)
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
+[![Old Sorcery - The Escapist.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Escapist.jpg "Old Sorcery - The Escapist.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Escapist.jpg)
+[![Old Sorcery - The Lost Grimoire.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Lost%20Grimoire.jpg "Old Sorcery - The Lost Grimoire.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Lost%20Grimoire.jpg)
 [![ONMYO-ZA - 龍凰童子.jpg](/.internals/thumbnails/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg "ONMYO-ZA - 龍凰童子.jpg")](/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg)
 [![Osi And The Jupiter - Uthuling Hyl.jpg](/.internals/thumbnails/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
@@ -101,7 +103,6 @@
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
-[![STOMACH BOOK - GOODNIGHT HYPNOPOMP.png](/.internals/thumbnails/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png "STOMACH BOOK - GOODNIGHT HYPNOPOMP.png")](/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)

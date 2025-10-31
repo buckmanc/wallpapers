@@ -1,8 +1,9 @@
-# desktop - 702
+# desktop - 721
 - [castlevania](#castlevania) - 8
-- [castlevania pixel](#castlevania-pixel) - 11
+- [castlevania pixel](#castlevania-pixel) - 14
 - [cityscapes](#cityscapes) - 7
 - [cosmere](#cosmere) - 14
+- [craftpix](#craftpix) - 4
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [forests](#forests) - 116
 - [halo](#halo) - 4
@@ -10,7 +11,7 @@
 - [kirby pixel](#kirby-pixel) - 2
 - [magic the gathering](#magic-the-gathering) - 10
 - [mario pixel](#mario-pixel) - 1
-- [mega man pixel](#mega-man-pixel) - 12
+- [mega man pixel](#mega-man-pixel) - 24
 - [metroid](#metroid) - 13
 - [ming fan concept art](#ming-fan-concept-art) - 28
 - [misc](#misc) - 110
@@ -60,9 +61,12 @@
 
 ## [castlevania pixel](/desktop/castlevania%20pixel/README.MD)
 <details open>
-<summary>11 files</summary>
+<summary>14 files</summary>
 <p>
 
+[![castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png "castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png")](/desktop/castlevania%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png)
+[![castlevania-order-of-ecclesia-home-office_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png "castlevania-order-of-ecclesia-home-office_enlarged.png")](/desktop/castlevania%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png)
+[![castlevania-order-of-ecclesia-loading-bg_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png "castlevania-order-of-ecclesia-loading-bg_enlarged.png")](/desktop/castlevania%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png)
 [![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-celltower_enlarged.png)
 [![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
 [![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](/desktop/castlevania%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)
@@ -123,6 +127,21 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![Learning To Paint by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg "Learning To Paint by Aliya Chen")](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Learning_to_Paint_by_Aliya_Chen.jpg)
 [![Thirty Seven Spirits by Aliya Chen](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg "Thirty Seven Spirits by Aliya Chen")](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Thirty_Seven_Spirits_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](/desktop/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
+
+</p>
+</details>
+
+<a id="craftpix"></a>
+
+## [craftpix](/desktop/craftpix/README.MD)
+<details open>
+<summary>4 files</summary>
+<p>
+
+[![4.png](/.internals/thumbnails/desktop/craftpix/4.png "4.png")](/desktop/craftpix/4.png)
+[![castle(1).png](/.internals/thumbnails/desktop/craftpix/castle(1).png "castle(1).png")](/desktop/craftpix/castle(1).png)
+[![terrace(1).png](/.internals/thumbnails/desktop/craftpix/terrace(1).png "terrace(1).png")](/desktop/craftpix/terrace(1).png)
+[![throne room(1).png](/.internals/thumbnails/desktop/craftpix/throne%20room(1).png "throne room(1).png")](/desktop/craftpix/throne%20room(1).png)
 
 </p>
 </details>
@@ -347,9 +366,21 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 ## [mega man pixel](/desktop/mega%20man%20pixel/README.MD)
 <details open>
-<summary>12 files</summary>
+<summary>24 files</summary>
 <p>
 
+[![mm1-credits-city_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm1-credits-city_enlarged.png "mm1-credits-city_enlarged.png")](/desktop/mega%20man%20pixel/mm1-credits-city_enlarged.png)
+[![mm1-credits-mountains_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm1-credits-mountains_enlarged.png "mm1-credits-mountains_enlarged.png")](/desktop/mega%20man%20pixel/mm1-credits-mountains_enlarged.png)
+[![mm2-intro-bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm2-intro-bg_enlarged.png "mm2-intro-bg_enlarged.png")](/desktop/mega%20man%20pixel/mm2-intro-bg_enlarged.png)
+[![mm3-needleman-stars_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm3-needleman-stars_enlarged.png "mm3-needleman-stars_enlarged.png")](/desktop/mega%20man%20pixel/mm3-needleman-stars_enlarged.png)
+[![mm4-cossack-stars_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm4-cossack-stars_enlarged.png "mm4-cossack-stars_enlarged.png")](/desktop/mega%20man%20pixel/mm4-cossack-stars_enlarged.png)
+[![mm4-ringman-stars1_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm4-ringman-stars1_enlarged.png "mm4-ringman-stars1_enlarged.png")](/desktop/mega%20man%20pixel/mm4-ringman-stars1_enlarged.png)
+[![mm4-ringman-stars2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm4-ringman-stars2_enlarged.png "mm4-ringman-stars2_enlarged.png")](/desktop/mega%20man%20pixel/mm4-ringman-stars2_enlarged.png)
+[![mm5-starman-bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm5-starman-bg_enlarged.png "mm5-starman-bg_enlarged.png")](/desktop/mega%20man%20pixel/mm5-starman-bg_enlarged.png)
+[![mm6-mrx2-bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm6-mrx2-bg_enlarged.png "mm6-mrx2-bg_enlarged.png")](/desktop/mega%20man%20pixel/mm6-mrx2-bg_enlarged.png)
+[![mm6-mrx-bg2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm6-mrx-bg2_enlarged.png "mm6-mrx-bg2_enlarged.png")](/desktop/mega%20man%20pixel/mm6-mrx-bg2_enlarged.png)
+[![mm6-mrx-bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm6-mrx-bg_enlarged.png "mm6-mrx-bg_enlarged.png")](/desktop/mega%20man%20pixel/mm6-mrx-bg_enlarged.png)
+[![mm6-wily1-bg_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm6-wily1-bg_enlarged.png "mm6-wily1-bg_enlarged.png")](/desktop/mega%20man%20pixel/mm6-wily1-bg_enlarged.png)
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
 [![mm7 - shade man bg 2_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png "mm7 - shade man bg 2_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png)
 [![mm7 - shade man bg - desktop_enlarged.png](/.internals/thumbnails/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%20-%20desktop_enlarged.png "mm7 - shade man bg - desktop_enlarged.png")](/desktop/mega%20man%20pixel/mm7%20-%20shade%20man%20bg%20-%20desktop_enlarged.png)

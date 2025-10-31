@@ -1,12 +1,16 @@
-# pixel - 16
+# pixel - 20
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>16 files</summary>
+<summary>20 files</summary>
 <p>
 
+[![castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png "castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png)
+[![castlevania-order-of-ecclesia-home-office_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png "castlevania-order-of-ecclesia-home-office_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png)
+[![castlevania-order-of-ecclesia-loading-bg_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png "castlevania-order-of-ecclesia-loading-bg_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png)
+[![castlevania-portrait-of-ruin-moon_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-portrait-of-ruin-moon_enlarged.png "castlevania-portrait-of-ruin-moon_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-portrait-of-ruin-moon_enlarged.png)
 [![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png)
 [![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
 [![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)

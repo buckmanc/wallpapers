@@ -1,7 +1,8 @@
-# mobile - 2,318
+# mobile - 2,343
 - [batman](#batman) - 6
-- [castlevania](#castlevania) - 138
+- [castlevania](#castlevania) - 142
 - [cosmere](#cosmere) - 160
+- [craftpix](#craftpix) - 3
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
 - [elden ring](#elden-ring) - 20
@@ -19,16 +20,16 @@
 - [mario](#mario) - 108
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 335
+- [mega man](#mega-man) - 345
 - [metroid](#metroid) - 161
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 96
+- [misc](#misc) - 103
 - [misc anato finnstark](#misc-anato-finnstark) - 35
 - [misc devin elle kurtz](#misc-devin-elle-kurtz) - 6
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 135
+- [music](#music) - 136
 - [nintendo](#nintendo) - 49
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 118
@@ -67,7 +68,7 @@
 
 ## [castlevania](/mobile/castlevania/README.MD)
 <details open>
-<summary>138 files</summary>
+<summary>142 files</summary>
 <p>
 
 [![09-castlevania.jpg](/.internals/thumbnails/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg "09-castlevania.jpg")](/mobile/castlevania/ayami%20kojima/castlevania/09-castlevania.jpg)
@@ -192,6 +193,10 @@
 [![order_of_ecclesia_wallpaper.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/order_of_ecclesia_wallpaper.jpg "order_of_ecclesia_wallpaper.jpg")](/mobile/castlevania/zz%20castle/order_of_ecclesia_wallpaper.jpg)
 [![Sebastien Skaf - Castlevania_Vol_1.jpg](/.internals/thumbnails/mobile/castlevania/zz%20castle/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg "Sebastien Skaf - Castlevania_Vol_1.jpg")](/mobile/castlevania/zz%20castle/Sebastien%20Skaf%20-%20Castlevania_Vol_1.jpg)
 [![Zz Castlevania by Ömer Tunç](/.internals/thumbnails/mobile/castlevania/zz%20castle/zz_castlevania_by_ömer_tunç.jpg "Zz Castlevania by Ömer Tunç")](/mobile/castlevania/zz%20castle/zz_castlevania_by_ömer_tunç.jpg)
+[![castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png "castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-dawn-of-sorrow-outdoor-bg_enlarged.png)
+[![castlevania-order-of-ecclesia-home-office_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png "castlevania-order-of-ecclesia-home-office_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-home-office_enlarged.png)
+[![castlevania-order-of-ecclesia-loading-bg_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png "castlevania-order-of-ecclesia-loading-bg_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-order-of-ecclesia-loading-bg_enlarged.png)
+[![castlevania-portrait-of-ruin-moon_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/castlevania-portrait-of-ruin-moon_enlarged.png "castlevania-portrait-of-ruin-moon_enlarged.png")](/mobile/castlevania/zz%20pixel/castlevania-portrait-of-ruin-moon_enlarged.png)
 [![sotn-abandonedmine-celltower_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png "sotn-abandonedmine-celltower_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-celltower_enlarged.png)
 [![sotn-abandonedmine-nudeypillars_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png "sotn-abandonedmine-nudeypillars_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-nudeypillars_enlarged.png)
 [![sotn-abandonedmine-wallskulls_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png "sotn-abandonedmine-wallskulls_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-abandonedmine-wallskulls_enlarged.png)
@@ -445,6 +450,20 @@ Tress Midnight by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_midnight_by_how
 Tress Sipping Salty Tea by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg "Sipping Salty Tea by Howard Lyon
 Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg)
 [![Warbreaker Cover by Yasen Stoilov](/.internals/thumbnails/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg "Warbreaker Cover by Yasen Stoilov")](/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg)
+
+</p>
+</details>
+
+<a id="craftpix"></a>
+
+## [craftpix](/mobile/craftpix/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
+[![castle.png](/.internals/thumbnails/mobile/craftpix/castle.png "castle.png")](/mobile/craftpix/castle.png)
+[![terrace.png](/.internals/thumbnails/mobile/craftpix/terrace.png "terrace.png")](/mobile/craftpix/terrace.png)
+[![throne room.png](/.internals/thumbnails/mobile/craftpix/throne%20room.png "throne room.png")](/mobile/craftpix/throne%20room.png)
 
 </p>
 </details>
@@ -1128,7 +1147,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>335 files</summary>
+<summary>345 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -1449,6 +1468,16 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![mm07-wily-mm7-wilycapsule_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm07-wily-mm7-wilycapsule_enlarged.png "mm07-wily-mm7-wilycapsule_enlarged.png")](/mobile/mega%20man/pixel/mm07-wily-mm7-wilycapsule_enlarged.png)
 [![mm09-wily_castle_9_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm09-wily_castle_9_enlarged.png "mm09-wily_castle_9_enlarged.png")](/mobile/mega%20man/pixel/mm09-wily_castle_9_enlarged.png)
 [![mm10-wily_castle_10_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png "mm10-wily_castle_10_enlarged.png")](/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png)
+[![mm1-credits-city_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png "mm1-credits-city_enlarged.png")](/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png)
+[![mm2-intro-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png "mm2-intro-bg_enlarged.png")](/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png)
+[![mm3-needleman-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png "mm3-needleman-stars_enlarged.png")](/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png)
+[![mm4-cossack-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png "mm4-cossack-stars_enlarged.png")](/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png)
+[![mm4-ringman-stars1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png "mm4-ringman-stars1_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png)
+[![mm4-ringman-stars2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png "mm4-ringman-stars2_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png)
+[![mm5-starman-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png "mm5-starman-bg_enlarged.png")](/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png)
+[![mm6-mrx-bg2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png "mm6-mrx-bg2_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png)
+[![mm6-mrx-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png "mm6-mrx-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png)
+[![mm6-wily1-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png "mm6-wily1-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png)
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
 [![mm7 - junk man - shaft narrower centered_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20shaft%20narrower%20centered_enlarged.png "mm7 - junk man - shaft narrower centered_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20shaft%20narrower%20centered_enlarged.png)
 [![mm7 - shade man bg 2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png "mm7 - shade man bg 2_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20shade%20man%20bg%202_enlarged.png)
@@ -1740,7 +1769,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [misc](/mobile/misc/README.MD)
 <details open>
-<summary>96 files</summary>
+<summary>103 files</summary>
 <p>
 
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
@@ -1792,8 +1821,10 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![9fd8602587ea383d_Magic Sunset.jpg](/.internals/thumbnails/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
 [![A11c58f702b77ba1 Graveborn by Umai](/.internals/thumbnails/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg "A11c58f702b77ba1 Graveborn by Umai")](/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg)
 [![A7944a19277cb9b2 Raven Altar by Sandara](/.internals/thumbnails/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg "A7944a19277cb9b2 Raven Altar by Sandara")](/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg)
+[![a8c9c2b9d1e1a3b6_discord_bg_tile.png](/.internals/thumbnails/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png "a8c9c2b9d1e1a3b6_discord_bg_tile.png")](/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png)
 [![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](/.internals/thumbnails/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](/.internals/thumbnails/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
+[![b2abad2564745c5a_Screenshot_20251028_170259_Vampire Survivors.png](/.internals/thumbnails/mobile/misc/b2abad2564745c5a_Screenshot_20251028_170259_Vampire%20Survivors.png "b2abad2564745c5a_Screenshot_20251028_170259_Vampire Survivors.png")](/mobile/misc/b2abad2564745c5a_Screenshot_20251028_170259_Vampire%20Survivors.png)
 [![b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png](/.internals/thumbnails/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png "b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png")](/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png)
 [![bc748a9943eb530b_ducks seeing a meteor 2024.png](/.internals/thumbnails/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png "bc748a9943eb530b_ducks seeing a meteor 2024.png")](/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png)
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](/.internals/thumbnails/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)
@@ -1823,18 +1854,23 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![cec6313998c6c7c6_QQjCLXq.jpeg](/.internals/thumbnails/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg "cec6313998c6c7c6_QQjCLXq.jpeg")](/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg)
 [![D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek](/.internals/thumbnails/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg "D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek")](/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg)
 [![d0d42b3df6d2281e_pxfuel (46).jpg](/.internals/thumbnails/mobile/misc/d0d42b3df6d2281e_pxfuel%20(46).jpg "d0d42b3df6d2281e_pxfuel (46).jpg")](/mobile/misc/d0d42b3df6d2281e_pxfuel%20(46).jpg)
+[![d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png](/.internals/thumbnails/mobile/misc/d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png "d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png")](/mobile/misc/d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png)
 [![D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae](/.internals/thumbnails/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg "D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae")](/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg)
 [![D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding](/.internals/thumbnails/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg "D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding")](/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg)
 [![d5304b1fd876710d_6406800.jpg](/.internals/thumbnails/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](/mobile/misc/d5304b1fd876710d_6406800.jpg)
+[![d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png](/.internals/thumbnails/mobile/misc/d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png "d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png")](/mobile/misc/d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png)
 [![d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg](/.internals/thumbnails/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg "d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg")](/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg)
 [![d70de486af311927_FLXA97vXoAIBTpW.jpeg](/.internals/thumbnails/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
 [![d7d9682437d2d249_carlos-guimerà-asrai.png](/.internals/thumbnails/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png "d7d9682437d2d249_carlos-guimerà-asrai.png")](/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png)
+[![Ddf5d4da72711018 That Night Time Feeling Walking Around Reykjavik 1ofz9yw 2025 10 25 by None](/.internals/thumbnails/mobile/misc/ddf5d4da72711018_That%20night%20time%20feeling%20walking%20around%20Reykjavik_1ofz9yw_2025-10-25_by_None.jpg "Ddf5d4da72711018 That Night Time Feeling Walking Around Reykjavik 1ofz9yw 2025 10 25 by None")](/mobile/misc/ddf5d4da72711018_That%20night%20time%20feeling%20walking%20around%20Reykjavik_1ofz9yw_2025-10-25_by_None.jpg)
 [![dfdda5a232124c4d_pxfuel (40).jpg](/.internals/thumbnails/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
 [![E19e16e32890ff49 Walking House by Sandara](/.internals/thumbnails/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg "E19e16e32890ff49 Walking House by Sandara")](/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg)
 [![E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01](/.internals/thumbnails/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png "E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01")](/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png)
 [![e6ce49b31a44275b_20231217_203424.jpg](/.internals/thumbnails/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg "e6ce49b31a44275b_20231217_203424.jpg")](/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg)
 [![ee29aea398c790c6_pxfuel (22).jpg](/.internals/thumbnails/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg "ee29aea398c790c6_pxfuel (22).jpg")](/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg)
+[![f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png](/.internals/thumbnails/mobile/misc/f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png "f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png")](/mobile/misc/f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png)
 [![f311cf6118de11ec_pxfuel (10).jpg](/.internals/thumbnails/mobile/misc/f311cf6118de11ec_pxfuel%20(10).jpg "f311cf6118de11ec_pxfuel (10).jpg")](/mobile/misc/f311cf6118de11ec_pxfuel%20(10).jpg)
+[![f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png](/.internals/thumbnails/mobile/misc/f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png "f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png")](/mobile/misc/f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png)
 [![f7c0187d2dc2621f_dead-cells-roadmap.jpg](/.internals/thumbnails/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg "f7c0187d2dc2621f_dead-cells-roadmap.jpg")](/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg)
 [![f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg](/.internals/thumbnails/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg "f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg")](/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg)
 [![fb0f04b26bdd32c0_pxfuel (18).jpg](/.internals/thumbnails/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg "fb0f04b26bdd32c0_pxfuel (18).jpg")](/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg)
@@ -1954,7 +1990,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [music](/mobile/music/README.MD)
 <details open>
-<summary>135 files</summary>
+<summary>136 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -2028,6 +2064,8 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Odem Medo - Pumpkin Pandemonium!.jpg](/.internals/thumbnails/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg "Odem Medo - Pumpkin Pandemonium!.jpg")](/mobile/music/album%20art/Odem%20Medo%20-%20Pumpkin%20Pandemonium!.jpg)
 [![Old Sorcery - Dragon Citadel Elegies.png](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png "Old Sorcery - Dragon Citadel Elegies.png")](/mobile/music/album%20art/Old%20Sorcery%20-%20Dragon%20Citadel%20Elegies.png)
 [![Old Sorcery - Strange and Eternal.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg "Old Sorcery - Strange and Eternal.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20Strange%20and%20Eternal.jpg)
+[![Old Sorcery - The Escapist.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Escapist.jpg "Old Sorcery - The Escapist.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Escapist.jpg)
+[![Old Sorcery - The Lost Grimoire.jpg](/.internals/thumbnails/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Lost%20Grimoire.jpg "Old Sorcery - The Lost Grimoire.jpg")](/mobile/music/album%20art/Old%20Sorcery%20-%20The%20Lost%20Grimoire.jpg)
 [![ONMYO-ZA - 龍凰童子.jpg](/.internals/thumbnails/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg "ONMYO-ZA - 龍凰童子.jpg")](/mobile/music/album%20art/ONMYO-ZA%20-%20龍凰童子.jpg)
 [![Osi And The Jupiter - Uthuling Hyl.jpg](/.internals/thumbnails/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg "Osi And The Jupiter - Uthuling Hyl.jpg")](/mobile/music/album%20art/Osi%20And%20The%20Jupiter%20-%20Uthuling%20Hyl.jpg)
 [![Ov Sulfur - Behind the Hand of God.jpg](/.internals/thumbnails/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg "Ov Sulfur - Behind the Hand of God.jpg")](/mobile/music/album%20art/Ov%20Sulfur%20-%20Behind%20the%20Hand%20of%20God.jpg)
@@ -2049,7 +2087,6 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
-[![STOMACH BOOK - GOODNIGHT HYPNOPOMP.png](/.internals/thumbnails/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png "STOMACH BOOK - GOODNIGHT HYPNOPOMP.png")](/mobile/music/album%20art/STOMACH%20BOOK%20-%20GOODNIGHT%20HYPNOPOMP.png)
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)

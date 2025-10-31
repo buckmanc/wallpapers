@@ -1,10 +1,10 @@
-# misc - 96
+# misc - 103
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>96 files</summary>
+<summary>103 files</summary>
 <p>
 
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
@@ -56,8 +56,10 @@
 [![9fd8602587ea383d_Magic Sunset.jpg](/.internals/thumbnails/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
 [![A11c58f702b77ba1 Graveborn by Umai](/.internals/thumbnails/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg "A11c58f702b77ba1 Graveborn by Umai")](/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg)
 [![A7944a19277cb9b2 Raven Altar by Sandara](/.internals/thumbnails/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg "A7944a19277cb9b2 Raven Altar by Sandara")](/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg)
+[![a8c9c2b9d1e1a3b6_discord_bg_tile.png](/.internals/thumbnails/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png "a8c9c2b9d1e1a3b6_discord_bg_tile.png")](/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png)
 [![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](/.internals/thumbnails/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)
 [![b094c4eb3fd530aa_Dark Forest (1).jpg](/.internals/thumbnails/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg "b094c4eb3fd530aa_Dark Forest (1).jpg")](/mobile/misc/b094c4eb3fd530aa_Dark%20Forest%20(1).jpg)
+[![b2abad2564745c5a_Screenshot_20251028_170259_Vampire Survivors.png](/.internals/thumbnails/mobile/misc/b2abad2564745c5a_Screenshot_20251028_170259_Vampire%20Survivors.png "b2abad2564745c5a_Screenshot_20251028_170259_Vampire Survivors.png")](/mobile/misc/b2abad2564745c5a_Screenshot_20251028_170259_Vampire%20Survivors.png)
 [![b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png](/.internals/thumbnails/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png "b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png")](/mobile/misc/b9d5e1c09693c366_blackcraft_cult_lilith_sticker.png)
 [![bc748a9943eb530b_ducks seeing a meteor 2024.png](/.internals/thumbnails/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png "bc748a9943eb530b_ducks seeing a meteor 2024.png")](/mobile/misc/bc748a9943eb530b_ducks%20seeing%20a%20meteor%202024.png)
 [![C0e01f97e078c3e7 The Moon by Ari Ibarra](/.internals/thumbnails/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg "C0e01f97e078c3e7 The Moon by Ari Ibarra")](/mobile/misc/c0e01f97e078c3e7_the_moon_by_ari_ibarra.jpg)
@@ -87,18 +89,23 @@
 [![cec6313998c6c7c6_QQjCLXq.jpeg](/.internals/thumbnails/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg "cec6313998c6c7c6_QQjCLXq.jpeg")](/mobile/misc/cec6313998c6c7c6_QQjCLXq.jpeg)
 [![D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek](/.internals/thumbnails/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg "D0ba3d6960c8971f Mega Sharjk Attack by By Dominik Broniek")](/mobile/misc/d0ba3d6960c8971f_mega_sharjk_attack_by_by_dominik_broniek.jpg)
 [![d0d42b3df6d2281e_pxfuel (46).jpg](/.internals/thumbnails/mobile/misc/d0d42b3df6d2281e_pxfuel%20(46).jpg "d0d42b3df6d2281e_pxfuel (46).jpg")](/mobile/misc/d0d42b3df6d2281e_pxfuel%20(46).jpg)
+[![d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png](/.internals/thumbnails/mobile/misc/d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png "d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png")](/mobile/misc/d1d407d416547eab_magic-signs-and-multicolored-drops-of-paint-vector-55509392.png)
 [![D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae](/.internals/thumbnails/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg "D22dc2d42df20dc7 The Eldritch Tutor by Dies Vitae")](/mobile/misc/d22dc2d42df20dc7_The%20Eldritch%20Tutor%20by%20Dies%20Vitae.jpeg)
 [![D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding](/.internals/thumbnails/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg "D22f3872c7d09c4d Iwilding Godofwar by Ian Wilding")](/mobile/misc/d22f3872c7d09c4d_iwilding_godofwar_by_ian_wilding.jpg)
 [![d5304b1fd876710d_6406800.jpg](/.internals/thumbnails/mobile/misc/d5304b1fd876710d_6406800.jpg "d5304b1fd876710d_6406800.jpg")](/mobile/misc/d5304b1fd876710d_6406800.jpg)
+[![d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png](/.internals/thumbnails/mobile/misc/d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png "d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png")](/mobile/misc/d6865b8e73862c69_magical-cosmic-alchemy-vector-40646300.png)
 [![d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg](/.internals/thumbnails/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg "d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg")](/mobile/misc/d6873b3c0cd96439_carlos-guimerà-deer-w-textura.jpg)
 [![d70de486af311927_FLXA97vXoAIBTpW.jpeg](/.internals/thumbnails/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg "d70de486af311927_FLXA97vXoAIBTpW.jpeg")](/mobile/misc/d70de486af311927_FLXA97vXoAIBTpW.jpeg)
 [![d7d9682437d2d249_carlos-guimerà-asrai.png](/.internals/thumbnails/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png "d7d9682437d2d249_carlos-guimerà-asrai.png")](/mobile/misc/d7d9682437d2d249_carlos-guimerà-asrai.png)
+[![Ddf5d4da72711018 That Night Time Feeling Walking Around Reykjavik 1ofz9yw 2025 10 25 by None](/.internals/thumbnails/mobile/misc/ddf5d4da72711018_That%20night%20time%20feeling%20walking%20around%20Reykjavik_1ofz9yw_2025-10-25_by_None.jpg "Ddf5d4da72711018 That Night Time Feeling Walking Around Reykjavik 1ofz9yw 2025 10 25 by None")](/mobile/misc/ddf5d4da72711018_That%20night%20time%20feeling%20walking%20around%20Reykjavik_1ofz9yw_2025-10-25_by_None.jpg)
 [![dfdda5a232124c4d_pxfuel (40).jpg](/.internals/thumbnails/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg "dfdda5a232124c4d_pxfuel (40).jpg")](/mobile/misc/dfdda5a232124c4d_pxfuel%20(40).jpg)
 [![E19e16e32890ff49 Walking House by Sandara](/.internals/thumbnails/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg "E19e16e32890ff49 Walking House by Sandara")](/mobile/misc/e19e16e32890ff49_walking%20house%20by%20sandara.jpg)
 [![E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01](/.internals/thumbnails/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png "E5c2da9f2c324a6c Sg Ss Hummingbird Stained Glass by Sarcastic Sketches 611151990521724928 01")](/mobile/misc/e5c2da9f2c324a6c_sg_ss_hummingbird_stained_glass_by_sarcastic_sketches_611151990521724928_01.png)
 [![e6ce49b31a44275b_20231217_203424.jpg](/.internals/thumbnails/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg "e6ce49b31a44275b_20231217_203424.jpg")](/mobile/misc/e6ce49b31a44275b_20231217_203424.jpg)
 [![ee29aea398c790c6_pxfuel (22).jpg](/.internals/thumbnails/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg "ee29aea398c790c6_pxfuel (22).jpg")](/mobile/misc/ee29aea398c790c6_pxfuel%20(22).jpg)
+[![f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png](/.internals/thumbnails/mobile/misc/f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png "f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png")](/mobile/misc/f284af84af84cd59_colorful-bats-and-stars-vector-54311177.png)
 [![f311cf6118de11ec_pxfuel (10).jpg](/.internals/thumbnails/mobile/misc/f311cf6118de11ec_pxfuel%20(10).jpg "f311cf6118de11ec_pxfuel (10).jpg")](/mobile/misc/f311cf6118de11ec_pxfuel%20(10).jpg)
+[![f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png](/.internals/thumbnails/mobile/misc/f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png "f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png")](/mobile/misc/f3d11cd10cf1f708_seamless-of-bright-stars-on-black-vector-44611636.png)
 [![f7c0187d2dc2621f_dead-cells-roadmap.jpg](/.internals/thumbnails/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg "f7c0187d2dc2621f_dead-cells-roadmap.jpg")](/mobile/misc/f7c0187d2dc2621f_dead-cells-roadmap.jpg)
 [![f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg](/.internals/thumbnails/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg "f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg")](/mobile/misc/f7c808f62569b0dc_david-thor-fjalarsson-deadcells-beheaded-04-s.jpg)
 [![fb0f04b26bdd32c0_pxfuel (18).jpg](/.internals/thumbnails/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg "fb0f04b26bdd32c0_pxfuel (18).jpg")](/mobile/misc/fb0f04b26bdd32c0_pxfuel%20(18).jpg)
