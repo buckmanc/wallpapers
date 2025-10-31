@@ -1,9 +1,9 @@
-# mega man - 345
+# mega man - 348
 - [classic](#classic) - 46
 - [mega man x](#mega-man-x) - 167
 - [mega man x dive](#mega-man-x-dive) - 38
 - [mega man zero](#mega-man-zero) - 51
-- [pixel](#pixel) - 43
+- [pixel](#pixel) - 46
 
 <a id="classic"></a>
 
@@ -355,7 +355,7 @@
 
 ## [pixel](/mobile/mega%20man/pixel/README.MD)
 <details open>
-<summary>43 files</summary>
+<summary>46 files</summary>
 <p>
 
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
@@ -376,12 +376,15 @@
 [![mm10-wily_castle_10_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png "mm10-wily_castle_10_enlarged.png")](/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png)
 [![mm1-credits-city_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png "mm1-credits-city_enlarged.png")](/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png)
 [![mm2-intro-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png "mm2-intro-bg_enlarged.png")](/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png)
-[![mm3-needleman-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png "mm3-needleman-stars_enlarged.png")](/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png)
+[![mm3-needleman-stars_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged_edit.png "mm3-needleman-stars_enlarged_edit.png")](/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged_edit.png)
 [![mm4-cossack-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png "mm4-cossack-stars_enlarged.png")](/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png)
-[![mm4-ringman-stars1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png "mm4-ringman-stars1_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png)
+[![mm4-ringman-stars1_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged_edit.png "mm4-ringman-stars1_enlarged_edit.png")](/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged_edit.png)
+[![mm4-ringman-stars2_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged_edit.png "mm4-ringman-stars2_enlarged_edit.png")](/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged_edit.png)
 [![mm4-ringman-stars2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png "mm4-ringman-stars2_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png)
+[![mm5-starman-bg_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm5-starman-bg_enlarged_edit.png "mm5-starman-bg_enlarged_edit.png")](/mobile/mega%20man/pixel/mm5-starman-bg_enlarged_edit.png)
 [![mm5-starman-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png "mm5-starman-bg_enlarged.png")](/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png)
 [![mm6-mrx-bg2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png "mm6-mrx-bg2_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png)
+[![mm6-mrx-bg_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged_edit.png "mm6-mrx-bg_enlarged_edit.png")](/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged_edit.png)
 [![mm6-mrx-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png "mm6-mrx-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png)
 [![mm6-wily1-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png "mm6-wily1-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png)
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)

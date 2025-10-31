@@ -1,4 +1,4 @@
-# mobile - 2,343
+# mobile - 2,346
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 142
 - [cosmere](#cosmere) - 160
@@ -20,7 +20,7 @@
 - [mario](#mario) - 108
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 345
+- [mega man](#mega-man) - 348
 - [metroid](#metroid) - 161
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 103
@@ -1147,7 +1147,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>345 files</summary>
+<summary>348 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -1470,12 +1470,15 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![mm10-wily_castle_10_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png "mm10-wily_castle_10_enlarged.png")](/mobile/mega%20man/pixel/mm10-wily_castle_10_enlarged.png)
 [![mm1-credits-city_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png "mm1-credits-city_enlarged.png")](/mobile/mega%20man/pixel/mm1-credits-city_enlarged.png)
 [![mm2-intro-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png "mm2-intro-bg_enlarged.png")](/mobile/mega%20man/pixel/mm2-intro-bg_enlarged.png)
-[![mm3-needleman-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png "mm3-needleman-stars_enlarged.png")](/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged.png)
+[![mm3-needleman-stars_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged_edit.png "mm3-needleman-stars_enlarged_edit.png")](/mobile/mega%20man/pixel/mm3-needleman-stars_enlarged_edit.png)
 [![mm4-cossack-stars_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png "mm4-cossack-stars_enlarged.png")](/mobile/mega%20man/pixel/mm4-cossack-stars_enlarged.png)
-[![mm4-ringman-stars1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png "mm4-ringman-stars1_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged.png)
+[![mm4-ringman-stars1_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged_edit.png "mm4-ringman-stars1_enlarged_edit.png")](/mobile/mega%20man/pixel/mm4-ringman-stars1_enlarged_edit.png)
+[![mm4-ringman-stars2_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged_edit.png "mm4-ringman-stars2_enlarged_edit.png")](/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged_edit.png)
 [![mm4-ringman-stars2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png "mm4-ringman-stars2_enlarged.png")](/mobile/mega%20man/pixel/mm4-ringman-stars2_enlarged.png)
+[![mm5-starman-bg_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm5-starman-bg_enlarged_edit.png "mm5-starman-bg_enlarged_edit.png")](/mobile/mega%20man/pixel/mm5-starman-bg_enlarged_edit.png)
 [![mm5-starman-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png "mm5-starman-bg_enlarged.png")](/mobile/mega%20man/pixel/mm5-starman-bg_enlarged.png)
 [![mm6-mrx-bg2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png "mm6-mrx-bg2_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg2_enlarged.png)
+[![mm6-mrx-bg_enlarged_edit.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged_edit.png "mm6-mrx-bg_enlarged_edit.png")](/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged_edit.png)
 [![mm6-mrx-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png "mm6-mrx-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-mrx-bg_enlarged.png)
 [![mm6-wily1-bg_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png "mm6-wily1-bg_enlarged.png")](/mobile/mega%20man/pixel/mm6-wily1-bg_enlarged.png)
 [![mm7 - junk man - boss room_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png "mm7 - junk man - boss room_enlarged.png")](/mobile/mega%20man/pixel/mm7%20-%20junk%20man%20-%20boss%20room_enlarged.png)
