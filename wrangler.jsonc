@@ -1,6 +1,6 @@
 {
-  "name": "Wallpapers",
-  "compatibility_date": "2025-10-20",
+  "name": "wallpapers",
+  "compatibility_date": "2025-10-31",
   "assets": {
     "directory": "."
   },
