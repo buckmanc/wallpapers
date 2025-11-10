@@ -1,1 +1,0 @@
-nes_controller_wallpaper_by_doctor_g_d41urm3.jpg Nes Controller Wallpaper by Doctor G D41urm3

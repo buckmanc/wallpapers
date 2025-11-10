@@ -1,1 +1,0 @@
-skyward_sword_s_gate_of_time_by_tamalesyatole_d57536l.png Skyward Sword S Gate Of Time by Tamalesyatole D57536l

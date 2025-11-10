@@ -1,2 +1,0 @@
-tomb_raider_2013_concept_art_by_johann_papayou_blais-wallpaper-2560x1440.jpg Tomb Raider 2013 Concept Art by Johann Papayou Blais
-tomb_raider_2013_concept_art_by_johann_papayou_blais-wallpaper-2560x1440.jpg Tomb Raider 2013 Concept Art by Johann Papayou Blais Wallpaper 2560x1440

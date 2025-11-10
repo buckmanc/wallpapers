@@ -1,3 +1,0 @@
-magic_circle_advanced_trinity_summoning_circle_by_hocc.png Magic Circle Advanced Trinity Summoning Circle by Hocc
-magic_circle_alicia_s_glyph_by_hocc.png Magic Circle Alicia S Glyph by Hocc
-magic_circle_lycarus_by_dragonphyrre.png Magic Circle Lycarus by Dragonphyrre
