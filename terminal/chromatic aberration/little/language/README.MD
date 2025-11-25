@@ -1,13 +1,15 @@
-# language - 1
+# language - 3
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>1 files</summary>
+<summary>3 files</summary>
 <p>
 
-[![happy_birthday.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday.png "happy_birthday.png")](/terminal/chromatic%20aberration/little/language/happy_birthday.png)
+[![happy_birthday_futhark.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_futhark.png "happy_birthday_futhark.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_futhark.png)
+[![happy_birthday_lantean.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_lantean.png "happy_birthday_lantean.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_lantean.png)
+[![happy_birthday_tenguar.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_tenguar.png "happy_birthday_tenguar.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_tenguar.png)
 
 </p>
 </details>

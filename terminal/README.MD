@@ -1,13 +1,13 @@
-# terminal - 513
-- [chromatic aberration](#chromatic-aberration) - 171
-- [grey on alpha](#grey-on-alpha) - 171
-- [grey on black](#grey-on-black) - 171
+# terminal - 528
+- [chromatic aberration](#chromatic-aberration) - 176
+- [grey on alpha](#grey-on-alpha) - 176
+- [grey on black](#grey-on-black) - 176
 
 <a id="chromatic-aberration"></a>
 
 ## [chromatic aberration](/terminal/chromatic%20aberration/README.MD)
 <details open>
-<summary>171 files</summary>
+<summary>176 files</summary>
 <p>
 
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/chromatic%20aberration/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
@@ -99,7 +99,9 @@
 [![game_icons_dot_net_wanted_reward.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png)
 [![game_icons_dot_net_warlord_helmet.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png)
 [![game_icons_dot_net_winged_sword.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](/terminal/chromatic%20aberration/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png)
-[![happy_birthday.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday.png "happy_birthday.png")](/terminal/chromatic%20aberration/little/language/happy_birthday.png)
+[![happy_birthday_futhark.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_futhark.png "happy_birthday_futhark.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_futhark.png)
+[![happy_birthday_lantean.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_lantean.png "happy_birthday_lantean.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_lantean.png)
+[![happy_birthday_tenguar.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/language/happy_birthday_tenguar.png "happy_birthday_tenguar.png")](/terminal/chromatic%20aberration/little/language/happy_birthday_tenguar.png)
 [![mario_bob_omb.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/mario/mario_bob_omb.png "mario_bob_omb.png")](/terminal/chromatic%20aberration/little/mario/mario_bob_omb.png)
 [![mario_mushroom.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/mario/mario_mushroom.png "mario_mushroom.png")](/terminal/chromatic%20aberration/little/mario/mario_mushroom.png)
 [![mario_star.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/mario/mario_star.png "mario_star.png")](/terminal/chromatic%20aberration/little/mario/mario_star.png)
@@ -154,6 +156,9 @@
 [![pokeball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/pokeball.png "pokeball.png")](/terminal/chromatic%20aberration/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/samus_helm.png "samus_helm.png")](/terminal/chromatic%20aberration/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/nintendo/smash_ball.png "smash_ball.png")](/terminal/chromatic%20aberration/little/nintendo/smash_ball.png)
+[![stargate_abydos_poo.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/stargate/stargate_abydos_poo.png "stargate_abydos_poo.png")](/terminal/chromatic%20aberration/little/stargate/stargate_abydos_poo.png)
+[![stargate_earth_poo.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/stargate/stargate_earth_poo.png "stargate_earth_poo.png")](/terminal/chromatic%20aberration/little/stargate/stargate_earth_poo.png)
+[![stargate_lantea_poo.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/stargate/stargate_lantea_poo.png "stargate_lantea_poo.png")](/terminal/chromatic%20aberration/little/stargate/stargate_lantea_poo.png)
 [![star_trek_klingon_symbol.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](/terminal/chromatic%20aberration/little/star%20trek/star_trek_klingon_symbol.png)
 [![star_trek_starfleet_insignia.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](/terminal/chromatic%20aberration/little/star%20trek/star_trek_starfleet_insignia.png)
 [![triforce_outline.png](/.internals/thumbnails/terminal/chromatic%20aberration/little/the%20legend%20of%20zelda/triforce_outline.png "triforce_outline.png")](/terminal/chromatic%20aberration/little/the%20legend%20of%20zelda/triforce_outline.png)
@@ -189,7 +194,7 @@
 
 ## [grey on alpha](/terminal/grey%20on%20alpha/README.MD)
 <details open>
-<summary>171 files</summary>
+<summary>176 files</summary>
 <p>
 
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20alpha/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
@@ -281,7 +286,9 @@
 [![game_icons_dot_net_wanted_reward.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png)
 [![game_icons_dot_net_warlord_helmet.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png)
 [![game_icons_dot_net_winged_sword.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](/terminal/grey%20on%20alpha/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png)
-[![happy_birthday.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday.png "happy_birthday.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday.png)
+[![happy_birthday_futhark.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_futhark.png "happy_birthday_futhark.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_futhark.png)
+[![happy_birthday_lantean.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_lantean.png "happy_birthday_lantean.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_lantean.png)
+[![happy_birthday_tenguar.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_tenguar.png "happy_birthday_tenguar.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_tenguar.png)
 [![mario_bob_omb.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/mario/mario_bob_omb.png "mario_bob_omb.png")](/terminal/grey%20on%20alpha/little/mario/mario_bob_omb.png)
 [![mario_mushroom.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/mario/mario_mushroom.png "mario_mushroom.png")](/terminal/grey%20on%20alpha/little/mario/mario_mushroom.png)
 [![mario_star.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/mario/mario_star.png "mario_star.png")](/terminal/grey%20on%20alpha/little/mario/mario_star.png)
@@ -336,6 +343,9 @@
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pokeball.png "pokeball.png")](/terminal/grey%20on%20alpha/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png "samus_helm.png")](/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png "smash_ball.png")](/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png)
+[![stargate_abydos_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_abydos_poo.png "stargate_abydos_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_abydos_poo.png)
+[![stargate_earth_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_earth_poo.png "stargate_earth_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_earth_poo.png)
+[![stargate_lantea_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_lantea_poo.png "stargate_lantea_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_lantea_poo.png)
 [![star_trek_klingon_symbol.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](/terminal/grey%20on%20alpha/little/star%20trek/star_trek_klingon_symbol.png)
 [![star_trek_starfleet_insignia.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](/terminal/grey%20on%20alpha/little/star%20trek/star_trek_starfleet_insignia.png)
 [![triforce_outline.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/the%20legend%20of%20zelda/triforce_outline.png "triforce_outline.png")](/terminal/grey%20on%20alpha/little/the%20legend%20of%20zelda/triforce_outline.png)
@@ -371,7 +381,7 @@
 
 ## [grey on black](/terminal/grey%20on%20black/README.MD)
 <details open>
-<summary>171 files</summary>
+<summary>176 files</summary>
 <p>
 
 [![Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon](/.internals/thumbnails/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png "Magic Circle Bayonetta Entrance To Muspelheim by Lcl Simon")](/terminal/grey%20on%20black/big/magic%20circles/bayonetta/magic_circle_bayonetta_entrance_to_muspelheim_by_lcl_simon.png)
@@ -463,7 +473,9 @@
 [![game_icons_dot_net_wanted_reward.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png "game_icons_dot_net_wanted_reward.png")](/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_wanted_reward.png)
 [![game_icons_dot_net_warlord_helmet.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png "game_icons_dot_net_warlord_helmet.png")](/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_warlord_helmet.png)
 [![game_icons_dot_net_winged_sword.png](/.internals/thumbnails/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png "game_icons_dot_net_winged_sword.png")](/terminal/grey%20on%20black/little/game%20icons%20dot%20net/game_icons_dot_net_winged_sword.png)
-[![happy_birthday.png](/.internals/thumbnails/terminal/grey%20on%20black/little/language/happy_birthday.png "happy_birthday.png")](/terminal/grey%20on%20black/little/language/happy_birthday.png)
+[![happy_birthday_futhark.png](/.internals/thumbnails/terminal/grey%20on%20black/little/language/happy_birthday_futhark.png "happy_birthday_futhark.png")](/terminal/grey%20on%20black/little/language/happy_birthday_futhark.png)
+[![happy_birthday_lantean.png](/.internals/thumbnails/terminal/grey%20on%20black/little/language/happy_birthday_lantean.png "happy_birthday_lantean.png")](/terminal/grey%20on%20black/little/language/happy_birthday_lantean.png)
+[![happy_birthday_tenguar.png](/.internals/thumbnails/terminal/grey%20on%20black/little/language/happy_birthday_tenguar.png "happy_birthday_tenguar.png")](/terminal/grey%20on%20black/little/language/happy_birthday_tenguar.png)
 [![mario_bob_omb.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_bob_omb.png "mario_bob_omb.png")](/terminal/grey%20on%20black/little/mario/mario_bob_omb.png)
 [![mario_mushroom.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_mushroom.png "mario_mushroom.png")](/terminal/grey%20on%20black/little/mario/mario_mushroom.png)
 [![mario_star.png](/.internals/thumbnails/terminal/grey%20on%20black/little/mario/mario_star.png "mario_star.png")](/terminal/grey%20on%20black/little/mario/mario_star.png)
@@ -518,6 +530,9 @@
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/pokeball.png "pokeball.png")](/terminal/grey%20on%20black/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/samus_helm.png "samus_helm.png")](/terminal/grey%20on%20black/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20black/little/nintendo/smash_ball.png "smash_ball.png")](/terminal/grey%20on%20black/little/nintendo/smash_ball.png)
+[![stargate_abydos_poo.png](/.internals/thumbnails/terminal/grey%20on%20black/little/stargate/stargate_abydos_poo.png "stargate_abydos_poo.png")](/terminal/grey%20on%20black/little/stargate/stargate_abydos_poo.png)
+[![stargate_earth_poo.png](/.internals/thumbnails/terminal/grey%20on%20black/little/stargate/stargate_earth_poo.png "stargate_earth_poo.png")](/terminal/grey%20on%20black/little/stargate/stargate_earth_poo.png)
+[![stargate_lantea_poo.png](/.internals/thumbnails/terminal/grey%20on%20black/little/stargate/stargate_lantea_poo.png "stargate_lantea_poo.png")](/terminal/grey%20on%20black/little/stargate/stargate_lantea_poo.png)
 [![star_trek_klingon_symbol.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png "star_trek_klingon_symbol.png")](/terminal/grey%20on%20black/little/star%20trek/star_trek_klingon_symbol.png)
 [![star_trek_starfleet_insignia.png](/.internals/thumbnails/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png "star_trek_starfleet_insignia.png")](/terminal/grey%20on%20black/little/star%20trek/star_trek_starfleet_insignia.png)
 [![triforce_outline.png](/.internals/thumbnails/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_outline.png "triforce_outline.png")](/terminal/grey%20on%20black/little/the%20legend%20of%20zelda/triforce_outline.png)

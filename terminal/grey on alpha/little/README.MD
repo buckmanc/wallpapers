@@ -1,15 +1,16 @@
-# little - 119
+# little - 124
 - [castlevania](#castlevania) - 5
 - [cosmere](#cosmere) - 12
 - [elder scrolls](#elder-scrolls) - 3
 - [fast food](#fast-food) - 2
 - [full metal alchemist](#full-metal-alchemist) - 3
 - [game icons dot net](#game-icons-dot-net) - 12
-- [language](#language) - 1
+- [language](#language) - 3
 - [mario](#mario) - 6
 - [misc](#misc) - 36
 - [moons](#moons) - 5
 - [nintendo](#nintendo) - 7
+- [stargate](#stargate) - 3
 - [star trek](#star-trek) - 2
 - [the legend of zelda](#the-legend-of-zelda) - 8
 - [tmnt](#tmnt) - 8
@@ -123,10 +124,12 @@
 
 ## [language](/terminal/grey%20on%20alpha/little/language/README.MD)
 <details open>
-<summary>1 files</summary>
+<summary>3 files</summary>
 <p>
 
-[![happy_birthday.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday.png "happy_birthday.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday.png)
+[![happy_birthday_futhark.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_futhark.png "happy_birthday_futhark.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_futhark.png)
+[![happy_birthday_lantean.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_lantean.png "happy_birthday_lantean.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_lantean.png)
+[![happy_birthday_tenguar.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/language/happy_birthday_tenguar.png "happy_birthday_tenguar.png")](/terminal/grey%20on%20alpha/little/language/happy_birthday_tenguar.png)
 
 </p>
 </details>
@@ -225,6 +228,20 @@
 [![pokeball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/pokeball.png "pokeball.png")](/terminal/grey%20on%20alpha/little/nintendo/pokeball.png)
 [![samus_helm.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png "samus_helm.png")](/terminal/grey%20on%20alpha/little/nintendo/samus_helm.png)
 [![smash_ball.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png "smash_ball.png")](/terminal/grey%20on%20alpha/little/nintendo/smash_ball.png)
+
+</p>
+</details>
+
+<a id="stargate"></a>
+
+## [stargate](/terminal/grey%20on%20alpha/little/stargate/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
+[![stargate_abydos_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_abydos_poo.png "stargate_abydos_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_abydos_poo.png)
+[![stargate_earth_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_earth_poo.png "stargate_earth_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_earth_poo.png)
+[![stargate_lantea_poo.png](/.internals/thumbnails/terminal/grey%20on%20alpha/little/stargate/stargate_lantea_poo.png "stargate_lantea_poo.png")](/terminal/grey%20on%20alpha/little/stargate/stargate_lantea_poo.png)
 
 </p>
 </details>
