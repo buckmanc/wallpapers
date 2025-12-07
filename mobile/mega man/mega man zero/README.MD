@@ -1,10 +1,10 @@
-# mega man zero - 51
+# mega man zero - 52
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>51 files</summary>
+<summary>52 files</summary>
 <p>
 
 [![104358541_p0.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg)
@@ -58,6 +58,7 @@
 [![Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg "Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
 [![Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg "Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg)
+[![Zero ZX Legacy None 2025 09 11 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg "Zero ZX Legacy None 2025 09 11 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg)
 
 </p>
 </details>

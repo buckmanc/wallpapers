@@ -1,10 +1,10 @@
-# classic - 46
+# classic - 48
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>46 files</summary>
+<summary>48 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -29,6 +29,7 @@
 [![Classic Exe by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg "Classic Exe by Ultimatemaverickx")](/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg)
 [![clipart4359455.png](/.internals/thumbnails/mobile/mega%20man/classic/clipart4359455.png "clipart4359455.png")](/mobile/mega%20man/classic/clipart4359455.png)
 [![Cover05.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Cover05.jpg "Cover05.jpg")](/mobile/mega%20man/classic/Cover05.jpg)
+[![Dr](/.internals/thumbnails/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg "Dr")](/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg)
 [![Free-Pictures-Megaman-Backgrounds.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg)
 [![Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb](/.internals/thumbnails/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg "Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb")](/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg)
 [![MegaMan11CollectorsPackageArtwork.png](/.internals/thumbnails/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png)
@@ -53,6 +54,7 @@
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
 [![Triple Attack by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png "Triple Attack by Ultimatemaverickx")](/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png)
+[![Year 200X None 2025 04 25 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg "Year 200X None 2025 04 25 by Ultimatemaverickx")](/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg)
 
 </p>
 </details>

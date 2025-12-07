@@ -1,6 +1,7 @@
-# mobile - 2,352
+# mobile - 2,363
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 142
+- [cj cherryh](#cj-cherryh) - 3
 - [cosmere](#cosmere) - 160
 - [craftpix](#craftpix) - 3
 - [dan mumford](#dan-mumford) - 43
@@ -20,7 +21,7 @@
 - [mario](#mario) - 108
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
-- [mega man](#mega-man) - 348
+- [mega man](#mega-man) - 352
 - [metroid](#metroid) - 161
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 105
@@ -29,8 +30,8 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 140
-- [nintendo](#nintendo) - 49
+- [music](#music) - 143
+- [nintendo](#nintendo) - 50
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 118
 - [pokemon isometrics by leaphere](#pokemon-isometrics-by-leaphere) - 65
@@ -213,6 +214,20 @@
 [![sotn-zz-magic_missile_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-magic_missile_out_enlarged.png "sotn-zz-magic_missile_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-magic_missile_out_enlarged.png)
 [![sotn-zz-pentagram_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-pentagram_out_enlarged.png "sotn-zz-pentagram_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-pentagram_out_enlarged.png)
 [![sotn-zz-shield_rod_effects-sword_out_enlarged.png](/.internals/thumbnails/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png "sotn-zz-shield_rod_effects-sword_out_enlarged.png")](/mobile/castlevania/zz%20pixel/sotn-zz-shield_rod_effects-sword_out_enlarged.png)
+
+</p>
+</details>
+
+<a id="cj-cherryh"></a>
+
+## [cj cherryh](/mobile/cj%20cherryh/README.MD)
+<details open>
+<summary>3 files</summary>
+<p>
+
+[![01 Invader Cover by Michael Whalen](/.internals/thumbnails/mobile/cj%20cherryh/01%20Invader%20cover%20by%20Michael%20Whalen.jpg "01 Invader Cover by Michael Whalen")](/mobile/cj%20cherryh/01%20Invader%20cover%20by%20Michael%20Whalen.jpg)
+[![04 Precursor Cover by Stephen Youll](/.internals/thumbnails/mobile/cj%20cherryh/04%20Precursor%20cover%20by%20Stephen%20Youll.jpg "04 Precursor Cover by Stephen Youll")](/mobile/cj%20cherryh/04%20Precursor%20cover%20by%20Stephen%20Youll.jpg)
+[![05 Defender Cover by Stephen Youll](/.internals/thumbnails/mobile/cj%20cherryh/05%20Defender%20cover%20by%20Stephen%20Youll.jpg "05 Defender Cover by Stephen Youll")](/mobile/cj%20cherryh/05%20Defender%20cover%20by%20Stephen%20Youll.jpg)
 
 </p>
 </details>
@@ -1147,7 +1162,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [mega man](/mobile/mega%20man/README.MD)
 <details open>
-<summary>348 files</summary>
+<summary>352 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -1172,6 +1187,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Classic Exe by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg "Classic Exe by Ultimatemaverickx")](/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg)
 [![clipart4359455.png](/.internals/thumbnails/mobile/mega%20man/classic/clipart4359455.png "clipart4359455.png")](/mobile/mega%20man/classic/clipart4359455.png)
 [![Cover05.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Cover05.jpg "Cover05.jpg")](/mobile/mega%20man/classic/Cover05.jpg)
+[![Dr](/.internals/thumbnails/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg "Dr")](/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg)
 [![Free-Pictures-Megaman-Backgrounds.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg)
 [![Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb](/.internals/thumbnails/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg "Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb")](/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg)
 [![MegaMan11CollectorsPackageArtwork.png](/.internals/thumbnails/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png)
@@ -1196,6 +1212,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
 [![Triple Attack by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png "Triple Attack by Ultimatemaverickx")](/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png)
+[![Year 200X None 2025 04 25 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg "Year 200X None 2025 04 25 by Ultimatemaverickx")](/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg)
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
 [![00 Armors E Chae Rockman X1 First Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png "00 Armors E Chae Rockman X1 First Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_rockman_x1_first_armor_by_e_chae.png)
 [![00 Armors E Chae Rockman X2 2nd Armor by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png "00 Armors E Chae Rockman X2 2nd Armor by E Chae")](/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_rockman_x2_2nd_armor_by_e_chae.png)
@@ -1221,6 +1238,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![X Mega Man 10155473 2025 10 21 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/x__mega_man__10155473_2025-10-21_by_dauntedx.jpg "X Mega Man 10155473 2025 10 21 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/x__mega_man__10155473_2025-10-21_by_dauntedx.jpg)
 [![Zero Mega Man 8369488 2024 10 31 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8369488_2024-10-31_by_dauntedx.jpg "Zero Mega Man 8369488 2024 10 31 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8369488_2024-10-31_by_dauntedx.jpg)
 [![Zero Mega Man 8439443 2024 11 15 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8439443_2024-11-15_by_dauntedx.jpg "Zero Mega Man 8439443 2024 11 15 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8439443_2024-11-15_by_dauntedx.jpg)
+[![God Of Destruction None 2025 05 04 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/God%20of%20Destruction_None_2025-05-04_by_ultimatemaverickx.jpg "God Of Destruction None 2025 05 04 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/God%20of%20Destruction_None_2025-05-04_by_ultimatemaverickx.jpg)
 [![01a4b91065b93e990d7ac798a9385686.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/01a4b91065b93e990d7ac798a9385686.jpg "01a4b91065b93e990d7ac798a9385686.jpg")](/mobile/mega%20man/mega%20man%20x/misc/01a4b91065b93e990d7ac798a9385686.jpg)
 [![02c290e97f9044e3638f870dba012947.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/02c290e97f9044e3638f870dba012947.jpg "02c290e97f9044e3638f870dba012947.jpg")](/mobile/mega%20man/mega%20man%20x/misc/02c290e97f9044e3638f870dba012947.jpg)
 [![101060072_p1.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/101060072_p1.jpg "101060072_p1.jpg")](/mobile/mega%20man/mega%20man%20x/misc/101060072_p1.jpg)
@@ -1452,6 +1470,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 [![Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg "Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
 [![Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg "Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg)
+[![Zero ZX Legacy  None 2025 09 11 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg "Zero ZX Legacy  None 2025 09 11 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg)
 [![gbmm1-wily_castle_w1_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png "gbmm1-wily_castle_w1_enlarged.png")](/mobile/mega%20man/pixel/gbmm1-wily_castle_w1_enlarged.png)
 [![gbmm2-wily_castle_w2_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png "gbmm2-wily_castle_w2_enlarged.png")](/mobile/mega%20man/pixel/gbmm2-wily_castle_w2_enlarged.png)
 [![gbmm3-wily_castle_w3_enlarged.png](/.internals/thumbnails/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png "gbmm3-wily_castle_w3_enlarged.png")](/mobile/mega%20man/pixel/gbmm3-wily_castle_w3_enlarged.png)
@@ -1995,13 +2014,14 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [music](/mobile/music/README.MD)
 <details open>
-<summary>140 files</summary>
+<summary>143 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/album%20art/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](/mobile/music/album%20art/Acryl%20madness%20-%20Ritual.jpg)
+[![Aethyrien - Óðr.jpg](/.internals/thumbnails/mobile/music/album%20art/Aethyrien%20-%20Óðr.jpg "Aethyrien - Óðr.jpg")](/mobile/music/album%20art/Aethyrien%20-%20Óðr.jpg)
 [![ajackal - turtle town.jpg](/.internals/thumbnails/mobile/music/album%20art/ajackal%20-%20turtle%20town.jpg "ajackal - turtle town.jpg")](/mobile/music/album%20art/ajackal%20-%20turtle%20town.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/album%20art/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](/mobile/music/album%20art/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 [![Amaranthe - MAXIMALISM.jpg](/.internals/thumbnails/mobile/music/album%20art/Amaranthe%20-%20MAXIMALISM.jpg "Amaranthe - MAXIMALISM.jpg")](/mobile/music/album%20art/Amaranthe%20-%20MAXIMALISM.jpg)
@@ -2099,6 +2119,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
+[![Terminal Sleep - Elicit Fear.jpg](/.internals/thumbnails/mobile/music/album%20art/Terminal%20Sleep%20-%20Elicit%20Fear.jpg "Terminal Sleep - Elicit Fear.jpg")](/mobile/music/album%20art/Terminal%20Sleep%20-%20Elicit%20Fear.jpg)
 [![The Algorithm - Data Renaissance.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg "The Algorithm - Data Renaissance.jpg")](/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Trap Your Mind - Horror Dungeon Soundscapes.jpg](/.internals/thumbnails/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg "Trap Your Mind - Horror Dungeon Soundscapes.jpg")](/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg)
@@ -2106,6 +2127,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/album%20art/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](/mobile/music/album%20art/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 [![Varien - Born of Blood, Risen from Ash.png](/.internals/thumbnails/mobile/music/album%20art/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](/mobile/music/album%20art/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
 [![Various Artists - A Symphony of Screams Vol.1.jpg](/.internals/thumbnails/mobile/music/album%20art/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](/mobile/music/album%20art/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
+[![Various Artists - Lofi Girl - Halloween 2024.jpg](/.internals/thumbnails/mobile/music/album%20art/Various%20Artists%20-%20Lofi%20Girl%20-%20Halloween%202024.jpg "Various Artists - Lofi Girl - Halloween 2024.jpg")](/mobile/music/album%20art/Various%20Artists%20-%20Lofi%20Girl%20-%20Halloween%202024.jpg)
 [![Wardruna - Hibjørnen.jpg](/.internals/thumbnails/mobile/music/album%20art/Wardruna%20-%20Hibjørnen.jpg "Wardruna - Hibjørnen.jpg")](/mobile/music/album%20art/Wardruna%20-%20Hibjørnen.jpg)
 [![Wardruna - Lyfjaberg.jpg](/.internals/thumbnails/mobile/music/album%20art/Wardruna%20-%20Lyfjaberg.jpg "Wardruna - Lyfjaberg.jpg")](/mobile/music/album%20art/Wardruna%20-%20Lyfjaberg.jpg)
 [![Waveshaper - Hearts.png](/.internals/thumbnails/mobile/music/album%20art/Waveshaper%20-%20Hearts.png "Waveshaper - Hearts.png")](/mobile/music/album%20art/Waveshaper%20-%20Hearts.png)
@@ -2146,7 +2168,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [nintendo](/mobile/nintendo/README.MD)
 <details open>
-<summary>49 files</summary>
+<summary>50 files</summary>
 <p>
 
 [![1996 Green pocket gameboy.jpeg](/.internals/thumbnails/mobile/nintendo/hardware/1996%20Green%20pocket%20gameboy.jpeg "1996 Green pocket gameboy.jpeg")](/mobile/nintendo/hardware/1996%20Green%20pocket%20gameboy.jpeg)
@@ -2196,6 +2218,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higurashi Ryuuji 6077e722d9c3a3eb52d29a3bc64ceabe](/.internals/thumbnails/mobile/nintendo/misc/link_pikachu_samus_aran_kirby_mario_and_5_more_pokemon_and_10_more_drawn_by_higurashi_ryuuji__6077e722d9c3a3eb52d29a3bc64ceabe.png "Link Pikachu Samus Aran Kirby Mario and 5 More Pokemon and 10 More Drawn by Higurashi Ryuuji 6077e722d9c3a3eb52d29a3bc64ceabe")](/mobile/nintendo/misc/link_pikachu_samus_aran_kirby_mario_and_5_more_pokemon_and_10_more_drawn_by_higurashi_ryuuji__6077e722d9c3a3eb52d29a3bc64ceabe.png)
 [![peakpx (6).jpg](/.internals/thumbnails/mobile/nintendo/misc/peakpx%20(6).jpg "peakpx (6).jpg")](/mobile/nintendo/misc/peakpx%20(6).jpg)
 [![Sleeping Phoenix - Video Game Lofi Compilation 1.jpg](/.internals/thumbnails/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg "Sleeping Phoenix - Video Game Lofi Compilation 1.jpg")](/mobile/nintendo/misc/Sleeping%20Phoenix%20-%20Video%20Game%20Lofi%20Compilation%201.jpg)
+[![Smash by John Haswell](/.internals/thumbnails/mobile/nintendo/misc/smash_by_john_haswell.png "Smash by John Haswell")](/mobile/nintendo/misc/smash_by_john_haswell.png)
 [![SMB1.png](/.internals/thumbnails/mobile/nintendo/misc/SMB1.png "SMB1.png")](/mobile/nintendo/misc/SMB1.png)
 [![SSB4_-_Robin_Lucina_Illustration.jpg](/.internals/thumbnails/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg "SSB4_-_Robin_Lucina_Illustration.jpg")](/mobile/nintendo/misc/SSB4_-_Robin_Lucina_Illustration.jpg)
 

@@ -1,4 +1,4 @@
-# mega man x - 167
+# mega man x - 168
 - [armors by echae](#armors-by-echae) - 17
 - [capsules by dauntedx](#capsules-by-dauntedx) - 8
 - [misc](#misc) - 142

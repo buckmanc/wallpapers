@@ -1,15 +1,15 @@
-# mega man - 348
-- [classic](#classic) - 46
-- [mega man x](#mega-man-x) - 167
+# mega man - 352
+- [classic](#classic) - 48
+- [mega man x](#mega-man-x) - 168
 - [mega man x dive](#mega-man-x-dive) - 38
-- [mega man zero](#mega-man-zero) - 51
+- [mega man zero](#mega-man-zero) - 52
 - [pixel](#pixel) - 46
 
 <a id="classic"></a>
 
 ## [classic](/mobile/mega%20man/classic/README.MD)
 <details open>
-<summary>46 files</summary>
+<summary>48 files</summary>
 <p>
 
 [![0ece0273336c3ef9e71d5f5e23d101c1.jpg](/.internals/thumbnails/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg "0ece0273336c3ef9e71d5f5e23d101c1.jpg")](/mobile/mega%20man/classic/0ece0273336c3ef9e71d5f5e23d101c1.jpg)
@@ -34,6 +34,7 @@
 [![Classic Exe by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg "Classic Exe by Ultimatemaverickx")](/mobile/mega%20man/classic/classic_exe_by_ultimatemaverickx.jpg)
 [![clipart4359455.png](/.internals/thumbnails/mobile/mega%20man/classic/clipart4359455.png "clipart4359455.png")](/mobile/mega%20man/classic/clipart4359455.png)
 [![Cover05.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Cover05.jpg "Cover05.jpg")](/mobile/mega%20man/classic/Cover05.jpg)
+[![Dr](/.internals/thumbnails/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg "Dr")](/mobile/mega%20man/classic/Dr.%20Wily%20Numbers_None_2025-07-11_by_ultimatemaverickx.jpg)
 [![Free-Pictures-Megaman-Backgrounds.jpg](/.internals/thumbnails/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg "Free-Pictures-Megaman-Backgrounds.jpg")](/mobile/mega%20man/classic/Free-Pictures-Megaman-Backgrounds.jpg)
 [![Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb](/.internals/thumbnails/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg "Megaman 11 by Kuroi Susumu by Sylarsix Ddprxjb")](/mobile/mega%20man/classic/megaman_11_by_kuroi_susumu_by_sylarsix_ddprxjb.jpg)
 [![MegaMan11CollectorsPackageArtwork.png](/.internals/thumbnails/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png "MegaMan11CollectorsPackageArtwork.png")](/mobile/mega%20man/classic/MegaMan11CollectorsPackageArtwork.png)
@@ -58,6 +59,7 @@
 [![roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg](/.internals/thumbnails/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg "roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg")](/mobile/mega%20man/classic/roll_mega_man_proto_man_dr_light_dr_wily_and_7_more_mega_man_and_2_more_5823965e7b8602da98079b749e52f7e9.jpg)
 [![Transformation by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png "Transformation by Ultimatemaverickx")](/mobile/mega%20man/classic/transformation_by_ultimatemaverickx.png)
 [![Triple Attack by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png "Triple Attack by Ultimatemaverickx")](/mobile/mega%20man/classic/triple_attack_by_ultimatemaverickx.png)
+[![Year 200X None 2025 04 25 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg "Year 200X None 2025 04 25 by Ultimatemaverickx")](/mobile/mega%20man/classic/Year%20200X_None_2025-04-25_by_ultimatemaverickx.jpg)
 
 </p>
 </details>
@@ -66,7 +68,7 @@
 
 ## [mega man x](/mobile/mega%20man/mega%20man%20x/README.MD)
 <details open>
-<summary>167 files</summary>
+<summary>168 files</summary>
 <p>
 
 [![00 Armors E Chae 00 Rockman X Org X and Zero by E Chae](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png "00 Armors E Chae 00 Rockman X Org X and Zero by E Chae")](/mobile/mega%20man/mega%20man%20x/00%20armors%20by%20echae/00_armors_e_chae_00_rockman_x_org_x_and_zero_by_e_chae.png)
@@ -94,6 +96,7 @@
 [![X Mega Man 10155473 2025 10 21 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/x__mega_man__10155473_2025-10-21_by_dauntedx.jpg "X Mega Man 10155473 2025 10 21 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/x__mega_man__10155473_2025-10-21_by_dauntedx.jpg)
 [![Zero Mega Man 8369488 2024 10 31 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8369488_2024-10-31_by_dauntedx.jpg "Zero Mega Man 8369488 2024 10 31 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8369488_2024-10-31_by_dauntedx.jpg)
 [![Zero Mega Man 8439443 2024 11 15 by Dauntedx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8439443_2024-11-15_by_dauntedx.jpg "Zero Mega Man 8439443 2024 11 15 by Dauntedx")](/mobile/mega%20man/mega%20man%20x/capsules%20by%20dauntedx/zero__mega_man__8439443_2024-11-15_by_dauntedx.jpg)
+[![God Of Destruction None 2025 05 04 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/God%20of%20Destruction_None_2025-05-04_by_ultimatemaverickx.jpg "God Of Destruction None 2025 05 04 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20x/God%20of%20Destruction_None_2025-05-04_by_ultimatemaverickx.jpg)
 [![01a4b91065b93e990d7ac798a9385686.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/01a4b91065b93e990d7ac798a9385686.jpg "01a4b91065b93e990d7ac798a9385686.jpg")](/mobile/mega%20man/mega%20man%20x/misc/01a4b91065b93e990d7ac798a9385686.jpg)
 [![02c290e97f9044e3638f870dba012947.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/02c290e97f9044e3638f870dba012947.jpg "02c290e97f9044e3638f870dba012947.jpg")](/mobile/mega%20man/mega%20man%20x/misc/02c290e97f9044e3638f870dba012947.jpg)
 [![101060072_p1.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20x/misc/101060072_p1.jpg "101060072_p1.jpg")](/mobile/mega%20man/mega%20man%20x/misc/101060072_p1.jpg)
@@ -293,7 +296,7 @@
 
 ## [mega man zero](/mobile/mega%20man/mega%20man%20zero/README.MD)
 <details open>
-<summary>51 files</summary>
+<summary>52 files</summary>
 <p>
 
 [![104358541_p0.jpg](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg "104358541_p0.jpg")](/mobile/mega%20man/mega%20man%20zero/104358541_p0.jpg)
@@ -347,6 +350,7 @@
 [![Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg "Zero Zero Z Fairy Leviathan Ciel Sage Harpuia and 30 More Mega Man and 5 More Drawn by May Nicoseiga 32709921 6a01227d7dc3f9e6d9a0660e6ae72297")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_fairy_leviathan_ciel_sage_harpuia_and_30_more_mega_man_and_5_more_drawn_by_may_nicoseiga_32709921__6a01227d7dc3f9e6d9a0660e6ae72297.jpg)
 [![ Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg " Zero Zero Z Vent Model Zx Grey and 1 More Mega Man and 3 More Drawn by Nakayama Tooru 4e33ac0f85557b70ef4e55a2f0cdd6d0")](/mobile/mega%20man/mega%20man%20zero/zero_zero_z_vent_model_zx_grey_and_1_more_mega_man_and_3_more_drawn_by_nakayama_tooru__4e33ac0f85557b70ef4e55a2f0cdd6d0.jpg)
 [![Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg "Zero Z Mega Man Zero Mega Man 7686180 2024 06 08 by Hi Go ")](/mobile/mega%20man/mega%20man%20zero/zero_z___mega_man_%20zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg)
+[![Zero ZX Legacy None 2025 09 11 by Ultimatemaverickx](/.internals/thumbnails/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg "Zero ZX Legacy None 2025 09 11 by Ultimatemaverickx")](/mobile/mega%20man/mega%20man%20zero/Zero_ZX%20Legacy%20_None_2025-09-11_by_ultimatemaverickx.jpg)
 
 </p>
 </details>

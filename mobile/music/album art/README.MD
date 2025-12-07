@@ -1,16 +1,17 @@
-# album art - 117
+# album art - 120
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>117 files</summary>
+<summary>120 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
 [![Aaron Chaparian - Exhumed _Instrumental_2.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png "Aaron Chaparian - Exhumed _Instrumental_2.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_2.png)
 [![A-bug - Ocarina of Time.jpg](/.internals/thumbnails/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg "A-bug - Ocarina of Time.jpg")](/mobile/music/album%20art/A-bug%20-%20Ocarina%20of%20Time.jpg)
 [![Acryl madness - Ritual.jpg](/.internals/thumbnails/mobile/music/album%20art/Acryl%20madness%20-%20Ritual.jpg "Acryl madness - Ritual.jpg")](/mobile/music/album%20art/Acryl%20madness%20-%20Ritual.jpg)
+[![Aethyrien - Óðr.jpg](/.internals/thumbnails/mobile/music/album%20art/Aethyrien%20-%20Óðr.jpg "Aethyrien - Óðr.jpg")](/mobile/music/album%20art/Aethyrien%20-%20Óðr.jpg)
 [![ajackal - turtle town.jpg](/.internals/thumbnails/mobile/music/album%20art/ajackal%20-%20turtle%20town.jpg "ajackal - turtle town.jpg")](/mobile/music/album%20art/ajackal%20-%20turtle%20town.jpg)
 [![Alessio Dicorato - Lost Girl _From _Deltarune.jpg](/.internals/thumbnails/mobile/music/album%20art/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg "Alessio Dicorato - Lost Girl _From _Deltarune.jpg")](/mobile/music/album%20art/Alessio%20Dicorato%20-%20Lost%20Girl%20_From%20_Deltarune.jpg)
 [![Amaranthe - MAXIMALISM.jpg](/.internals/thumbnails/mobile/music/album%20art/Amaranthe%20-%20MAXIMALISM.jpg "Amaranthe - MAXIMALISM.jpg")](/mobile/music/album%20art/Amaranthe%20-%20MAXIMALISM.jpg)
@@ -108,6 +109,7 @@
 [![STRNGR - Night at the Grindhouse.jpg](/.internals/thumbnails/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg "STRNGR - Night at the Grindhouse.jpg")](/mobile/music/album%20art/STRNGR%20-%20Night%20at%20the%20Grindhouse.jpg)
 [![SubRosa - No Help for the Mighty Ones.jpg](/.internals/thumbnails/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg "SubRosa - No Help for the Mighty Ones.jpg")](/mobile/music/album%20art/SubRosa%20-%20No%20Help%20for%20the%20Mighty%20Ones.jpg)
 [![Suldusk - Lunar Falls.jpg](/.internals/thumbnails/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg "Suldusk - Lunar Falls.jpg")](/mobile/music/album%20art/Suldusk%20-%20Lunar%20Falls.jpg)
+[![Terminal Sleep - Elicit Fear.jpg](/.internals/thumbnails/mobile/music/album%20art/Terminal%20Sleep%20-%20Elicit%20Fear.jpg "Terminal Sleep - Elicit Fear.jpg")](/mobile/music/album%20art/Terminal%20Sleep%20-%20Elicit%20Fear.jpg)
 [![The Algorithm - Data Renaissance.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg "The Algorithm - Data Renaissance.jpg")](/mobile/music/album%20art/The%20Algorithm%20-%20Data%20Renaissance.jpg)
 [![The Sword - Gods of the Earth.jpg](/.internals/thumbnails/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg "The Sword - Gods of the Earth.jpg")](/mobile/music/album%20art/The%20Sword%20-%20Gods%20of%20the%20Earth.jpg)
 [![Trap Your Mind - Horror Dungeon Soundscapes.jpg](/.internals/thumbnails/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg "Trap Your Mind - Horror Dungeon Soundscapes.jpg")](/mobile/music/album%20art/Trap%20Your%20Mind%20-%20Horror%20Dungeon%20Soundscapes.jpg)
@@ -115,6 +117,7 @@
 [![Twin Temple - Satan_s a Woman.jpg](/.internals/thumbnails/mobile/music/album%20art/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg "Twin Temple - Satan_s a Woman.jpg")](/mobile/music/album%20art/Twin%20Temple%20-%20Satan_s%20a%20Woman.jpg)
 [![Varien - Born of Blood, Risen from Ash.png](/.internals/thumbnails/mobile/music/album%20art/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png "Varien - Born of Blood, Risen from Ash.png")](/mobile/music/album%20art/Varien%20-%20Born%20of%20Blood,%20Risen%20from%20Ash.png)
 [![Various Artists - A Symphony of Screams Vol.1.jpg](/.internals/thumbnails/mobile/music/album%20art/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg "Various Artists - A Symphony of Screams Vol.1.jpg")](/mobile/music/album%20art/Various%20Artists%20-%20A%20Symphony%20of%20Screams%20Vol.1.jpg)
+[![Various Artists - Lofi Girl - Halloween 2024.jpg](/.internals/thumbnails/mobile/music/album%20art/Various%20Artists%20-%20Lofi%20Girl%20-%20Halloween%202024.jpg "Various Artists - Lofi Girl - Halloween 2024.jpg")](/mobile/music/album%20art/Various%20Artists%20-%20Lofi%20Girl%20-%20Halloween%202024.jpg)
 [![Wardruna - Hibjørnen.jpg](/.internals/thumbnails/mobile/music/album%20art/Wardruna%20-%20Hibjørnen.jpg "Wardruna - Hibjørnen.jpg")](/mobile/music/album%20art/Wardruna%20-%20Hibjørnen.jpg)
 [![Wardruna - Lyfjaberg.jpg](/.internals/thumbnails/mobile/music/album%20art/Wardruna%20-%20Lyfjaberg.jpg "Wardruna - Lyfjaberg.jpg")](/mobile/music/album%20art/Wardruna%20-%20Lyfjaberg.jpg)
 [![Waveshaper - Hearts.png](/.internals/thumbnails/mobile/music/album%20art/Waveshaper%20-%20Hearts.png "Waveshaper - Hearts.png")](/mobile/music/album%20art/Waveshaper%20-%20Hearts.png)

@@ -9,3 +9,4 @@ ciel__mega_man__7684391_2024-06-07_by_hi-go_.jpg Ciel  Mega Man  7684391 2024 06
 ciel__mega_man__7684452_2024-06-07_by_hi-go_.jpg Ciel  Mega Man  7684452 2024 06 07 by Hi Go 
 ciel__mega_man_ dr._weil__mega_man_ iris__mega_man_ omega__mega_man_ sigma__mega_man_ vile__mega_man_ vile_v__mega_man_ zero_z___mega_man_ zero__mega_man__9902973_2025-09-02_by_hi-go_.jpg Ciel  Mega Man  Dr
 zero_z___mega_man_ zero__mega_man__7686180_2024-06-08_by_hi-go_.jpg Zero Z   Mega Man  Zero  Mega Man  7686180 2024 06 08 by Hi Go 
+Zero_ZX Legacy _None_2025-09-11_by_ultimatemaverickx.jpg Zero ZX Legacy  None 2025 09 11 by Ultimatemaverickx

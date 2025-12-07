@@ -43,3 +43,4 @@ __x_sigma_and_first_armor_x_mega_man_and_2_more_drawn_by_u_wstr__17ee815d18ab917
 zero_and_dr_wily_mega_man_by_hoshi_mikan.png Zero and Dr Wily Mega Man by Hoshi Mikan
 mega_man_x2_by_ultimatemaverickx_de5chq9.png Mega Man X2 by Ultimatemaverickx De5chq9
 x_legacy_by_ultimatemaverickx_dgkx59m-fullview.jpg X Legacy by Ultimatemaverickx Dgkx59m Fullview
+God of Destruction_None_2025-05-04_by_ultimatemaverickx.jpg God Of Destruction None 2025 05 04 by Ultimatemaverickx

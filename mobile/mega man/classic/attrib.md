@@ -62,3 +62,5 @@ mega_men_by_ultimatemaverickx_dgrwc9w-fullview.jpg Mega Men by Ultimatemaverickx
 mega_vs_mighty_by_ultimatemaverickx_dg906br-fullview.jpg Mega Vs Mighty by Ultimatemaverickx Dg906br Fullview
 mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 mega_man__character_ x__mega_man__7697227_2024-06-10_by_dauntedx.png Mega Man  Character  X  Mega Man  7697227 2024 06 10 by Dauntedx
+Dr. Wily Numbers_None_2025-07-11_by_ultimatemaverickx.jpg Dr
+Year 200X_None_2025-04-25_by_ultimatemaverickx.jpg Year 200X None 2025 04 25 by Ultimatemaverickx
