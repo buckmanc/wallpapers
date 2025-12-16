@@ -1,12 +1,12 @@
-# music - 143
-- [album art](#album-art) - 120
+# music - 145
+- [album art](#album-art) - 122
 - [artist photos](#artist-photos) - 23
 
 <a id="album-art"></a>
 
 ## [album art](/mobile/music/album%20art/README.MD)
 <details open>
-<summary>120 files</summary>
+<summary>122 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -104,7 +104,9 @@
 [![Shrine - Celestial Fire.jpg](/.internals/thumbnails/mobile/music/album%20art/Shrine%20-%20Celestial%20Fire.jpg "Shrine - Celestial Fire.jpg")](/mobile/music/album%20art/Shrine%20-%20Celestial%20Fire.jpg)
 [![Shrine - Quintessence.jpg](/.internals/thumbnails/mobile/music/album%20art/Shrine%20-%20Quintessence.jpg "Shrine - Quintessence.jpg")](/mobile/music/album%20art/Shrine%20-%20Quintessence.jpg)
 [![silentsoul - strange.jpg](/.internals/thumbnails/mobile/music/album%20art/silentsoul%20-%20strange.jpg "silentsoul - strange.jpg")](/mobile/music/album%20art/silentsoul%20-%20strange.jpg)
+[![Sing4DLaughter - Lofi Echoes of Kalos.jpg](/.internals/thumbnails/mobile/music/album%20art/Sing4DLaughter%20-%20Lofi%20Echoes%20of%20Kalos.jpg "Sing4DLaughter - Lofi Echoes of Kalos.jpg")](/mobile/music/album%20art/Sing4DLaughter%20-%20Lofi%20Echoes%20of%20Kalos.jpg)
 [![Skálmöld - Börn Loka.jpg](/.internals/thumbnails/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg "Skálmöld - Börn Loka.jpg")](/mobile/music/album%20art/Skálmöld%20-%20Börn%20Loka.jpg)
+[![SløwlyFallingRain - Lilith_666.jpg](/.internals/thumbnails/mobile/music/album%20art/SløwlyFallingRain%20-%20Lilith_666.jpg "SløwlyFallingRain - Lilith_666.jpg")](/mobile/music/album%20art/SløwlyFallingRain%20-%20Lilith_666.jpg)
 [![Sowulo - Full Mōna.jpg](/.internals/thumbnails/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg "Sowulo - Full Mōna.jpg")](/mobile/music/album%20art/Sowulo%20-%20Full%20Mōna.jpg)
 [![Spire of Lazarus - Omen.jpg](/.internals/thumbnails/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg "Spire of Lazarus - Omen.jpg")](/mobile/music/album%20art/Spire%20of%20Lazarus%20-%20Omen.jpg)
 [![SQL2VD - ДУМАЙ.png](/.internals/thumbnails/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png "SQL2VD - ДУМАЙ.png")](/mobile/music/album%20art/SQL2VD%20-%20ДУМАЙ.png)
