@@ -1,10 +1,10 @@
-# tmnt - 76
+# tmnt - 81
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>76 files</summary>
+<summary>81 files</summary>
 <p>
 
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
@@ -59,6 +59,10 @@
 [![kael-ngu-20190715-bigtimecollectables-tmnt.jpg](/.internals/thumbnails/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg "kael-ngu-20190715-bigtimecollectables-tmnt.jpg")](/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg)
 [![Leonardo Tmnt by Tiagomontoia D81by4k](/.internals/thumbnails/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png "Leonardo Tmnt by Tiagomontoia D81by4k")](/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png)
 [![Leo Vs Bebop by Nimeshmorarji Dbwl7aw](/.internals/thumbnails/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png "Leo Vs Bebop by Nimeshmorarji Dbwl7aw")](/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png)
+[![nes_tmnt_iii_intro_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_intro_enlarged.png "nes_tmnt_iii_intro_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_intro_enlarged.png)
+[![nes_tmnt_iii_select_bw_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_select_bw_tile_enlarged.png "nes_tmnt_iii_select_bw_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_select_bw_tile_enlarged.png)
+[![nes_tmnt_iii_select_color_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_select_color_tile_enlarged.png "nes_tmnt_iii_select_color_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_select_color_tile_enlarged.png)
+[![nes_tmnt_iii_weapon_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_weapon_tile_enlarged.png "nes_tmnt_iii_weapon_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_weapon_tile_enlarged.png)
 [![Pensive Michelangelo by Mooncalfe600 828](/.internals/thumbnails/mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg "Pensive Michelangelo by Mooncalfe600 828")](/mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg)
 [![pxfuel (16).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(16).jpg "pxfuel (16).jpg")](/mobile/tmnt/pxfuel%20(16).jpg)
 [![pxfuel (17).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(17).jpg "pxfuel (17).jpg")](/mobile/tmnt/pxfuel%20(17).jpg)
@@ -71,6 +75,7 @@
 [![pxfuel (9).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(9).jpg "pxfuel (9).jpg")](/mobile/tmnt/pxfuel%20(9).jpg)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/tmnt/pxfuel.jpg "pxfuel.jpg")](/mobile/tmnt/pxfuel.jpg)
 [![shirtpunch.jpg](/.internals/thumbnails/mobile/tmnt/shirtpunch.jpg "shirtpunch.jpg")](/mobile/tmnt/shirtpunch.jpg)
+[![shredders_revenge_intro_weapons.png](/.internals/thumbnails/mobile/tmnt/shredders_revenge_intro_weapons.png "shredders_revenge_intro_weapons.png")](/mobile/tmnt/shredders_revenge_intro_weapons.png)
 [![tiny_turtles_01.jpg](/.internals/thumbnails/mobile/tmnt/tiny_turtles_01.jpg "tiny_turtles_01.jpg")](/mobile/tmnt/tiny_turtles_01.jpg)
 [![tiny_turtles_02.jpg](/.internals/thumbnails/mobile/tmnt/tiny_turtles_02.jpg "tiny_turtles_02.jpg")](/mobile/tmnt/tiny_turtles_02.jpg)
 [![Tmnt 47 Variant Cover by Claudia Sg D8zly3x](/.internals/thumbnails/mobile/tmnt/tmnt_47_variant_cover_by_claudia_sg_d8zly3x.jpg "Tmnt 47 Variant Cover by Claudia Sg D8zly3x")](/mobile/tmnt/tmnt_47_variant_cover_by_claudia_sg_d8zly3x.jpg)

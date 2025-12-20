@@ -1,4 +1,4 @@
-# mobile - 2,368
+# mobile - 2,370
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 142
 - [cj cherryh](#cj-cherryh) - 3
@@ -18,11 +18,11 @@
 - [leaves](#leaves) - 19
 - [legends and lattes](#legends-and-lattes) - 2
 - [magic the gathering](#magic-the-gathering) - 30
-- [mario](#mario) - 108
+- [mario](#mario) - 107
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
 - [mega man](#mega-man) - 352
-- [metroid](#metroid) - 161
+- [metroid](#metroid) - 160
 - [ming fan concept art](#ming-fan-concept-art) - 31
 - [misc](#misc) - 107
 - [misc anato finnstark](#misc-anato-finnstark) - 35
@@ -41,10 +41,10 @@
 - [shovel knight](#shovel-knight) - 13
 - [soulsborne](#soulsborne) - 29
 - [star fox pixel](#star-fox-pixel) - 1
-- [star trek](#star-trek) - 9
+- [star trek](#star-trek) - 8
 - [the legend of zelda](#the-legend-of-zelda) - 208
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
-- [tmnt](#tmnt) - 76
+- [tmnt](#tmnt) - 81
 - [tolkien](#tolkien) - 97
 - [ubuntu](#ubuntu) - 9
 
@@ -975,7 +975,7 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 
 ## [mario](/mobile/mario/README.MD)
 <details open>
-<summary>108 files</summary>
+<summary>107 files</summary>
 <p>
 
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
@@ -1108,7 +1108,6 @@ Rosalina Mario and 1 More Drawn by Miri Cherryjelly 176527c633b0373e4af365cadf55
 [![super-mario-power-ups-48228-2880x1800.jpg](/.internals/thumbnails/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg "super-mario-power-ups-48228-2880x1800.jpg")](/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg)
 [![super-mario-with-gun-black-wallpaper.jpg](/.internals/thumbnails/mobile/mario/super-mario-with-gun-black-wallpaper.jpg "super-mario-with-gun-black-wallpaper.jpg")](/mobile/mario/super-mario-with-gun-black-wallpaper.jpg)
 [![Toad_waving.png](/.internals/thumbnails/mobile/mario/Toad_waving.png "Toad_waving.png")](/mobile/mario/Toad_waving.png)
-[![tumblr_mzlkukDWrr1qd4q8ao1_500.gif](/.internals/thumbnails/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif "tumblr_mzlkukDWrr1qd4q8ao1_500.gif")](/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif)
 [![tumblr_nhoyf76XN51qgzgz6o1_1280.png](/.internals/thumbnails/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png "tumblr_nhoyf76XN51qgzgz6o1_1280.png")](/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png)
 [![ Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
 Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651](/.internals/thumbnails/mobile/mario/waluigi_mario_and_1_more_drawn_by_nicholas_theil__795e3a03816e317b21f632c492012651.jpg " Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
@@ -1525,7 +1524,7 @@ Wario Waluigi and Bob Omb Mario Drawn by Datoonie 7c4c8209bbde3650121ca4dafdc5af
 
 ## [metroid](/mobile/metroid/README.MD)
 <details open>
-<summary>161 files</summary>
+<summary>160 files</summary>
 <p>
 
 [![013ajqkptu571.jpg](/.internals/thumbnails/mobile/metroid/013ajqkptu571.jpg "013ajqkptu571.jpg")](/mobile/metroid/013ajqkptu571.jpg)
@@ -1596,7 +1595,6 @@ Dark Samus Metroid and 2 More Drawn by Xuuikie Ashe 4825ec3993e9bacb21b73da2f40f
 [![map_03_dev_map.jpg](/.internals/thumbnails/mobile/metroid/map_03_dev_map.jpg "map_03_dev_map.jpg")](/mobile/metroid/map_03_dev_map.jpg)
 [![map_03_in_game_map.jpg](/.internals/thumbnails/mobile/metroid/map_03_in_game_map.jpg "map_03_in_game_map.jpg")](/mobile/metroid/map_03_in_game_map.jpg)
 [![map_04_capture.png](/.internals/thumbnails/mobile/metroid/map_04_capture.png "map_04_capture.png")](/mobile/metroid/map_04_capture.png)
-[![map_04_in_game.gif](/.internals/thumbnails/mobile/metroid/map_04_in_game.gif "map_04_in_game.gif")](/mobile/metroid/map_04_in_game.gif)
 [![metroid-3nc8jol5751aw6co.jpg](/.internals/thumbnails/mobile/metroid/metroid-3nc8jol5751aw6co.jpg "metroid-3nc8jol5751aw6co.jpg")](/mobile/metroid/metroid-3nc8jol5751aw6co.jpg)
 [![ Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da49638fdb550
 Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da49638fdb550](/.internals/thumbnails/mobile/metroid/metroid_and_etecoon_metroid_and_2_more_drawn_by_photia__7c938140fc2dbb61812da49638fdb550.jpg " Metroid and Etecoon Metroid and 2 More Drawn by Photia 7c938140fc2dbb61812da49638fdb550
@@ -2636,10 +2634,9 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [star trek](/mobile/star%20trek/README.MD)
 <details open>
-<summary>9 files</summary>
+<summary>8 files</summary>
 <p>
 
-[![a5128a13f325536c9958b5c7fdef096c.gif](/.internals/thumbnails/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif "a5128a13f325536c9958b5c7fdef096c.gif")](/mobile/star%20trek/a5128a13f325536c9958b5c7fdef096c.gif)
 [![LCARS-2021-iPhone-XR-11-12-Picard.png](/.internals/thumbnails/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png "LCARS-2021-iPhone-XR-11-12-Picard.png")](/mobile/star%20trek/LCARS-2021-iPhone-XR-11-12-Picard.png)
 [![LCARS_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_iPhoneXsMax.png "LCARS_iPhoneXsMax.png")](/mobile/star%20trek/LCARS_iPhoneXsMax.png)
 [![LCARS_TNG_Janeway_iPhoneXsMax.png](/.internals/thumbnails/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png "LCARS_TNG_Janeway_iPhoneXsMax.png")](/mobile/star%20trek/LCARS_TNG_Janeway_iPhoneXsMax.png)
@@ -2893,7 +2890,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 
 ## [tmnt](/mobile/tmnt/README.MD)
 <details open>
-<summary>76 files</summary>
+<summary>81 files</summary>
 <p>
 
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
@@ -2948,6 +2945,10 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 [![kael-ngu-20190715-bigtimecollectables-tmnt.jpg](/.internals/thumbnails/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg "kael-ngu-20190715-bigtimecollectables-tmnt.jpg")](/mobile/tmnt/kael-ngu-20190715-bigtimecollectables-tmnt.jpg)
 [![Leonardo Tmnt by Tiagomontoia D81by4k](/.internals/thumbnails/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png "Leonardo Tmnt by Tiagomontoia D81by4k")](/mobile/tmnt/leonardo-tmnt-by_tiagomontoia_d81by4k.png)
 [![Leo Vs Bebop by Nimeshmorarji Dbwl7aw](/.internals/thumbnails/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png "Leo Vs Bebop by Nimeshmorarji Dbwl7aw")](/mobile/tmnt/leo_vs-bebop_by_nimeshmorarji_dbwl7aw.png)
+[![nes_tmnt_iii_intro_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_intro_enlarged.png "nes_tmnt_iii_intro_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_intro_enlarged.png)
+[![nes_tmnt_iii_select_bw_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_select_bw_tile_enlarged.png "nes_tmnt_iii_select_bw_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_select_bw_tile_enlarged.png)
+[![nes_tmnt_iii_select_color_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_select_color_tile_enlarged.png "nes_tmnt_iii_select_color_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_select_color_tile_enlarged.png)
+[![nes_tmnt_iii_weapon_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/nes_tmnt_iii_weapon_tile_enlarged.png "nes_tmnt_iii_weapon_tile_enlarged.png")](/mobile/tmnt/nes_tmnt_iii_weapon_tile_enlarged.png)
 [![Pensive Michelangelo by Mooncalfe600 828](/.internals/thumbnails/mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg "Pensive Michelangelo by Mooncalfe600 828")](/mobile/tmnt/pensive_michelangelo_by_mooncalfe600_828.jpg)
 [![pxfuel (16).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(16).jpg "pxfuel (16).jpg")](/mobile/tmnt/pxfuel%20(16).jpg)
 [![pxfuel (17).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(17).jpg "pxfuel (17).jpg")](/mobile/tmnt/pxfuel%20(17).jpg)
@@ -2960,6 +2961,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 [![pxfuel (9).jpg](/.internals/thumbnails/mobile/tmnt/pxfuel%20(9).jpg "pxfuel (9).jpg")](/mobile/tmnt/pxfuel%20(9).jpg)
 [![pxfuel.jpg](/.internals/thumbnails/mobile/tmnt/pxfuel.jpg "pxfuel.jpg")](/mobile/tmnt/pxfuel.jpg)
 [![shirtpunch.jpg](/.internals/thumbnails/mobile/tmnt/shirtpunch.jpg "shirtpunch.jpg")](/mobile/tmnt/shirtpunch.jpg)
+[![shredders_revenge_intro_weapons.png](/.internals/thumbnails/mobile/tmnt/shredders_revenge_intro_weapons.png "shredders_revenge_intro_weapons.png")](/mobile/tmnt/shredders_revenge_intro_weapons.png)
 [![tiny_turtles_01.jpg](/.internals/thumbnails/mobile/tmnt/tiny_turtles_01.jpg "tiny_turtles_01.jpg")](/mobile/tmnt/tiny_turtles_01.jpg)
 [![tiny_turtles_02.jpg](/.internals/thumbnails/mobile/tmnt/tiny_turtles_02.jpg "tiny_turtles_02.jpg")](/mobile/tmnt/tiny_turtles_02.jpg)
 [![Tmnt 47 Variant Cover by Claudia Sg D8zly3x](/.internals/thumbnails/mobile/tmnt/tmnt_47_variant_cover_by_claudia_sg_d8zly3x.jpg "Tmnt 47 Variant Cover by Claudia Sg D8zly3x")](/mobile/tmnt/tmnt_47_variant_cover_by_claudia_sg_d8zly3x.jpg)
