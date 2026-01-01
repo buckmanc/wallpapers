@@ -1,8 +1,8 @@
-# mobile - 2,370
+# mobile - 2,377
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 142
 - [cj cherryh](#cj-cherryh) - 3
-- [cosmere](#cosmere) - 160
+- [cosmere](#cosmere) - 165
 - [craftpix](#craftpix) - 3
 - [dan mumford](#dan-mumford) - 43
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
@@ -30,7 +30,7 @@
 - [misc marc simonetti](#misc-marc-simonetti) - 4
 - [misc pixel](#misc-pixel) - 1
 - [murderbot](#murderbot) - 6
-- [music](#music) - 145
+- [music](#music) - 146
 - [nintendo](#nintendo) - 50
 - [orbite](#orbite) - 6
 - [pokemon](#pokemon) - 119
@@ -44,7 +44,7 @@
 - [star trek](#star-trek) - 8
 - [the legend of zelda](#the-legend-of-zelda) - 208
 - [the legend of zelda pixel](#the-legend-of-zelda-pixel) - 5
-- [tmnt](#tmnt) - 81
+- [tmnt](#tmnt) - 82
 - [tolkien](#tolkien) - 97
 - [ubuntu](#ubuntu) - 9
 
@@ -236,9 +236,12 @@
 
 ## [cosmere](/mobile/cosmere/README.MD)
 <details open>
-<summary>160 files</summary>
+<summary>165 files</summary>
 <p>
 
+[![carlos-guimerà-cosmere-october-roto-2.jpg](/.internals/thumbnails/mobile/cosmere/elantris/carlos-guimerà-cosmere-october-roto-2.jpg "carlos-guimerà-cosmere-october-roto-2.jpg")](/mobile/cosmere/elantris/carlos-guimerà-cosmere-october-roto-2.jpg)
+[![carloswkart-elantris2.png](/.internals/thumbnails/mobile/cosmere/elantris/carloswkart-elantris2.png "carloswkart-elantris2.png")](/mobile/cosmere/elantris/carloswkart-elantris2.png)
+[![Elantris by Peter Kovacs](/.internals/thumbnails/mobile/cosmere/elantris/elantris_by_peter_kovacs.jpg "Elantris by Peter Kovacs")](/mobile/cosmere/elantris/elantris_by_peter_kovacs.jpg)
 [![00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath](/.internals/thumbnails/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg "00 Cover 00 Mistborn 01 by Chris Mcgrath
 The Final Empire cover by Chris McGrath")](/mobile/cosmere/mistborn/00_cover_00_mistborn_01_by_chris_mcgrath.jpg)
@@ -323,6 +326,7 @@ Sazed Harmony by Kelley Harris")](/mobile/cosmere/mistborn/Sazed_Harmony_by_Kell
 Vin Bond by Randy Vargas](/.internals/thumbnails/mobile/cosmere/mistborn/Vin_Bond_by_Randy_Vargas.jpg "Bond by Randy Vargas
 Vin Bond by Randy Vargas")](/mobile/cosmere/mistborn/Vin_Bond_by_Randy_Vargas.jpg)
 [![Vin by Dingzhong Hu](/.internals/thumbnails/mobile/cosmere/mistborn/vin-by-dingzhong-hu.jpg "Vin by Dingzhong Hu")](/mobile/cosmere/mistborn/vin-by-dingzhong-hu.jpg)
+[![Vin by ToastSamurai](/.internals/thumbnails/mobile/cosmere/mistborn/Vin_by_ToastSamurai.jpg "Vin by ToastSamurai")](/mobile/cosmere/mistborn/Vin_by_ToastSamurai.jpg)
 [![vin.jpg](/.internals/thumbnails/mobile/cosmere/mistborn/vin.jpg "vin.jpg")](/mobile/cosmere/mistborn/vin.jpg)
 [![Storms That Shatter by Alec Acevedo
 Vin Storms That Shatter by Alec Acevedo](/.internals/thumbnails/mobile/cosmere/mistborn/vin-storms-that-shatter-by-alec-acevedo.jpg "Storms That Shatter by Alec Acevedo
@@ -359,6 +363,7 @@ Wax Miles Hundredlives by Ari Ibarra")](/mobile/cosmere/mistborn/wax_miles_hundr
 [![The Lesson by Bea Jackson](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_the_lesson_by_bea_jackson.jpg "The Lesson by Bea Jackson")](/mobile/cosmere/stormlight/jasnah_the_lesson_by_bea_jackson.jpg)
 [![Kaladin and Syl by Mycks Art Studio](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg "Kaladin and Syl by Mycks Art Studio")](/mobile/cosmere/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg)
 [![Kaladin by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_by_antti_hakosaari.jpg "Kaladin by Antti Hakosaari")](/mobile/cosmere/stormlight/kaladin_by_antti_hakosaari.jpg)
+[![Kaladin by ToastSamurai](/.internals/thumbnails/mobile/cosmere/stormlight/Kaladin_by_ToastSamurai.jpg "Kaladin by ToastSamurai")](/mobile/cosmere/stormlight/Kaladin_by_ToastSamurai.jpg)
 [![Kaladin Stormblessed by Air Ibarra
 Stormblessed by Air Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_stormblessed_by_air_ibarra.jpg "Kaladin Stormblessed by Air Ibarra
 Stormblessed by Air Ibarra")](/mobile/cosmere/stormlight/kaladin_stormblessed_by_air_ibarra.jpg)
@@ -379,6 +384,7 @@ Kal and Syl by Ina Wong")](/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jp
 [![Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
 [![Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
 [![Parshendi Male by Dan Dos Santos](/.internals/thumbnails/mobile/cosmere/stormlight/parshendi_male_by_dan_dos_santos.jpg "Parshendi Male by Dan Dos Santos")](/mobile/cosmere/stormlight/parshendi_male_by_dan_dos_santos.jpg)
+[![Reborn by Queenofeagles](/.internals/thumbnails/mobile/cosmere/stormlight/reborn_by_queenofeagles.jpg "Reborn by Queenofeagles")](/mobile/cosmere/stormlight/reborn_by_queenofeagles.jpg)
 [![Young Dalinar and Redacted by BotanicaXu](/.internals/thumbnails/mobile/cosmere/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg "Young Dalinar and Redacted by BotanicaXu")](/mobile/cosmere/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg)
 [![Visions of the Future by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](/mobile/cosmere/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg)
 [![Rysn and Larkin by BotanicaXu](/.internals/thumbnails/mobile/cosmere/stormlight/rysn_and_larkin_by_botanicaxu.jpg "Rysn and Larkin by BotanicaXu")](/mobile/cosmere/stormlight/rysn_and_larkin_by_botanicaxu.jpg)
@@ -421,6 +427,22 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 [![Odium Reigns by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg "Odium Reigns by Ari Ibarra")](/mobile/cosmere/stormlight/zz09_odium_reigns_by_ari_ibarra.jpg)
 [![Cultivation by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/stormlight/zZ_cultivation_by_miranda_meeks.png "Cultivation by Miranda Meeks")](/mobile/cosmere/stormlight/zZ_cultivation_by_miranda_meeks.png)
 [![Honor by Donato Giancola](/.internals/thumbnails/mobile/cosmere/stormlight/zZ_honor_by_donato_giancola.png "Honor by Donato Giancola")](/mobile/cosmere/stormlight/zZ_honor_by_donato_giancola.png)
+[![SP4_wallpaper_vertical_back_recolored.jpg](/.internals/thumbnails/mobile/cosmere/sunlit%20man/SP4_wallpaper_vertical_back_recolored.jpg "SP4_wallpaper_vertical_back_recolored.jpg")](/mobile/cosmere/sunlit%20man/SP4_wallpaper_vertical_back_recolored.jpg)
+[![SP4_wallpaper_vertical_v2_recolored.jpg](/.internals/thumbnails/mobile/cosmere/sunlit%20man/SP4_wallpaper_vertical_v2_recolored.jpg "SP4_wallpaper_vertical_v2_recolored.jpg")](/mobile/cosmere/sunlit%20man/SP4_wallpaper_vertical_v2_recolored.jpg)
+[![Sunlit Man by Diego Lopez](/.internals/thumbnails/mobile/cosmere/sunlit%20man/sunlit-man-by-diego-lopez.jpg "Sunlit Man by Diego Lopez")](/mobile/cosmere/sunlit%20man/sunlit-man-by-diego-lopez.jpg)
+[![Cosmere Postcards Forestsofhell by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/threnody/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg "Cosmere Postcards Forestsofhell by Geoff Shupe")](/mobile/cosmere/threnody/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg)
+[![Shadows For Silence In The Forests Of Hell by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/threnody/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg "Shadows For Silence In The Forests Of Hell by Miranda Meeks")](/mobile/cosmere/threnody/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)
+[![carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg](/.internals/thumbnails/mobile/cosmere/tress/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg "carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg")](/mobile/cosmere/tress/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg)
+[![Tress by Cristina Oceja](/.internals/thumbnails/mobile/cosmere/tress/tress-by-cristina-oceja.jpg "Tress by Cristina Oceja")](/mobile/cosmere/tress/tress-by-cristina-oceja.jpg)
+[![Tress Death Of The Dream by Howard Lyon](/.internals/thumbnails/mobile/cosmere/tress/tress_Death_of_the_Dream_by_Howard_Lyon.jpg "Tress Death Of The Dream by Howard Lyon")](/mobile/cosmere/tress/tress_Death_of_the_Dream_by_Howard_Lyon.jpg)
+[![Tress Midnight by Howard Lyon](/.internals/thumbnails/mobile/cosmere/tress/tress_midnight_by_howard_lyon.jpg "Tress Midnight by Howard Lyon")](/mobile/cosmere/tress/tress_midnight_by_howard_lyon.jpg)
+[![Tress Of The Emerald Sea by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/tress/tress_of_the_emerald_sea_by_jessi_chen_liu.png "Tress Of The Emerald Sea by Jessi Chen Liu")](/mobile/cosmere/tress/tress_of_the_emerald_sea_by_jessi_chen_liu.png)
+[![Tress Sipping Salty Tea by Howard Lyon](/.internals/thumbnails/mobile/cosmere/tress/tress_sipping_salty_tea_by_howard_lyon.jpg "Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/tress/tress_sipping_salty_tea_by_howard_lyon.jpg)
+[![carlos-guimerà-alientodioses-mediana.jpg](/.internals/thumbnails/mobile/cosmere/warbreaker/carlos-guimerà-alientodioses-mediana.jpg "carlos-guimerà-alientodioses-mediana.jpg")](/mobile/cosmere/warbreaker/carlos-guimerà-alientodioses-mediana.jpg)
+[![carlos-guimerà-capitulo-5.jpg](/.internals/thumbnails/mobile/cosmere/warbreaker/carlos-guimerà-capitulo-5.jpg "carlos-guimerà-capitulo-5.jpg")](/mobile/cosmere/warbreaker/carlos-guimerà-capitulo-5.jpg)
+[![Vasher by ToastSamurai](/.internals/thumbnails/mobile/cosmere/warbreaker/Vasher_by_ToastSamurai.jpg "Vasher by ToastSamurai")](/mobile/cosmere/warbreaker/Vasher_by_ToastSamurai.jpg)
+[![Warbreaker by ToastSamurai](/.internals/thumbnails/mobile/cosmere/warbreaker/Warbreaker_by_ToastSamurai.jpg "Warbreaker by ToastSamurai")](/mobile/cosmere/warbreaker/Warbreaker_by_ToastSamurai.jpg)
+[![Warbreaker Cover by Yasen Stoilov](/.internals/thumbnails/mobile/cosmere/warbreaker/warbreaker_cover_by_yasen_stoilov.jpg "Warbreaker Cover by Yasen Stoilov")](/mobile/cosmere/warbreaker/warbreaker_cover_by_yasen_stoilov.jpg)
 [![Backlit by Wonder by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg "Backlit by Wonder by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Backlit_by_Wonder_by_Aliya_Chen.jpg)
 [![Defending Kilahito by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg "Defending Kilahito by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Defending_Kilahito_by_Aliya_Chen.jpg)
 [![Design With Hoid Statue by Botanicaxu](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg "Design With Hoid Statue by Botanicaxu")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Design_with_Hoid_statue_by_Botanicaxu.jpg)
@@ -438,33 +460,6 @@ Sketch Santhid by Ben McSweeny")](/mobile/cosmere/stormlight/sketch_santhid_by_b
 Yumi Back Endpaper by Aliya Chen](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg "Yumi Back Endpaper by Aliya Chen
 Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_Back_Endpaper_by_Aliya_Chen.jpg)
 [![Yumi_wallpaper_horizontal_no_title.jpg](/.internals/thumbnails/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg "Yumi_wallpaper_horizontal_no_title.jpg")](/mobile/cosmere/yumi%20and%20the%20nightmare%20painter/Yumi_wallpaper_horizontal_no_title.jpg)
-[![carlos-guimerà-alientodioses-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg "carlos-guimerà-alientodioses-mediana.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-alientodioses-mediana.jpg)
-[![carlos-guimerà-capitulo-5.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg "carlos-guimerà-capitulo-5.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-capitulo-5.jpg)
-[![carlos-guimerà-cosmere-october-roto-2.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg "carlos-guimerà-cosmere-october-roto-2.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-cosmere-october-roto-2.jpg)
-[![carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg "carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg")](/mobile/cosmere/zz%20misc/carlos-guimerà-trenza-del-mar-esmeralda-mediana.jpg)
-[![carloswkart-elantris2.png](/.internals/thumbnails/mobile/cosmere/zz%20misc/carloswkart-elantris2.png "carloswkart-elantris2.png")](/mobile/cosmere/zz%20misc/carloswkart-elantris2.png)
-[![Cosmere Postcards Forestsofhell by Geoff Shupe](/.internals/thumbnails/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg "Cosmere Postcards Forestsofhell by Geoff Shupe")](/mobile/cosmere/zz%20misc/cosmere-postcards-forestsofhell-by-geoff-shupe.jpg)
-[![Elantris by Peter Kovacs
-Elantris by Péter Kovács](/.internals/thumbnails/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg "Elantris by Peter Kovacs
-Elantris by Péter Kovács")](/mobile/cosmere/zz%20misc/elantris_by_peter_kovacs.jpg)
-[![Shadows For Silence In The Forests Of Hell by Miranda Meeks
-Shadows For Silence in the Forests of Hell cover by Miranda Meeks](/.internals/thumbnails/mobile/cosmere/zz%20misc/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg "Shadows For Silence In The Forests Of Hell by Miranda Meeks
-Shadows For Silence in the Forests of Hell cover by Miranda Meeks")](/mobile/cosmere/zz%20misc/Shadows_For_Silence_In_the_Forests_of_Hell_by_Miranda_Meeks.jpg)
-[![SP4_wallpaper_vertical_back_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg "SP4_wallpaper_vertical_back_recolored.jpg")](/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_back_recolored.jpg)
-[![SP4_wallpaper_vertical_v2_recolored.jpg](/.internals/thumbnails/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg "SP4_wallpaper_vertical_v2_recolored.jpg")](/mobile/cosmere/zz%20misc/SP4_wallpaper_vertical_v2_recolored.jpg)
-[![Sunlit Man by Diego Lopez](/.internals/thumbnails/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg "Sunlit Man by Diego Lopez")](/mobile/cosmere/zz%20misc/sunlit-man-by-diego-lopez.jpg)
-[![Tress by Cristina Oceja](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg "Tress by Cristina Oceja")](/mobile/cosmere/zz%20misc/tress-by-cristina-oceja.jpg)
-[![Death of the Dream by Howard Lyon
-Tress Death Of The Dream by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg "Death of the Dream by Howard Lyon
-Tress Death Of The Dream by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_Death_of_the_Dream_by_Howard_Lyon.jpg)
-[![Midnight by Howard Lyon
-Tress Midnight by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_midnight_by_howard_lyon.jpg "Midnight by Howard Lyon
-Tress Midnight by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_midnight_by_howard_lyon.jpg)
-[![Tress Of The Emerald Sea by Jessi Chen Liu](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_of_the_emerald_sea_by_jessi_chen_liu.png "Tress Of The Emerald Sea by Jessi Chen Liu")](/mobile/cosmere/zz%20misc/tress_of_the_emerald_sea_by_jessi_chen_liu.png)
-[![Sipping Salty Tea by Howard Lyon
-Tress Sipping Salty Tea by Howard Lyon](/.internals/thumbnails/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg "Sipping Salty Tea by Howard Lyon
-Tress Sipping Salty Tea by Howard Lyon")](/mobile/cosmere/zz%20misc/tress_sipping_salty_tea_by_howard_lyon.jpg)
-[![Warbreaker Cover by Yasen Stoilov](/.internals/thumbnails/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg "Warbreaker Cover by Yasen Stoilov")](/mobile/cosmere/zz%20misc/warbreaker_cover_by_yasen_stoilov.jpg)
 
 </p>
 </details>
@@ -2014,7 +2009,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [music](/mobile/music/README.MD)
 <details open>
-<summary>145 files</summary>
+<summary>146 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -2080,6 +2075,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![Mikel-Zelda-Chill-cover-part-1.jpg](/.internals/thumbnails/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg "Mikel-Zelda-Chill-cover-part-1.jpg")](/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg)
 [![Mikel-Zelda-Chill-cover-part-2.jpg](/.internals/thumbnails/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-2.jpg "Mikel-Zelda-Chill-cover-part-2.jpg")](/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-2.jpg)
 [![MOTHICA - Nocturnal.jpg](/.internals/thumbnails/mobile/music/album%20art/MOTHICA%20-%20Nocturnal.jpg "MOTHICA - Nocturnal.jpg")](/mobile/music/album%20art/MOTHICA%20-%20Nocturnal.jpg)
+[![Mountain Realm - Shadowlorn.jpg](/.internals/thumbnails/mobile/music/album%20art/Mountain%20Realm%20-%20Shadowlorn.jpg "Mountain Realm - Shadowlorn.jpg")](/mobile/music/album%20art/Mountain%20Realm%20-%20Shadowlorn.jpg)
 [![Munknörr - Ancient Spirit.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Ancient%20Spirit.jpg "Munknörr - Ancient Spirit.jpg")](/mobile/music/album%20art/Munknörr%20-%20Ancient%20Spirit.jpg)
 [![Munknörr - Futharuna.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Futharuna.jpg "Munknörr - Futharuna.jpg")](/mobile/music/album%20art/Munknörr%20-%20Futharuna.jpg)
 [![Munknörr - Norðr.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Norðr.jpg "Munknörr - Norðr.jpg")](/mobile/music/album%20art/Munknörr%20-%20Norðr.jpg)
@@ -2890,7 +2886,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 
 ## [tmnt](/mobile/tmnt/README.MD)
 <details open>
-<summary>81 files</summary>
+<summary>82 files</summary>
 <p>
 
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
@@ -2924,6 +2920,7 @@ The Legend Of Zelda Drawn by Photia 0c355efd126321e267d936a00972e51a")](/mobile/
 [![152641.png](/.internals/thumbnails/mobile/tmnt/152641.png "152641.png")](/mobile/tmnt/152641.png)
 [![15289992e77cba8c2818615424708a5b.jpg](/.internals/thumbnails/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg "15289992e77cba8c2818615424708a5b.jpg")](/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg)
 [![186e671ca47213ad3e3bd039ca772b605ee978da.jpg](/.internals/thumbnails/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg "186e671ca47213ad3e3bd039ca772b605ee978da.jpg")](/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg)
+[![1987_intro_weapons_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/1987_intro_weapons_tile_enlarged.png "1987_intro_weapons_tile_enlarged.png")](/mobile/tmnt/1987_intro_weapons_tile_enlarged.png)
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](/.internals/thumbnails/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
 [![222458.jpg](/.internals/thumbnails/mobile/tmnt/222458.jpg "222458.jpg")](/mobile/tmnt/222458.jpg)
 [![25a33700c54b09d31d7999f20f167585.jpg](/.internals/thumbnails/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg "25a33700c54b09d31d7999f20f167585.jpg")](/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg)

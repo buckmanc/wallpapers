@@ -84,3 +84,5 @@ spren-by-botanica-xu.jpg Spren by Botanica Xu
 stormblessed-by-kevin-keele.jpg Stormblessed by Kevin Keele
 Broken Oath by Antti Hakosaari.png Broken Oath by Antti Hakosaari
 syl-and-kaladin-by-audrey-hotte.jpg Syl and Kaladin by Audrey Hotte
+Kaladin_by_ToastSamurai.jpg Kaladin by ToastSamurai
+reborn_by_queenofeagles.jpg Reborn by Queenofeagles

@@ -1,10 +1,10 @@
-# stormlight - 79
+# stormlight - 81
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>79 files</summary>
+<summary>81 files</summary>
 <p>
 
 [![Dalinar by Petar Penev](/.internals/thumbnails/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg "Dalinar by Petar Penev")](/mobile/cosmere/stormlight/00_dalinar_by_petar_penev.jpg)
@@ -32,6 +32,7 @@
 [![The Lesson by Bea Jackson](/.internals/thumbnails/mobile/cosmere/stormlight/jasnah_the_lesson_by_bea_jackson.jpg "The Lesson by Bea Jackson")](/mobile/cosmere/stormlight/jasnah_the_lesson_by_bea_jackson.jpg)
 [![Kaladin and Syl by Mycks Art Studio](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg "Kaladin and Syl by Mycks Art Studio")](/mobile/cosmere/stormlight/kaladin_and_syl_by_mycks_art_studio.jpg)
 [![Kaladin by Antti Hakosaari](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_by_antti_hakosaari.jpg "Kaladin by Antti Hakosaari")](/mobile/cosmere/stormlight/kaladin_by_antti_hakosaari.jpg)
+[![Kaladin by ToastSamurai](/.internals/thumbnails/mobile/cosmere/stormlight/Kaladin_by_ToastSamurai.jpg "Kaladin by ToastSamurai")](/mobile/cosmere/stormlight/Kaladin_by_ToastSamurai.jpg)
 [![Kaladin Stormblessed by Air Ibarra
 Stormblessed by Air Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/kaladin_stormblessed_by_air_ibarra.jpg "Kaladin Stormblessed by Air Ibarra
 Stormblessed by Air Ibarra")](/mobile/cosmere/stormlight/kaladin_stormblessed_by_air_ibarra.jpg)
@@ -52,6 +53,7 @@ Kal and Syl by Ina Wong")](/mobile/cosmere/stormlight/kal_and_syl_by_ina_wong.jp
 [![Rayse/Odium by Lamaery In The Cosmere](/.internals/thumbnails/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg "Rayse/Odium by Lamaery In The Cosmere")](/mobile/cosmere/stormlight/odium_rayse_by_lamaery_in_the_cosmere.jpg)
 [![Odium XV The Devil Tarot by Tara Spruit](/.internals/thumbnails/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg "Odium XV The Devil Tarot by Tara Spruit")](/mobile/cosmere/stormlight/odium_xv_the_devil_tarot_by_tara_spruit.jpg)
 [![Parshendi Male by Dan Dos Santos](/.internals/thumbnails/mobile/cosmere/stormlight/parshendi_male_by_dan_dos_santos.jpg "Parshendi Male by Dan Dos Santos")](/mobile/cosmere/stormlight/parshendi_male_by_dan_dos_santos.jpg)
+[![Reborn by Queenofeagles](/.internals/thumbnails/mobile/cosmere/stormlight/reborn_by_queenofeagles.jpg "Reborn by Queenofeagles")](/mobile/cosmere/stormlight/reborn_by_queenofeagles.jpg)
 [![Young Dalinar and Redacted by BotanicaXu](/.internals/thumbnails/mobile/cosmere/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg "Young Dalinar and Redacted by BotanicaXu")](/mobile/cosmere/stormlight/redacted_young_dalinar_and_redacted_by_botanicaxu.jpg)
 [![Visions of the Future by Ari Ibarra](/.internals/thumbnails/mobile/cosmere/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg "Visions of the Future by Ari Ibarra")](/mobile/cosmere/stormlight/renarin_visions_of_the_future_by_ari_ibarra.jpg)
 [![Rysn and Larkin by BotanicaXu](/.internals/thumbnails/mobile/cosmere/stormlight/rysn_and_larkin_by_botanicaxu.jpg "Rysn and Larkin by BotanicaXu")](/mobile/cosmere/stormlight/rysn_and_larkin_by_botanicaxu.jpg)

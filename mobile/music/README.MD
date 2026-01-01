@@ -1,12 +1,12 @@
-# music - 145
-- [album art](#album-art) - 122
+# music - 146
+- [album art](#album-art) - 123
 - [artist photos](#artist-photos) - 23
 
 <a id="album-art"></a>
 
 ## [album art](/mobile/music/album%20art/README.MD)
 <details open>
-<summary>122 files</summary>
+<summary>123 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -72,6 +72,7 @@
 [![Mikel-Zelda-Chill-cover-part-1.jpg](/.internals/thumbnails/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg "Mikel-Zelda-Chill-cover-part-1.jpg")](/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-1.jpg)
 [![Mikel-Zelda-Chill-cover-part-2.jpg](/.internals/thumbnails/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-2.jpg "Mikel-Zelda-Chill-cover-part-2.jpg")](/mobile/music/album%20art/Mikel-Zelda-Chill-cover-part-2.jpg)
 [![MOTHICA - Nocturnal.jpg](/.internals/thumbnails/mobile/music/album%20art/MOTHICA%20-%20Nocturnal.jpg "MOTHICA - Nocturnal.jpg")](/mobile/music/album%20art/MOTHICA%20-%20Nocturnal.jpg)
+[![Mountain Realm - Shadowlorn.jpg](/.internals/thumbnails/mobile/music/album%20art/Mountain%20Realm%20-%20Shadowlorn.jpg "Mountain Realm - Shadowlorn.jpg")](/mobile/music/album%20art/Mountain%20Realm%20-%20Shadowlorn.jpg)
 [![Munknörr - Ancient Spirit.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Ancient%20Spirit.jpg "Munknörr - Ancient Spirit.jpg")](/mobile/music/album%20art/Munknörr%20-%20Ancient%20Spirit.jpg)
 [![Munknörr - Futharuna.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Futharuna.jpg "Munknörr - Futharuna.jpg")](/mobile/music/album%20art/Munknörr%20-%20Futharuna.jpg)
 [![Munknörr - Norðr.jpg](/.internals/thumbnails/mobile/music/album%20art/Munknörr%20-%20Norðr.jpg "Munknörr - Norðr.jpg")](/mobile/music/album%20art/Munknörr%20-%20Norðr.jpg)

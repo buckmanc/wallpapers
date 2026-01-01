@@ -1,10 +1,10 @@
-# tmnt - 81
+# tmnt - 82
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>81 files</summary>
+<summary>82 files</summary>
 <p>
 
 [![00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg](/.internals/thumbnails/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg "00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg")](/mobile/tmnt/00_idw_21e31cc1ed1f53b7da4b1cd4a5b08550.jpg)
@@ -38,6 +38,7 @@
 [![152641.png](/.internals/thumbnails/mobile/tmnt/152641.png "152641.png")](/mobile/tmnt/152641.png)
 [![15289992e77cba8c2818615424708a5b.jpg](/.internals/thumbnails/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg "15289992e77cba8c2818615424708a5b.jpg")](/mobile/tmnt/15289992e77cba8c2818615424708a5b.jpg)
 [![186e671ca47213ad3e3bd039ca772b605ee978da.jpg](/.internals/thumbnails/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg "186e671ca47213ad3e3bd039ca772b605ee978da.jpg")](/mobile/tmnt/186e671ca47213ad3e3bd039ca772b605ee978da.jpg)
+[![1987_intro_weapons_tile_enlarged.png](/.internals/thumbnails/mobile/tmnt/1987_intro_weapons_tile_enlarged.png "1987_intro_weapons_tile_enlarged.png")](/mobile/tmnt/1987_intro_weapons_tile_enlarged.png)
 [![1e5a0bc8c75d13d10d7460994a488afd.jpg](/.internals/thumbnails/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg "1e5a0bc8c75d13d10d7460994a488afd.jpg")](/mobile/tmnt/1e5a0bc8c75d13d10d7460994a488afd.jpg)
 [![222458.jpg](/.internals/thumbnails/mobile/tmnt/222458.jpg "222458.jpg")](/mobile/tmnt/222458.jpg)
 [![25a33700c54b09d31d7999f20f167585.jpg](/.internals/thumbnails/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg "25a33700c54b09d31d7999f20f167585.jpg")](/mobile/tmnt/25a33700c54b09d31d7999f20f167585.jpg)

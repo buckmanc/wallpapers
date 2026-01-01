@@ -1,4 +1,4 @@
-# desktop - 730
+# desktop - 736
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 14
 - [cityscapes](#cityscapes) - 7
@@ -21,6 +21,7 @@
 - [resident evil](#resident-evil) - 5
 - [sea of thieves](#sea-of-thieves) - 13
 - [shovel knight](#shovel-knight) - 2
+- [silksong](#silksong) - 6
 - [skyrim art](#skyrim-art) - 9
 - [skyrim captures](#skyrim-captures) - 13
 - [soulsborne](#soulsborne) - 11
@@ -686,6 +687,23 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 [![629083.jpg](/.internals/thumbnails/desktop/shovel%20knight/629083.jpg "629083.jpg")](/desktop/shovel%20knight/629083.jpg)
 [![d89ZA7W.png](/.internals/thumbnails/desktop/shovel%20knight/d89ZA7W.png "d89ZA7W.png")](/desktop/shovel%20knight/d89ZA7W.png)
+
+</p>
+</details>
+
+<a id="silksong"></a>
+
+## [silksong](/desktop/silksong/README.MD)
+<details open>
+<summary>6 files</summary>
+<p>
+
+[![frame03432.png](/.internals/thumbnails/desktop/silksong/frame03432.png "frame03432.png")](/desktop/silksong/frame03432.png)
+[![frame03777.png](/.internals/thumbnails/desktop/silksong/frame03777.png "frame03777.png")](/desktop/silksong/frame03777.png)
+[![frame04174.png](/.internals/thumbnails/desktop/silksong/frame04174.png "frame04174.png")](/desktop/silksong/frame04174.png)
+[![frame04390.png](/.internals/thumbnails/desktop/silksong/frame04390.png "frame04390.png")](/desktop/silksong/frame04390.png)
+[![frame04669.png](/.internals/thumbnails/desktop/silksong/frame04669.png "frame04669.png")](/desktop/silksong/frame04669.png)
+[![frame05069.png](/.internals/thumbnails/desktop/silksong/frame05069.png "frame05069.png")](/desktop/silksong/frame05069.png)
 
 </p>
 </details>
