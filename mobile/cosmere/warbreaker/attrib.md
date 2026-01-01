@@ -1,3 +1,0 @@
-Vasher_by_ToastSamurai.jpg Vasher by ToastSamurai
-Warbreaker_by_ToastSamurai.jpg Warbreaker by ToastSamurai
-warbreaker_cover_by_yasen_stoilov.jpg Warbreaker Cover by Yasen Stoilov
