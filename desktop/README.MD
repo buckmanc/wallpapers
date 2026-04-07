@@ -1,11 +1,11 @@
-# desktop - 736
+# desktop - 735
 - [castlevania](#castlevania) - 8
 - [castlevania pixel](#castlevania-pixel) - 14
 - [cityscapes](#cityscapes) - 7
 - [cosmere](#cosmere) - 14
 - [craftpix](#craftpix) - 4
 - [dungeons_and_dragons](#dungeons-and-dragons) - 3
-- [forests](#forests) - 118
+- [forests](#forests) - 117
 - [halo](#halo) - 4
 - [justin gerard](#justin-gerard) - 3
 - [kirby pixel](#kirby-pixel) - 2
@@ -165,7 +165,7 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 
 ## [forests](/desktop/forests/README.MD)
 <details open>
-<summary>118 files</summary>
+<summary>117 files</summary>
 <p>
 
 [![81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg](/.internals/thumbnails/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg "81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg")](/desktop/forests/81d23c7e4d4f166c_79022f2cd0976f67ded8c97542f9b407.jpeg)
@@ -279,7 +279,6 @@ Era 2 Triptych by Marc Simonetti")](/desktop/cosmere/mistborn/00_cover_zz_era_2_
 [![d9dbe6cc12268c99_chmyphotography-qI5XixBb6TU-unsplash.jpg](/.internals/thumbnails/desktop/forests/d9dbe6cc12268c99_chmyphotography-qI5XixBb6TU-unsplash.jpg "d9dbe6cc12268c99_chmyphotography-qI5XixBb6TU-unsplash.jpg")](/desktop/forests/d9dbe6cc12268c99_chmyphotography-qI5XixBb6TU-unsplash.jpg)
 [![da9a75e7a2225554_Rp93yzP.png](/.internals/thumbnails/desktop/forests/da9a75e7a2225554_Rp93yzP.png "da9a75e7a2225554_Rp93yzP.png")](/desktop/forests/da9a75e7a2225554_Rp93yzP.png)
 [![db93386648996ad9_fabrice-villard-O8wVokGEmEU-unsplash.jpg](/.internals/thumbnails/desktop/forests/db93386648996ad9_fabrice-villard-O8wVokGEmEU-unsplash.jpg "db93386648996ad9_fabrice-villard-O8wVokGEmEU-unsplash.jpg")](/desktop/forests/db93386648996ad9_fabrice-villard-O8wVokGEmEU-unsplash.jpg)
-[![dcfcc40133633373_pxfuel (62).jpg](/.internals/thumbnails/desktop/forests/dcfcc40133633373_pxfuel%20(62).jpg "dcfcc40133633373_pxfuel (62).jpg")](/desktop/forests/dcfcc40133633373_pxfuel%20(62).jpg)
 [![dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg](/.internals/thumbnails/desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg "dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg")](/desktop/forests/dd992e32ae18e730_39675-dark-forest-1920x1080-digital-art-wallpaper.jpg)
 [![ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg](/.internals/thumbnails/desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg "ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg")](/desktop/forests/ddddf94c20687078_keagan-henman-hkGF3Vwkzdk-unsplash.jpg)
 [![ddfd0022fed91886_fog-forest-during-autumn.jpg](/.internals/thumbnails/desktop/forests/ddfd0022fed91886_fog-forest-during-autumn.jpg "ddfd0022fed91886_fog-forest-during-autumn.jpg")](/desktop/forests/ddfd0022fed91886_fog-forest-during-autumn.jpg)

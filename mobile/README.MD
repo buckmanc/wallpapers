@@ -1,4 +1,4 @@
-# mobile - 2,378
+# mobile - 2,386
 - [batman](#batman) - 6
 - [castlevania](#castlevania) - 142
 - [cj cherryh](#cj-cherryh) - 3
@@ -9,7 +9,7 @@
 - [elden ring](#elden-ring) - 20
 - [frog](#frog) - 16
 - [gideon the ninth](#gideon-the-ninth) - 6
-- [glitched](#glitched) - 20
+- [glitched](#glitched) - 23
 - [halo](#halo) - 5
 - [hollow knight](#hollow-knight) - 88
 - [horizon](#horizon) - 3
@@ -18,13 +18,13 @@
 - [leaves](#leaves) - 19
 - [legends and lattes](#legends-and-lattes) - 2
 - [magic the gathering](#magic-the-gathering) - 30
-- [mario](#mario) - 107
+- [mario](#mario) - 111
 - [mario pixel](#mario-pixel) - 1
 - [maxime desmettre](#maxime-desmettre) - 9
 - [mega man](#mega-man) - 352
 - [metroid](#metroid) - 160
 - [ming fan concept art](#ming-fan-concept-art) - 31
-- [misc](#misc) - 108
+- [misc](#misc) - 109
 - [misc anato finnstark](#misc-anato-finnstark) - 35
 - [misc devin elle kurtz](#misc-devin-elle-kurtz) - 6
 - [misc marc simonetti](#misc-marc-simonetti) - 4
@@ -625,7 +625,7 @@ Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare
 
 ## [glitched](/mobile/glitched/README.MD)
 <details open>
-<summary>20 files</summary>
+<summary>23 files</summary>
 <p>
 
 [![anato-finnstark-web-petit (8)_glitched_15.jpg](/.internals/thumbnails/mobile/glitched/anato-finnstark-web-petit%20(8)_glitched_15.jpg "anato-finnstark-web-petit (8)_glitched_15.jpg")](/mobile/glitched/anato-finnstark-web-petit%20(8)_glitched_15.jpg)
@@ -641,14 +641,17 @@ Yumi Back Endpaper by Aliya Chen")](/mobile/cosmere/yumi%20and%20the%20nightmare
 [![glitched_74466237_p0.png](/.internals/thumbnails/mobile/glitched/glitched_74466237_p0.png "glitched_74466237_p0.png")](/mobile/glitched/glitched_74466237_p0.png)
 [![glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg](/.internals/thumbnails/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg "glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg")](/mobile/glitched/glitched_9293594d6c6c6d65_574455375-IMG_1480.jpg)
 [![Glitched Brothers by Ultimatemaverickx](/.internals/thumbnails/mobile/glitched/glitched_brothers_by_ultimatemaverickx.jpg "Glitched Brothers by Ultimatemaverickx")](/mobile/glitched/glitched_brothers_by_ultimatemaverickx.jpg)
+[![Glitched Crop You Look Upon The Tarrasque by Kekai Kotaki](/.internals/thumbnails/mobile/glitched/glitched_crop_you_look_upon_the_tarrasque_by_kekai_kotaki.jpg "Glitched Crop You Look Upon The Tarrasque by Kekai Kotaki")](/mobile/glitched/glitched_crop_you_look_upon_the_tarrasque_by_kekai_kotaki.jpg)
 [![glitched_FP-opPLaMAYM51-.jpeg](/.internals/thumbnails/mobile/glitched/glitched_FP-opPLaMAYM51-.jpeg "glitched_FP-opPLaMAYM51-.jpeg")](/mobile/glitched/glitched_FP-opPLaMAYM51-.jpeg)
 [![glitched_glitched_20231207_142220.jpg](/.internals/thumbnails/mobile/glitched/glitched_glitched_20231207_142220.jpg "glitched_glitched_20231207_142220.jpg")](/mobile/glitched/glitched_glitched_20231207_142220.jpg)
 [![glitched_illust_87229658_20250202_182513.jpg](/.internals/thumbnails/mobile/glitched/glitched_illust_87229658_20250202_182513.jpg "glitched_illust_87229658_20250202_182513.jpg")](/mobile/glitched/glitched_illust_87229658_20250202_182513.jpg)
+[![glitched_MegaMan11CollectorsPackageArtwork.png](/.internals/thumbnails/mobile/glitched/glitched_MegaMan11CollectorsPackageArtwork.png "glitched_MegaMan11CollectorsPackageArtwork.png")](/mobile/glitched/glitched_MegaMan11CollectorsPackageArtwork.png)
 [![glitched_Mega_Man_11.png](/.internals/thumbnails/mobile/glitched/glitched_Mega_Man_11.png "glitched_Mega_Man_11.png")](/mobile/glitched/glitched_Mega_Man_11.png)
 [![Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/glitched/glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9
 Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 [![glitched_portrait bw.png](/.internals/thumbnails/mobile/glitched/glitched_portrait%20bw.png "glitched_portrait bw.png")](/mobile/glitched/glitched_portrait%20bw.png)
+[![Glitched Rank Uh by Ultimatemaverickx](/.internals/thumbnails/mobile/glitched/glitched_rank_uh_by_ultimatemaverickx.png "Glitched Rank Uh by Ultimatemaverickx")](/mobile/glitched/glitched_rank_uh_by_ultimatemaverickx.png)
 [![Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9](/.internals/thumbnails/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png "Grey Glitched Mega Man Proto Man Splash Woman Met Dr Wily and 117 More Mega Man and 19 More Drawn by Murata Yuusuke 8815a87d00cbb39741c4293aa745cfd9")](/mobile/glitched/grey_glitched_mega_man_proto_man_splash_woman_met_dr_wily_and_117_more_mega_man_and_19_more_drawn_by_murata_yuusuke_8815a87d00cbb39741c4293aa745cfd9.png)
 
 </p>
@@ -970,7 +973,7 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 
 ## [mario](/mobile/mario/README.MD)
 <details open>
-<summary>107 files</summary>
+<summary>111 files</summary>
 <p>
 
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
@@ -979,6 +982,7 @@ Bee Kirby Pattern by X Xasm")](/mobile/kirby/bee_kirby_by_x_xasm.jpg)
 [![20231220_213919.jpg](/.internals/thumbnails/mobile/mario/20231220_213919.jpg "20231220_213919.jpg")](/mobile/mario/20231220_213919.jpg)
 [![276122836_5207546689276452_264819243623934142_n.png](/.internals/thumbnails/mobile/mario/276122836_5207546689276452_264819243623934142_n.png "276122836_5207546689276452_264819243623934142_n.png")](/mobile/mario/276122836_5207546689276452_264819243623934142_n.png)
 [![3m2a9g0n5uz71.png](/.internals/thumbnails/mobile/mario/3m2a9g0n5uz71.png "3m2a9g0n5uz71.png")](/mobile/mario/3m2a9g0n5uz71.png)
+[![563484-sharanavty-30.jpg](/.internals/thumbnails/mobile/mario/563484-sharanavty-30.jpg "563484-sharanavty-30.jpg")](/mobile/mario/563484-sharanavty-30.jpg)
 [![6ded0e26843503.5635b4c47d79b.jpg](/.internals/thumbnails/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg "6ded0e26843503.5635b4c47d79b.jpg")](/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg)
 [![98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg](/.internals/thumbnails/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg "98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg")](/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg)
 [![9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg](/.internals/thumbnails/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg "9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg")](/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg)
@@ -994,6 +998,8 @@ Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68
 [![CP77208b.jpg](/.internals/thumbnails/mobile/mario/CP77208b.jpg "CP77208b.jpg")](/mobile/mario/CP77208b.jpg)
 [![desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg](/.internals/thumbnails/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg "desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg")](/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg)
 [![desktop-wallpaper-mario-star.jpg](/.internals/thumbnails/mobile/mario/desktop-wallpaper-mario-star.jpg "desktop-wallpaper-mario-star.jpg")](/mobile/mario/desktop-wallpaper-mario-star.jpg)
+[![dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png](/.internals/thumbnails/mobile/mario/dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png "dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png")](/mobile/mario/dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png)
+[![e5710bc77900a3a2e32cc3ebb5eda161.jpg](/.internals/thumbnails/mobile/mario/e5710bc77900a3a2e32cc3ebb5eda161.jpg "e5710bc77900a3a2e32cc3ebb5eda161.jpg")](/mobile/mario/e5710bc77900a3a2e32cc3ebb5eda161.jpg)
 [![EW-mKFUU8AIywAt.jpeg](/.internals/thumbnails/mobile/mario/EW-mKFUU8AIywAt.jpeg "EW-mKFUU8AIywAt.jpeg")](/mobile/mario/EW-mKFUU8AIywAt.jpeg)
 [![F26rILZWAAAzgUi.jpeg](/.internals/thumbnails/mobile/mario/F26rILZWAAAzgUi.jpeg "F26rILZWAAAzgUi.jpeg")](/mobile/mario/F26rILZWAAAzgUi.jpeg)
 [![fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg](/.internals/thumbnails/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg "fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg")](/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg)
@@ -1100,6 +1106,7 @@ Rosalina Mario and 1 More Drawn by Miri Cherryjelly 176527c633b0373e4af365cadf55
 [![SMB2.png](/.internals/thumbnails/mobile/mario/SMB2.png "SMB2.png")](/mobile/mario/SMB2.png)
 [![SMO_1st_anniversary.jpg](/.internals/thumbnails/mobile/mario/SMO_1st_anniversary.jpg "SMO_1st_anniversary.jpg")](/mobile/mario/SMO_1st_anniversary.jpg)
 [![SSB4_Rosalina_Key_Art.jpg](/.internals/thumbnails/mobile/mario/SSB4_Rosalina_Key_Art.jpg "SSB4_Rosalina_Key_Art.jpg")](/mobile/mario/SSB4_Rosalina_Key_Art.jpg)
+[![super-mario-galaxy-iphone-12-pro-max.jpg](/.internals/thumbnails/mobile/mario/super-mario-galaxy-iphone-12-pro-max.jpg "super-mario-galaxy-iphone-12-pro-max.jpg")](/mobile/mario/super-mario-galaxy-iphone-12-pro-max.jpg)
 [![super-mario-power-ups-48228-2880x1800.jpg](/.internals/thumbnails/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg "super-mario-power-ups-48228-2880x1800.jpg")](/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg)
 [![super-mario-with-gun-black-wallpaper.jpg](/.internals/thumbnails/mobile/mario/super-mario-with-gun-black-wallpaper.jpg "super-mario-with-gun-black-wallpaper.jpg")](/mobile/mario/super-mario-with-gun-black-wallpaper.jpg)
 [![Toad_waving.png](/.internals/thumbnails/mobile/mario/Toad_waving.png "Toad_waving.png")](/mobile/mario/Toad_waving.png)
@@ -1784,7 +1791,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 
 ## [misc](/mobile/misc/README.MD)
 <details open>
-<summary>108 files</summary>
+<summary>109 files</summary>
 <p>
 
 [![8282ff7d1c82a36d_pxfuel (43).jpg](/.internals/thumbnails/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg "8282ff7d1c82a36d_pxfuel (43).jpg")](/mobile/misc/8282ff7d1c82a36d_pxfuel%20(43).jpg)
@@ -1837,6 +1844,7 @@ Samus Aran Ridley Meta Ridley Metroid Prime Omega Pirate and 7 More Metroid and 
 [![9e96c8b2b130ac7d_peakpx(10).jpg](/.internals/thumbnails/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg "9e96c8b2b130ac7d_peakpx(10).jpg")](/mobile/misc/9e96c8b2b130ac7d_peakpx(10).jpg)
 [![9fd8602587ea383d_Magic Sunset.jpg](/.internals/thumbnails/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg "9fd8602587ea383d_Magic Sunset.jpg")](/mobile/misc/9fd8602587ea383d_Magic%20Sunset.jpg)
 [![A11c58f702b77ba1 Graveborn by Umai](/.internals/thumbnails/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg "A11c58f702b77ba1 Graveborn by Umai")](/mobile/misc/a11c58f702b77ba1_graveborn%20by%20umai.jpg)
+[![A55a2da1529b54db Pirate Ship by Punkey Doodles](/.internals/thumbnails/mobile/misc/a55a2da1529b54db_pirate_ship_by_punkey_doodles.png "A55a2da1529b54db Pirate Ship by Punkey Doodles")](/mobile/misc/a55a2da1529b54db_pirate_ship_by_punkey_doodles.png)
 [![A7944a19277cb9b2 Raven Altar by Sandara](/.internals/thumbnails/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg "A7944a19277cb9b2 Raven Altar by Sandara")](/mobile/misc/a7944a19277cb9b2_raven_altar_by_sandara.jpg)
 [![a8c9c2b9d1e1a3b6_discord_bg_tile.png](/.internals/thumbnails/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png "a8c9c2b9d1e1a3b6_discord_bg_tile.png")](/mobile/misc/a8c9c2b9d1e1a3b6_discord_bg_tile.png)
 [![Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb](/.internals/thumbnails/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg "Acaa47cdb28f512a Throat Of The World by Quirkilicious Defoljb")](/mobile/misc/acaa47cdb28f512a_throat_of_the_world_by_quirkilicious_defoljb.jpg)

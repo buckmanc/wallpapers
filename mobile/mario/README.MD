@@ -1,10 +1,10 @@
-# mario - 108
+# mario - 111
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>108 files</summary>
+<summary>111 files</summary>
 <p>
 
 [![12a4830848439cd628c6dd09260a3533.jpg](/.internals/thumbnails/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg "12a4830848439cd628c6dd09260a3533.jpg")](/mobile/mario/12a4830848439cd628c6dd09260a3533.jpg)
@@ -13,6 +13,7 @@
 [![20231220_213919.jpg](/.internals/thumbnails/mobile/mario/20231220_213919.jpg "20231220_213919.jpg")](/mobile/mario/20231220_213919.jpg)
 [![276122836_5207546689276452_264819243623934142_n.png](/.internals/thumbnails/mobile/mario/276122836_5207546689276452_264819243623934142_n.png "276122836_5207546689276452_264819243623934142_n.png")](/mobile/mario/276122836_5207546689276452_264819243623934142_n.png)
 [![3m2a9g0n5uz71.png](/.internals/thumbnails/mobile/mario/3m2a9g0n5uz71.png "3m2a9g0n5uz71.png")](/mobile/mario/3m2a9g0n5uz71.png)
+[![563484-sharanavty-30.jpg](/.internals/thumbnails/mobile/mario/563484-sharanavty-30.jpg "563484-sharanavty-30.jpg")](/mobile/mario/563484-sharanavty-30.jpg)
 [![6ded0e26843503.5635b4c47d79b.jpg](/.internals/thumbnails/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg "6ded0e26843503.5635b4c47d79b.jpg")](/mobile/mario/6ded0e26843503.5635b4c47d79b.jpg)
 [![98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg](/.internals/thumbnails/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg "98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg")](/mobile/mario/98cc1a56-c4f2-4d1e-871a-2013b90c3de9.jpeg)
 [![9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg](/.internals/thumbnails/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg "9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg")](/mobile/mario/9ff346d3-f601-4e05-8c22-d6f823ebf960.jpeg)
@@ -28,6 +29,8 @@ Boo Waluigi and Waluigi Mario and 2 More Drawn by Loveycloud 2e20bb8e8a4bee44b68
 [![CP77208b.jpg](/.internals/thumbnails/mobile/mario/CP77208b.jpg "CP77208b.jpg")](/mobile/mario/CP77208b.jpg)
 [![desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg](/.internals/thumbnails/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg "desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg")](/mobile/mario/desktop-wallpaper-mario-and-goombario-on-shooting-star-summit-phone-and-pc-tablet-album-on-imgur.jpg)
 [![desktop-wallpaper-mario-star.jpg](/.internals/thumbnails/mobile/mario/desktop-wallpaper-mario-star.jpg "desktop-wallpaper-mario-star.jpg")](/mobile/mario/desktop-wallpaper-mario-star.jpg)
+[![dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png](/.internals/thumbnails/mobile/mario/dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png "dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png")](/mobile/mario/dljbrdn-9b7b1427-56b4-45e1-9051-2682badda870.png)
+[![e5710bc77900a3a2e32cc3ebb5eda161.jpg](/.internals/thumbnails/mobile/mario/e5710bc77900a3a2e32cc3ebb5eda161.jpg "e5710bc77900a3a2e32cc3ebb5eda161.jpg")](/mobile/mario/e5710bc77900a3a2e32cc3ebb5eda161.jpg)
 [![EW-mKFUU8AIywAt.jpeg](/.internals/thumbnails/mobile/mario/EW-mKFUU8AIywAt.jpeg "EW-mKFUU8AIywAt.jpeg")](/mobile/mario/EW-mKFUU8AIywAt.jpeg)
 [![F26rILZWAAAzgUi.jpeg](/.internals/thumbnails/mobile/mario/F26rILZWAAAzgUi.jpeg "F26rILZWAAAzgUi.jpeg")](/mobile/mario/F26rILZWAAAzgUi.jpeg)
 [![fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg](/.internals/thumbnails/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg "fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg")](/mobile/mario/fbabe159-608f-4ecb-8746-bc4dfafacd1b.jpeg)
@@ -134,10 +137,10 @@ Rosalina Mario and 1 More Drawn by Miri Cherryjelly 176527c633b0373e4af365cadf55
 [![SMB2.png](/.internals/thumbnails/mobile/mario/SMB2.png "SMB2.png")](/mobile/mario/SMB2.png)
 [![SMO_1st_anniversary.jpg](/.internals/thumbnails/mobile/mario/SMO_1st_anniversary.jpg "SMO_1st_anniversary.jpg")](/mobile/mario/SMO_1st_anniversary.jpg)
 [![SSB4_Rosalina_Key_Art.jpg](/.internals/thumbnails/mobile/mario/SSB4_Rosalina_Key_Art.jpg "SSB4_Rosalina_Key_Art.jpg")](/mobile/mario/SSB4_Rosalina_Key_Art.jpg)
+[![super-mario-galaxy-iphone-12-pro-max.jpg](/.internals/thumbnails/mobile/mario/super-mario-galaxy-iphone-12-pro-max.jpg "super-mario-galaxy-iphone-12-pro-max.jpg")](/mobile/mario/super-mario-galaxy-iphone-12-pro-max.jpg)
 [![super-mario-power-ups-48228-2880x1800.jpg](/.internals/thumbnails/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg "super-mario-power-ups-48228-2880x1800.jpg")](/mobile/mario/super-mario-power-ups-48228-2880x1800.jpg)
 [![super-mario-with-gun-black-wallpaper.jpg](/.internals/thumbnails/mobile/mario/super-mario-with-gun-black-wallpaper.jpg "super-mario-with-gun-black-wallpaper.jpg")](/mobile/mario/super-mario-with-gun-black-wallpaper.jpg)
 [![Toad_waving.png](/.internals/thumbnails/mobile/mario/Toad_waving.png "Toad_waving.png")](/mobile/mario/Toad_waving.png)
-[![tumblr_mzlkukDWrr1qd4q8ao1_500.gif](/.internals/thumbnails/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif "tumblr_mzlkukDWrr1qd4q8ao1_500.gif")](/mobile/mario/tumblr_mzlkukDWrr1qd4q8ao1_500.gif)
 [![tumblr_nhoyf76XN51qgzgz6o1_1280.png](/.internals/thumbnails/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png "tumblr_nhoyf76XN51qgzgz6o1_1280.png")](/mobile/mario/tumblr_nhoyf76XN51qgzgz6o1_1280.png)
 [![ Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
 Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651](/.internals/thumbnails/mobile/mario/waluigi_mario_and_1_more_drawn_by_nicholas_theil__795e3a03816e317b21f632c492012651.jpg " Waluigi Mario and 1 More Drawn by Nicholas Theil 795e3a03816e317b21f632c492012651
