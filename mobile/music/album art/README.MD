@@ -1,10 +1,10 @@
-# album art - 123
+# album art - 124
 
 <a id=""></a>
 
 ## [](/README.MD)
 <details open>
-<summary>123 files</summary>
+<summary>124 files</summary>
 <p>
 
 [![Aaron Chaparian - Exhumed _Instrumental_1.png](/.internals/thumbnails/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png "Aaron Chaparian - Exhumed _Instrumental_1.png")](/mobile/music/album%20art/Aaron%20Chaparian%20-%20Exhumed%20_Instrumental_1.png)
@@ -19,6 +19,7 @@
 [![Apocryphos - Against Civilization.jpg](/.internals/thumbnails/mobile/music/album%20art/Apocryphos%20-%20Against%20Civilization.jpg "Apocryphos - Against Civilization.jpg")](/mobile/music/album%20art/Apocryphos%20-%20Against%20Civilization.jpg)
 [![Aristarchos - Martyr of Star and Fire.png](/.internals/thumbnails/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png "Aristarchos - Martyr of Star and Fire.png")](/mobile/music/album%20art/Aristarchos%20-%20Martyr%20of%20Star%20and%20Fire.png)
 [![Bell Witch - Longing.jpg](/.internals/thumbnails/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg "Bell Witch - Longing.jpg")](/mobile/music/album%20art/Bell%20Witch%20-%20Longing.jpg)
+[![Biosphere - Departed Glories.jpg](/.internals/thumbnails/mobile/music/album%20art/Biosphere%20-%20Departed%20Glories.jpg "Biosphere - Departed Glories.jpg")](/mobile/music/album%20art/Biosphere%20-%20Departed%20Glories.jpg)
 [![Black Spell - The Purple Skull.jpg](/.internals/thumbnails/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg "Black Spell - The Purple Skull.jpg")](/mobile/music/album%20art/Black%20Spell%20-%20The%20Purple%20Skull.jpg)
 [![Blood Incantation - Absolute Elsewhere.jpg](/.internals/thumbnails/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg "Blood Incantation - Absolute Elsewhere.jpg")](/mobile/music/album%20art/Blood%20Incantation%20-%20Absolute%20Elsewhere.jpg)
 [![Bloodywood - Nu Delhi.jpg](/.internals/thumbnails/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg "Bloodywood - Nu Delhi.jpg")](/mobile/music/album%20art/Bloodywood%20-%20Nu%20Delhi.jpg)
